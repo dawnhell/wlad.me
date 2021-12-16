@@ -1,8 +1,21 @@
-import '../styles/globals.css'
+import type { ReactElement, ReactNode } from 'react'
+import type { NextPage } from 'next'
 import type { AppProps } from 'next/app'
 
-function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+import '../styles/globals.css'
+
+export type tNextPageWithLayout = NextPage & {
+  getLayout?: (page: ReactElement) => ReactNode
 }
 
-export default MyApp
+export type tAppPropsWithLayout = AppProps & {
+  Component: tNextPageWithLayout
+}
+
+function App({ Component, pageProps }: tAppPropsWithLayout) {
+  const getLayout = Component.getLayout || ((page: ReactElement) => page)
+
+  return getLayout(<Component {...pageProps} />)
+}
+
+export default App
