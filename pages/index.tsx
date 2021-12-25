@@ -3,7 +3,8 @@ import React, { ReactElement } from 'react';
 
 import { tNextPageWithLayout } from './_app';
 import Layout from '../components/layout';
-import About from '../components/about';
+import Experience from '../components/experience';
+import Education from '../components/education';
 import avatar from '../public/circle_me.jpg'
 
 const Home: tNextPageWithLayout = () => (
@@ -41,7 +42,9 @@ const Home: tNextPageWithLayout = () => (
       </div>
     </div>
 
-    <About />
+    <Experience />
+
+    <Education />
   </div>
 )
 

@@ -55,33 +55,6 @@ const Header: FC = () => {
           />
         </a>
       </div>
-
-      <style jsx>{`
-        @keyframes gradientKeyframesXY {
-          0% {
-            background-position: 0 0;
-          }
-
-          25% {
-            background-position: 25% 25%;
-          }
-
-          75% {
-            background-position: 75% 75%;
-          }
-
-          100% {
-            background-position: 100% 100%;
-          }
-        }
-
-        .logo-link {
-          -webkit-text-fill-color: transparent;
-          background-size: 300% 300%;
-          animation: gradientKeyframes 20s linear infinite alternate;
-        }
-      `}
-      </style>
     </div>
   );
 };

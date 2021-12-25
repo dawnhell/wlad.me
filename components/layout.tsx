@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import React, { ReactElement } from 'react';
 
-import Header from '../header';
+import Header from './header';
 
 interface ILayout {
   children: ReactElement

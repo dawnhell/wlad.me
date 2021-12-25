@@ -20,3 +20,60 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@keyframes gradientKeyframesXY {
+  0% {
+    background-position: 0 0;
+  }
+
+  25% {
+    background-position: 25% 25%;
+  }
+
+  75% {
+    background-position: 75% 75%;
+  }
+
+  100% {
+    background-position: 100% 100%;
+  }
+}
+
+@keyframes gradientKeyframesX {
+  0% {
+    background-position-x: 0;
+  }
+
+  25% {
+    background-position-x: 25%;
+  }
+
+  75% {
+    background-position-x: 75%;
+  }
+
+  100% {
+    background-position-x: 100%;
+  }
+}
+
+.simple-link {
+  background-image: linear-gradient(to right, #fde047BB, #bef264BB, #f0abfcBB, #fb7185BB);
+  background-repeat: no-repeat;
+  background-size: 300% 6px;
+  background-position-y: 18px;
+  transition: background-size 0.3s ease-out, background-position 0.3s ease-out;
+  animation: gradientKeyframesX 20s linear infinite alternate;
+}
+
+.simple-link:hover {
+  background-size: 300% 26px;
+  background-position: 0 2px;
+}
+
+.logo-link {
+  -webkit-text-fill-color: transparent;
+  background-size: 300% 300%;
+  animation: gradientKeyframes 20s linear infinite alternate;
+}
+
