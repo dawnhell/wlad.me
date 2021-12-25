@@ -28,8 +28,6 @@ const Layout = ({ children }: ILayout) => (
       />
     </Head>
 
-    <p className="text-red-500 text-lg text-center underline">!Site is under construction!</p>
-
     <div className="w-full py-16 px-12 sm:py-20 sm:px-16 bg-zinc-50">
       <div className="container mx-auto lg:max-w-screen-lg md:max-w-screen-md">
         <Header />
