@@ -13,7 +13,7 @@ const Header: FC = () => {
         className={`
           logo-link
           font-sans
-          text-2xl
+          text-3xl
           text-rose-700
           font-bold
           font-['Roboto Slab']
@@ -56,9 +56,8 @@ const Header: FC = () => {
         </a>
       </div>
 
-
       <style jsx>{`
-        @keyframes gradientKeyframes {
+        @keyframes gradientKeyframesXY {
           0% {
             background-position: 0 0;
           }

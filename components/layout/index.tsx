@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { ReactElement } from 'react';
+import React, { ReactElement } from 'react';
 
 import Footer from '../footer';
 import Header from '../header';
@@ -32,13 +32,11 @@ const Layout = ({ children }: ILayout) => {
 
       <p className="text-red-500 text-lg text-center underline">!Site is under construction!</p>
 
-      <div className="w-full py-20 px-8 bg-zinc-50">
+      <div className="w-full py-20 px-16 bg-zinc-50">
         <div className="container mx-auto lg:max-w-screen-lg md:max-w-screen-md">
           <Header />
 
           <main className="flex flex-col items-center">{children}</main>
-
-          {/*<Footer />*/}
         </div>
       </div>
     </>
