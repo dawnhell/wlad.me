@@ -1,7 +1,4 @@
-import Image from 'next/image';
 import React, { FC } from 'react';
-
-import avatar from '../public/circle_me.jpg';
 
 const Bio: FC = () => (
   <div className="flex flex-col-reverse items-center w-full mb-16 sm:flex-row sm:justify-between sm:items-start">
@@ -26,13 +23,11 @@ const Bio: FC = () => (
       </p>
     </div>
 
-    <div className="flex flex-col justify-start mb-6 w-40 h-40 sm:mb-0 sm:min-w-[10rem]">
-      <Image
-        className="rounded-full object-cover"
-        src={avatar}
-        alt="That's me!"
-      />
-    </div>
+    <img
+      className="object-cover rounded-full w-40 h-40 mb-6  sm:mb-0 drop-shadow-md"
+      src="./circle_me.jpg"
+      alt="That's me!"
+    />
   </div>
 );
 
