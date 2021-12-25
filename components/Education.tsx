@@ -1,6 +1,6 @@
 import React, { FC } from 'react';
 
-const About: FC = () => {
+const Education: FC = () => {
   return (
     <div className="pt-16 border-t border-t-slate-200">
       <h2 className="text-2xl font-bold font-['Roboto Slab'] text-slate-700 mb-2 tracking-wide">Education</h2>
@@ -48,4 +48,4 @@ const About: FC = () => {
   );
 };
 
-export default About;
+export default Education;

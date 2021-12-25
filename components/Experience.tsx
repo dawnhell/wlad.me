@@ -34,9 +34,9 @@ const Experience: FC = () => (
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Frontend developer</h3>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        This is some description. Tailwind includes an expertly-crafted default color
-        palette out-of-the-box that is a great starting point if you don’t
-        have your own specific branding in mind.
+        Worked on a large variety of projects in different fields: AI recognition systems,
+        e-commerce modules, educational applications, landing pages and medical apps.
+        Joined projects in the middle of development, as well as started them from scratch
       </p>
 
       <div>
@@ -87,7 +87,9 @@ const Experience: FC = () => (
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Frontend developer</h3>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        This is some description
+        Implemented new features and redesigns in company&apos;s BI system.
+        Improved client side performance x10 times.
+        Designed and implemented game clan&apos;s system with leader boards
       </p>
 
       <div>
@@ -136,15 +138,13 @@ const Experience: FC = () => (
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Summer Intern - Fullstack developer</h3>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        I&apos;ve created a simple blogging platform application based on Node/Angular.
+        I&apos;ve created a simple blogging platform application based on <span className="font-semibold">NodeJS/Angular</span>.
         Source code:{' '}
         <a
           target="_blank"
           rel="noreferrer"
           href="https://github.com/dawnhell/awesome-blog"
-          className={`
-            simple-link
-          `}
+          className="simple-link font-semibold"
           style={{
             animationDuration: `${Math.round(Math.random() * 10) + 10}s`,
             animationDelay: `${Math.round(Math.random() * 10)}s`
@@ -198,7 +198,7 @@ const Experience: FC = () => (
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Frontend developer</h3>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        Worked on two projects with React/Redux and HTML/JS/CSS stacks.
+        Worked on e-commerce and medical projects with <span className="font-semibold">React/Redux</span> and <span className="font-semibold">Ruby</span> stacks.
       </p>
 
       <div>
@@ -247,7 +247,9 @@ const Experience: FC = () => (
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Summer intern - Frontend developer</h3>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        Worked on two projects with React/Redux and HTML/JS/CSS stacks.
+        Summer internship where I&apos;ve studied the basics of <span className="font-semibold">HTML/JS/CSS</span>,
+        learned building tools such as <span className="font-semibold">Gulp</span> and <span className="font-semibold">Webpack</span>.
+        Made several pet projects and plugins
       </p>
 
       <div>
