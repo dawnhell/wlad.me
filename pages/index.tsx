@@ -14,26 +14,29 @@ const Home: tNextPageWithLayout = () => (
           Hey, I&apos;m Wlad
         </h1>
 
-        <p className="text-xl font-['Roboto Slab'] text-neutral-600">
+        <p className="text-xl font-['Roboto Slab'] text-slate-700">
           Front-End developer <i>and</i>
         </p>
 
-        <p className="text-xl font-['Roboto Slab'] text-neutral-600">
+        <p className="text-xl font-['Roboto Slab'] text-slate-700">
           coffee addict
         </p>
 
         <div className="w-1/4 h-px bg-slate-300 my-4" />
 
-        <p>Focused on results with exceptional quality. I create incredible UI interfaces with complicated behaviors</p>
+        <p className="text-lg font-['Roboto Slab'] text-slate-600 tracking-wide italic">
+          Focused on results with exceptional quality.
+          I create incredible UI interfaces with complicated behaviors
+        </p>
       </div>
 
-      <div className="flex flex-col justify-center">
+      <div className="flex flex-col justify-start">
         <Image
-          className="rounded-full object-cover w-28 h-28"
+          className="rounded-full object-cover w-32 h-32"
           src={avatar}
           alt="That's me!"
-          width={140}
-          height={140}
+          width={160}
+          height={160}
         />
       </div>
     </div>
