@@ -17,6 +17,7 @@ const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GA_ID
 
 function App({ Component, pageProps }: tAppPropsWithLayout) {
   const getLayout = Component.getLayout || ((page: ReactElement) => page)
+  console.log('id:', GA_TRACKING_ID)
 
   return (
     <>
