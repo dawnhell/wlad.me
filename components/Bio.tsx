@@ -25,7 +25,7 @@ const Bio: FC = () => (
 
     <img
       className="object-cover rounded-full w-40 h-40 mb-6  sm:mb-0 drop-shadow-md"
-      src="./circle_me.jpg"
+      src="./circle_me.png"
       alt="That's me!"
     />
   </div>
