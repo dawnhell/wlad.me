@@ -18,6 +18,53 @@ const Experience: FC = () => (
             text-zinc-600
             font-['Roboto Slab']
             font-bold
+          `}
+          style={{
+            animationDuration: `${Math.round(Math.random() * 10) + 10}s`,
+            animationDelay: `${Math.round(Math.random() * 10)}s`
+          }}
+        >
+          ExpressVPN
+        </a>
+
+        <span className="text-base font-['Montserrat'] italic text-zinc-500">06.2022 - Present</span>
+      </div>
+
+      <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Senior Frontend developer</h3>
+
+      <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
+        Involved in development of the main ExpressVPN products
+      </p>
+
+      <div>
+        <h4 className="text-lg text-slate-600 font-['Roboto Slab'] font-semibold mb-2">Technologies</h4>
+
+        <ul className="list-disc list-inside pl-4">
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Javascript, ReactJS</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Typescript</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">HUGO, Slim</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Ruby, RoR</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Jest/RSpec/VCR</li>
+        </ul>
+      </div>
+
+      <div className="w-1/2 h-px bg-slate-200 mt-8" />
+    </div>
+
+    <div className="mt-4 mb-8">
+      <div className="flex justify-start items-baseline">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.altoros.com/"
+          className={`
+            simple-link
+            mr-4
+            tracking-wide
+            text-xl
+            text-zinc-600
+            font-['Roboto Slab']
+            font-bold
             uppercase
           `}
           style={{
@@ -34,7 +81,7 @@ const Experience: FC = () => (
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Frontend developer</h3>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        Worked on a large variety of projects in different fields: AI recognition systems,
+        Working on a large variety of projects in different fields: AI recognition systems,
         e-commerce modules, educational applications, landing pages and medical apps.
         Joined projects in the middle of development, as well as started them from scratch
       </p>
