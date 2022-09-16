@@ -5,9 +5,10 @@ import Header from './Header';
 
 interface ILayout {
   children: ReactElement
+  withHeader?: boolean
 }
 
-const Layout = ({ children }: ILayout) => (
+const Layout = ({ children, withHeader = true }: ILayout) => (
   <>
     <Head>
       <title>Wlad.me</title>
@@ -30,7 +31,7 @@ const Layout = ({ children }: ILayout) => (
 
     <div className="w-full py-16 px-12 sm:py-20 sm:px-16 bg-zinc-50">
       <div className="container mx-auto lg:max-w-screen-lg md:max-w-screen-md">
-        <Header />
+        {withHeader ? <Header /> : null}
 
         <main className="flex flex-col items-center">{children}</main>
       </div>

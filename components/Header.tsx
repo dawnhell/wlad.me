@@ -37,6 +37,8 @@ const Header: FC = () => {
       </a>
 
       <div className="flex items-center justify-between w-full sm:w-max">
+        {/*<a href="/posts" className="simple-link font-bold mr-6 text-slate-600 text-lg tracking-wide">POSTS</a>*/}
+
         <a target="_blank" rel="noreferrer" href="./Wlad.me_CV.pdf" className="simple-link font-bold mr-6 text-slate-600 text-lg tracking-wide">RESUME</a>
 
         <div className="socials flex items-center justify-center">
