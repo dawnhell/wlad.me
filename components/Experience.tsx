@@ -45,6 +45,7 @@ const Experience: FC = () => (
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">HUGO, Slim</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Ruby, RoR</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Jest/RSpec/VCR</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Git submodules/NPM packages/Monorepos</li>
         </ul>
       </div>
 
