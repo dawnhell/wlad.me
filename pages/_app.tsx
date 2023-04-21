@@ -2,6 +2,7 @@ import ReactGA from 'react-ga';
 import type { ReactElement, ReactNode } from 'react'
 import type { NextPage } from 'next'
 import type { AppProps } from 'next/app'
+import { Analytics } from '@vercel/analytics/react';
 
 import '../styles/globals.css'
 
@@ -18,7 +19,12 @@ process.env.NEXT_PUBLIC_GA_ID && ReactGA.initialize(process.env.NEXT_PUBLIC_GA_I
 function App({ Component, pageProps }: tAppPropsWithLayout) {
   const getLayout = Component.getLayout || ((page: ReactElement) => page)
 
-  return getLayout(<Component {...pageProps} />)
+  return getLayout(
+    <>
+      <Component {...pageProps} />
+      <Analytics />
+    </>
+  )
 }
 
 export default App
