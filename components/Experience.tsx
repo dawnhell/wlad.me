@@ -9,7 +9,7 @@ const Experience: FC = () => (
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.altoros.com/"
+          href="https://www.expressvpn.com/"
           className={`
             simple-link
             mr-4
