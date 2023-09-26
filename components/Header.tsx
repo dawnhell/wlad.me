@@ -39,7 +39,7 @@ const Header: FC = () => {
       <div className="flex items-center justify-between w-full sm:w-max">
         {/*<a href="/posts" className="simple-link font-bold mr-6 text-slate-600 text-lg tracking-wide">POSTS</a>*/}
 
-        <a target="_blank" rel="noreferrer" href="./Wlad.me_CV.pdf" className="simple-link font-bold mr-6 text-slate-600 text-lg tracking-wide">RESUME</a>
+        <a target="_blank" rel="noreferrer" href="./Wlad.me_CV_extended.pdf" className="simple-link font-bold mr-6 text-slate-600 text-lg tracking-wide">RESUME</a>
 
         <div className="socials flex items-center justify-center">
           <a href="https://github.com/dawnhell" className="mr-2 w-7 h-7 transition duration-300 opacity-70 hover:scale-125 hover:opacity-100">

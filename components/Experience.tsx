@@ -27,13 +27,62 @@ const Experience: FC = () => (
           ExpressVPN
         </a>
 
-        <span className="text-base font-['Montserrat'] italic text-zinc-500">06.2022 - Present</span>
+        <span className="text-base font-['Montserrat'] italic text-zinc-500">07.2022 - Present</span>
+      </div>
+
+      <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-0"><span className="font-normal italic">as</span> Staff Frontend developer</h3>
+
+      <div className={`
+        h-[24px]
+        min-h-[1em]
+        w-px
+        self-stretch
+        bg-gradient-to-tr
+        from-transparent
+        via-slate-400
+        to-transparent
+        opacity-20
+        dark:opacity-100
+        m-0
+      `} />
+
+      <div className="flex justify-start items-baseline">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.expressvpn.com/"
+          className={`
+            simple-link
+            mr-4
+            tracking-wide
+            text-xl
+            text-zinc-600
+            font-['Roboto Slab']
+            font-bold
+          `}
+          style={{
+            animationDuration: `${Math.round(Math.random() * 10) + 10}s`,
+            animationDelay: `${Math.round(Math.random() * 10)}s`
+          }}
+        >
+          ExpressVPN
+        </a>
+
+        <span className="text-base font-['Montserrat'] italic text-zinc-500">06.2022 - 06.2023</span>
       </div>
 
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Senior Frontend developer</h3>
 
+      <p className="mb-2 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
+        Involved in development of the main ExpressVPN products.
+      </p>
+
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        Involved in development of the main ExpressVPN products
+        Led a product team of 5 which worked on Subscriptions module.
+        Maintained the full cycle of feature development, such as ideation  and planning
+        sessions, assigning the tasks, communicating with stakeholders and shipping ready code.
+        Developed and implemented A/B experiments on subscription module.
+        Migrated a big part of front-end monolith into React/TS stack as a micro-service.
       </p>
 
       <div>
@@ -42,6 +91,8 @@ const Experience: FC = () => (
         <ul className="list-disc list-inside pl-4">
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Javascript, ReactJS</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Typescript</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">ChakraUI, TailwindCSS</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">LaunchDarkly</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">HUGO, Slim</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Ruby, RoR</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Jest/RSpec/VCR</li>
@@ -81,10 +132,17 @@ const Experience: FC = () => (
 
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Frontend developer</h3>
 
-      <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        Working on a large variety of projects in different fields: AI recognition systems,
+      <p className="mb-2 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
+        Worked on a large variety of projects in different fields: AI recognition systems,
         e-commerce modules, educational applications, landing pages and medical apps.
-        Joined projects in the middle of development, as well as started them from scratch
+        Joined projects in the middle of development, as well as started them from scratch.
+      </p>
+
+      <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
+        One of the last projects was language learning application, developed both on Web and Mobile.
+        Working together with FE and BE implemented a huge number of new features and improvements.
+        Developed from scratch and then maintained Mobile application on RN. Implemented tools for
+        customer’s feedback collection and support.
       </p>
 
       <div>
