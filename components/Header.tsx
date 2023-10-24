@@ -60,7 +60,7 @@ const Header: FC = () => {
             />
           </a>
 
-          <a onClick={onMailToClick} href="mailto:uladzislau.klachkou.work@gmail.com" className="w-8 h-8 transition duration-300 opacity-70 hover:scale-125 hover:opacity-100">
+          <a onClick={onMailToClick} href="mailto:wlad@wlad.me" className="w-8 h-8 transition duration-300 opacity-70 hover:scale-125 hover:opacity-100">
             <Image
               src={emailIcon}
               alt="Mail icon"

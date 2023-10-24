@@ -74,15 +74,15 @@ const Experience: FC = () => (
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Senior Frontend developer</h3>
 
       <p className="mb-2 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        Involved in development of the main ExpressVPN products.
+        Was involved in the development of the main ExpressVPN products. I’ve been leading a
+        product team of 5 which worked on the Subscriptions module. Maintained the full cycle of
+        feature development, such as ideation and planning sessions, assigning the tasks,
+        communication with stakeholders and shipping production-ready code.
       </p>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        Led a product team of 5 which worked on Subscriptions module.
-        Maintained the full cycle of feature development, such as ideation  and planning
-        sessions, assigning the tasks, communicating with stakeholders and shipping ready code.
-        Developed and implemented A/B experiments on subscription module.
-        Migrated a big part of front-end monolith into React/TS stack as a micro-service.
+        Developed and implemented A/B experiments on the Subscription module.
+        Migrated from front-end monolith into React/TS stack as a micro-service.
       </p>
 
       <div>
@@ -91,7 +91,8 @@ const Experience: FC = () => (
         <ul className="list-disc list-inside pl-4">
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Javascript, ReactJS</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Typescript</li>
-          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">ChakraUI, TailwindCSS</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">NextJS, NX</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">ChakraUI, TailwindCSS, Emotion</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">LaunchDarkly</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">HUGO, Slim</li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Ruby, RoR</li>
@@ -139,10 +140,10 @@ const Experience: FC = () => (
       </p>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        One of the last projects was language learning application, developed both on Web and Mobile.
-        Working together with FE and BE implemented a huge number of new features and improvements.
-        Developed from scratch and then maintained Mobile application on RN. Implemented tools for
-        customer’s feedback collection and support.
+        One of the last projects was language learning application, where I’ve developed both on Web
+        and Mobile. Was working together with FE and BE engineers, implemented new features and
+        improvements. Developed from scratch and then maintained Mobile application on RN.
+        Implemented tools for customer’s feedback collection and support.
       </p>
 
       <div>
