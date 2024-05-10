@@ -41,7 +41,7 @@ const Experience: FC = () => (
       </p>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        As a part of the Salesloft world - I'm taking part in developing Starlight Design system(
+        As a part of the Salesloft world - I&apos;m taking part in developing Starlight Design system(
             <a
             target="_blank"
             rel="noreferrer"
