@@ -9,6 +9,102 @@ const Experience: FC = () => (
         <a
           target="_blank"
           rel="noreferrer"
+          href="https://www.salesloft.com/"
+          className={`
+            simple-link
+            mr-4
+            tracking-wide
+            text-xl
+            text-zinc-600
+            font-['Roboto Slab']
+            font-bold
+          `}
+          style={{
+            animationDuration: `${Math.round(Math.random() * 10) + 10}s`,
+            animationDelay: `${Math.round(Math.random() * 10)}s`
+          }}
+        >
+          Salesloft
+        </a>
+
+        <span className="text-base font-['Montserrat'] italic text-zinc-500">03.2024 - Present</span>
+      </div>
+
+      <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-4"><span className="font-normal italic">as</span> Senior UI Engineer</h3>
+      
+      <p className="mb-2 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
+        Salesloft helps revenue teams take the right actions to close every deal with the only platform built around the sellers’ workflow.
+      </p>
+
+      <p className="mb-2 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
+        Currently working on the development of the main Salesloft web application. 
+      </p>
+
+      <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
+        As a part of the Salesloft world - I'm taking part in developing Starlight Design system(
+            <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://salesloft.design/"
+            className={`
+              simple-link
+              tracking-wide
+              text-base
+              text-zinc-600
+              font-['Roboto Slab']
+              font-bold
+            `}
+            style={{
+              animationDuration: `${Math.round(Math.random() * 10) + 10}s`,
+              animationDelay: `${Math.round(Math.random() * 10)}s`
+            }}
+          >
+            salesloft.design
+          </a>
+        ) and {' '}
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://chromewebstore.google.com/detail/salesloft-connect/ejgmneenioanldgngdomlfnbcbffmchf"
+          className={`
+            simple-link
+            tracking-wide
+            text-base
+            text-zinc-600
+            font-['Roboto Slab']
+            font-bold
+          `}
+          style={{
+            animationDuration: `${Math.round(Math.random() * 10) + 10}s`,
+            animationDelay: `${Math.round(Math.random() * 10)}s`
+          }}
+        >
+          Salesloft Connect
+        </a> {' '}
+        Chrome Extension
+      </p>
+
+      <div>
+        <h4 className="text-lg text-slate-600 font-['Roboto Slab'] font-semibold mb-2">Technologies</h4>
+
+        <ul className="list-disc list-inside pl-4">
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Javascript, ReactJS, Chrome Extensions</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Typescript</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">styled-components</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Ruby, RoR</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Jest/Playwright</li>
+          <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">Git submodules/NPM packages/Monorepos</li>
+        </ul>
+      </div>
+
+      <div className="w-1/2 h-px bg-slate-200 mt-8" />
+    </div>
+
+    <div className="mt-4 mb-8">
+      <div className="flex justify-start items-baseline">
+        <a
+          target="_blank"
+          rel="noreferrer"
           href="https://www.expressvpn.com/"
           className={`
             simple-link
@@ -27,7 +123,7 @@ const Experience: FC = () => (
           ExpressVPN
         </a>
 
-        <span className="text-base font-['Montserrat'] italic text-zinc-500">07.2022 - Present</span>
+        <span className="text-base font-['Montserrat'] italic text-zinc-500">07.2022 - 02.2024</span>
       </div>
 
       <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-0"><span className="font-normal italic">as</span> Staff Frontend developer</h3>
