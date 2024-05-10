@@ -33,7 +33,7 @@ const Education: FC = () => {
         </div>
 
         <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-2">
-          Faculty of Mechanics and Mathematics
+          Faculty of Mechanics and Mathematics, Bachelor degree
         </h3>
 
         <p className="text-base text-slate-600 font-['Roboto Slab'] tracking-wide">
