@@ -1,10 +1,10 @@
 import { Analytics } from '@vercel/analytics/react'
-import { SpeedInsights } from '@vercel/speed-insights/next'
 import type { NextPage } from 'next'
 import type { AppProps } from 'next/app'
 import type { ReactElement, ReactNode } from 'react'
 import ReactGA from 'react-ga'
 
+import { Insights } from '../components/Insights'
 import '../styles/globals.css'
 
 export type tNextPageWithLayout = NextPage & {
@@ -25,7 +25,7 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
     <>
       <Component {...pageProps} />
       <Analytics />
-      <SpeedInsights />
+      <Insights />
     </>
   )
 }
