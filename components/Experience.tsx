@@ -44,8 +44,27 @@ const Experience: FC = () => (
       </p>
 
       <p className="mb-2 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
-        Currently working on the development of the main Salesloft web
-        application.
+        Currently working on the development of{' '}
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://chromewebstore.google.com/detail/salesloft-connect/ejgmneenioanldgngdomlfnbcbffmchf"
+          className={`
+            simple-link
+            tracking-wide
+            text-base
+            text-zinc-600
+            font-['Roboto Slab']
+            font-bold
+          `}
+          style={{
+            animationDuration: `${Math.round(Math.random() * 10) + 10}s`,
+            animationDelay: `${Math.round(Math.random() * 10)}s`,
+          }}
+        >
+          Salesloft Connect
+        </a>{' '}
+        Chrome Extension
       </p>
 
       <p className="mb-4 text-base text-slate-600 font-['Roboto Slab'] tracking-wide italic">
@@ -70,27 +89,7 @@ const Experience: FC = () => (
         >
           salesloft.design
         </a>
-        ) and{' '}
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="https://chromewebstore.google.com/detail/salesloft-connect/ejgmneenioanldgngdomlfnbcbffmchf"
-          className={`
-            simple-link
-            tracking-wide
-            text-base
-            text-zinc-600
-            font-['Roboto Slab']
-            font-bold
-          `}
-          style={{
-            animationDuration: `${Math.round(Math.random() * 10) + 10}s`,
-            animationDelay: `${Math.round(Math.random() * 10)}s`,
-          }}
-        >
-          Salesloft Connect
-        </a>{' '}
-        Chrome Extension
+        ) and main Salesloft web application.
       </p>
 
       <div>
@@ -100,7 +99,7 @@ const Experience: FC = () => (
 
         <ul className="list-disc list-inside pl-4">
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">
-            Javascript, ReactJS, Chrome Extensions
+            Javascript, ReactJS, Chrome Extensions, background workers, content scripts
           </li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">
             Typescript
@@ -112,10 +111,10 @@ const Experience: FC = () => (
             Ruby, RoR
           </li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">
-            Jest/Playwright
+            Jest/Playwright/@testing-library
           </li>
           <li className="text-base text-slate-700 font-['Roboto Slab'] tracking-wide">
-            Git submodules/NPM packages/Monorepos
+            Git submodules/PNPM workspaces/Monorepos
           </li>
         </ul>
       </div>

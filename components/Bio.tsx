@@ -17,7 +17,7 @@ const Bio: FC = () => {
           </h1>
 
           <p className="text-xl text-center font-['Roboto Slab'] text-slate-700 sm:text-left">
-            Front-End developer <i>and</i>
+            Senior Frontend developer <i>and</i>
           </p>
 
           <p className="text-xl text-center font-['Roboto Slab'] text-slate-700 sm:text-left">
