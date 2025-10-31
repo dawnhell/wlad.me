@@ -38,3 +38,7 @@ yarn-error.log*
 *.tsbuildinfo
 
 /.idea/
+
+.cursor/
+
+.pnpm-store/

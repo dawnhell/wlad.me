@@ -1,7 +1,9 @@
-import React, { ReactElement } from 'react';
-
-import { tNextPageWithLayout } from './_app';
-import { Layout, Bio, Experience, Education } from '../components';
+import type { ReactElement } from 'react'
+import Bio from '../components/Bio'
+import Education from '../components/Education'
+import Experience from '../components/Experience'
+import Layout from '../components/Layout'
+import type { tNextPageWithLayout } from './_app'
 
 const Home: tNextPageWithLayout = () => (
   <div className="w-full">
@@ -14,11 +16,7 @@ const Home: tNextPageWithLayout = () => (
 )
 
 Home.getLayout = function getLayout(page: ReactElement) {
-  return (
-    <Layout>
-      {page}
-    </Layout>
-  )
+  return <Layout>{page}</Layout>
 }
 
 export default Home

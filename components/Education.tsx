@@ -1,51 +1,51 @@
-import React, { FC } from 'react';
+import { FC } from 'react'
 
 const Education: FC = () => {
   return (
-    <div className="pt-16 border-t border-t-slate-200">
-      <h2 className="text-2xl font-bold font-['Roboto Slab'] text-slate-700 mb-2 tracking-wide">Education</h2>
+    <div className="container">
+      <div className="mx-auto max-w-7xl">
+        <h2 className="mb-12 font-serif text-4xl font-medium leading-tight md:text-6xl">
+          Education
+        </h2>
 
-      <div className="mt-4 mb-8">
-        <div className="flex justify-start items-baseline">
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://bsu.by/en/"
-            className={`
-              simple-link
-              mr-4
-              tracking-wide
-              text-xl
-              text-zinc-600
-              font-['Roboto Slab']
-              font-bold
-              uppercase
-            `}
-            style={{
-              animationDuration: `${Math.round(Math.random() * 10) + 10}s`,
-              animationDelay: `${Math.round(Math.random() * 10)}s`
-            }}
-          >
-            BSU
-          </a>
+        <div className="space-y-8">
+          <div className="flex flex-col gap-4 md:flex-row md:items-start font-light">
+            <div className="md:w-2/3">
+              <div className="mb-2 flex items-center gap-3">
+                <h3 className="text-xl">Bachelor degree</h3>
+              </div>
 
-          <span className="text-base font-['Montserrat'] italic text-zinc-500">09.2015 - 08.2019</span>
+              <p className="text-muted-foreground mb-3 text-sm">
+                Faculty of Mechanics and Mathematics
+              </p>
+
+              <p className="text-muted-foreground text-sm leading-relaxed flex flex-col gap-y-2">
+                <span>
+                  SPECIALTY
+                  <br />
+                  Mathematics and Information Technologies (Web-Programming and
+                  Internet Technologies)
+                </span>
+
+                <span>
+                  QUALIFICATION
+                  <br />
+                  Mathematician. IT Specialist
+                </span>
+              </p>
+            </div>
+
+            <div className="text-right md:w-1/3 md:text-right">
+              <p className="mb-1 text-sm font-medium">Sep 2015 - Aug 2019</p>
+              <p className="text-muted-foreground text-sm">
+                Belarusian State University
+              </p>
+            </div>
+          </div>
         </div>
-
-        <h3 className="text-xl text-slate-600 font-['Roboto Slab'] font-semibold mb-2">
-          Faculty of Mechanics and Mathematics, Bachelor degree
-        </h3>
-
-        <p className="text-base text-slate-600 font-['Roboto Slab'] tracking-wide">
-          <span className="font-normal italic">SPECIALTY </span> Mathematics and Information Technologies (Web-Programming and Internet Technologies)
-        </p>
-
-        <p className="text-base text-slate-600 font-['Roboto Slab'] tracking-wide">
-          <span className="font-normal italic">QUALIFICATION</span> Mathematician. IT Specialist
-        </p>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Education;
+export default Education
