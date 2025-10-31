@@ -1,4 +1,4 @@
-
+import { ShineBorder } from '@/components/ui/shine-border'
 import dayjs from 'dayjs'
 import { FC } from 'react'
 
@@ -18,35 +18,38 @@ const Bio: FC = () => {
     <div className="w-full mb-12">
       <div className="flex flex-col-reverse items-center w-full mb-8 sm:flex-row sm:justify-between sm:items-start">
         <div className="mr-0 flex flex-col justify-center sm:mr-8">
-          <h1 className="text-3xl text-center font-bold text-foreground mb-2 sm:text-left">
+          <h1 className="text-3xl text-center font-serif font-medium leading-tight md:text-4xl mb-2 sm:text-left">
             Hey, I&apos;m Wlad
           </h1>
 
-          <p className="text-xl text-center text-foreground sm:text-left">
+          <p className="text-lg text-center leading-relaxed font-light text-foreground sm:text-left">
             Senior Frontend developer <i>and</i>
           </p>
 
-          <p className="text-xl text-center text-foreground sm:text-left">
-            coffee addict
+          <p className="text-lg text-center leading-relaxed font-light text-foreground sm:text-left">
+            a coffee addict
           </p>
 
           <div className="w-1/4 h-px bg-border my-6 sm:my-4 mx-auto sm:mx-0" />
 
-          <p className="text-lg text-center text-muted-foreground tracking-wide italic sm:text-left">
-            Focused on results with exceptional quality. I create incredible UI
-            interfaces with complicated behaviors
+          <p className="text-md text-center font-light text-muted-foreground tracking-wide italic sm:text-left">
+            I create incredible UI interfaces with complicated behaviors
           </p>
         </div>
 
-        <img
-          className="object-cover rounded-full w-40 h-40 mb-6  sm:mb-0 drop-shadow-md"
-          src="./circle_me.png"
-          alt="That's me!"
-        />
+        <div className="relative w-52 h-52 mb-6 sm:mb-0 overflow-hidden rounded-full">
+          <ShineBorder shineColor={['#A07CFE', '#FE8FB5', '#FFBE7B']} />
+
+          <img
+            className="object-cover w-full h-full"
+            src="./circle_me.png"
+            alt="That's me!"
+          />
+        </div>
       </div>
 
       <div>
-        <p className="text-lg text-center italic text-muted-foreground sm:text-left">
+        <p className="text-md font-light leading-relaxed text-center italic text-foreground sm:text-left">
           Total Experience: <span className="font-semibold">{totalYears}</span>{' '}
           years, <span className="font-semibold">{totalMonths}</span> months and{' '}
           <span className="font-semibold">{totalDays}</span> days
