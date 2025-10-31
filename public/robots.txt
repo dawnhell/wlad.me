@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://wlad.me/sitemap.xml
+
+# Disallow PDF crawling (optional - can be removed if you want CV indexed)
+# User-agent: *
+# Disallow: /*.pdf$
+
