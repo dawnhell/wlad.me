@@ -29,7 +29,7 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
   return (
     <ThemeProvider
       attribute="class"
-      defaultTheme="system"
+      defaultTheme="light"
       enableSystem
       disableTransitionOnChange
     >
