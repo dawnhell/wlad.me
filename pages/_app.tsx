@@ -1,6 +1,7 @@
 import { Analytics } from '@vercel/analytics/react'
 import type { NextPage } from 'next'
 import type { AppProps } from 'next/app'
+import Script from 'next/script'
 import type { ReactElement, ReactNode } from 'react'
 
 import { ThemeProvider } from '@/components/ui/theme-provider'
@@ -33,6 +34,11 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
       enableSystem
       disableTransitionOnChange
     >
+      <Script
+        src="https://www.eventda.sh/tracker.js"
+        data-api-key={process.env.NEXT_PUBLIC_EVENT_DASH_API_KEY}
+        strategy="afterInteractive"
+      />
       {page}
     </ThemeProvider>
   )
