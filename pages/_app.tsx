@@ -44,7 +44,13 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
         data-website-id="dfid_fQMjTXfUwmaw8EaSzOESl"
         data-domain="wlad.me"
         src="https://datafa.st/js/script.js"
-        strategy="afterInteractive"
+        strategy="lazyOnload"
+        onError={(e) => {
+          console.warn('Datafast analytics script failed to load:', e)
+        }}
+        onLoad={() => {
+          console.log('Datafast analytics script loaded successfully')
+        }}
       />
 
       {page}
