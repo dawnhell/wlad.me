@@ -39,6 +39,14 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
         data-api-key={process.env.NEXT_PUBLIC_EVENT_DASH_API_KEY}
         strategy="afterInteractive"
       />
+
+      <Script
+        data-website-id="dfid_fQMjTXfUwmaw8EaSzOESl"
+        data-domain="wlad.me"
+        src="https://datafa.st/js/script.js"
+        strategy="afterInteractive"
+      />
+
       {page}
     </ThemeProvider>
   )
