@@ -3,9 +3,15 @@
   <!-- Homepage -->
   <url>
     <loc>https://wlad.me/</loc>
-    <lastmod>2025-10-31</lastmod>
+    <lastmod>2026-02-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://wlad.me/Wlad.me_CV(2026).pdf</loc>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
 

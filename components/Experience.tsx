@@ -23,7 +23,10 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     logo: 'https://sb.nordcdn.com/m/75987b0fe19b755/original/nexos-favicon-32x32.png',
     description: (
       <>
-        <span>nexos.ai is a platform for creating and managing AI agents.</span>
+        <span>
+          Building the UI for an AI agent platform, focused on fast workflows,
+          design consistency, and product polish.
+        </span>
       </>
     ),
     technologies: [
@@ -42,12 +45,12 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     description: (
       <>
         <span>
-          Salesloft helps revenue teams take the right actions to close every
-          deal with the only platform built around the sellers’ workflow.
+          Built revenue team workflows on a product designed around sellers’
+          daily motions.
         </span>
 
         <span>
-          Actively participated in the development of{' '}
+          Built and shipped{' '}
           <a
             target="_blank"
             rel="noreferrer"
@@ -60,12 +63,11 @@ const MY_EXPERIENCE: ExperienceItem[] = [
           >
             Salesloft Connect
           </a>{' '}
-          Chrome Extension
+          Chrome Extension.
         </span>
 
         <span>
-          As a part of the Salesloft world - I took part in developing Starlight
-          Design system(
+          Contributed to the Starlight design system (
           <a
             target="_blank"
             rel="noreferrer"
@@ -79,7 +81,7 @@ const MY_EXPERIENCE: ExperienceItem[] = [
           >
             salesloft.design
           </a>
-          ) and main Salesloft web application.
+          ) and the core Salesloft web application.
         </span>
       </>
     ),
@@ -101,17 +103,13 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     description: (
       <>
         <span>
-          Was involved in the development of the main ExpressVPN products. I’ve
-          been leading a product team of 5 which worked on the Subscriptions
-          module. Maintained the full cycle of feature development, such as
-          ideation and planning sessions, assigning the tasks, communication
-          with stakeholders and shipping production-ready code.
+          Led a 5-person product team on the Subscriptions module, owning
+          roadmap, delivery, and stakeholder communication end to end.
         </span>
 
         <span>
-          Developed and implemented A/B experiments on the Subscription module.
-          Migrated from front-end monolith into React/TS stack as a
-          micro-service.
+          Ran A/B experiments and migrated the module from a front-end monolith
+          to a React/TypeScript micro-service.
         </span>
       </>
     ),
@@ -135,18 +133,14 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     description: (
       <>
         <span>
-          Worked on a large variety of projects in different fields: AI
-          recognition systems, e-commerce modules, educational applications,
-          landing pages and medical apps. Joined projects in the middle of
-          development, as well as started them from scratch.
+          Delivered AI, e-commerce, education, landing, and medical apps—joining
+          midstream or starting from zero depending on the project.
         </span>
 
         <span>
-          One of the last projects was language learning application, where I’ve
-          developed both on Web and Mobile. Was working together with FE and BE
-          engineers, implemented new features and improvements. Developed from
-          scratch and then maintained Mobile application on RN. Implemented
-          tools for customer’s feedback collection and support.
+          Built a language-learning product across web and mobile, shipping new
+          features with FE/BE teams and owning a React Native app from scratch
+          through long-term maintenance.
         </span>
       </>
     ),
@@ -166,13 +160,12 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     details: 'Full-Time • Onsite',
     period: 'Sep 2018 - Mar 2019',
     company: 'Playgendary',
-    logo: 'https://pg.io/favicon.ico',
+    logo: 'data:image/jpeg;base64,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',
     description: (
       <>
         <span>
-          Implemented new features and redesigns in company's BI system.
-          Improved client side performance x10 times. Designed and implemented
-          game clan's system with leader boards
+          Shipped BI system redesigns and delivered a 10× client-side
+          performance boost. Built a clan system with leaderboards.
         </span>
       </>
     ),
@@ -194,8 +187,7 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     description: (
       <>
         <span>
-          I've created a simple blogging platform application based on
-          NodeJS/Angular. Source code:
+          Built a simple blogging platform with NodeJS and Angular. Source code:
           <a
             target="_blank"
             rel="noreferrer"
@@ -227,8 +219,7 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     description: (
       <>
         <span>
-          Worked on e-commerce and medical projects with React/Redux and Ruby
-          stacks.
+          Built e-commerce and medical UIs with React/Redux on Ruby stacks.
         </span>
       </>
     ),
@@ -250,9 +241,8 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     description: (
       <>
         <span>
-          Summer internship where I've studied the basics of HTML/JS/CSS,
-          learned building tools such as Gulp and Webpack. Made several pet
-          projects and plugins
+          Learned HTML/CSS/JS foundations, built tooling with Gulp/Webpack, and
+          shipped small projects and plugins.
         </span>
       </>
     ),

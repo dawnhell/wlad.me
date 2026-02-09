@@ -16,8 +16,9 @@ const Header: FC = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="./Wlad.me_CV(2026).pdf/"
+          href="/Wlad.me_CV(2026).pdf"
           className="mr-6 underline underline-offset-4 decoration-primary text-foreground hover:text-primary focus:text-primary active:text-primary font-medium"
+          aria-label="View resume PDF"
         >
           RESUME
         </a>

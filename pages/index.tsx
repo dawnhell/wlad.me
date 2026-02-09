@@ -16,7 +16,14 @@ const Home: tNextPageWithLayout = () => (
 )
 
 Home.getLayout = function getLayout(page: ReactElement) {
-  return <Layout>{page}</Layout>
+  return (
+    <Layout
+      title="Senior Frontend Engineer Portfolio | Wlad"
+      description="Senior frontend engineer with 8+ years building complex React and TypeScript products. Focused on fast, accessible UI and clean architecture for teams that ship."
+    >
+      {page}
+    </Layout>
+  )
 }
 
 export default Home

@@ -18,22 +18,28 @@ const Bio: FC = () => {
     <div className="w-full mb-12">
       <div className="flex flex-col-reverse items-center w-full mb-8 sm:flex-row sm:justify-between sm:items-start">
         <div className="mr-0 flex flex-col justify-center sm:mr-8">
-          <h1 className="text-3xl text-center font-serif font-medium leading-tight md:text-4xl mb-2 sm:text-left">
-            Hey, I&apos;m Wlad
+          <h1 className="text-xl text-center font-serif font-medium leading-tight md:text-5xl mb-2 sm:text-left">
+            Hey 👋🏻, I'm Wlad
           </h1>
 
-          <p className="text-lg text-center leading-relaxed font-light text-foreground sm:text-left">
-            Senior Frontend developer <i>and</i>
-          </p>
+          <h2 className="text-xl text-center font-serif font-light leading-tight md:text-2xl mb-2 sm:text-left">
+            Senior Frontend Engineer
+          </h2>
 
           <p className="text-lg text-center leading-relaxed font-light text-foreground sm:text-left">
-            a coffee addict
+            I build fast, accessible React and TypeScript products with complex
+            UI and clean architecture.
           </p>
+
+          {/* <p className="text-md text-center leading-relaxed font-light text-muted-foreground sm:text-left">
+            {totalYears}+ years shipping for startups and enterprise teams. Open
+            to full-time roles.
+          </p> */}
 
           <div className="w-1/4 h-px bg-border my-6 sm:my-4 mx-auto sm:mx-0" />
 
           <p className="text-md text-center font-light text-muted-foreground tracking-wide italic sm:text-left">
-            I create incredible UI interfaces with complicated behaviors
+            Coffee-powered, detail-obsessed, and obsessed with UX.
           </p>
         </div>
 
@@ -43,7 +49,7 @@ const Bio: FC = () => {
           <img
             className="object-cover w-full h-full"
             src="./circle_me.png"
-            alt="That's me!"
+            alt="Portrait of Wlad"
           />
         </div>
       </div>

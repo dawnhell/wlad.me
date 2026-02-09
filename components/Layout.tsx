@@ -15,14 +15,39 @@ interface ILayout {
 const Layout = ({
   children,
   withHeader = true,
-  title = 'Wlad.me - Senior Frontend Developer & Coffee Addict',
-  description = 'Senior Frontend Engineer with 8+ years of experience creating incredible UI interfaces with complicated behaviors. Specializing in React, TypeScript, and modern web technologies.',
+  title = 'Senior Frontend Engineer Portfolio | Wlad',
+  description = 'Senior frontend engineer with 8+ years building fast, accessible React and TypeScript products with complex UI and clean architecture.',
   image = '/circle_me.png',
 }: ILayout) => {
   const router = useRouter()
-  const canonicalUrl = `https://wlad.me${router.asPath}`
+  const canonicalPath = router.asPath.split('?')[0] || '/'
+  const canonicalUrl = `https://wlad.me${canonicalPath}`
   const fullTitle = title
   const fullImage = `https://wlad.me${image}`
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name: 'Wlad',
+    url: 'https://wlad.me',
+    image: fullImage,
+    jobTitle: 'Senior Frontend Engineer',
+    description,
+    email: 'mailto:wlad@wlad.me',
+    sameAs: [
+      'https://github.com/dawnhell/',
+      'https://www.linkedin.com/in/wlad-me/',
+    ],
+    knowsAbout: [
+      'React',
+      'TypeScript',
+      'UI Engineering',
+      'Design Systems',
+      'Frontend Architecture',
+      'Next.js',
+      'Performance Optimization',
+      'Accessibility',
+    ],
+  }
 
   return (
     <>
@@ -32,6 +57,7 @@ const Layout = ({
         <meta name="title" content={fullTitle} />
         <meta name="description" content={description} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="author" content="Wlad" />
 
         {/* Canonical URL */}
         <link rel="canonical" href={canonicalUrl} />
@@ -67,6 +93,14 @@ const Layout = ({
         />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
+
+        {/* Structured Data */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(structuredData),
+          }}
+        />
       </Head>
 
       <div className="w-full py-16 px-12 sm:py-20 sm:px-16 bg-background">
