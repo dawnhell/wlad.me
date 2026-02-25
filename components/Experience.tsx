@@ -39,6 +39,51 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     ],
   },
   {
+    title: 'Founder',
+    details: 'Indie Product • SaaS',
+    period: '2025 - Present',
+    company: 'NextBento',
+    companyUrl: 'https://www.nextbento.dev',
+    logo: 'https://www.nextbento.dev/favicon.ico',
+    description: (
+      <>
+        <span>
+          Next.js 16 SaaS boilerplate for indie hackers. Auth, Stripe, emails,
+          teams, dashboard, docs, SEO—clone, configure, ship. Ships with 9 AI
+          skills for Cursor, Claude Code, and other AI-powered IDEs.
+        </span>
+      </>
+    ),
+    technologies: [
+      'Next.js 16, React 19',
+      'Supabase, Stripe, Resend',
+      'shadcn/ui',
+      'Programmatic SEO, schema markup',
+    ],
+  },
+  {
+    title: 'Founder',
+    details: 'Indie Product • SaaS',
+    period: '2025 - Present',
+    company: 'API Fast',
+    companyUrl: 'https://www.apifast.dev',
+    logo: 'https://www.apifast.dev/favicon.ico',
+    description: (
+      <>
+        <span>
+          Unified REST API for Instagram, TikTok, and YouTube. One endpoint,
+          simple setup, transparent pricing. Ship social features without
+          juggling multiple platforms.
+        </span>
+      </>
+    ),
+    technologies: [
+      'REST API',
+      'Node.js, TypeScript',
+      'Instagram, TikTok, YouTube integrations',
+    ],
+  },
+  {
     title: 'Senior UI Engineer',
     details: 'Full-Time • Remote • Warsaw, Poland',
     period: 'Mar 2024 - Jun 2025',

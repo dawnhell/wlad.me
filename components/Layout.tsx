@@ -16,7 +16,7 @@ const Layout = ({
   children,
   withHeader = true,
   title = 'Senior Frontend Engineer Portfolio | Wlad',
-  description = 'Senior frontend engineer with 8+ years building fast, accessible React and TypeScript products with complex UI and clean architecture.',
+  description = 'Senior frontend engineer with 8+ years building React and TypeScript products. Creator of NextBento (Next.js SaaS boilerplate) and API Fast (social media API). Fast, accessible UI and clean architecture.',
   image = '/circle_me.png',
 }: ILayout) => {
   const router = useRouter()
@@ -46,6 +46,8 @@ const Layout = ({
       'Next.js',
       'Performance Optimization',
       'Accessibility',
+      'SaaS Development',
+      'REST API',
     ],
   }
 

@@ -19,7 +19,7 @@ Home.getLayout = function getLayout(page: ReactElement) {
   return (
     <Layout
       title="Senior Frontend Engineer Portfolio | Wlad"
-      description="Senior frontend engineer with 8+ years building complex React and TypeScript products. Focused on fast, accessible UI and clean architecture for teams that ship."
+      description="Senior frontend engineer with 8+ years building React and TypeScript products. Creator of NextBento (Next.js SaaS boilerplate) and API Fast (social media API). Fast, accessible UI and clean architecture."
     >
       {page}
     </Layout>

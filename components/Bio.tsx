@@ -28,7 +28,27 @@ const Bio: FC = () => {
 
           <p className="text-lg text-center leading-relaxed font-light text-foreground sm:text-left">
             I build fast, accessible React and TypeScript products with complex
-            UI and clean architecture.
+            UI and clean architecture. 
+            <br />
+            Creator of{' '}
+            <a
+              href="https://www.nextbento.dev"
+              target="_blank"
+              rel="noreferrer"
+              className="underline underline-offset-4 decoration-primary text-foreground hover:text-primary focus:text-primary active:text-primary font-medium"
+            >
+              NextBento
+            </a>{' '}
+            (Next.js SaaS boilerplate) and{' '}
+            <a
+              href="https://www.apifast.dev"
+              target="_blank"
+              rel="noreferrer"
+              className="underline underline-offset-4 decoration-primary text-foreground hover:text-primary focus:text-primary active:text-primary font-medium"
+            >
+              API Fast
+            </a>{' '}
+            (social media API).
           </p>
 
           {/* <p className="text-md text-center leading-relaxed font-light text-muted-foreground sm:text-left">
@@ -47,7 +67,7 @@ const Bio: FC = () => {
           <ShineBorder shineColor={['#A07CFE', '#FE8FB5', '#FFBE7B']} />
 
           <img
-            className="object-cover w-full h-full"
+            className="object-cover w-full h-full "
             src="./circle_me.png"
             alt="Portrait of Wlad"
           />
