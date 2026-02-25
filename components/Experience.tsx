@@ -41,7 +41,7 @@ const MY_EXPERIENCE: ExperienceItem[] = [
   {
     title: 'Founder',
     details: 'Indie Product • SaaS',
-    period: '2025 - Present',
+    period: 'Jan 2026 - Present',
     company: 'NextBento',
     companyUrl: 'https://www.nextbento.dev',
     logo: 'https://www.nextbento.dev/favicon.ico',
@@ -64,7 +64,7 @@ const MY_EXPERIENCE: ExperienceItem[] = [
   {
     title: 'Founder',
     details: 'Indie Product • SaaS',
-    period: '2025 - Present',
+    period: 'Dec 2025 - Present',
     company: 'API Fast',
     companyUrl: 'https://www.apifast.dev',
     logo: 'https://www.apifast.dev/favicon.ico',
