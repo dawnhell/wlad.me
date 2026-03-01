@@ -23,6 +23,14 @@ const Header: FC = () => {
           RESUME
         </a>
 
+        <a
+          href="mailto:wlad@wlad.me"
+          className="mr-6 underline underline-offset-4 decoration-primary text-foreground hover:text-primary focus:text-primary active:text-primary font-medium"
+          aria-label="Email for hire"
+        >
+          HIRE ME
+        </a>
+
         <div className="socials flex items-center justify-center gap-2">
           <Button
             variant="ghost"
