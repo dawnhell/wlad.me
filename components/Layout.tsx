@@ -105,7 +105,7 @@ const Layout = ({
         />
       </Head>
 
-      <div className="w-full py-16 px-12 sm:py-20 sm:px-16 bg-background">
+      <div className="w-full py-12 px-8 sm:py-20 sm:px-16 bg-background">
         <div className="container mx-auto lg:max-w-screen-lg md:max-w-screen-md">
           {withHeader ? <Header /> : null}
 
