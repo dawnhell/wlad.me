@@ -59,7 +59,7 @@ const Bio: FC = () => {
           <div className="w-1/4 h-px bg-border my-6 sm:my-4 mx-auto sm:mx-0" />
 
           <p className="text-md text-center font-light text-muted-foreground tracking-wide italic sm:text-left">
-            Coffee-powered, detail-obsessed, and obsessed with UX.
+            Coffee-powered, detail-driven, and obsessed with UX.
           </p>
         </div>
 
