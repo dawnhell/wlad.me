@@ -19,7 +19,7 @@ const MY_EXPERIENCE: ExperienceItem[] = [
   {
     title: 'Senior Frontend Engineer',
     details: 'Full-Time • Remote • Warsaw, Poland',
-    period: 'Aug 2025 - Present',
+    period: 'Aug 2025 - Aug 2026',
     company: 'nexos.ai',
     companyUrl: 'https://nexos.ai',
     logo: 'https://sb.nordcdn.com/m/75987b0fe19b755/original/nexos-favicon-32x32.png',
@@ -29,6 +29,11 @@ const MY_EXPERIENCE: ExperienceItem[] = [
           Building the UI for an AI agent platform, focused on fast workflows,
           design consistency, and product polish.
         </span>
+
+        <span>
+          Maintaining marketing website, using Storyblok CMS/Astro/SolidJS, working closely with
+          designers and marketing team. 
+        </span>
       </>
     ),
     technologies: [
@@ -36,6 +41,27 @@ const MY_EXPERIENCE: ExperienceItem[] = [
       'Storyblok CMS, Astro, SolidJS',
       'Playwright, @testing-library',
       'PNPM workspaces',
+    ],
+  },
+  {
+    title: 'Founder',
+    details: 'Indie Product • SaaS',
+    period: 'Aug 2026 - Present',
+    company: 'LocalRank',
+    companyUrl: 'https://localrank.fyi',
+    logo: 'https://localrank.fyi/favicon.ico',
+    description: (
+      <>
+        <span>
+          Marketplace to claim and pay for top App Store and Google Play ranks.
+          Bid on placements, drive installs, and track click-through by country.
+        </span>
+      </>
+    ),
+    technologies: [
+      'Next.js, React, TypeScript',
+      'Stripe, real-time bidding',
+      'App Store & Google Play ranking',
     ],
   },
   {
@@ -65,22 +91,22 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     title: 'Founder',
     details: 'Indie Product • SaaS',
     period: 'Dec 2025 - Present',
-    company: 'API Fast',
-    companyUrl: 'https://www.apifast.dev',
-    logo: 'https://www.apifast.dev/favicon.ico',
+    company: 'EventDash',
+    companyUrl: 'https://www.eventda.sh',
+    logo: 'https://www.eventda.sh/favicon.ico',
     description: (
       <>
         <span>
-          Unified REST API for Instagram, TikTok, and YouTube. One endpoint,
-          simple setup, transparent pricing. Ship social features without
-          juggling multiple platforms.
+          Cookieless product analytics for small teams. Lightweight tracker,
+          HTML goal attributes, funnels, and Core Web Vitals—without the GA4
+          complexity.
         </span>
       </>
     ),
     technologies: [
-      'REST API',
-      'Node.js, TypeScript',
-      'Instagram, TikTok, YouTube integrations',
+      'Next.js, React, TypeScript',
+      'Privacy-first analytics, MCP',
+      'Funnels, goals, custom events',
     ],
   },
   {

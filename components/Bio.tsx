@@ -39,16 +39,25 @@ const Bio: FC = () => {
             >
               NextBento
             </a>{' '}
-            (Next.js SaaS boilerplate) and{' '}
+            (Next.js SaaS boilerplate),{' '}
             <a
-              href="https://www.apifast.dev"
+              href="https://localrank.fyi"
               target="_blank"
               rel="noreferrer"
               className="underline underline-offset-4 decoration-primary text-foreground hover:text-primary focus:text-primary active:text-primary font-medium"
             >
-              API Fast
+              LocalRank
             </a>{' '}
-            (social media API).
+            (app store ranking), and{' '}
+            <a
+              href="https://www.eventda.sh"
+              target="_blank"
+              rel="noreferrer"
+              className="underline underline-offset-4 decoration-primary text-foreground hover:text-primary focus:text-primary active:text-primary font-medium"
+            >
+              EventDash
+            </a>{' '}
+            (product analytics).
           </p>
 
           {/* <p className="text-md text-center leading-relaxed font-light text-muted-foreground sm:text-left">
