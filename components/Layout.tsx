@@ -15,8 +15,8 @@ interface ILayout {
 const Layout = ({
   children,
   withHeader = true,
-  title = 'Senior Frontend Engineer Portfolio | Wlad',
-  description = 'Senior frontend engineer with 9+ years building React and TypeScript products. Creator of NextBento (Next.js SaaS boilerplate), LocalRank (app store ranking), and EventDash (product analytics). Fast, accessible UI and clean architecture.',
+  title = 'Senior UI Engineer Portfolio | Wlad',
+  description = 'Senior UI engineer with 9+ years in React and TypeScript. Creator of NextBento, LocalRank, and EventDash. Fast, accessible UI and clean architecture.',
   image = '/circle_me.png',
 }: ILayout) => {
   const router = useRouter()
@@ -30,7 +30,7 @@ const Layout = ({
     name: 'Wlad',
     url: 'https://wlad.me',
     image: fullImage,
-    jobTitle: 'Senior Frontend Engineer',
+    jobTitle: 'Senior UI Engineer',
     description,
     email: 'mailto:wlad@wlad.me',
     sameAs: [

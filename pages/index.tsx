@@ -18,8 +18,8 @@ const Home: tNextPageWithLayout = () => (
 Home.getLayout = function getLayout(page: ReactElement) {
   return (
     <Layout
-      title="Senior Frontend Engineer Portfolio | Wlad"
-      description="Senior frontend engineer with 9+ years building React and TypeScript products. Creator of NextBento (Next.js SaaS boilerplate), LocalRank (app store ranking), and EventDash (product analytics). Fast, accessible UI and clean architecture."
+      title="Senior UI Engineer Portfolio | Wlad"
+      description="Senior UI engineer with 9+ years in React and TypeScript. Creator of NextBento, LocalRank, and EventDash. Fast, accessible UI and clean architecture."
     >
       {page}
     </Layout>

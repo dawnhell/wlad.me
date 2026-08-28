@@ -23,7 +23,7 @@ const Bio: FC = () => {
           </h1>
 
           <h2 className="text-xl text-center font-serif font-light leading-tight md:text-2xl mb-2 sm:text-left">
-            Senior Frontend Engineer
+            Senior UI Engineer
           </h2>
 
           <p className="text-lg text-center leading-relaxed font-light text-foreground sm:text-left">
