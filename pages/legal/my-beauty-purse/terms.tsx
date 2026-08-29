@@ -58,11 +58,11 @@ const TermsPage: tNextPageWithLayout = () => (
     <ul>
       <li>
         Monthly Premium ({MONTHLY_PRODUCT_ID}): {MONTHLY_PRICE} per month, with
-        a {TRIAL_DAYS}-day free trial.
+        a {`${TRIAL_DAYS}-day`} free trial.
       </li>
       <li>
         Yearly Premium ({YEARLY_PRODUCT_ID}): {YEARLY_PRICE} per year, with a{' '}
-        {TRIAL_DAYS}-day free trial.
+        {`${TRIAL_DAYS}-day`} free trial.
       </li>
     </ul>
     <p>
@@ -70,7 +70,7 @@ const TermsPage: tNextPageWithLayout = () => (
       hours before the trial ends. Subscriptions renew automatically at the then
       current price unless you cancel at least 24 hours before the end of the
       current period. Your account is charged for renewal within 24 hours prior
-      to the end of the current period. You can manage or cancel in iPhone
+      to the end of the current period. You can manage or cancel isn iPhone
       Settings (Apple ID → Subscriptions) or via Manage subscription in the
       app. Deleting the app does not cancel the subscription.
     </p>
