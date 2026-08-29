@@ -1,6 +1,7 @@
 import { Analytics } from '@vercel/analytics/react'
 import type { NextPage } from 'next'
 import type { AppProps } from 'next/app'
+import { useRouter } from 'next/router'
 import Script from 'next/script'
 import type { ReactElement, ReactNode } from 'react'
 
@@ -17,13 +18,19 @@ export type tAppPropsWithLayout = AppProps & {
 }
 
 function App({ Component, pageProps }: tAppPropsWithLayout) {
+  const router = useRouter()
+  const isLegalRoute = router.pathname.startsWith('/legal')
   const getLayout = Component.getLayout || ((page: ReactElement) => page)
 
   const page = getLayout(
     <>
       <Component {...pageProps} />
-      <Analytics />
-      <Insights />
+      {isLegalRoute ? null : (
+        <>
+          <Analytics />
+          <Insights />
+        </>
+      )}
     </>
   )
 
@@ -34,24 +41,28 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
       enableSystem
       disableTransitionOnChange
     >
-      <Script
-        src="https://www.eventda.sh/tracker.js"
-        data-api-key={process.env.NEXT_PUBLIC_EVENT_DASH_API_KEY}
-        strategy="afterInteractive"
-      />
+      {isLegalRoute ? null : (
+        <>
+          <Script
+            src="https://www.eventda.sh/tracker.js"
+            data-api-key={process.env.NEXT_PUBLIC_EVENT_DASH_API_KEY}
+            strategy="afterInteractive"
+          />
 
-      <Script
-        data-website-id="dfid_fQMjTXfUwmaw8EaSzOESl"
-        data-domain="wlad.me"
-        src="https://datafa.st/js/script.js"
-        strategy="lazyOnload"
-        onError={(e) => {
-          console.warn('Datafast analytics script failed to load:', e)
-        }}
-        onLoad={() => {
-          console.log('Datafast analytics script loaded successfully')
-        }}
-      />
+          <Script
+            data-website-id="dfid_fQMjTXfUwmaw8EaSzOESl"
+            data-domain="wlad.me"
+            src="https://datafa.st/js/script.js"
+            strategy="lazyOnload"
+            onError={(e) => {
+              console.warn('Datafast analytics script failed to load:', e)
+            }}
+            onLoad={() => {
+              console.log('Datafast analytics script loaded successfully')
+            }}
+          />
+        </>
+      )}
 
       {page}
     </ThemeProvider>

@@ -10,6 +10,7 @@ interface ILayout {
   title?: string
   description?: string
   image?: string
+  mainAlign?: 'center' | 'start'
 }
 
 const Layout = ({
@@ -18,6 +19,7 @@ const Layout = ({
   title = 'Senior UI Engineer Portfolio | Wlad',
   description = 'Senior UI engineer with 9+ years in React and TypeScript. Creator of NextBento, LocalRank, and EventDash. Fast, accessible UI and clean architecture.',
   image = '/circle_me.png',
+  mainAlign = 'center',
 }: ILayout) => {
   const router = useRouter()
   const canonicalPath = router.asPath.split('?')[0] || '/'
@@ -109,7 +111,15 @@ const Layout = ({
         <div className="container mx-auto lg:max-w-screen-lg md:max-w-screen-md">
           {withHeader ? <Header /> : null}
 
-          <main className="flex flex-col items-center">{children}</main>
+          <main
+            className={
+              mainAlign === 'start'
+                ? 'flex flex-col items-start'
+                : 'flex flex-col items-center'
+            }
+          >
+            {children}
+          </main>
         </div>
       </div>
     </>
