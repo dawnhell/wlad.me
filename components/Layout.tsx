@@ -37,6 +37,7 @@ const Layout = ({
     email: 'mailto:wlad@wlad.me',
     sameAs: [
       'https://github.com/dawnhell/',
+      'https://x.com/dawnhell_',
       'https://www.linkedin.com/in/wlad-me/',
     ],
     knowsAbout: [
