@@ -1,7 +1,14 @@
 import Head from 'next/head'
 import type { ReactNode } from 'react'
 
-import { APP_DISPLAY_NAME, SHARE_ORIGIN } from '../../lib/legal/my-beauty-purse'
+import {
+  APP_DISPLAY_NAME,
+  LEGAL_BASE_PATH,
+  PRIVACY_PATH,
+  SHARE_ORIGIN,
+  TERMS_PATH,
+} from '../../lib/legal/my-beauty-purse'
+import styles from './ShareChrome.module.css'
 
 interface ShareChromeProps {
   title: string
@@ -29,71 +36,38 @@ const ShareChrome = ({
         <meta name="theme-color" content="#E8A0BF" />
         {noindex ? <meta name="robots" content="noindex, nofollow" /> : null}
         <link rel="canonical" href={canonical} />
-      </Head>
-      <div className="bp-share">
-        <style jsx global>{`
-          html,
-          body {
-            margin: 0;
-            background: #fffbfc;
-            color-scheme: light;
-          }
-          .bp-share {
-            min-height: 100vh;
-            font-family: ui-rounded, 'SF Pro Display', system-ui, sans-serif;
-            background: linear-gradient(180deg, #e8a0bf 0%, #fff5f8 280px, #fffbfc 100%);
-            color: #3e1c2e;
-          }
-          .bp-share main {
-            max-width: 640px;
-            margin: 0 auto;
-            padding: 48px 24px 80px;
-          }
-          .bp-share .brand-mark {
-            font-family: Palatino, 'Times New Roman', serif;
-            font-size: 20px;
-            letter-spacing: 0.04em;
-            color: #c4608a;
-          }
-          .bp-share h1 {
-            font-family: Palatino, serif;
-            font-size: 42px;
-            font-weight: 600;
-            margin: 8px 0 28px;
-          }
-          .bp-share .eyebrow {
-            text-transform: uppercase;
-            letter-spacing: 0.14em;
-            font-size: 11px;
-            color: #c4608a;
-          }
-          .bp-share .item {
-            padding: 18px 0;
-            border-bottom: 1px solid rgba(196, 96, 138, 0.18);
-          }
-          .bp-share h2 {
-            margin: 0 0 4px;
-            font-size: 20px;
-          }
-          .bp-share .brand {
-            color: #7a4e60;
-            font-size: 14px;
-          }
-          .bp-share a {
-            color: #c4608a;
-          }
-          .bp-share .muted {
-            color: #7a4e60;
-            line-height: 1.5;
-          }
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Nunito:wght@600;700&display=swap"
+          rel="stylesheet"
+        />
+        <style>{`
+          html, body, #__next { margin: 0; min-height: 100%; background: #fff5f8; }
         `}</style>
-        <main>
-          <div className="brand-mark">{APP_DISPLAY_NAME}</div>
-          {children}
-        </main>
+      </Head>
+      <div className={styles.page}>
+        <header className={styles.top}>
+          <span className={styles.wordmark}>{APP_DISPLAY_NAME}</span>
+        </header>
+        <article className={styles.sheet}>{children}</article>
+        <footer className={styles.foot}>
+          Shared from {APP_DISPLAY_NAME}
+          {' · '}
+          <a href={`https://wlad.me${LEGAL_BASE_PATH}`}>Support</a>
+          {' · '}
+          <a href={`https://wlad.me${PRIVACY_PATH}`}>Privacy</a>
+          {' · '}
+          <a href={`https://wlad.me${TERMS_PATH}`}>Terms</a>
+        </footer>
       </div>
     </>
   )
 }
 
 export default ShareChrome
+export { styles as shareStyles }

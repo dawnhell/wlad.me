@@ -1,12 +1,15 @@
 import type { GetServerSideProps } from 'next'
 
-import ShareChrome from '../components/beauty-purse/ShareChrome'
+import ShareChrome, {
+  shareStyles as styles,
+} from '../components/beauty-purse/ShareChrome'
 import { SHARE_API_URL, SHARE_PAGE_URL } from '../lib/legal/my-beauty-purse'
 
 type Item = {
   name?: string
   brand?: string
   url?: string
+  notes?: string
 }
 
 type SharePageProps = {
@@ -19,6 +22,11 @@ type SharePageProps = {
 
 const isToken = (value: string) => /^[a-zA-Z0-9]{1,32}$/.test(value)
 
+const monogram = (item: Item) => {
+  const source = (item.name || item.brand || '?').trim()
+  return source.charAt(0).toUpperCase() || '?'
+}
+
 const SharePage = ({ title, listType, items, missing, token }: SharePageProps) => (
   <ShareChrome
     title={missing ? 'List unavailable' : title}
@@ -30,34 +38,58 @@ const SharePage = ({ title, listType, items, missing, token }: SharePageProps) =
     canonical={token ? `${SHARE_PAGE_URL}?t=${token}` : SHARE_PAGE_URL}
   >
     {missing ? (
-      <>
-        <p className="eyebrow">Beauty Purse</p>
-        <h1>List unavailable</h1>
-        <p className="muted">This list is private or no longer shared.</p>
-      </>
+      <div className={styles.empty}>
+        <h1 className={styles.title}>List unavailable</h1>
+        <p className={styles.lede}>
+          This list is private or no longer shared.
+        </p>
+      </div>
     ) : (
       <>
-        <p className="eyebrow">
-          {listType} · Beauty Purse
+        <div className={styles.kicker}>
+          <span className={styles.pill}>{listType}</span>
+          <span className={styles.count}>
+            {items.length} {items.length === 1 ? 'piece' : 'pieces'}
+          </span>
+        </div>
+        <h1 className={styles.title}>{title}</h1>
+        <p className={styles.lede}>
+          A read-only snapshot from Beauty Purse. Photos stay private.
         </p>
-        <h1>{title}</h1>
-        <section>
-          {items.length === 0 ? (
-            <p className="muted">This list is empty.</p>
-          ) : (
-            items.map((item, index) => (
-              <article className="item" key={`${item.name ?? 'item'}-${index}`}>
-                <h2>{item.name || 'Untitled'}</h2>
-                {item.brand ? <div className="brand">{item.brand}</div> : null}
+        {items.length === 0 ? (
+          <p className={styles.empty}>This list is empty.</p>
+        ) : (
+          <ul className={styles.list}>
+            {items.map((item, index) => (
+              <li
+                className={styles.card}
+                key={`${item.name ?? 'item'}-${index}`}
+              >
+                <div className={styles.monogram} aria-hidden>
+                  {monogram(item)}
+                </div>
+                <div className={styles.body}>
+                  <h2 className={styles.name}>{item.name || 'Untitled'}</h2>
+                  {item.brand ? (
+                    <p className={styles.brand}>{item.brand}</p>
+                  ) : null}
+                  {item.notes ? (
+                    <p className={styles.notes}>{item.notes}</p>
+                  ) : null}
+                </div>
                 {item.url ? (
-                  <a href={item.url} rel="noreferrer">
-                    View product
+                  <a
+                    className={styles.link}
+                    href={item.url}
+                    rel="noreferrer"
+                  >
+                    View
                   </a>
                 ) : null}
-              </article>
-            ))
-          )}
-        </section>
+              </li>
+            ))}
+          </ul>
+        )}
       </>
     )}
   </ShareChrome>
