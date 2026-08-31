@@ -3,7 +3,7 @@ import { NextResponse } from 'next/server'
 
 import { SHARE_HOST, SHARE_PATH } from './lib/legal/my-beauty-purse'
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const host = request.headers.get('host')?.split(':')[0] ?? ''
   const { pathname, search } = request.nextUrl
 
