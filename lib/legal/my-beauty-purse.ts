@@ -31,6 +31,14 @@ export const LEGAL_BASE_PATH = '/legal/my-beauty-purse'
 export const PRIVACY_PATH = `${LEGAL_BASE_PATH}/privacy`
 export const TERMS_PATH = `${LEGAL_BASE_PATH}/terms`
 
+export const SHARE_HOST = 'beauty-purse.wlad.me'
+export const SHARE_ORIGIN = `https://${SHARE_HOST}`
+export const SHARE_PATH = '/share'
+export const SHARE_PAGE_URL = `${SHARE_ORIGIN}${SHARE_PATH}`
+export const SHARE_API_URL =
+  process.env.BEAUTY_PURSE_SHARE_API ??
+  'https://brcjrwjozkiakjrttcjw.supabase.co/functions/v1/share-page'
+
 export const MONTHLY_PRICE = '$3.99'
 export const YEARLY_PRICE = '$29.99'
 export const TRIAL_DAYS = 7

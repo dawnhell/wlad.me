@@ -19,13 +19,16 @@ export type tAppPropsWithLayout = AppProps & {
 
 function App({ Component, pageProps }: tAppPropsWithLayout) {
   const router = useRouter()
-  const isLegalRoute = router.pathname.startsWith('/legal')
+  const skipTracking =
+    router.pathname.startsWith('/legal') ||
+    router.pathname === '/share' ||
+    router.pathname === '/beauty-purse-home'
   const getLayout = Component.getLayout || ((page: ReactElement) => page)
 
   const page = getLayout(
     <>
       <Component {...pageProps} />
-      {isLegalRoute ? null : (
+      {skipTracking ? null : (
         <>
           <Analytics />
           <Insights />
@@ -41,7 +44,7 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
       enableSystem
       disableTransitionOnChange
     >
-      {isLegalRoute ? null : (
+      {skipTracking ? null : (
         <>
           <Script
             src="https://www.eventda.sh/tracker.js"
