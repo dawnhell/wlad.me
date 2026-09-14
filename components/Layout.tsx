@@ -18,7 +18,7 @@ const Layout = ({
   children,
   withHeader = true,
   title = 'Senior UI Engineer Portfolio | Wlad',
-  description = 'Senior UI engineer with 9+ years in React and TypeScript. Creator of NextBento, LocalRank, and EventDash. Fast, accessible UI backed by clean architecture.',
+  description = 'Senior UI engineer with 9+ years in React and TypeScript. Creator of NextBento and EventDash. Building fast, accessible interfaces with clean architecture.',
   image = '/circle_me.png',
   mainAlign = 'center',
 }: ILayout) => {

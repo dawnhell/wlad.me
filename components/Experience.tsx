@@ -46,27 +46,6 @@ const MY_EXPERIENCE: ExperienceItem[] = [
   {
     title: 'Founder',
     details: 'Indie Product • SaaS',
-    period: 'Aug 2026 - Present',
-    company: 'LocalRank',
-    companyUrl: 'https://localrank.fyi',
-    logo: 'https://localrank.fyi/favicon.ico',
-    description: (
-      <>
-        <span>
-          Marketplace to claim and pay for top App Store and Google Play ranks.
-          Bid on placements, drive installs, and track click-through by country.
-        </span>
-      </>
-    ),
-    technologies: [
-      'Next.js, React, TypeScript',
-      'Stripe, real-time bidding',
-      'App Store & Google Play ranking',
-    ],
-  },
-  {
-    title: 'Founder',
-    details: 'Indie Product • SaaS',
     period: 'Jan 2026 - Present',
     company: 'NextBento',
     companyUrl: 'https://www.nextbento.dev',
@@ -129,11 +108,7 @@ const MY_EXPERIENCE: ExperienceItem[] = [
             target="_blank"
             rel="noreferrer"
             href="https://chromewebstore.google.com/detail/salesloft-connect/ejgmneenioanldgngdomlfnbcbffmchf"
-            className={`
-              text-sm
-              underline underline-offset-4 decoration-primary
-              text-foreground hover:text-primary focus:text-primary active:text-primary font-medium
-            `}
+            className="text-link text-sm"
           >
             Salesloft Connect
           </a>{' '}
@@ -146,12 +121,7 @@ const MY_EXPERIENCE: ExperienceItem[] = [
             target="_blank"
             rel="noreferrer"
             href="https://salesloft.design/"
-            className={`
-              tracking-wide
-              text-sm
-              underline underline-offset-4 decoration-primary
-              text-foreground hover:text-primary focus:text-primary active:text-primary font-medium
-            `}
+            className="text-link text-sm tracking-wide"
           >
             salesloft.design
           </a>
@@ -270,11 +240,7 @@ const MY_EXPERIENCE: ExperienceItem[] = [
             target="_blank"
             rel="noreferrer"
             href="https://github.com/dawnhell/awesome-blog"
-            className={`
-              text-sm
-              underline underline-offset-4 decoration-primary
-              text-foreground hover:text-primary focus:text-primary active:text-primary font-medium
-            `}
+            className="text-link text-sm"
           >
             @dawnhell/awesome-blog
           </a>
@@ -360,11 +326,13 @@ const ExperienceItem: FC<ExperienceProps> = ({ experience }) => {
             <div className="flex flex-col gap-4 md:flex-row md:items-start font-light">
               <div className="md:w-2/3">
                 <div className="mb-2 flex items-center gap-3">
-                  <img
-                    src={logo}
-                    alt={`${company} logo`}
-                    className="h-5 object-contain"
-                  />
+                  <span className="flex size-8 shrink-0 items-center justify-center rounded-lg p-1 shadow-[var(--shadow-border)]">
+                    <img
+                      src={logo}
+                      alt={`${company} logo`}
+                      className="img-outline h-5 w-5 rounded-sm object-contain"
+                    />
+                  </span>
 
                   <h3 className="text-xl">{title}</h3>
                 </div>
@@ -375,8 +343,8 @@ const ExperienceItem: FC<ExperienceProps> = ({ experience }) => {
                   {description}
                 </p>
 
-                <p className="text-muted-foreground text-sm leading-relaxed gap-y-2">
-                  <span>Technologies:</span>
+                <p className="text-muted-foreground text-sm leading-relaxed">
+                  Technologies:
                 </p>
 
                 <ul className="list-disc list-inside pl-4 text-muted-foreground text-sm leading-relaxed">
@@ -386,16 +354,16 @@ const ExperienceItem: FC<ExperienceProps> = ({ experience }) => {
                 </ul>
               </div>
 
-              <div className="text-right md:w-1/3 md:text-right">
-                <p className="mb-1 text-sm font-medium">{period}</p>
+              <div className="text-left md:w-1/3 md:text-right">
+                <p className="mb-1 text-sm font-medium tabular-nums">
+                  {period}
+                </p>
 
-                <span className="font-medium text-sm">@</span>
-                
                 <a
                   href={companyUrl}
                   target="_blank"
                   rel="noreferrer"
-                  className="underline underline-offset-4 decoration-primary text-foreground hover:text-primary focus:text-primary active:text-primary font-medium text-sm"
+                  className="text-link text-sm"
                 >
                   {company}
                 </a>

@@ -77,9 +77,22 @@ module.exports = {
         aurora: 'aurora 8s ease-in-out infinite',
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
-      }
+      },
+      transitionTimingFunction: {
+        'out-strong': 'cubic-bezier(0.23, 1, 0.32, 1)',
+        'in-out-strong': 'cubic-bezier(0.77, 0, 0.175, 1)',
+        'out-quart': 'cubic-bezier(0.2, 0, 0, 1)',
+      },
     },
   },
 
-  plugins: [require("tailwindcss-animate")],
+  plugins: [
+    require('tailwindcss-animate'),
+    function fineHover({ addVariant }) {
+      addVariant(
+        'fine-hover',
+        '@media (hover: hover) and (pointer: fine) { &:hover }'
+      )
+    },
+  ],
 }

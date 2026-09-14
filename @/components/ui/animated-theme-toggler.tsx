@@ -1,6 +1,7 @@
 'use client'
 
 import { Moon, Sun } from 'lucide-react'
+import { AnimatePresence, motion, useReducedMotion } from 'motion/react'
 import { useTheme } from 'next-themes'
 import { useCallback, useEffect, useRef, useState } from 'react'
 
@@ -13,12 +14,13 @@ interface AnimatedThemeTogglerProps
 
 export const AnimatedThemeToggler = ({
   className,
-  duration = 400,
+  duration = 300,
   ...props
 }: AnimatedThemeTogglerProps) => {
   const { resolvedTheme, setTheme } = useTheme()
   const [mounted, setMounted] = useState(false)
   const buttonRef = useRef<HTMLButtonElement>(null)
+  const reduceMotion = useReducedMotion()
 
   useEffect(() => {
     setMounted(true)
@@ -30,7 +32,6 @@ export const AnimatedThemeToggler = ({
     const isDark = resolvedTheme === 'dark'
     const nextTheme = isDark ? 'light' : 'dark'
 
-    // Check if View Transition API is supported
     const doc = document as Document & {
       startViewTransition?: (callback: () => void) => {
         ready: Promise<void>
@@ -38,21 +39,17 @@ export const AnimatedThemeToggler = ({
       }
     }
 
-    // If View Transitions are not supported, just toggle the theme
-    if (!doc.startViewTransition) {
+    if (!doc.startViewTransition || reduceMotion) {
       setTheme(nextTheme)
       return
     }
 
-    // Start the view transition
     const transition = doc.startViewTransition(() => {
       setTheme(nextTheme)
     })
 
-    // Wait for the transition to be ready
     await transition.ready
 
-    // Get the button position for the circular reveal animation
     const { top, left, width, height } =
       buttonRef.current.getBoundingClientRect()
     const x = left + width / 2
@@ -62,7 +59,6 @@ export const AnimatedThemeToggler = ({
       Math.max(y, window.innerHeight - y)
     )
 
-    // Animate the circular reveal
     document.documentElement.animate(
       {
         clipPath: [
@@ -72,17 +68,13 @@ export const AnimatedThemeToggler = ({
       },
       {
         duration,
-        easing: 'ease-in-out',
+        easing: 'cubic-bezier(0.77, 0, 0.175, 1)',
         pseudoElement: '::view-transition-new(root)',
       }
     )
-  }, [mounted, resolvedTheme, setTheme, duration])
+  }, [mounted, reduceMotion, resolvedTheme, setTheme, duration])
 
-  // Don't render until mounted to avoid hydration mismatch
-  if (!mounted) {
-    return null
-  }
-
+  const iconClassName = 'h-5 w-5'
   const isDark = resolvedTheme === 'dark'
 
   return (
@@ -90,15 +82,44 @@ export const AnimatedThemeToggler = ({
       ref={buttonRef}
       onClick={toggleTheme}
       className={cn(
-        'inline-flex items-center justify-center rounded-full text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background',
-        'hover:bg-accent hover:text-accent-foreground',
+        'inline-flex items-center justify-center rounded-full text-sm font-medium',
+        'transition-[color,background-color,scale] duration-150 ease-out-strong',
+        'focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2',
+        'disabled:opacity-50 disabled:pointer-events-none ring-offset-background',
+        'fine-hover:bg-accent fine-hover:text-accent-foreground',
+        'active:scale-[0.96]',
         'h-10 w-10 p-0',
         className
       )}
       aria-label="Toggle theme"
       {...props}
     >
-      {isDark ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
+      {!mounted ? (
+        <span className={iconClassName} aria-hidden />
+      ) : reduceMotion ? (
+        isDark ? (
+          <Sun className={iconClassName} strokeWidth={2} />
+        ) : (
+          <Moon className={iconClassName} strokeWidth={2} />
+        )
+      ) : (
+        <AnimatePresence initial={false} mode="popLayout">
+          <motion.span
+            key={isDark ? 'sun' : 'moon'}
+            initial={{ opacity: 0, scale: 0.25, filter: 'blur(4px)' }}
+            animate={{ opacity: 1, scale: 1, filter: 'blur(0px)' }}
+            exit={{ opacity: 0, scale: 0.25, filter: 'blur(4px)' }}
+            transition={{ type: 'spring', duration: 0.3, bounce: 0 }}
+            className="inline-flex"
+          >
+            {isDark ? (
+              <Sun className={iconClassName} strokeWidth={2} />
+            ) : (
+              <Moon className={iconClassName} strokeWidth={2} />
+            )}
+          </motion.span>
+        </AnimatePresence>
+      )}
       <span className="sr-only">Toggle theme</span>
     </button>
   )
