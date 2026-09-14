@@ -5,6 +5,7 @@ import {
   APP_DISPLAY_NAME,
   LEGAL_BASE_PATH,
 } from '../lib/legal/my-beauty-purse'
+import { SITE_URL } from '../lib/site'
 
 const BeautyPurseHome = () => (
   <ShareChrome
@@ -21,7 +22,7 @@ const BeautyPurseHome = () => (
       lists from the app open on this page.
     </p>
     <p className={styles.lede}>
-      <a className={styles.link} href={`https://wlad.me${LEGAL_BASE_PATH}`}>
+      <a className={styles.link} href={`${SITE_URL}${LEGAL_BASE_PATH}`}>
         Support
       </a>
     </p>

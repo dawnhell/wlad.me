@@ -19,7 +19,7 @@ Home.getLayout = function getLayout(page: ReactElement) {
   return (
     <Layout
       title="Senior UI Engineer Portfolio | Wlad"
-      description="Senior UI engineer with 9+ years in React and TypeScript. Creator of NextBento, LocalRank, and EventDash. Fast, accessible UI and clean architecture."
+      description="Senior UI engineer with 9+ years in React and TypeScript. Creator of NextBento, LocalRank, and EventDash. Fast, accessible UI backed by clean architecture."
     >
       {page}
     </Layout>

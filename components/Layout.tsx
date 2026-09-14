@@ -2,6 +2,7 @@ import Head from 'next/head'
 import { useRouter } from 'next/router'
 import { ReactElement } from 'react'
 
+import { SITE_URL } from '../lib/site'
 import Header from './Header'
 
 interface ILayout {
@@ -17,20 +18,20 @@ const Layout = ({
   children,
   withHeader = true,
   title = 'Senior UI Engineer Portfolio | Wlad',
-  description = 'Senior UI engineer with 9+ years in React and TypeScript. Creator of NextBento, LocalRank, and EventDash. Fast, accessible UI and clean architecture.',
+  description = 'Senior UI engineer with 9+ years in React and TypeScript. Creator of NextBento, LocalRank, and EventDash. Fast, accessible UI backed by clean architecture.',
   image = '/circle_me.png',
   mainAlign = 'center',
 }: ILayout) => {
   const router = useRouter()
   const canonicalPath = router.asPath.split('?')[0] || '/'
-  const canonicalUrl = `https://wlad.me${canonicalPath}`
+  const canonicalUrl = `${SITE_URL}${canonicalPath}`
   const fullTitle = title
-  const fullImage = `https://wlad.me${image}`
+  const fullImage = `${SITE_URL}${image}`
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name: 'Wlad',
-    url: 'https://wlad.me',
+    url: SITE_URL,
     image: fullImage,
     jobTitle: 'Senior UI Engineer',
     description,

@@ -8,6 +8,7 @@ import {
   SHARE_ORIGIN,
   TERMS_PATH,
 } from '../../lib/legal/my-beauty-purse'
+import { SITE_URL } from '../../lib/site'
 import styles from './ShareChrome.module.css'
 
 interface ShareChromeProps {
@@ -58,11 +59,11 @@ const ShareChrome = ({
         <footer className={styles.foot}>
           Shared from {APP_DISPLAY_NAME}
           {' · '}
-          <a href={`https://wlad.me${LEGAL_BASE_PATH}`}>Support</a>
+          <a href={`${SITE_URL}${LEGAL_BASE_PATH}`}>Support</a>
           {' · '}
-          <a href={`https://wlad.me${PRIVACY_PATH}`}>Privacy</a>
+          <a href={`${SITE_URL}${PRIVACY_PATH}`}>Privacy</a>
           {' · '}
-          <a href={`https://wlad.me${TERMS_PATH}`}>Terms</a>
+          <a href={`${SITE_URL}${TERMS_PATH}`}>Terms</a>
         </footer>
       </div>
     </>

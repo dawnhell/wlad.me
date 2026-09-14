@@ -4,7 +4,7 @@ Allow: /
 Allow: /*.pdf$
 
 # Sitemaps
-Sitemap: https://wlad.me/sitemap.xml
+Sitemap: https://www.wlad.me/sitemap.xml
 
 # PDF crawling is allowed so the resume can be indexed.
 
