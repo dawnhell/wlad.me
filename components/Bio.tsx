@@ -3,6 +3,8 @@ import dayjs from 'dayjs'
 import { motion, useReducedMotion } from 'motion/react'
 import { FC } from 'react'
 
+import { FOUNDER_PRODUCTS } from '../lib/site'
+
 const ease = [0.23, 1, 0.32, 1] as const
 
 const Bio: FC = () => {
@@ -62,16 +64,25 @@ const Bio: FC = () => {
             <br />
             Creator of{' '}
             <a
-              href="https://www.nextbento.dev"
+              href={FOUNDER_PRODUCTS.complience.url}
+              target="_blank"
+              rel="noreferrer"
+              className="text-link"
+            >
+              Complience.app
+            </a>{' '}
+            (website accessibility checker),{' '}
+            <a
+              href={FOUNDER_PRODUCTS.nextbento.url}
               target="_blank"
               rel="noreferrer"
               className="text-link"
             >
               NextBento
             </a>{' '}
-            (Next.js SaaS boilerplate) and{' '}
+            (Next.js SaaS boilerplate), and{' '}
             <a
-              href="https://www.eventda.sh"
+              href={FOUNDER_PRODUCTS.eventdash.url}
               target="_blank"
               rel="noreferrer"
               className="text-link"

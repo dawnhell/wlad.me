@@ -1,5 +1,7 @@
 import { FC } from 'react'
 
+import { FOUNDER_PRODUCTS } from '../lib/site'
+
 interface ExperienceItem {
   title: string
   details: string
@@ -46,10 +48,33 @@ const MY_EXPERIENCE: ExperienceItem[] = [
   {
     title: 'Founder',
     details: 'Indie Product • SaaS',
+    period: 'Sep 2026 - Present',
+    company: FOUNDER_PRODUCTS.complience.name,
+    companyUrl: FOUNDER_PRODUCTS.complience.url,
+    logo: FOUNDER_PRODUCTS.complience.logo,
+    description: (
+      <>
+        <span>
+          Website accessibility checker for site owners and agencies. Paste a
+          URL, get WCAG issues plus cookies that fire before Accept, send a
+          client-ready PDF, then re-run it on a schedule.
+        </span>
+      </>
+    ),
+    technologies: [
+      'Next.js 16, React 19',
+      'Playwright, axe-core',
+      'Supabase, Stripe, Resend',
+      'WCAG 2.2, cookie evidence',
+    ],
+  },
+  {
+    title: 'Founder',
+    details: 'Indie Product • SaaS',
     period: 'Jan 2026 - Present',
-    company: 'NextBento',
-    companyUrl: 'https://www.nextbento.dev',
-    logo: 'https://www.nextbento.dev/favicon.ico',
+    company: FOUNDER_PRODUCTS.nextbento.name,
+    companyUrl: FOUNDER_PRODUCTS.nextbento.url,
+    logo: FOUNDER_PRODUCTS.nextbento.logo,
     description: (
       <>
         <span>
@@ -70,9 +95,9 @@ const MY_EXPERIENCE: ExperienceItem[] = [
     title: 'Founder',
     details: 'Indie Product • SaaS',
     period: 'Dec 2025 - Present',
-    company: 'EventDash',
-    companyUrl: 'https://www.eventda.sh',
-    logo: 'https://www.eventda.sh/favicon.ico',
+    company: FOUNDER_PRODUCTS.eventdash.name,
+    companyUrl: FOUNDER_PRODUCTS.eventdash.url,
+    logo: FOUNDER_PRODUCTS.eventdash.logo,
     description: (
       <>
         <span>
