@@ -393,7 +393,7 @@ const ExperienceItem: FC<ExperienceProps> = ({ experience }) => {
 
 const Experience: FC = () => (
   <section id="experience" className="py-12">
-    <h2 className="mb-8 scroll-mt-8 font-serif text-3xl font-medium text-balance md:text-4xl">
+    <h2 className="mb-8 scroll-mt-8 font-serif text-3xl font-normal text-balance md:text-4xl">
       Experience
     </h2>
 

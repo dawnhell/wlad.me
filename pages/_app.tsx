@@ -1,6 +1,7 @@
 import { Analytics } from '@vercel/analytics/react'
 import type { NextPage } from 'next'
 import type { AppProps } from 'next/app'
+import { Newsreader, Source_Sans_3 } from 'next/font/google'
 import { useRouter } from 'next/router'
 import Script from 'next/script'
 import type { ReactElement, ReactNode } from 'react'
@@ -8,6 +9,20 @@ import type { ReactElement, ReactNode } from 'react'
 import { ThemeProvider } from '@/components/ui/theme-provider'
 import { Insights } from '../components/Insights'
 import '../styles/globals.css'
+
+const sourceSans = Source_Sans_3({
+  subsets: ['latin'],
+  weight: ['400', '500', '600'],
+  display: 'swap',
+  variable: '--font-source-sans',
+})
+
+const newsreader = Newsreader({
+  subsets: ['latin'],
+  weight: ['300', '400', '500'],
+  display: 'swap',
+  variable: '--font-newsreader',
+})
 
 export type tNextPageWithLayout<P = Record<string, never>> = NextPage<P> & {
   getLayout?: (page: ReactElement, pageProps: P) => ReactNode
@@ -40,6 +55,7 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
   )
 
   return (
+    <div className={`${sourceSans.variable} ${newsreader.variable} site-fonts`}>
     <ThemeProvider
       attribute="class"
       defaultTheme="light"
@@ -72,6 +88,7 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
 
       {page}
     </ThemeProvider>
+    </div>
   )
 }
 

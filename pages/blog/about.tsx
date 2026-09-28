@@ -15,7 +15,7 @@ const AboutPage: tNextPageWithLayout = () => {
     <article className="flex w-full flex-col gap-8">
       <Breadcrumbs crumbs={crumbs} />
       <header className="flex w-full flex-col gap-3">
-        <h1 className="font-serif text-3xl font-medium text-balance md:text-4xl">
+        <h1 className="font-serif text-3xl font-normal text-balance md:text-4xl">
           About these notes
         </h1>
         <p className="max-w-[65ch] leading-relaxed text-muted-foreground">
@@ -26,7 +26,7 @@ const AboutPage: tNextPageWithLayout = () => {
       </header>
 
       <section className="flex max-w-[65ch] flex-col gap-3">
-        <h2 className="font-serif text-2xl font-medium">Stripe-verified</h2>
+        <h2 className="font-serif text-2xl font-normal">Stripe-verified</h2>
         <p className="leading-relaxed text-muted-foreground">
           The figure comes from a TrustMRR listing that the day’s brief marks
           as connected to Stripe. This site does not audit the number. The
@@ -35,7 +35,7 @@ const AboutPage: tNextPageWithLayout = () => {
       </section>
 
       <section className="flex max-w-[65ch] flex-col gap-3">
-        <h2 className="font-serif text-2xl font-medium">Self-reported</h2>
+        <h2 className="font-serif text-2xl font-normal">Self-reported</h2>
         <p className="leading-relaxed text-muted-foreground">
           The figure comes from the company, a founder, or another write-up the
           brief cites. It is not presented as checked against a payment
@@ -44,7 +44,7 @@ const AboutPage: tNextPageWithLayout = () => {
       </section>
 
       <section className="flex max-w-[65ch] flex-col gap-3">
-        <h2 className="font-serif text-2xl font-medium">What gets a page</h2>
+        <h2 className="font-serif text-2xl font-normal">What gets a page</h2>
         <p className="leading-relaxed text-muted-foreground">
           Each dated brief becomes one edition. Each full entry also keeps a
           company page, so a later brief can add a new figure without replacing
@@ -55,7 +55,7 @@ const AboutPage: tNextPageWithLayout = () => {
       </section>
 
       <section className="flex max-w-[65ch] flex-col gap-3">
-        <h2 className="font-serif text-2xl font-medium">Photographs</h2>
+        <h2 className="font-serif text-2xl font-normal">Photographs</h2>
         <p className="leading-relaxed text-muted-foreground">
           The large photo at the top of an edition is a nature or animal
           photograph from Wikimedia Commons. It is not a picture of the

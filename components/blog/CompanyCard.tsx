@@ -3,6 +3,7 @@ import Image from 'next/image'
 import blurbs from '../../content/blog/blurbs.json'
 import { evidenceLabel, type EditionCompany } from '../../lib/blog-format'
 import OutboundLink from './OutboundLink'
+import TrustMrrChart from './TrustMrrChart'
 
 const notes = blurbs as Record<string, string>
 
@@ -22,7 +23,7 @@ const CompanyCard = ({
       className="flex w-full scroll-mt-8 flex-col gap-5 pt-12"
     >
       <div className="flex items-baseline justify-between gap-4">
-        <h2 className="font-serif text-3xl font-medium tracking-tight text-balance">
+        <h2 className="font-serif text-3xl font-normal tracking-tight text-balance">
           <a
             href={`/blog/companies/${company.slug}`}
             className="transition-colors duration-150 [transition-timing-function:var(--ease-out)] fine-hover:text-primary"
@@ -39,14 +40,14 @@ const CompanyCard = ({
       <p className="-mt-2 text-sm text-muted-foreground">{company.description}</p>
 
       {company.image ? (
-        <figure className="overflow-hidden rounded-2xl bg-muted p-2 shadow-[var(--shadow-border)]">
+        <figure className="overflow-hidden rounded-2xl">
           <Image
             src={company.image}
             alt={company.imageAlt || company.name}
             width={company.imageWidth || 1200}
             height={company.imageHeight || 630}
             sizes="(min-width: 768px) 736px, 100vw"
-            className="img-outline h-auto w-full rounded-lg"
+            className="h-auto w-full"
           />
         </figure>
       ) : null}
@@ -57,6 +58,7 @@ const CompanyCard = ({
         ) : company.indieAngle ? (
           <p className="text-lg leading-relaxed text-pretty">{company.indieAngle}</p>
         ) : null}
+        <TrustMrrChart name={company.name} sources={company.sources} size="compact" />
         <div className="flex flex-col gap-1 border-l-2 border-primary py-0.5 pl-4">
           <p className="text-xs font-medium tracking-wide text-muted-foreground">
             {evidenceLabel(company.evidenceKind)}

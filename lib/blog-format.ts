@@ -90,3 +90,21 @@ export function evidenceLabel(kind: EvidenceKind) {
 export function latestMention(company: Company) {
   return company.mentions[company.mentions.length - 1]
 }
+
+export function trustMrrEmbedUrl(sources: BlogSource[]) {
+  for (const source of sources) {
+    let url: URL
+    try {
+      url = new URL(source.url)
+    } catch {
+      continue
+    }
+    if (url.hostname !== 'trustmrr.com' && url.hostname !== 'www.trustmrr.com') {
+      continue
+    }
+    const match = url.pathname.match(/^\/startup\/([^/]+)\/?$/)
+    if (!match) continue
+    return `https://trustmrr.com/embed/${match[1]}`
+  }
+  return null
+}

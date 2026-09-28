@@ -3,7 +3,7 @@ import { FC } from 'react'
 const Education: FC = () => {
   return (
     <section id="education" className="py-12">
-      <h2 className="mb-8 scroll-mt-8 font-serif text-3xl font-medium text-balance md:text-4xl">
+      <h2 className="mb-8 scroll-mt-8 font-serif text-3xl font-normal text-balance md:text-4xl">
         Education
       </h2>
 

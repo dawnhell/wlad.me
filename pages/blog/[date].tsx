@@ -40,7 +40,7 @@ const EditionPage: tNextPageWithLayout<EditionPageProps> = ({
       />
       <EditionHero hero={hero} />
       <header className="flex w-full flex-col gap-4">
-        <h1 className="font-serif text-4xl font-medium tracking-tight text-balance md:text-5xl">
+        <h1 className="font-serif text-4xl font-normal tracking-tight text-balance md:text-5xl">
           {edition.title}
         </h1>
         <p className="text-sm text-muted-foreground">
@@ -63,7 +63,7 @@ const EditionPage: tNextPageWithLayout<EditionPageProps> = ({
 
       {edition.honorableMentions.length > 0 ? (
         <section className="flex w-full flex-col gap-4 border-t border-border pt-12">
-          <h2 className="font-serif text-3xl font-medium tracking-tight">
+          <h2 className="font-serif text-3xl font-normal tracking-tight">
             Honorable mentions
           </h2>
           <ul className="flex w-full flex-col">

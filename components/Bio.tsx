@@ -36,7 +36,7 @@ const Bio: FC = () => {
         <div className="flex flex-col gap-3 sm:mr-8">
           <motion.h1
             {...enter(0)}
-            className="text-balance text-center font-serif text-4xl font-medium leading-tight sm:text-left md:text-5xl"
+            className="text-balance text-center font-serif text-4xl font-normal leading-tight sm:text-left md:text-5xl"
           >
             Hey 👋🏻, I&apos;m Wlad
           </motion.h1>

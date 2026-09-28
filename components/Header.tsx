@@ -16,7 +16,7 @@ const Header: FC = () => {
       </a>
 
       <div className="flex w-full items-center justify-between sm:w-max">
-        <div className="flex items-center gap-4">
+        <div className="mr-4 flex items-center gap-4">
           <a href="/blog" className="text-link">
             Blog
           </a>

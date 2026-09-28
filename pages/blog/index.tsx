@@ -34,7 +34,7 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
   return (
     <div className="flex w-full flex-col gap-12">
       <header className="flex w-full flex-col gap-3">
-        <h1 className="font-serif text-3xl font-medium text-balance md:text-4xl">
+        <h1 className="font-serif text-3xl font-normal text-balance md:text-4xl">
           Boring SaaS
         </h1>
         <p className="max-w-[65ch] leading-relaxed text-muted-foreground">
@@ -70,7 +70,7 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
             <time dateTime={latest.date} className="text-sm text-muted-foreground">
               {formatEditionDate(latest.date)}
             </time>
-            <h2 className="font-serif text-2xl font-medium text-balance">
+            <h2 className="font-serif text-2xl font-normal text-balance">
               {latest.title}
             </h2>
             <p className="text-sm leading-relaxed text-muted-foreground">
@@ -82,7 +82,7 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
 
       {older.length > 0 ? (
         <section className="flex w-full flex-col gap-4">
-          <h2 className="font-serif text-2xl font-medium">Earlier editions</h2>
+          <h2 className="font-serif text-2xl font-normal">Earlier editions</h2>
           <ul className="flex flex-col">
             {older.map((edition) => (
               <li key={edition.date} className="border-t border-border">
@@ -106,7 +106,7 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
       ) : null}
 
       <section id="companies" className="flex w-full scroll-mt-8 flex-col gap-4">
-        <h2 className="font-serif text-2xl font-medium">Companies</h2>
+        <h2 className="font-serif text-2xl font-normal">Companies</h2>
         <ul className="grid gap-2 sm:grid-cols-2">
           {companies.map((company) => (
             <li key={company.slug}>

@@ -35,7 +35,7 @@ const LegalDocument = ({
       <p className="text-sm font-medium tracking-wide uppercase text-muted-foreground mb-2">
         {eyebrow}
       </p>
-      <h1 className="text-3xl font-serif font-medium leading-tight mb-3 sm:text-4xl">
+      <h1 className="text-3xl font-serif font-normal leading-tight mb-3 sm:text-4xl">
         {title}
       </h1>
       <p className="text-sm text-muted-foreground mb-8">
@@ -65,7 +65,7 @@ const LegalDocument = ({
         })}
       </nav>
 
-      <div className="legal-prose space-y-4 text-base font-light leading-relaxed text-foreground [&_h2]:text-xl [&_h2]:font-serif [&_h2]:font-medium [&_h2]:mt-10 [&_h2]:mb-3 [&_h2]:text-foreground [&_p]:text-foreground [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:space-y-2 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:space-y-2 [&_a]:underline [&_a]:underline-offset-4 [&_a]:decoration-primary [&_a]:hover:text-primary [&_strong]:font-medium">
+      <div className="legal-prose space-y-4 text-base font-light leading-relaxed text-foreground [&_h2]:text-xl [&_h2]:font-serif [&_h2]:font-normal [&_h2]:mt-10 [&_h2]:mb-3 [&_h2]:text-foreground [&_p]:text-foreground [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:space-y-2 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:space-y-2 [&_a]:underline [&_a]:underline-offset-4 [&_a]:decoration-primary [&_a]:hover:text-primary [&_strong]:font-medium">
         {children}
       </div>
     </article>
