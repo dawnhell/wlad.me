@@ -74,7 +74,7 @@ export const AnimatedThemeToggler = ({
     )
   }, [mounted, reduceMotion, resolvedTheme, setTheme, duration])
 
-  const iconClassName = 'h-5 w-5'
+  const iconClassName = 'size-4'
   const isDark = resolvedTheme === 'dark'
 
   return (
@@ -88,7 +88,7 @@ export const AnimatedThemeToggler = ({
         'disabled:opacity-50 disabled:pointer-events-none ring-offset-background',
         'fine-hover:bg-accent fine-hover:text-accent-foreground',
         'active:scale-[0.96]',
-        'h-10 w-10 p-0',
+        'size-9 p-0',
         className
       )}
       aria-label="Toggle theme"

@@ -3,11 +3,14 @@ import Bio from '../components/Bio'
 import Education from '../components/Education'
 import Experience from '../components/Experience'
 import Layout from '../components/Layout'
+import Products from '../components/Products'
 import type { tNextPageWithLayout } from './_app'
 
 const Home: tNextPageWithLayout = () => (
   <div className="w-full">
     <Bio />
+
+    <Products />
 
     <Experience />
 

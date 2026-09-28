@@ -42,6 +42,7 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
       attribute="class"
       defaultTheme="light"
       enableSystem
+      enableColorScheme
       disableTransitionOnChange
     >
       {skipTracking ? null : (

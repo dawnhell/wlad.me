@@ -10,16 +10,19 @@ function withFounderRef(url: string): string {
 export const FOUNDER_PRODUCTS = {
   complience: {
     name: 'Complience.app',
+    summary: 'Website accessibility checker',
     url: withFounderRef('https://www.complience.app'),
     logo: 'https://www.complience.app/favicon.ico',
   },
   nextbento: {
     name: 'NextBento',
+    summary: 'Next.js SaaS boilerplate',
     url: withFounderRef('https://www.nextbento.dev'),
     logo: 'https://www.nextbento.dev/favicon.ico',
   },
   eventdash: {
     name: 'EventDash',
+    summary: 'Product analytics',
     url: withFounderRef('https://www.eventda.sh'),
     logo: 'https://www.eventda.sh/favicon.ico',
   },

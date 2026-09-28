@@ -1,7 +1,7 @@
-import React, { memo } from "react"
+import { memo, type ReactNode } from 'react'
 
 interface AuroraTextProps {
-  children: React.ReactNode
+  children: ReactNode
   className?: string
   colors?: string[]
   speed?: number
@@ -10,16 +10,14 @@ interface AuroraTextProps {
 export const AuroraText = memo(
   ({
     children,
-    className = "",
-    colors = ["#FF0080", "#7928CA", "#0070F3", "#38bdf8"],
+    className = '',
+    colors = ['#FF0080', '#7928CA', '#0070F3', '#38bdf8'],
     speed = 1,
   }: AuroraTextProps) => {
     const gradientStyle = {
-      backgroundImage: `linear-gradient(135deg, ${colors.join(", ")}, ${
-        colors[0]
-      })`,
-      WebkitBackgroundClip: "text",
-      WebkitTextFillColor: "transparent",
+      backgroundImage: `linear-gradient(135deg, ${colors.join(', ')}, ${colors[0]})`,
+      WebkitBackgroundClip: 'text',
+      WebkitTextFillColor: 'transparent',
       animationDuration: `${10 / speed}s`,
     }
 
@@ -27,7 +25,7 @@ export const AuroraText = memo(
       <span className={`relative inline-block ${className}`}>
         <span className="sr-only">{children}</span>
         <span
-          className="motion-safe:animate-aurora relative bg-[length:200%_auto] bg-clip-text text-transparent"
+          className="logo-aurora motion-safe:animate-aurora relative bg-[length:200%_auto] bg-clip-text text-transparent"
           style={gradientStyle}
           aria-hidden="true"
         >
@@ -38,4 +36,4 @@ export const AuroraText = memo(
   }
 )
 
-AuroraText.displayName = "AuroraText"
+AuroraText.displayName = 'AuroraText'

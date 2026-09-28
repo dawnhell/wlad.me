@@ -63,6 +63,16 @@ const Layout = ({
         <meta name="title" content={fullTitle} />
         <meta name="description" content={description} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="theme-color"
+          content="#fafafa"
+          media="(prefers-color-scheme: light)"
+        />
+        <meta
+          name="theme-color"
+          content="#121212"
+          media="(prefers-color-scheme: dark)"
+        />
         <meta name="author" content="Wlad" />
 
         {/* Canonical URL */}
@@ -109,11 +119,18 @@ const Layout = ({
         />
       </Head>
 
-      <div className="w-full py-12 px-8 sm:py-20 sm:px-16 bg-background">
-        <div className="container mx-auto lg:max-w-screen-lg md:max-w-screen-md">
+      <div className="w-full bg-background px-6 py-10 sm:px-10 sm:py-16">
+        <a
+          href="#main"
+          className="no-print sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-background focus:px-3 focus:py-2 focus:text-foreground focus:ring-2 focus:ring-ring"
+        >
+          Skip to content
+        </a>
+        <div className="container mx-auto md:max-w-screen-md lg:max-w-screen-lg">
           {withHeader ? <Header /> : null}
 
           <main
+            id="main"
             className={
               mainAlign === 'start'
                 ? 'flex flex-col items-start'

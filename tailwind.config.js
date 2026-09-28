@@ -8,6 +8,11 @@ module.exports = {
 
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['var(--font-sans)'],
+        serif: ['var(--font-serif)'],
+        mono: ['var(--font-mono)'],
+      },
       colors: {
         border: "var(--border)",
         input: "var(--input)",
@@ -49,34 +54,13 @@ module.exports = {
         sm: "calc(var(--radius) - 4px)",
       },
       keyframes: {
-        gradientKeyframes: {
-          '0%': {
-            backgroundPosition: '0% 0%',
-          },
-          '25%': {
-            backgroundPosition: '50% 50%',
-          },
-          '75%': {
-            backgroundPosition: '50% 50%',
-          },
-          '100%': {
-            backgroundPosition: '100% 100%',
-          },
+        aurora: {
+          '0%, 100%': { backgroundPosition: '0% 50%' },
+          '50%': { backgroundPosition: '100% 50%' },
         },
-        wiggle: {
-          '0%, 100%': { transform: 'rotate(0)' },
-          '25%': { transform: 'rotate(3deg)' },
-          '75%': { transform: 'rotate(-3deg)' },
-        }
       },
-
       animation: {
-        gradient: 'gradientKeyframes 5s ease infinite',
-        wiggle: 'wiggle 1s ease-in-out infinite',
-        shine: 'shine var(--duration) infinite linear',
         aurora: 'aurora 8s ease-in-out infinite',
-        'accordion-down': 'accordion-down 0.2s ease-out',
-        'accordion-up': 'accordion-up 0.2s ease-out',
       },
       transitionTimingFunction: {
         'out-strong': 'cubic-bezier(0.23, 1, 0.32, 1)',

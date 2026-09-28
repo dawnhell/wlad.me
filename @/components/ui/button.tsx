@@ -5,28 +5,32 @@ import * as React from 'react'
 import { cn } from '@/lib/utils'
 
 const buttonVariants = cva(
-  'inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-[color,background-color,border-color,box-shadow,scale] duration-150 ease-out-strong focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0',
+  "group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap select-none transition-[color,background-color,border-color,box-shadow,scale] duration-150 ease-out-strong focus-visible:border-ring focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-2 aria-invalid:ring-destructive/20 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
   {
     variants: {
       variant: {
         default:
-          'bg-primary text-primary-foreground shadow fine-hover:bg-primary/90',
-        destructive:
-          'bg-destructive text-destructive-foreground shadow-sm fine-hover:bg-destructive/90',
+          'bg-primary text-primary-foreground fine-hover:bg-primary/80',
         outline:
-          'border border-input bg-background shadow-sm fine-hover:bg-accent fine-hover:text-accent-foreground',
+          'border-border bg-background fine-hover:bg-muted fine-hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground',
         secondary:
-          'bg-secondary text-secondary-foreground shadow-sm fine-hover:bg-secondary/80',
-        ghost: 'fine-hover:bg-accent fine-hover:text-accent-foreground',
+          'bg-secondary text-secondary-foreground fine-hover:bg-[color-mix(in_oklch,var(--secondary),var(--foreground)_5%)] aria-expanded:bg-secondary aria-expanded:text-secondary-foreground',
+        ghost:
+          'fine-hover:bg-muted fine-hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground',
+        destructive:
+          'bg-destructive/10 text-destructive fine-hover:bg-destructive/20 focus-visible:border-destructive/40 focus-visible:ring-destructive/20',
         link: 'text-primary underline-offset-4 fine-hover:underline',
       },
       size: {
-        default: 'h-9 px-4 py-2',
-        sm: 'h-8 rounded-md px-3 text-xs',
-        lg: 'h-10 rounded-md px-8',
-        icon: 'h-9 w-9',
-        'icon-sm': 'h-8 w-8',
-        'icon-lg': 'h-10 w-10',
+        default:
+          'h-8 gap-1.5 px-2.5 has-[[data-icon=inline-end]]:pr-2 has-[[data-icon=inline-start]]:pl-2',
+        xs: "h-6 gap-1 rounded-md px-2 text-xs has-[[data-icon=inline-end]]:pr-1.5 has-[[data-icon=inline-start]]:pl-1.5 [&_svg:not([class*='size-'])]:size-3",
+        sm: "h-7 gap-1 rounded-md px-2.5 text-[0.8rem] has-[[data-icon=inline-end]]:pr-1.5 has-[[data-icon=inline-start]]:pl-1.5 [&_svg:not([class*='size-'])]:size-3.5",
+        lg: 'h-9 gap-1.5 px-2.5 has-[[data-icon=inline-end]]:pr-2 has-[[data-icon=inline-start]]:pl-2',
+        icon: 'size-8',
+        'icon-xs': 'size-6 rounded-md [&_svg:not([class*="size-"])]:size-3',
+        'icon-sm': 'size-7 rounded-md',
+        'icon-lg': 'size-9',
       },
     },
     defaultVariants: {
@@ -36,41 +40,32 @@ const buttonVariants = cva(
   }
 )
 
-export interface ButtonProps
-  extends React.ButtonHTMLAttributes<HTMLButtonElement>,
-    VariantProps<typeof buttonVariants> {
-  asChild?: boolean
-  static?: boolean
+function Button({
+  className,
+  variant = 'default',
+  size = 'default',
+  asChild = false,
+  static: isStatic = false,
+  ...props
+}: React.ComponentProps<'button'> &
+  VariantProps<typeof buttonVariants> & {
+    asChild?: boolean
+    static?: boolean
+  }) {
+  const Comp = asChild ? Slot : 'button'
+
+  return (
+    <Comp
+      data-slot="button"
+      data-variant={variant}
+      data-size={size}
+      className={cn(
+        buttonVariants({ variant, size, className }),
+        !isStatic && 'active:not-disabled:scale-[0.96]'
+      )}
+      {...props}
+    />
+  )
 }
-
-const tapScale = 'active:not-disabled:scale-[0.96]'
-
-const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
-  (
-    {
-      className,
-      variant,
-      size,
-      asChild = false,
-      static: isStatic = false,
-      ...props
-    },
-    ref
-  ) => {
-    const Comp = asChild ? Slot : 'button'
-    return (
-      <Comp
-        className={cn(
-          buttonVariants({ variant, size }),
-          !isStatic && tapScale,
-          className
-        )}
-        ref={ref}
-        {...props}
-      />
-    )
-  }
-)
-Button.displayName = 'Button'
 
 export { Button, buttonVariants }
