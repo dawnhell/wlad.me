@@ -1,0 +1,24 @@
+# Wlad.me
+
+> Personal site of Wlad, a senior UI engineer. Boring SaaS is a dated series of revenue notes on software products.
+
+## Boring SaaS
+
+- [Boring SaaS](https://www.wlad.me/blog): Index of editions and companies.
+- [About these notes](https://www.wlad.me/blog/about): How Stripe-verified and self-reported labels work.
+
+## Editions
+
+- [Boring SaaS ideas for 28 September 2026](https://www.wlad.me/blog/2026-09-28): Revenue notes on 9 products for 28 September 2026. 6 are labeled Stripe-verified and 3 are self-reported. Each figure links to its source.
+
+## Companies
+
+- [Anonymous workforce-management SaaS](https://www.wlad.me/blog/companies/anonymous-workforce-management-saas): Scheduling/time/compliance for employers.
+- [Codédex](https://www.wlad.me/blog/companies/codedex): Gamified beginner coding + Club sub from ~$9.99/mo.
+- [Flocksy](https://www.wlad.me/blog/companies/flocksy): Flat-rate design/video subscription, ~$1,199–$2,999+/mo.
+- [MyPlots](https://www.wlad.me/blog/companies/myplots): Event discovery + ticketing, 20% + $1/ticket.
+- [Plutio](https://www.wlad.me/blog/companies/plutio): All-in-one app for freelancers (projects, proposals, contracts, invoices, forms).
+- [Salesrobot](https://www.wlad.me/blog/companies/salesrobot): LinkedIn + cold-email outreach automation.
+- [Supademo](https://www.wlad.me/blog/companies/supademo): Interactive product demos for SaaS sales/onboarding.
+- [Supliful](https://www.wlad.me/blog/companies/supliful): Private-label CPG + fulfillment for creators.
+- [Tally](https://www.wlad.me/blog/companies/tally): Freemium form builder.

@@ -1,0 +1,25 @@
+{
+  "slug": "plutio",
+  "name": "Plutio",
+  "listingNote": null,
+  "description": "All-in-one app for freelancers (projects, proposals, contracts, invoices, forms).",
+  "homepage": "https://plutio.com/",
+  "image": "/blog/2026-09-28/plutio.webp",
+  "imageAlt": "Plutio product image",
+  "imageWidth": 1200,
+  "imageHeight": 627,
+  "mentions": [
+    {
+      "date": "2026-09-28",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$19.8k MRR, 898 subs, ~$1.48M all-time, ~16.8k users claimed, founded 2018.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/plutio-super-work-ai"
+        }
+      ],
+      "indieAngle": "Most solo-plausible of the day."
+    }
+  ]
+}

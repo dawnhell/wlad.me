@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-28",
+  "title": "Boring SaaS ideas for 28 September 2026",
+  "dek": "Revenue notes on 9 products for 28 September 2026. 6 are labeled Stripe-verified and 3 are self-reported. Each figure links to its source.",
+  "heroId": "misty-forest",
+  "companies": [
+    {
+      "slug": "tally",
+      "name": "Tally",
+      "listingNote": null,
+      "description": "Freemium form builder.",
+      "evidenceKind": "self-reported",
+      "evidence": "~$501k MRR / $6M ARR (Sep 2026), 2.5M users, team of 10, bootstrapped; 43% of new users via AI search.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/SaaS/comments/1wn9wfj/6_years_in_6_million_far_bootstrapping_our_form/"
+        },
+        {
+          "label": "blog.tally.so",
+          "url": "https://blog.tally.so/6-years-in-6-million-far/"
+        }
+      ],
+      "homepage": "https://tally.so",
+      "indieAngle": null,
+      "image": "/blog/2026-09-28/tally.webp",
+      "imageAlt": "Tally product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "supademo",
+      "name": "Supademo",
+      "listingNote": null,
+      "description": "Interactive product demos for SaaS sales/onboarding.",
+      "evidenceKind": "self-reported",
+      "evidence": "$4M ARR (Aug 2026), ~3k paying orgs, ~200k free users, ~30% EBITDA, ~90% gross margin; $1M SAFE unused; Latka corroborates.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/SaaS/comments/1wh6itp/we_rebuilt_our_onboarding_50_times_as_we_went/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/supademo.com"
+        }
+      ],
+      "homepage": "https://supademo.com/",
+      "indieAngle": "Free side tools feed the main product.",
+      "image": "/blog/2026-09-28/supademo.webp",
+      "imageAlt": "Supademo product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "plutio",
+      "name": "Plutio",
+      "listingNote": null,
+      "description": "All-in-one app for freelancers (projects, proposals, contracts, invoices, forms).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$19.8k MRR, 898 subs, ~$1.48M all-time, ~16.8k users claimed, founded 2018.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/plutio-super-work-ai"
+        }
+      ],
+      "homepage": "https://plutio.com/",
+      "indieAngle": "Most solo-plausible of the day.",
+      "image": "/blog/2026-09-28/plutio.webp",
+      "imageAlt": "Plutio product image",
+      "imageWidth": 1200,
+      "imageHeight": 627
+    },
+    {
+      "slug": "anonymous-workforce-management-saas",
+      "name": "Anonymous workforce-management SaaS",
+      "listingNote": "\"Private Venture\" on TrustMRR",
+      "description": "Scheduling/time/compliance for employers.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$249.8k MRR, 2,497 subs, ~$96k L30, ~$9.22M all-time, bootstrapped, founded Jan 2021.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kl23iod2mdka"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": null,
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "myplots",
+      "name": "MyPlots",
+      "listingNote": null,
+      "description": "Event discovery + ticketing, 20% + $1/ticket.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$520k L30, ~$4.25M all-time, MRR $0 (transaction model).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/myplots"
+        }
+      ],
+      "homepage": "https://myplots.com/",
+      "indieAngle": null,
+      "image": "/blog/2026-09-28/myplots.webp",
+      "imageAlt": "MyPlots product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "supliful",
+      "name": "Supliful",
+      "listingNote": null,
+      "description": "Private-label CPG + fulfillment for creators.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$178.6k MRR, 3,371 subs, ~$1.0M L30, ~$53.3M all-time, from ~$69/mo.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/brand-on-demand-inc"
+        }
+      ],
+      "homepage": "https://supliful.com/",
+      "indieAngle": "Ops-heavy, not an MVP.",
+      "image": "/blog/2026-09-28/supliful.webp",
+      "imageAlt": "Supliful product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "salesrobot",
+      "name": "Salesrobot",
+      "listingNote": null,
+      "description": "LinkedIn + cold-email outreach automation.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$87.5k L30, ~$1.68M all-time, no active subscriptions shown (credits/usage), ~4,100 users claimed.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/salesrobot-inc"
+        }
+      ],
+      "homepage": "https://salesrobot.co/",
+      "indieAngle": null,
+      "image": "/blog/2026-09-28/salesrobot.webp",
+      "imageAlt": "Salesrobot product image",
+      "imageWidth": 1200,
+      "imageHeight": 777
+    },
+    {
+      "slug": "codedex",
+      "name": "Codédex",
+      "listingNote": null,
+      "description": "Gamified beginner coding + Club sub from ~$9.99/mo.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$85.5k MRR, 6,776 subs, ~$1.43M all-time, ~2M users claimed.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/codedex"
+        }
+      ],
+      "homepage": "https://codedex.io/",
+      "indieAngle": null,
+      "image": "/blog/2026-09-28/codedex.webp",
+      "imageAlt": "Codédex product image",
+      "imageWidth": 1200,
+      "imageHeight": 583
+    },
+    {
+      "slug": "flocksy",
+      "name": "Flocksy",
+      "listingNote": null,
+      "description": "Flat-rate design/video subscription, ~$1,199–$2,999+/mo.",
+      "evidenceKind": "self-reported",
+      "evidence": "~$5M ARR, 70+ people (Reddit AMA).",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/SaaS/comments/1wgasme/ama_i_scaled_flocksy_to_5m_arr_and_now_were/"
+        },
+        {
+          "label": "flocksy.com",
+          "url": "https://flocksy.com/pricing/"
+        }
+      ],
+      "homepage": "https://flocksy.com/",
+      "indieAngle": "Service-shaped.",
+      "image": "/blog/2026-09-28/flocksy.webp",
+      "imageAlt": "Flocksy product image",
+      "imageWidth": 1200,
+      "imageHeight": 640
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "SEOBOT",
+      "note": "~$39k MRR, ~$1.88M all-time, Stripe"
+    },
+    {
+      "name": "AEO Engine",
+      "note": "~$130k MRR agency"
+    },
+    {
+      "name": "LLM Gateway",
+      "note": "~$79k MRR; Stripe sync stale since Sep 7"
+    },
+    {
+      "name": "Speel.co AI UGC",
+      "note": "~$66k MRR"
+    }
+  ]
+}

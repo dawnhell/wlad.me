@@ -1,0 +1,25 @@
+{
+  "slug": "myplots",
+  "name": "MyPlots",
+  "listingNote": null,
+  "description": "Event discovery + ticketing, 20% + $1/ticket.",
+  "homepage": "https://myplots.com/",
+  "image": "/blog/2026-09-28/myplots.webp",
+  "imageAlt": "MyPlots product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-28",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$520k L30, ~$4.25M all-time, MRR $0 (transaction model).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/myplots"
+        }
+      ],
+      "indieAngle": null
+    }
+  ]
+}

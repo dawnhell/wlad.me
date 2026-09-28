@@ -1,0 +1,25 @@
+{
+  "slug": "codedex",
+  "name": "Codédex",
+  "listingNote": null,
+  "description": "Gamified beginner coding + Club sub from ~$9.99/mo.",
+  "homepage": "https://codedex.io/",
+  "image": "/blog/2026-09-28/codedex.webp",
+  "imageAlt": "Codédex product image",
+  "imageWidth": 1200,
+  "imageHeight": 583,
+  "mentions": [
+    {
+      "date": "2026-09-28",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$85.5k MRR, 6,776 subs, ~$1.43M all-time, ~2M users claimed.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/codedex"
+        }
+      ],
+      "indieAngle": null
+    }
+  ]
+}

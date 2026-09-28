@@ -16,15 +16,20 @@ const Header: FC = () => {
       </a>
 
       <div className="flex w-full items-center justify-between sm:w-max">
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="/Wlad.me_CV(2026).pdf"
-          className="text-link mr-6"
-          aria-label="View resume PDF"
-        >
-          Resume
-        </a>
+        <div className="flex items-center gap-4">
+          <a href="/blog" className="text-link">
+            Blog
+          </a>
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="/Wlad.me_CV(2026).pdf"
+            className="text-link"
+            aria-label="View resume PDF"
+          >
+            Resume
+          </a>
+        </div>
 
         <div className="flex items-center gap-1">
           <Button

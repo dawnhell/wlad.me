@@ -1,0 +1,29 @@
+{
+  "slug": "tally",
+  "name": "Tally",
+  "listingNote": null,
+  "description": "Freemium form builder.",
+  "homepage": "https://tally.so",
+  "image": "/blog/2026-09-28/tally.webp",
+  "imageAlt": "Tally product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-28",
+      "evidenceKind": "self-reported",
+      "evidence": "~$501k MRR / $6M ARR (Sep 2026), 2.5M users, team of 10, bootstrapped; 43% of new users via AI search.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/SaaS/comments/1wn9wfj/6_years_in_6_million_far_bootstrapping_our_form/"
+        },
+        {
+          "label": "blog.tally.so",
+          "url": "https://blog.tally.so/6-years-in-6-million-far/"
+        }
+      ],
+      "indieAngle": null
+    }
+  ]
+}

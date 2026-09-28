@@ -1,0 +1,29 @@
+{
+  "slug": "supademo",
+  "name": "Supademo",
+  "listingNote": null,
+  "description": "Interactive product demos for SaaS sales/onboarding.",
+  "homepage": "https://supademo.com/",
+  "image": "/blog/2026-09-28/supademo.webp",
+  "imageAlt": "Supademo product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-28",
+      "evidenceKind": "self-reported",
+      "evidence": "$4M ARR (Aug 2026), ~3k paying orgs, ~200k free users, ~30% EBITDA, ~90% gross margin; $1M SAFE unused; Latka corroborates.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/SaaS/comments/1wh6itp/we_rebuilt_our_onboarding_50_times_as_we_went/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/supademo.com"
+        }
+      ],
+      "indieAngle": "Free side tools feed the main product."
+    }
+  ]
+}

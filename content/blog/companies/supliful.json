@@ -1,0 +1,25 @@
+{
+  "slug": "supliful",
+  "name": "Supliful",
+  "listingNote": null,
+  "description": "Private-label CPG + fulfillment for creators.",
+  "homepage": "https://supliful.com/",
+  "image": "/blog/2026-09-28/supliful.webp",
+  "imageAlt": "Supliful product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-28",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$178.6k MRR, 3,371 subs, ~$1.0M L30, ~$53.3M all-time, from ~$69/mo.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/brand-on-demand-inc"
+        }
+      ],
+      "indieAngle": "Ops-heavy, not an MVP."
+    }
+  ]
+}

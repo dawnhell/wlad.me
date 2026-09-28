@@ -1,0 +1,29 @@
+{
+  "slug": "flocksy",
+  "name": "Flocksy",
+  "listingNote": null,
+  "description": "Flat-rate design/video subscription, ~$1,199–$2,999+/mo.",
+  "homepage": "https://flocksy.com/",
+  "image": "/blog/2026-09-28/flocksy.webp",
+  "imageAlt": "Flocksy product image",
+  "imageWidth": 1200,
+  "imageHeight": 640,
+  "mentions": [
+    {
+      "date": "2026-09-28",
+      "evidenceKind": "self-reported",
+      "evidence": "~$5M ARR, 70+ people (Reddit AMA).",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/SaaS/comments/1wgasme/ama_i_scaled_flocksy_to_5m_arr_and_now_were/"
+        },
+        {
+          "label": "flocksy.com",
+          "url": "https://flocksy.com/pricing/"
+        }
+      ],
+      "indieAngle": "Service-shaped."
+    }
+  ]
+}

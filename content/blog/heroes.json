@@ -1,0 +1,79 @@
+[
+  {
+    "id": "misty-forest",
+    "src": "/blog/heroes/misty-forest.webp",
+    "alt": "A misty winter morning among the trees of Stonor Forest",
+    "width": 1120,
+    "height": 747,
+    "credit": "Scott Wylie",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:(Explored)_Misty_Winter_morning_in_Stonor_Forest_-_Flickr_-_scotbot.jpg",
+    "license": "CC BY 2.0",
+    "subject": "nature"
+  },
+  {
+    "id": "coast-waves",
+    "src": "/blog/heroes/coast-waves.webp",
+    "alt": "Waves breaking on rocks at sunset along a coast in Sète, France",
+    "width": 1120,
+    "height": 747,
+    "credit": "Christian Ferrer",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Waves_at_La_Corniche.jpg",
+    "license": "CC BY 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "mountain-lake",
+    "src": "/blog/heroes/mountain-lake.webp",
+    "alt": "A mountain lake among rock formations in the Sayan Mountains",
+    "width": 960,
+    "height": 600,
+    "credit": "Vyacheslav Argenberg",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ergaki%2C_Mountain_lake_Skazka%2C_Rock_formations%2C_Sayan_Mountains%2C_Russia.jpg",
+    "license": "CC BY 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "red-fox",
+    "src": "/blog/heroes/red-fox.webp",
+    "alt": "A red fox in snow in a nature reserve in Sweden",
+    "width": 1600,
+    "height": 1067,
+    "credit": "ClaudiaTen",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "animal"
+  },
+  {
+    "id": "red-deer",
+    "src": "/blog/heroes/red-deer.webp",
+    "alt": "A wild red deer standing in the Aletsch Forest",
+    "width": 1440,
+    "height": 961,
+    "credit": "Giles Laurent",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:014_Wild_Red_Deer_Switzerland_Photo_by_Giles_Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "animal"
+  },
+  {
+    "id": "gull-flight",
+    "src": "/blog/heroes/gull-flight.webp",
+    "alt": "A gull in flight with its wings spread",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Bengt Nyman",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bird_in_flight_wings_spread.jpg",
+    "license": "CC BY 2.0",
+    "subject": "animal"
+  },
+  {
+    "id": "elephants",
+    "src": "/blog/heroes/elephants.webp",
+    "alt": "An African bush elephant standing with a young calf",
+    "width": 1120,
+    "height": 747,
+    "credit": "Charles J. Sharp",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:African_bush_elephants_(Loxodonta_africana)_female_with_six-week-old_baby.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "animal"
+  }
+]

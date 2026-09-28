@@ -2,8 +2,12 @@ import Head from 'next/head'
 import { useRouter } from 'next/router'
 import { ReactElement } from 'react'
 
+import { PERSON_ID } from '../lib/blog-format'
 import { SITE_URL } from '../lib/site'
 import Header from './Header'
+
+const PERSON_DESCRIPTION =
+  'Senior UI engineer with 9+ years in React and TypeScript. Creator of Complience.app, NextBento, and EventDash. Building fast, accessible interfaces with clean architecture.'
 
 interface ILayout {
   children: ReactElement
@@ -12,6 +16,10 @@ interface ILayout {
   description?: string
   image?: string
   mainAlign?: 'center' | 'start'
+  ogType?: 'website' | 'article'
+  publishedTime?: string
+  rss?: boolean
+  extraStructuredData?: object[]
 }
 
 const Layout = ({
@@ -21,6 +29,10 @@ const Layout = ({
   description = 'Senior UI engineer with 9+ years in React and TypeScript. Creator of Complience.app, NextBento, and EventDash. Building fast, accessible interfaces with clean architecture.',
   image = '/circle_me.png',
   mainAlign = 'center',
+  ogType = 'website',
+  publishedTime,
+  rss = false,
+  extraStructuredData = [],
 }: ILayout) => {
   const router = useRouter()
   const canonicalPath = router.asPath.split('?')[0] || '/'
@@ -30,11 +42,12 @@ const Layout = ({
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'Person',
+    '@id': PERSON_ID,
     name: 'Wlad',
     url: SITE_URL,
-    image: fullImage,
+    image: `${SITE_URL}/circle_me.png`,
     jobTitle: 'Senior UI Engineer',
-    description,
+    description: PERSON_DESCRIPTION,
     email: 'mailto:wlad@wlad.me',
     sameAs: [
       'https://github.com/dawnhell/',
@@ -79,7 +92,7 @@ const Layout = ({
         <link rel="canonical" href={canonicalUrl} />
 
         {/* Open Graph / Facebook */}
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={ogType} />
         <meta property="og:url" content={canonicalUrl} />
         <meta property="og:title" content={fullTitle} />
         <meta property="og:description" content={description} />
@@ -92,6 +105,17 @@ const Layout = ({
         <meta name="twitter:title" content={fullTitle} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={fullImage} />
+        {publishedTime ? (
+          <meta property="article:published_time" content={publishedTime} />
+        ) : null}
+        {rss ? (
+          <link
+            rel="alternate"
+            type="application/rss+xml"
+            title="Boring SaaS"
+            href="/blog/rss.xml"
+          />
+        ) : null}
 
         {/* Favicons */}
         <link rel="icon" href="/favicon.ico" sizes="any" />
@@ -111,12 +135,15 @@ const Layout = ({
         <link rel="manifest" href="/site.webmanifest" />
 
         {/* Structured Data */}
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(structuredData),
-          }}
-        />
+        {[structuredData, ...extraStructuredData].map((data) => (
+          <script
+            key={JSON.stringify(data).slice(0, 80)}
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(data).replace(/</g, '\\u003c'),
+            }}
+          />
+        ))}
       </Head>
 
       <div className="w-full bg-background px-6 py-10 sm:px-10 sm:py-16">

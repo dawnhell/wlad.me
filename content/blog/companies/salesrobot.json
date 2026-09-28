@@ -1,0 +1,25 @@
+{
+  "slug": "salesrobot",
+  "name": "Salesrobot",
+  "listingNote": null,
+  "description": "LinkedIn + cold-email outreach automation.",
+  "homepage": "https://salesrobot.co/",
+  "image": "/blog/2026-09-28/salesrobot.webp",
+  "imageAlt": "Salesrobot product image",
+  "imageWidth": 1200,
+  "imageHeight": 777,
+  "mentions": [
+    {
+      "date": "2026-09-28",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$87.5k L30, ~$1.68M all-time, no active subscriptions shown (credits/usage), ~4,100 users claimed.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/salesrobot-inc"
+        }
+      ],
+      "indieAngle": null
+    }
+  ]
+}

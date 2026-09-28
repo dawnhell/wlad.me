@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Boring SaaS</title>
+    <link>https://www.wlad.me/blog</link>
+    <description>Dated revenue notes on software products, written by Wlad.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Sep 2026 12:25:32 GMT</lastBuildDate>
+    <item>
+      <title>Boring SaaS ideas for 28 September 2026</title>
+      <link>https://www.wlad.me/blog/2026-09-28</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Revenue notes on 9 products for 28 September 2026. 6 are labeled Stripe-verified and 3 are self-reported. Each figure links to its source.</description>
+    </item>
+  </channel>
+</rss>

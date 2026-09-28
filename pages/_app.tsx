@@ -9,8 +9,8 @@ import { ThemeProvider } from '@/components/ui/theme-provider'
 import { Insights } from '../components/Insights'
 import '../styles/globals.css'
 
-export type tNextPageWithLayout = NextPage & {
-  getLayout?: (page: ReactElement) => ReactNode
+export type tNextPageWithLayout<P = Record<string, never>> = NextPage<P> & {
+  getLayout?: (page: ReactElement, pageProps: P) => ReactNode
 }
 
 export type tAppPropsWithLayout = AppProps & {
@@ -35,6 +35,8 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
         </>
       )}
     </>
+    ,
+    pageProps,
   )
 
   return (
