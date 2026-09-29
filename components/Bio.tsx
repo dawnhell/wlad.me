@@ -43,7 +43,7 @@ const Bio: FC = () => {
 
           <motion.p
             {...enter(0.05)}
-            className="text-balance text-center font-serif text-xl font-light leading-tight text-foreground sm:text-left md:text-2xl"
+            className="text-balance text-center font-serif text-xl leading-tight text-foreground sm:text-left md:text-2xl"
           >
             Senior UI Engineer
           </motion.p>
