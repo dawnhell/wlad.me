@@ -41,7 +41,7 @@ const EditionCard = ({
   return (
     <a
       href={`/blog/${edition.date}`}
-      className="block overflow-hidden rounded-xl border border-border bg-card shadow-[var(--shadow-border)] fine-hover:bg-muted"
+      className="block h-full overflow-hidden rounded-xl border border-border bg-card shadow-[var(--shadow-border)] fine-hover:bg-muted"
     >
       <Image
         src={edition.hero.src}
@@ -105,7 +105,7 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
       {older.length > 0 ? (
         <section className="flex w-full flex-col gap-4">
           <h2 className="font-serif text-2xl font-normal">Earlier editions</h2>
-          <ul className="flex flex-col gap-4">
+          <ul className="grid grid-cols-1 gap-4 md:grid-cols-2">
             {older.map((edition) => (
               <li key={edition.date}>
                 <EditionCard
