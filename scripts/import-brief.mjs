@@ -88,15 +88,18 @@ function parseHonorable(body) {
 
 async function compressImage(inputPath, outputPath) {
   const input = fs.readFileSync(inputPath)
+  const animated = await sharp(input, { animated: true }).metadata()
+  const page = animated.pages > 1 ? animated.pages - 1 : undefined
+  const source = () => sharp(input, page === undefined ? undefined : { page })
   let quality = 75
-  let buffer = await sharp(input)
+  let buffer = await source()
     .rotate()
     .resize({ width: 1200, withoutEnlargement: true })
     .webp({ quality })
     .toBuffer()
   while (buffer.length > 150 * 1024 && quality > 50) {
     quality -= 5
-    buffer = await sharp(input)
+    buffer = await source()
       .rotate()
       .resize({ width: 1200, withoutEnlargement: true })
       .webp({ quality })

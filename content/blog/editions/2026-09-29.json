@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-29",
+  "title": "Boring SaaS ideas for 29 September 2026",
+  "dek": "Revenue notes on 10 products for 29 September 2026. All 10 are labeled Stripe-verified. Each figure links to its source.",
+  "heroId": "coast-waves",
+  "companies": [
+    {
+      "slug": "mycater",
+      "name": "MyCater",
+      "listingNote": null,
+      "description": "B2B catering marketplace for French companies — breakfast, lunch, events, cocktails — with ordering, invoicing, and curated caterers in one place.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$76.0k last 30 days, ~$2.43M all-time, MRR $0 (transaction model), ~1,000 users claimed, team 2–5, bootstrapped, founded Nov 2020. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mycater"
+        }
+      ],
+      "homepage": "https://mycater.fr",
+      "indieAngle": "Vertical B2B marketplace where the buyer (EA/office manager) is not the caterer — you own the workflow, not the kitchen.",
+      "image": "/blog/2026-09-29/mycater.webp",
+      "imageAlt": "MyCater product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "stan",
+      "name": "Stan",
+      "listingNote": null,
+      "description": "Creator storefront / “make a living online” platform (stan.store) — link-in-bio commerce for digital products and services.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3.57M MRR, ~101.6k active subscriptions, ~$2.84M L30, ~$76.6M all-time. Stripe API key expired; data last updated Apr 20, 2026 — treat as last verified snapshot, not live.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stan"
+        }
+      ],
+      "homepage": "https://stan.store",
+      "indieAngle": "Proof that a simple creator checkout layer can out-earn almost every “AI wrapper” on the leaderboard.",
+      "image": "/blog/2026-09-29/stan.webp",
+      "imageAlt": "Stan product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "windmill-growth",
+      "name": "Windmill Growth",
+      "listingNote": null,
+      "description": "Done-for-you personal branding / LinkedIn content service for B2B founders (~$3,999/mo retainers).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$111.7k MRR, 79 active subscriptions, ~$113k L30, ~$2.17M all-time, bootstrapped, founded May 2024. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/windmill-growth-llc"
+        }
+      ],
+      "homepage": "https://windmillgrowth.com",
+      "indieAngle": "Service-as-SaaS billing at ~$4k/seat — fewer customers, real cash, if you can deliver LinkedIn output consistently.",
+      "image": "/blog/2026-09-29/windmill-growth.webp",
+      "imageAlt": "Windmill Growth product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "prosp",
+      "name": "PROSP",
+      "listingNote": null,
+      "description": "LinkedIn outreach automation with AI personalization (prosp.ai); listed for sale on TrustMRR.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$128.0k MRR, 1,108 active subscriptions, ~$98.5k L30, ~$507k all-time. Stripe key expired; data last updated Feb 5, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/prosp"
+        }
+      ],
+      "homepage": "https://prosp.ai",
+      "indieAngle": "Outbound tooling still prints; the moat is account warm-up / proxy ops, not the LLM copy.",
+      "image": "/blog/2026-09-29/prosp.webp",
+      "imageAlt": "PROSP product image",
+      "imageWidth": 1200,
+      "imageHeight": 664
+    },
+    {
+      "slug": "dataexpert-techcreator",
+      "name": "DataExpert / TechCreator",
+      "listingNote": null,
+      "description": "Data engineering + AI upskilling education (courses / community) at dataexpert.io — ~$119/mo.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$56.0k MRR, 877 active subscriptions, ~$51.5k L30, ~$4.72M all-time, founded Mar 2023. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dataexpert-techcreator"
+        }
+      ],
+      "homepage": "https://dataexpert.io",
+      "indieAngle": "Niche technical education with free cloud sandbox access — content → paid cohort, not another chat UI.",
+      "image": "/blog/2026-09-29/dataexpert-techcreator.webp",
+      "imageAlt": "DataExpert / TechCreator product image",
+      "imageWidth": 1200,
+      "imageHeight": 1200
+    },
+    {
+      "slug": "controlresell",
+      "name": "ControlResell",
+      "listingNote": null,
+      "description": "Ops OS for pro resellers (Vinted, Shopify, etc.) — listings, negotiation, relisting, sales/purchase tracking. France-first.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$21.5k MRR, 442 active subscriptions, ~$24.1k L30, ~$140k all-time, founded Jan 2025. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/controlresell"
+        }
+      ],
+      "homepage": "https://controlresell.com",
+      "indieAngle": "Pick one marketplace vertical (resale, repair, trades) and own the daily workflow — YouTube + podcast as acquisition.",
+      "image": "/blog/2026-09-29/controlresell.webp",
+      "imageAlt": "ControlResell product image",
+      "imageWidth": 1200,
+      "imageHeight": 1200
+    },
+    {
+      "slug": "myfrank",
+      "name": "MyFrank",
+      "listingNote": null,
+      "description": "B2B SaaS that gamifies Google review collection per employee (QR codes, challenges, multi-location tracking). For sale per founder note.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$10.6k MRR, 180 active subscriptions, ~$5.7k L30, ~$68.6k all-time, founded Jun 2025. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/myfrank"
+        }
+      ],
+      "homepage": "https://myfrank.io",
+      "indieAngle": "Solo-plausible local-SEO wedge — sell to franchise/multi-location ops, not to consumers.",
+      "image": "/blog/2026-09-29/myfrank.webp",
+      "imageAlt": "MyFrank product image",
+      "imageWidth": 1200,
+      "imageHeight": 676
+    },
+    {
+      "slug": "image-charts",
+      "name": "Image-Charts",
+      "listingNote": null,
+      "description": "Chart-as-image API for emails, PDFs, and chatbots (Google Image Charts spiritual successor). Bootstrapped since 2017.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6.3k MRR, 50 active subscriptions, ~$2.4k L30, ~$541k all-time, founded Jan 2017. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/image-charts"
+        }
+      ],
+      "homepage": "https://image-charts.com",
+      "indieAngle": "Longevity proof — a narrow API can compound for a decade without chasing AI hype.",
+      "image": "/blog/2026-09-29/image-charts.webp",
+      "imageAlt": "Image-Charts product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "geswork",
+      "name": "GESWORK",
+      "listingNote": null,
+      "description": "Modular management software for French service companies (ops / productivity suite).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3.7k MRR, 41 active subscriptions, ~$4.0k L30, ~$113k all-time, founded Feb 2024. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/geswork"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/valideo"
+        }
+      ],
+      "homepage": "https://geswork.fr",
+      "indieAngle": "Most solo-plausible ops suite of the day — country-specific service software still underserved.",
+      "image": "/blog/2026-09-29/geswork.webp",
+      "imageAlt": "GESWORK product image",
+      "imageWidth": 1200,
+      "imageHeight": 1200
+    },
+    {
+      "slug": "mon-atelier",
+      "name": "Mon Atelier",
+      "listingNote": null,
+      "description": "All-in-one ERP for French repair shops (phone, PC, appliance, bike): tickets, NF525 invoices, stock, POS, booking, QualiRépar, police ledger. From €19/mo. Solo founder, 48 shops.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2.3k MRR, 56 active subscriptions, ~$2.8k L30, ~$15.2k all-time, founded Mar 2026, team of 1, bootstrapped. Last sync Sep 29, 2026. Founder claims 48 shops, zero marketing spend, franchise onboarding soon (company-stated on TrustMRR profile).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mon-atelier"
+        },
+        {
+          "label": "monatelier.net",
+          "url": "https://monatelier.net/"
+        }
+      ],
+      "homepage": "https://monatelier.net",
+      "indieAngle": "Closest Conductor cousin today — pick a regulated vertical, bake compliance in, charge €19–39/mo forever.",
+      "image": "/blog/2026-09-29/mon-atelier.webp",
+      "imageAlt": "Mon Atelier product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Avenue",
+      "note": "~$85k AUD/mo (~$50k+ USD), self-reported via Stork, Sep 2026"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dataexpert-techcreator",
+  "name": "DataExpert / TechCreator",
+  "listingNote": null,
+  "description": "Data engineering + AI upskilling education (courses / community) at dataexpert.io — ~$119/mo.",
+  "homepage": "https://dataexpert.io",
+  "image": "/blog/2026-09-29/dataexpert-techcreator.webp",
+  "imageAlt": "DataExpert / TechCreator product image",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$56.0k MRR, 877 active subscriptions, ~$51.5k L30, ~$4.72M all-time, founded Mar 2023. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dataexpert-techcreator"
+        }
+      ],
+      "indieAngle": "Niche technical education with free cloud sandbox access — content → paid cohort, not another chat UI."
+    }
+  ]
+}

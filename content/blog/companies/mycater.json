@@ -1,0 +1,25 @@
+{
+  "slug": "mycater",
+  "name": "MyCater",
+  "listingNote": null,
+  "description": "B2B catering marketplace for French companies — breakfast, lunch, events, cocktails — with ordering, invoicing, and curated caterers in one place.",
+  "homepage": "https://mycater.fr",
+  "image": "/blog/2026-09-29/mycater.webp",
+  "imageAlt": "MyCater product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$76.0k last 30 days, ~$2.43M all-time, MRR $0 (transaction model), ~1,000 users claimed, team 2–5, bootstrapped, founded Nov 2020. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mycater"
+        }
+      ],
+      "indieAngle": "Vertical B2B marketplace where the buyer (EA/office manager) is not the caterer — you own the workflow, not the kitchen."
+    }
+  ]
+}

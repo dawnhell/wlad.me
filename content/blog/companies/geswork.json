@@ -1,0 +1,29 @@
+{
+  "slug": "geswork",
+  "name": "GESWORK",
+  "listingNote": null,
+  "description": "Modular management software for French service companies (ops / productivity suite).",
+  "homepage": "https://geswork.fr",
+  "image": "/blog/2026-09-29/geswork.webp",
+  "imageAlt": "GESWORK product image",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3.7k MRR, 41 active subscriptions, ~$4.0k L30, ~$113k all-time, founded Feb 2024. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/geswork"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/valideo"
+        }
+      ],
+      "indieAngle": "Most solo-plausible ops suite of the day — country-specific service software still underserved."
+    }
+  ]
+}

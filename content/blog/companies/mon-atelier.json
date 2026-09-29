@@ -1,0 +1,29 @@
+{
+  "slug": "mon-atelier",
+  "name": "Mon Atelier",
+  "listingNote": null,
+  "description": "All-in-one ERP for French repair shops (phone, PC, appliance, bike): tickets, NF525 invoices, stock, POS, booking, QualiRépar, police ledger. From €19/mo. Solo founder, 48 shops.",
+  "homepage": "https://monatelier.net",
+  "image": "/blog/2026-09-29/mon-atelier.webp",
+  "imageAlt": "Mon Atelier product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2.3k MRR, 56 active subscriptions, ~$2.8k L30, ~$15.2k all-time, founded Mar 2026, team of 1, bootstrapped. Last sync Sep 29, 2026. Founder claims 48 shops, zero marketing spend, franchise onboarding soon (company-stated on TrustMRR profile).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mon-atelier"
+        },
+        {
+          "label": "monatelier.net",
+          "url": "https://monatelier.net/"
+        }
+      ],
+      "indieAngle": "Closest Conductor cousin today — pick a regulated vertical, bake compliance in, charge €19–39/mo forever."
+    }
+  ]
+}

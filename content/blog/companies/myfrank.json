@@ -1,0 +1,25 @@
+{
+  "slug": "myfrank",
+  "name": "MyFrank",
+  "listingNote": null,
+  "description": "B2B SaaS that gamifies Google review collection per employee (QR codes, challenges, multi-location tracking). For sale per founder note.",
+  "homepage": "https://myfrank.io",
+  "image": "/blog/2026-09-29/myfrank.webp",
+  "imageAlt": "MyFrank product image",
+  "imageWidth": 1200,
+  "imageHeight": 676,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$10.6k MRR, 180 active subscriptions, ~$5.7k L30, ~$68.6k all-time, founded Jun 2025. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/myfrank"
+        }
+      ],
+      "indieAngle": "Solo-plausible local-SEO wedge — sell to franchise/multi-location ops, not to consumers."
+    }
+  ]
+}

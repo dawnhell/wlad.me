@@ -1,0 +1,25 @@
+{
+  "slug": "prosp",
+  "name": "PROSP",
+  "listingNote": null,
+  "description": "LinkedIn outreach automation with AI personalization (prosp.ai); listed for sale on TrustMRR.",
+  "homepage": "https://prosp.ai",
+  "image": "/blog/2026-09-29/prosp.webp",
+  "imageAlt": "PROSP product image",
+  "imageWidth": 1200,
+  "imageHeight": 664,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$128.0k MRR, 1,108 active subscriptions, ~$98.5k L30, ~$507k all-time. Stripe key expired; data last updated Feb 5, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/prosp"
+        }
+      ],
+      "indieAngle": "Outbound tooling still prints; the moat is account warm-up / proxy ops, not the LLM copy."
+    }
+  ]
+}

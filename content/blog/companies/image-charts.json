@@ -1,0 +1,25 @@
+{
+  "slug": "image-charts",
+  "name": "Image-Charts",
+  "listingNote": null,
+  "description": "Chart-as-image API for emails, PDFs, and chatbots (Google Image Charts spiritual successor). Bootstrapped since 2017.",
+  "homepage": "https://image-charts.com",
+  "image": "/blog/2026-09-29/image-charts.webp",
+  "imageAlt": "Image-Charts product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6.3k MRR, 50 active subscriptions, ~$2.4k L30, ~$541k all-time, founded Jan 2017. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/image-charts"
+        }
+      ],
+      "indieAngle": "Longevity proof — a narrow API can compound for a decade without chasing AI hype."
+    }
+  ]
+}

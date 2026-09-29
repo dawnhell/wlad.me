@@ -1,0 +1,25 @@
+{
+  "slug": "controlresell",
+  "name": "ControlResell",
+  "listingNote": null,
+  "description": "Ops OS for pro resellers (Vinted, Shopify, etc.) — listings, negotiation, relisting, sales/purchase tracking. France-first.",
+  "homepage": "https://controlresell.com",
+  "image": "/blog/2026-09-29/controlresell.webp",
+  "imageAlt": "ControlResell product image",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$21.5k MRR, 442 active subscriptions, ~$24.1k L30, ~$140k all-time, founded Jan 2025. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/controlresell"
+        }
+      ],
+      "indieAngle": "Pick one marketplace vertical (resale, repair, trades) and own the daily workflow — YouTube + podcast as acquisition."
+    }
+  ]
+}

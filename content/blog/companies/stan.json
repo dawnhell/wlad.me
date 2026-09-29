@@ -1,0 +1,25 @@
+{
+  "slug": "stan",
+  "name": "Stan",
+  "listingNote": null,
+  "description": "Creator storefront / “make a living online” platform (stan.store) — link-in-bio commerce for digital products and services.",
+  "homepage": "https://stan.store",
+  "image": "/blog/2026-09-29/stan.webp",
+  "imageAlt": "Stan product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3.57M MRR, ~101.6k active subscriptions, ~$2.84M L30, ~$76.6M all-time. Stripe API key expired; data last updated Apr 20, 2026 — treat as last verified snapshot, not live.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stan"
+        }
+      ],
+      "indieAngle": "Proof that a simple creator checkout layer can out-earn almost every “AI wrapper” on the leaderboard."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "windmill-growth",
+  "name": "Windmill Growth",
+  "listingNote": null,
+  "description": "Done-for-you personal branding / LinkedIn content service for B2B founders (~$3,999/mo retainers).",
+  "homepage": "https://windmillgrowth.com",
+  "image": "/blog/2026-09-29/windmill-growth.webp",
+  "imageAlt": "Windmill Growth product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$111.7k MRR, 79 active subscriptions, ~$113k L30, ~$2.17M all-time, bootstrapped, founded May 2024. Last sync Sep 29, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/windmill-growth-llc"
+        }
+      ],
+      "indieAngle": "Service-as-SaaS billing at ~$4k/seat — fewer customers, real cash, if you can deliver LinkedIn output consistently."
+    }
+  ]
+}
