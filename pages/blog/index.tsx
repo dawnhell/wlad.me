@@ -10,6 +10,7 @@ type EditionSummary = {
   title: string
   dek: string
   companyNames: string[]
+  hero: Pick<Hero, 'src' | 'alt' | 'width' | 'height'>
 }
 
 type CompanySummary = {
@@ -25,9 +26,49 @@ type BlogIndexProps = {
   companies: CompanySummary[]
 }
 
+const EditionCard = ({
+  edition,
+  priority = false,
+  imageClassName,
+  heading,
+}: {
+  edition: EditionSummary
+  priority?: boolean
+  imageClassName: string
+  heading: 'h2' | 'h3'
+}) => {
+  const Title = heading
+  return (
+    <a
+      href={`/blog/${edition.date}`}
+      className="block overflow-hidden rounded-xl border border-border bg-card shadow-[var(--shadow-border)] fine-hover:bg-muted"
+    >
+      <Image
+        src={edition.hero.src}
+        alt=""
+        width={edition.hero.width}
+        height={edition.hero.height}
+        priority={priority}
+        sizes="(min-width: 1024px) 960px, 100vw"
+        className={imageClassName}
+      />
+      <div className="flex flex-col gap-2 p-4 sm:p-5">
+        <time dateTime={edition.date} className="text-sm text-muted-foreground">
+          {formatEditionDate(edition.date)}
+        </time>
+        <Title className="font-serif text-2xl font-normal text-balance">
+          {edition.title}
+        </Title>
+        <p className="text-sm leading-relaxed text-muted-foreground">
+          {edition.companyNames.join(' · ')}
+        </p>
+      </div>
+    </a>
+  )
+}
+
 const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
   latest,
-  hero,
   older,
   companies,
 }) => {
@@ -53,52 +94,25 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
       </header>
 
       <article className="w-full">
-        <a
-          href={`/blog/${latest.date}`}
-          className="block overflow-hidden rounded-xl border border-border bg-card shadow-[var(--shadow-border)] fine-hover:bg-muted"
-        >
-          <Image
-            src={hero.src}
-            alt=""
-            width={hero.width}
-            height={hero.height}
-            priority
-            sizes="(min-width: 1024px) 960px, 100vw"
-            className="h-40 w-full object-cover sm:h-56"
-          />
-          <div className="flex flex-col gap-2 p-4 sm:p-5">
-            <time dateTime={latest.date} className="text-sm text-muted-foreground">
-              {formatEditionDate(latest.date)}
-            </time>
-            <h2 className="font-serif text-2xl font-normal text-balance">
-              {latest.title}
-            </h2>
-            <p className="text-sm leading-relaxed text-muted-foreground">
-              {latest.companyNames.join(' · ')}
-            </p>
-          </div>
-        </a>
+        <EditionCard
+          edition={latest}
+          priority
+          heading="h2"
+          imageClassName="h-40 w-full object-cover sm:h-56"
+        />
       </article>
 
       {older.length > 0 ? (
         <section className="flex w-full flex-col gap-4">
           <h2 className="font-serif text-2xl font-normal">Earlier editions</h2>
-          <ul className="flex flex-col">
+          <ul className="flex flex-col gap-4">
             {older.map((edition) => (
-              <li key={edition.date} className="border-t border-border">
-                <a
-                  href={`/blog/${edition.date}`}
-                  className="flex flex-col gap-1 py-4 fine-hover:text-primary"
-                >
-                  <time dateTime={edition.date} className="text-sm text-muted-foreground">
-                    {formatEditionDate(edition.date)}
-                  </time>
-                  <span className="font-medium">{edition.title}</span>
-                  <span className="text-sm text-muted-foreground">
-                    {edition.companyNames.length} products ·{' '}
-                    {edition.companyNames.slice(0, 4).join(', ')}
-                  </span>
-                </a>
+              <li key={edition.date}>
+                <EditionCard
+                  edition={edition}
+                  heading="h3"
+                  imageClassName="h-36 w-full object-cover sm:h-48"
+                />
               </li>
             ))}
           </ul>
@@ -152,12 +166,21 @@ export async function getStaticProps() {
   const latestEdition = editions[0]
   if (!latestEdition) return { notFound: true }
   const hero = getHero(latestEdition.heroId)
-  const summarize = (edition: typeof latestEdition) => ({
-    date: edition.date,
-    title: edition.title,
-    dek: edition.dek,
-    companyNames: edition.companies.map((company) => company.name),
-  })
+  const summarize = (edition: typeof latestEdition): EditionSummary => {
+    const editionHero = getHero(edition.heroId)
+    return {
+      date: edition.date,
+      title: edition.title,
+      dek: edition.dek,
+      companyNames: edition.companies.map((company) => company.name),
+      hero: {
+        src: editionHero.src,
+        alt: editionHero.alt,
+        width: editionHero.width,
+        height: editionHero.height,
+      },
+    }
+  }
 
   return {
     props: {
