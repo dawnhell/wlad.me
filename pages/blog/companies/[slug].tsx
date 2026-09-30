@@ -154,7 +154,7 @@ CompanyPage.getLayout = function getLayout(
     <Layout
       title={`${company.name} revenue notes | Boring SaaS`}
       description={description}
-      image={company.image || '/circle_me.png'}
+      image={company.image || '/circle_me.jpg'}
       mainAlign="start"
       ogType="article"
       publishedTime={`${latest.date}T00:00:00Z`}

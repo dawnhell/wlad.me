@@ -101,10 +101,10 @@ const Bio: FC = () => {
         <motion.img
           {...enter(0.05)}
           className="img-outline size-52 shrink-0 rounded-full object-cover"
-          src="/circle_me.png"
+          src="/circle_me.webp"
           alt="Portrait of Wlad"
-          width={208}
-          height={208}
+          width={624}
+          height={588}
         />
       </div>
     </div>
