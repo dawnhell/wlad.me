@@ -1,0 +1,25 @@
+{
+  "slug": "easy-moving-permits",
+  "name": "Easy Moving Permits",
+  "listingNote": null,
+  "description": "Online platform to apply for and manage moving / street / dumpster / scaffolding parking permits across cities — transparent pricing including city fees + service charge; charged per application via Stripe.",
+  "homepage": "https://easymovingpermits.com",
+  "image": "/blog/2026-09-30/easy-moving-permits.webp",
+  "imageAlt": "Easy Moving Permits product image",
+  "imageWidth": 188,
+  "imageHeight": 300,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2.0k L30, MRR $0 / no active subscriptions (transaction model), ~$24.4k all-time, founded Nov 2025, US. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/easy-moving-permits"
+        }
+      ],
+      "indieAngle": "Government-process UX for one city → expand city-by-city; service fee on top of municipal fees."
+    }
+  ]
+}

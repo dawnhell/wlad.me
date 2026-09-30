@@ -1,0 +1,25 @@
+{
+  "slug": "heron-copier",
+  "name": "Heron Copier",
+  "listingNote": null,
+  "description": "Multi-platform trade copier + trading journal — copy between cTrader, MT4/MT5, TradeLocker, MatchTrader, DXtrade, Telegram; cloud or local, no VPS required.",
+  "homepage": "https://heroncopier.com",
+  "image": "/blog/2026-09-30/heron-copier.webp",
+  "imageAlt": "Heron Copier product image",
+  "imageWidth": 1200,
+  "imageHeight": 788,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "creem-verified",
+      "evidence": "~$8.3k MRR, 492 active subscriptions, ~$8.2k L30, ~$496k all-time, founded Jun 2023, Indonesia. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/heron-copier"
+        }
+      ],
+      "indieAngle": "Own one painful workflow inside a trading stack (copy, journal, risk) and charge $19/mo forever."
+    }
+  ]
+}

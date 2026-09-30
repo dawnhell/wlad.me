@@ -1,0 +1,25 @@
+{
+  "slug": "medpilot",
+  "name": "MedPilot",
+  "listingNote": null,
+  "description": "AI receptionist / patient-booking stack for medical practices — after-hours calls, no-show recovery, lead follow-up. Pricing starts ~$297–$2,497/mo (quote-based).",
+  "homepage": "https://medpilothq.com",
+  "image": "/blog/2026-09-30/medpilot.webp",
+  "imageAlt": "MedPilot product image",
+  "imageWidth": 1200,
+  "imageHeight": 1080,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$44.7k L30, ~$795k all-time, listed MRR ~$302 with 63 active subscriptions (L30 >> MRR — treat as mixed/usage billing, not pure seat SaaS). Founded Oct 2022, US. Last sync Sep 30, 2026. Listed domain medpilothq.com (homepage was unreachable from our fetch; image from TrustMRR landing screenshot).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/medpilot"
+        }
+      ],
+      "indieAngle": "Vertical \"answer the phone + book the calendar\" for one regulated niche beats horizontal AI chat."
+    }
+  ]
+}

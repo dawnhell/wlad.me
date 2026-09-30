@@ -4,7 +4,11 @@ import { SITE_URL } from './site'
 
 export const PERSON_ID = `${SITE_URL}#person`
 
-export type EvidenceKind = 'stripe-verified' | 'self-reported'
+export type EvidenceKind =
+  | 'stripe-verified'
+  | 'creem-verified'
+  | 'polar-verified'
+  | 'self-reported'
 
 export type BlogSource = {
   label: string
@@ -84,7 +88,10 @@ export function formatEditionDate(isoDate: string) {
 }
 
 export function evidenceLabel(kind: EvidenceKind) {
-  return kind === 'stripe-verified' ? 'Stripe-verified' : 'Self-reported'
+  if (kind === 'stripe-verified') return 'Stripe-verified'
+  if (kind === 'creem-verified') return 'Creem-verified'
+  if (kind === 'polar-verified') return 'Polar-verified'
+  return 'Self-reported'
 }
 
 export function latestMention(company: Company) {

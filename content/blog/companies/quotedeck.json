@@ -1,0 +1,25 @@
+{
+  "slug": "quotedeck",
+  "name": "QuoteDeck",
+  "listingNote": null,
+  "description": "Insurance SaaS for agents/agencies to create and present professional life & health quotes (vs screenshots, messy PDFs, phone chase). Solo founder, bootstrapped. ~$60–$140/mo.",
+  "homepage": "https://quotedeck.app",
+  "image": "/blog/2026-09-30/quotedeck.webp",
+  "imageAlt": "QuoteDeck product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2.1k MRR, 11 active subscriptions, ~$1.2k L30, ~$17.5k all-time, team of 1, founded Nov 2025, US. Last sync Sep 30, 2026. (Listed for sale on TrustMRR marketplace recently.)",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quotedeck-llc"
+        }
+      ],
+      "indieAngle": "Most solo-plausible vertical of the day — one licensed niche, quote → signature → compliance."
+    }
+  ]
+}

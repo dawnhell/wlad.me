@@ -1,0 +1,25 @@
+{
+  "slug": "expensent",
+  "name": "Expensent",
+  "listingNote": null,
+  "description": "Finds receipts/invoices in Gmail/Outlook/IMAP and forwards them to your accountant, QuickBooks, Xero, Expensify, etc. — one-click catch-up + auto-forward rules. Solo, bootstrapped, Portugal. Solo ~$19/mo, Pro ~$59/mo.",
+  "homepage": "https://expensent.com",
+  "image": "/blog/2026-09-30/expensent.webp",
+  "imageAlt": "Expensent product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$845 MRR, ~$755 L30, ~$2.6k all-time, ~50 users claimed, team of 1, founded Dec 2025. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/expensent"
+        }
+      ],
+      "indieAngle": "Earliest-stage Conductor-shaped hit of the day — own the \"get invoices to the books\" wedge before building a full ledger."
+    }
+  ]
+}

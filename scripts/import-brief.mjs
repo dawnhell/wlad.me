@@ -68,12 +68,19 @@ function parseSources(body) {
   return sources
 }
 
+function evidenceKindFromLabel(label) {
+  if (/stripe/i.test(label)) return 'stripe-verified'
+  if (/creem/i.test(label)) return 'creem-verified'
+  if (/polar/i.test(label)) return 'polar-verified'
+  return 'self-reported'
+}
+
 function parseMoney(body) {
   const match = body.match(/\*\*Money evidence(?: \(([^)]*)\))?:\*\*\s*(.+)/)
   if (!match) return null
   const label = match[1] || ''
   return {
-    evidenceKind: /stripe/i.test(label) ? 'stripe-verified' : 'self-reported',
+    evidenceKind: evidenceKindFromLabel(label),
     evidence: match[2].trim(),
   }
 }
@@ -81,9 +88,14 @@ function parseMoney(body) {
 function parseHonorable(body) {
   return body
     .split('\n')
-    .map((line) => line.match(/^- \*\*(.+?)\*\*:\s*(.+)$/))
+    .map((line) => {
+      const colon = line.match(/^- \*\*(.+?)\*\*:\s*(.+)$/)
+      if (colon) return { name: colon[1].trim(), note: colon[2].trim() }
+      const dash = line.match(/^- \*\*(.+?)\*\*\s*(?:\([^)]*\)\s*)?[—–-]\s*(.+)$/)
+      if (dash) return { name: dash[1].trim(), note: dash[2].trim() }
+      return null
+    })
     .filter(Boolean)
-    .map((match) => ({ name: match[1].trim(), note: match[2].trim() }))
 }
 
 async function compressImage(inputPath, outputPath) {
@@ -155,6 +167,32 @@ function parseBrief(markdown, briefDir, date) {
   }
 
   return { companies, honorableMentions }
+}
+
+function editionDek(companies, formatted) {
+  const counts = new Map()
+  for (const company of companies) {
+    counts.set(company.evidenceKind, (counts.get(company.evidenceKind) || 0) + 1)
+  }
+  const labels = [
+    ['stripe-verified', 'Stripe-verified'],
+    ['creem-verified', 'Creem-verified'],
+    ['polar-verified', 'Polar-verified'],
+    ['self-reported', 'self-reported'],
+  ]
+  const parts = labels
+    .filter(([kind]) => counts.get(kind))
+    .map(([kind, label]) => {
+      const count = counts.get(kind)
+      return `${count} ${count === 1 ? 'is' : 'are'} ${label}`
+    })
+  const summary =
+    parts.length === 0
+      ? ''
+      : parts.length === 1
+        ? `${parts[0]}.`
+        : `${parts.slice(0, -1).join(', ')} and ${parts.at(-1)}.`
+  return `Revenue notes on ${companies.length} products for ${formatted}. ${summary} Each figure links to its source.`
 }
 
 function prettyDate(isoDate) {
@@ -402,15 +440,11 @@ async function main() {
     writeCompany(company)
   }
 
-  const verified = editionCompanies.filter(
-    (company) => company.evidenceKind === 'stripe-verified',
-  ).length
-  const selfReported = editionCompanies.length - verified
   const formatted = prettyDate(date)
   const edition = {
     date,
     title: `Boring SaaS ideas for ${formatted}`,
-    dek: `Revenue notes on ${editionCompanies.length} products for ${formatted}. ${verified} are labeled Stripe-verified and ${selfReported} are self-reported. Each figure links to its source.`,
+    dek: editionDek(editionCompanies, formatted),
     heroId: heroIdForDate(date, heroes),
     companies: editionCompanies,
     honorableMentions: parsed.honorableMentions,

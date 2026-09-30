@@ -17,5 +17,15 @@
   "myfrank": "Each employee gets a QR code and a challenge for collecting Google reviews. The founder has put the product up for sale.",
   "image-charts": "Developers still need a chart that shows up inside an email. The monthly figure is about $6.3k, and the all-time total has been compounding since 2017.",
   "geswork": "French service companies pay for scheduling, documents, and billing in one login. The same founder also runs Valideo, a field-report product with its own Stripe record.",
-  "mon-atelier": "Repair shops in France pay from €19 a month for tickets, invoices, and the compliance ledger. One person runs it, and the founder says 48 shops signed up with no marketing spend."
+  "mon-atelier": "Repair shops in France pay from €19 a month for tickets, invoices, and the compliance ledger. One person runs it, and the founder says 48 shops signed up with no marketing spend.",
+  "conductor": "Developers still need a bridge into QuickBooks Desktop. Conductor charges about $49 a month per company file for that, and the founder says churn is almost none.",
+  "calendesk": "Therapists, coaches, and other service pros already book clients and take deposits. Calendesk is that workflow, priced around $79 to $147 a month.",
+  "soldcomps": "Resellers price from what actually sold. SoldComps sells that eBay history as an API, from $9 to $79 a month.",
+  "medpilot": "Clinics pay so someone answers after-hours calls and fills empty chairs. The last 30 days show about $44.7k, well above the listed subscription figure, because the bill mixes usage and setup.",
+  "seobot": "Founders pay about $49 a month for an agent that researches keywords and publishes the blog. It was only an honorable mention on 28 September; today's Stripe sync puts it near $39.1k MRR.",
+  "heron-copier": "Traders pay monthly to copy positions across cTrader, MetaTrader, and the rest, without renting a VPS. TrustMRR marks the figure Creem-verified, about $8.3k MRR.",
+  "textbee": "An Android phone becomes the SMS gateway, so there is no per-message fee. The pro plan is about $9.99 a month, and TrustMRR marks the revenue Polar-verified.",
+  "quotedeck": "Insurance agents pay about $60 to $140 a month to present a life or health quote as a proper document. One person runs it, and the listing has been for sale.",
+  "easy-moving-permits": "Movers pay per application so the permit, the city fee, and the service charge land in one checkout. Recurring revenue reads as zero because the money is the transaction.",
+  "expensent": "Receipts already sit in the inbox. Expensent forwards them to the accountant or into QuickBooks, and one person in Portugal runs it at about $845 MRR."
 }

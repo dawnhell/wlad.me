@@ -1,0 +1,25 @@
+{
+  "slug": "conductor",
+  "name": "Conductor",
+  "listingNote": null,
+  "description": "The QuickBooks Desktop & Enterprise API — real-time access to every QBD object via Python, Node/TypeScript, and REST. Abstracts Web Connector, qbXML, SOAP, and the rest of Intuit's legacy mess.",
+  "homepage": "https://conductor.is",
+  "image": "/blog/2026-09-30/conductor.webp",
+  "imageAlt": "Conductor product image",
+  "imageWidth": 1200,
+  "imageHeight": 610,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$40.5k MRR, 255 active subscriptions, ~$38.5k L30, ~$460k all-time, ~1,500 users claimed, founded Jul 2022, bootstrapped. Last sync Sep 30, 2026. Founder note on profile: ~$350k ARR, ~7% MoM, Ramp among enterprise customers, virtually no churn (company-stated on TrustMRR).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "indieAngle": "Pick a painful legacy system (QBD, on-prem ERP, country e-invoicing) and sell the API glue forever."
+    }
+  ]
+}

@@ -9,27 +9,38 @@
 
 ## Editions
 
+- [Boring SaaS ideas for 30 September 2026](https://www.wlad.me/blog/2026-09-30): Revenue notes on 10 products for 30 September 2026. 8 are Stripe-verified, 1 is Creem-verified and 1 is Polar-verified. Each figure links to its source.
 - [Boring SaaS ideas for 29 September 2026](https://www.wlad.me/blog/2026-09-29): Revenue notes on 10 products for 29 September 2026. All 10 are labeled Stripe-verified. Each figure links to its source.
 - [Boring SaaS ideas for 28 September 2026](https://www.wlad.me/blog/2026-09-28): Revenue notes on 9 products for 28 September 2026. 6 are labeled Stripe-verified and 3 are self-reported. Each figure links to its source.
 
 ## Companies
 
 - [Anonymous workforce-management SaaS](https://www.wlad.me/blog/companies/anonymous-workforce-management-saas): Scheduling/time/compliance for employers.
+- [Calendesk](https://www.wlad.me/blog/companies/calendesk): B2B booking + payments + client portal for therapists, psychologists, coaches, lawyers, beauty/fitness — white-label, subscription packages, API-first. Polish-founded, bootstrapped since 2020.
 - [Codédex](https://www.wlad.me/blog/companies/codedex): Gamified beginner coding + Club sub from ~$9.99/mo.
+- [Conductor](https://www.wlad.me/blog/companies/conductor): The QuickBooks Desktop & Enterprise API — real-time access to every QBD object via Python, Node/TypeScript, and REST. Abstracts Web Connector, qbXML, SOAP, and the rest of Intuit's legacy mess.
 - [ControlResell](https://www.wlad.me/blog/companies/controlresell): Ops OS for pro resellers (Vinted, Shopify, etc.) — listings, negotiation, relisting, sales/purchase tracking. France-first.
 - [DataExpert / TechCreator](https://www.wlad.me/blog/companies/dataexpert-techcreator): Data engineering + AI upskilling education (courses / community) at dataexpert.io — ~$119/mo.
+- [Easy Moving Permits](https://www.wlad.me/blog/companies/easy-moving-permits): Online platform to apply for and manage moving / street / dumpster / scaffolding parking permits across cities — transparent pricing including city fees + service charge; charged per application via Stripe.
+- [Expensent](https://www.wlad.me/blog/companies/expensent): Finds receipts/invoices in Gmail/Outlook/IMAP and forwards them to your accountant, QuickBooks, Xero, Expensify, etc. — one-click catch-up + auto-forward rules. Solo, bootstrapped, Portugal. Solo ~$19/mo, Pro ~$59/mo.
 - [Flocksy](https://www.wlad.me/blog/companies/flocksy): Flat-rate design/video subscription, ~$1,199–$2,999+/mo.
 - [GESWORK](https://www.wlad.me/blog/companies/geswork): Modular management software for French service companies (ops / productivity suite).
+- [Heron Copier](https://www.wlad.me/blog/companies/heron-copier): Multi-platform trade copier + trading journal — copy between cTrader, MT4/MT5, TradeLocker, MatchTrader, DXtrade, Telegram; cloud or local, no VPS required.
 - [Image-Charts](https://www.wlad.me/blog/companies/image-charts): Chart-as-image API for emails, PDFs, and chatbots (Google Image Charts spiritual successor). Bootstrapped since 2017.
+- [MedPilot](https://www.wlad.me/blog/companies/medpilot): AI receptionist / patient-booking stack for medical practices — after-hours calls, no-show recovery, lead follow-up. Pricing starts ~$297–$2,497/mo (quote-based).
 - [Mon Atelier](https://www.wlad.me/blog/companies/mon-atelier): All-in-one ERP for French repair shops (phone, PC, appliance, bike): tickets, NF525 invoices, stock, POS, booking, QualiRépar, police ledger. From €19/mo. Solo founder, 48 shops.
 - [MyCater](https://www.wlad.me/blog/companies/mycater): B2B catering marketplace for French companies — breakfast, lunch, events, cocktails — with ordering, invoicing, and curated caterers in one place.
 - [MyFrank](https://www.wlad.me/blog/companies/myfrank): B2B SaaS that gamifies Google review collection per employee (QR codes, challenges, multi-location tracking). For sale per founder note.
 - [MyPlots](https://www.wlad.me/blog/companies/myplots): Event discovery + ticketing, 20% + $1/ticket.
 - [Plutio](https://www.wlad.me/blog/companies/plutio): All-in-one app for freelancers (projects, proposals, contracts, invoices, forms).
 - [PROSP](https://www.wlad.me/blog/companies/prosp): LinkedIn outreach automation with AI personalization (prosp.ai); listed for sale on TrustMRR.
+- [QuoteDeck](https://www.wlad.me/blog/companies/quotedeck): Insurance SaaS for agents/agencies to create and present professional life & health quotes (vs screenshots, messy PDFs, phone chase). Solo founder, bootstrapped. ~$60–$140/mo.
 - [Salesrobot](https://www.wlad.me/blog/companies/salesrobot): LinkedIn + cold-email outreach automation.
+- [SEOBOT](https://www.wlad.me/blog/companies/seobot): AI agent for SEO — keywords, research, blog, mini apps, pSEO — from John Rush's stable. ~$49/mo.
+- [SoldComps](https://www.wlad.me/blog/companies/soldcomps): eBay sold-comps API for resellers and analysts — one keyword returns up to 200 completed sales with real prices, conditions, and dates.
 - [Stan](https://www.wlad.me/blog/companies/stan): Creator storefront / “make a living online” platform (stan.store) — link-in-bio commerce for digital products and services.
 - [Supademo](https://www.wlad.me/blog/companies/supademo): Interactive product demos for SaaS sales/onboarding.
 - [Supliful](https://www.wlad.me/blog/companies/supliful): Private-label CPG + fulfillment for creators.
 - [Tally](https://www.wlad.me/blog/companies/tally): Freemium form builder.
+- [textbee](https://www.wlad.me/blog/companies/textbee): Open-source Twilio alternative — turn an Android phone into an SMS gateway; send/receive programmatically with no per-message gateway fees. Free / Pro ~$9.99 / Scale ~$29.99.
 - [Windmill Growth](https://www.wlad.me/blog/companies/windmill-growth): Done-for-you personal branding / LinkedIn content service for B2B founders (~$3,999/mo retainers).

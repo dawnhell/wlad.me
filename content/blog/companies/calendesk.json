@@ -1,0 +1,25 @@
+{
+  "slug": "calendesk",
+  "name": "Calendesk",
+  "listingNote": null,
+  "description": "B2B booking + payments + client portal for therapists, psychologists, coaches, lawyers, beauty/fitness — white-label, subscription packages, API-first. Polish-founded, bootstrapped since 2020.",
+  "homepage": "https://calendesk.com",
+  "image": "/blog/2026-09-30/calendesk.webp",
+  "imageAlt": "Calendesk product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$21.5k MRR, 376 active subscriptions, ~$37.0k L30, ~$1.13M all-time, founded May 2020, Poland. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/calendesk"
+        }
+      ],
+      "indieAngle": "Country/vertical booking for regulated service pros (therapy, legal, tutoring) still underserved vs Calendly-generic."
+    }
+  ]
+}

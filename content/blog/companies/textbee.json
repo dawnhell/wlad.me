@@ -1,0 +1,25 @@
+{
+  "slug": "textbee",
+  "name": "textbee",
+  "listingNote": null,
+  "description": "Open-source Twilio alternative — turn an Android phone into an SMS gateway; send/receive programmatically with no per-message gateway fees. Free / Pro ~$9.99 / Scale ~$29.99.",
+  "homepage": "https://textbee.dev",
+  "image": "/blog/2026-09-30/textbee.webp",
+  "imageAlt": "textbee product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "polar-verified",
+      "evidence": "~$3.6k MRR, 327 active subscriptions, ~$3.7k L30, ~$31.4k all-time, ~30k users claimed, founded Nov 2024, Ethiopia, bootstrapped. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/textbee"
+        }
+      ],
+      "indieAngle": "Open-core + cheap pro tier for a commodity API (SMS, email, WhatsApp) that businesses already budget for."
+    }
+  ]
+}

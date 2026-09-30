@@ -1,0 +1,25 @@
+{
+  "slug": "seobot",
+  "name": "SEOBOT",
+  "listingNote": null,
+  "description": "AI agent for SEO — keywords, research, blog, mini apps, pSEO — from John Rush's stable. ~$49/mo.",
+  "homepage": "https://seobotai.com",
+  "image": "/blog/2026-09-30/seobot.webp",
+  "imageAlt": "SEOBOT product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$39.1k MRR, 538 active subscriptions, ~$39.8k L30, ~$1.88M all-time, ~200k users claimed, founded Sep 2023. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/seobot"
+        }
+      ],
+      "indieAngle": "Autopilot content for a specific channel (SEO/AEO) with clear $49 packaging — productized agency energy without the retainer chaos."
+    }
+  ]
+}

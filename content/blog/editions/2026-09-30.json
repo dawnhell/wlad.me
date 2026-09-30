@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-30",
+  "title": "Boring SaaS ideas for 30 September 2026",
+  "dek": "Morning internet! Here's today's revenue notes on 10 products, 30 September 2026. 8 are Stripe-verified, 1 is Creem-verified and 1 is Polar-verified. And we have verification of each of those figures.",
+  "heroId": "mountain-lake",
+  "companies": [
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop & Enterprise API — real-time access to every QBD object via Python, Node/TypeScript, and REST. Abstracts Web Connector, qbXML, SOAP, and the rest of Intuit's legacy mess.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$40.5k MRR, 255 active subscriptions, ~$38.5k L30, ~$460k all-time, ~1,500 users claimed, founded Jul 2022, bootstrapped. Last sync Sep 30, 2026. Founder note on profile: ~$350k ARR, ~7% MoM, Ramp among enterprise customers, virtually no churn (company-stated on TrustMRR).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is",
+      "indieAngle": "Pick a painful legacy system (QBD, on-prem ERP, country e-invoicing) and sell the API glue forever.",
+      "image": "/blog/2026-09-30/conductor.webp",
+      "imageAlt": "Conductor product image",
+      "imageWidth": 1200,
+      "imageHeight": 610
+    },
+    {
+      "slug": "calendesk",
+      "name": "Calendesk",
+      "listingNote": null,
+      "description": "B2B booking + payments + client portal for therapists, psychologists, coaches, lawyers, beauty/fitness — white-label, subscription packages, API-first. Polish-founded, bootstrapped since 2020.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$21.5k MRR, 376 active subscriptions, ~$37.0k L30, ~$1.13M all-time, founded May 2020, Poland. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/calendesk"
+        }
+      ],
+      "homepage": "https://calendesk.com",
+      "indieAngle": "Country/vertical booking for regulated service pros (therapy, legal, tutoring) still underserved vs Calendly-generic.",
+      "image": "/blog/2026-09-30/calendesk.webp",
+      "imageAlt": "Calendesk product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "soldcomps",
+      "name": "SoldComps",
+      "listingNote": null,
+      "description": "eBay sold-comps API for resellers and analysts — one keyword returns up to 200 completed sales with real prices, conditions, and dates.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$18.8k MRR, 488 active subscriptions, ~$18.8k L30, ~$38.1k all-time, founded Mar 2025, Canada. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/soldcomps"
+        }
+      ],
+      "homepage": "https://sold-comps.com",
+      "indieAngle": "Wrap a marketplace's awkward public data into a paid API — same shape as ControlResell ops, but for pricing intel.",
+      "image": "/blog/2026-09-30/soldcomps.webp",
+      "imageAlt": "SoldComps product image",
+      "imageWidth": 1169,
+      "imageHeight": 668
+    },
+    {
+      "slug": "medpilot",
+      "name": "MedPilot",
+      "listingNote": null,
+      "description": "AI receptionist / patient-booking stack for medical practices — after-hours calls, no-show recovery, lead follow-up. Pricing starts ~$297–$2,497/mo (quote-based).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$44.7k L30, ~$795k all-time, listed MRR ~$302 with 63 active subscriptions (L30 >> MRR — treat as mixed/usage billing, not pure seat SaaS). Founded Oct 2022, US. Last sync Sep 30, 2026. Listed domain medpilothq.com (homepage was unreachable from our fetch; image from TrustMRR landing screenshot).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/medpilot"
+        }
+      ],
+      "homepage": "https://medpilothq.com",
+      "indieAngle": "Vertical \"answer the phone + book the calendar\" for one regulated niche beats horizontal AI chat.",
+      "image": "/blog/2026-09-30/medpilot.webp",
+      "imageAlt": "MedPilot product image",
+      "imageWidth": 1200,
+      "imageHeight": 1080
+    },
+    {
+      "slug": "seobot",
+      "name": "SEOBOT",
+      "listingNote": null,
+      "description": "AI agent for SEO — keywords, research, blog, mini apps, pSEO — from John Rush's stable. ~$49/mo.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$39.1k MRR, 538 active subscriptions, ~$39.8k L30, ~$1.88M all-time, ~200k users claimed, founded Sep 2023. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/seobot"
+        }
+      ],
+      "homepage": "https://seobotai.com",
+      "indieAngle": "Autopilot content for a specific channel (SEO/AEO) with clear $49 packaging — productized agency energy without the retainer chaos.",
+      "image": "/blog/2026-09-30/seobot.webp",
+      "imageAlt": "SEOBOT product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "heron-copier",
+      "name": "Heron Copier",
+      "listingNote": null,
+      "description": "Multi-platform trade copier + trading journal — copy between cTrader, MT4/MT5, TradeLocker, MatchTrader, DXtrade, Telegram; cloud or local, no VPS required.",
+      "evidenceKind": "creem-verified",
+      "evidence": "~$8.3k MRR, 492 active subscriptions, ~$8.2k L30, ~$496k all-time, founded Jun 2023, Indonesia. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/heron-copier"
+        }
+      ],
+      "homepage": "https://heroncopier.com",
+      "indieAngle": "Own one painful workflow inside a trading stack (copy, journal, risk) and charge $19/mo forever.",
+      "image": "/blog/2026-09-30/heron-copier.webp",
+      "imageAlt": "Heron Copier product image",
+      "imageWidth": 1200,
+      "imageHeight": 788
+    },
+    {
+      "slug": "textbee",
+      "name": "textbee",
+      "listingNote": null,
+      "description": "Open-source Twilio alternative — turn an Android phone into an SMS gateway; send/receive programmatically with no per-message gateway fees. Free / Pro ~$9.99 / Scale ~$29.99.",
+      "evidenceKind": "polar-verified",
+      "evidence": "~$3.6k MRR, 327 active subscriptions, ~$3.7k L30, ~$31.4k all-time, ~30k users claimed, founded Nov 2024, Ethiopia, bootstrapped. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/textbee"
+        }
+      ],
+      "homepage": "https://textbee.dev",
+      "indieAngle": "Open-core + cheap pro tier for a commodity API (SMS, email, WhatsApp) that businesses already budget for.",
+      "image": "/blog/2026-09-30/textbee.webp",
+      "imageAlt": "textbee product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "quotedeck",
+      "name": "QuoteDeck",
+      "listingNote": null,
+      "description": "Insurance SaaS for agents/agencies to create and present professional life & health quotes (vs screenshots, messy PDFs, phone chase). Solo founder, bootstrapped. ~$60–$140/mo.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2.1k MRR, 11 active subscriptions, ~$1.2k L30, ~$17.5k all-time, team of 1, founded Nov 2025, US. Last sync Sep 30, 2026. (Listed for sale on TrustMRR marketplace recently.)",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quotedeck-llc"
+        }
+      ],
+      "homepage": "https://quotedeck.app",
+      "indieAngle": "Most solo-plausible vertical of the day — one licensed niche, quote → signature → compliance.",
+      "image": "/blog/2026-09-30/quotedeck.webp",
+      "imageAlt": "QuoteDeck product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "easy-moving-permits",
+      "name": "Easy Moving Permits",
+      "listingNote": null,
+      "description": "Online platform to apply for and manage moving / street / dumpster / scaffolding parking permits across cities — transparent pricing including city fees + service charge; charged per application via Stripe.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2.0k L30, MRR $0 / no active subscriptions (transaction model), ~$24.4k all-time, founded Nov 2025, US. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/easy-moving-permits"
+        }
+      ],
+      "homepage": "https://easymovingpermits.com",
+      "indieAngle": "Government-process UX for one city → expand city-by-city; service fee on top of municipal fees.",
+      "image": "/blog/2026-09-30/easy-moving-permits.webp",
+      "imageAlt": "Easy Moving Permits product image",
+      "imageWidth": 188,
+      "imageHeight": 300
+    },
+    {
+      "slug": "expensent",
+      "name": "Expensent",
+      "listingNote": null,
+      "description": "Finds receipts/invoices in Gmail/Outlook/IMAP and forwards them to your accountant, QuickBooks, Xero, Expensify, etc. — one-click catch-up + auto-forward rules. Solo, bootstrapped, Portugal. Solo ~$19/mo, Pro ~$59/mo.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$845 MRR, ~$755 L30, ~$2.6k all-time, ~50 users claimed, team of 1, founded Dec 2025. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/expensent"
+        }
+      ],
+      "homepage": "https://expensent.com",
+      "indieAngle": "Earliest-stage Conductor-shaped hit of the day — own the \"get invoices to the books\" wedge before building a full ledger.",
+      "image": "/blog/2026-09-30/expensent.webp",
+      "imageAlt": "Expensent product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Shopquantum / BestFulfill",
+      "note": "Stripe-verified fulfillment/analytics ops, ~$2.12M all-time, MRR shown as none (transaction/ops model). L30 not clearly listed on profile title. Homepage had no og:image."
+    },
+    {
+      "name": "AEO Engine",
+      "note": "Stripe-verified AI SEO agency, ~$128k MRR / ~$161k L30 / ~$2.46M all-time / 51 subs (was Sep 28 honorable; still printing)."
+    },
+    {
+      "name": "Scantrader",
+      "note": "Stripe-verified AI trading analysis ~$11.2k MRR / 289 subs / ~$16.8k L30; for sale on marketplace."
+    },
+    {
+      "name": "Presscart",
+      "note": "media placement marketplace ~$62k L30 / ~$3.27M all-time; Stripe sync stale since Jul 17, 2026."
+    },
+    {
+      "name": "Roofclaw",
+      "note": "preconfigured AI MacBooks for roofing ops; ~$1.86M all-time Stripe-verified (hardware + services hybrid)."
+    }
+  ]
+}

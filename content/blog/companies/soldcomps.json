@@ -1,0 +1,25 @@
+{
+  "slug": "soldcomps",
+  "name": "SoldComps",
+  "listingNote": null,
+  "description": "eBay sold-comps API for resellers and analysts — one keyword returns up to 200 completed sales with real prices, conditions, and dates.",
+  "homepage": "https://sold-comps.com",
+  "image": "/blog/2026-09-30/soldcomps.webp",
+  "imageAlt": "SoldComps product image",
+  "imageWidth": 1169,
+  "imageHeight": 668,
+  "mentions": [
+    {
+      "date": "2026-09-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$18.8k MRR, 488 active subscriptions, ~$18.8k L30, ~$38.1k all-time, founded Mar 2025, Canada. Last sync Sep 30, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/soldcomps"
+        }
+      ],
+      "indieAngle": "Wrap a marketplace's awkward public data into a paid API — same shape as ControlResell ops, but for pricing intel."
+    }
+  ]
+}
