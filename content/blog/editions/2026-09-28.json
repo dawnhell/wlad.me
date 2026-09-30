@@ -200,11 +200,13 @@
   "honorableMentions": [
     {
       "name": "SEOBOT",
-      "note": "~$39k MRR, ~$1.88M all-time, Stripe"
+      "note": "~$39k MRR, ~$1.88M all-time, Stripe",
+      "homepage": "https://seobotai.com"
     },
     {
       "name": "AEO Engine",
-      "note": "~$130k MRR agency"
+      "note": "~$130k MRR agency",
+      "homepage": "https://aeoengine.ai"
     },
     {
       "name": "LLM Gateway",

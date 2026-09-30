@@ -34,6 +34,7 @@ export type EditionCompany = {
 export type HonorableMention = {
   name: string
   note: string
+  homepage?: string | null
 }
 
 export type Hero = {

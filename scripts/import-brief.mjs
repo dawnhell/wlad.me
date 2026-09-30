@@ -85,14 +85,44 @@ function parseMoney(body) {
   }
 }
 
+function homepageFromText(text) {
+  if (!text) return null
+  const urls = [...text.matchAll(/https?:\/\/[^\s,)]+/g)].map((match) =>
+    match[0].replace(/[),.;]+$/, ''),
+  )
+  for (const url of urls) {
+    try {
+      const host = new URL(url).hostname.replace(/^www\./, '')
+      if (host !== 'trustmrr.com') return url
+    } catch {
+      continue
+    }
+  }
+  return null
+}
+
 function parseHonorable(body) {
   return body
     .split('\n')
     .map((line) => {
       const colon = line.match(/^- \*\*(.+?)\*\*:\s*(.+)$/)
-      if (colon) return { name: colon[1].trim(), note: colon[2].trim() }
-      const dash = line.match(/^- \*\*(.+?)\*\*\s*(?:\([^)]*\)\s*)?[—–-]\s*(.+)$/)
-      if (dash) return { name: dash[1].trim(), note: dash[2].trim() }
+      if (colon) {
+        return {
+          name: colon[1].trim(),
+          note: colon[2].trim(),
+          homepage: homepageFromText(colon[2]),
+        }
+      }
+      const dash = line.match(
+        /^- \*\*(.+?)\*\*(?:\s+\(([^)]*)\))?\s*[—–-]\s*(.+)$/,
+      )
+      if (dash) {
+        return {
+          name: dash[1].trim(),
+          note: dash[3].trim(),
+          homepage: homepageFromText(dash[2] || ''),
+        }
+      }
       return null
     })
     .filter(Boolean)

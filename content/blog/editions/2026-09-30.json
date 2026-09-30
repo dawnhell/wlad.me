@@ -208,23 +208,28 @@
   "honorableMentions": [
     {
       "name": "Shopquantum / BestFulfill",
-      "note": "Stripe-verified fulfillment/analytics ops, ~$2.12M all-time, MRR shown as none (transaction/ops model). L30 not clearly listed on profile title. Homepage had no og:image."
+      "note": "Stripe-verified fulfillment/analytics ops, ~$2.12M all-time, MRR shown as none (transaction/ops model). L30 not clearly listed on profile title. Homepage had no og:image.",
+      "homepage": "https://bestfulfill.com"
     },
     {
       "name": "AEO Engine",
-      "note": "Stripe-verified AI SEO agency, ~$128k MRR / ~$161k L30 / ~$2.46M all-time / 51 subs (was Sep 28 honorable; still printing)."
+      "note": "Stripe-verified AI SEO agency, ~$128k MRR / ~$161k L30 / ~$2.46M all-time / 51 subs (was Sep 28 honorable; still printing).",
+      "homepage": "https://aeoengine.ai"
     },
     {
       "name": "Scantrader",
-      "note": "Stripe-verified AI trading analysis ~$11.2k MRR / 289 subs / ~$16.8k L30; for sale on marketplace."
+      "note": "Stripe-verified AI trading analysis ~$11.2k MRR / 289 subs / ~$16.8k L30; for sale on marketplace.",
+      "homepage": "https://scantrader.app"
     },
     {
       "name": "Presscart",
-      "note": "media placement marketplace ~$62k L30 / ~$3.27M all-time; Stripe sync stale since Jul 17, 2026."
+      "note": "media placement marketplace ~$62k L30 / ~$3.27M all-time; Stripe sync stale since Jul 17, 2026.",
+      "homepage": "https://presscart.com"
     },
     {
       "name": "Roofclaw",
-      "note": "preconfigured AI MacBooks for roofing ops; ~$1.86M all-time Stripe-verified (hardware + services hybrid)."
+      "note": "preconfigured AI MacBooks for roofing ops; ~$1.86M all-time Stripe-verified (hardware + services hybrid).",
+      "homepage": "https://roofclaw.com"
     }
   ]
 }

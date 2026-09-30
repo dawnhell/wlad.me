@@ -3,6 +3,7 @@ import type { ReactElement } from 'react'
 import Breadcrumbs from '../../components/blog/Breadcrumbs'
 import CompanyCard from '../../components/blog/CompanyCard'
 import EditionHero from '../../components/blog/EditionHero'
+import OutboundLink from '../../components/blog/OutboundLink'
 import Layout from '../../components/Layout'
 import {
   formatEditionDate,
@@ -72,7 +73,13 @@ const EditionPage: tNextPageWithLayout<EditionPageProps> = ({
                 key={mention.name}
                 className="grid grid-cols-1 gap-1 border-t border-border py-3 sm:grid-cols-[11rem_minmax(0,1fr)] sm:items-baseline sm:gap-6"
               >
-                <span className="font-medium">{mention.name}</span>
+                <span className="font-medium">
+                  {mention.homepage ? (
+                    <OutboundLink href={mention.homepage}>{mention.name}</OutboundLink>
+                  ) : (
+                    mention.name
+                  )}
+                </span>
                 <span className="text-sm tabular-nums leading-relaxed text-muted-foreground">
                   {mention.note}
                 </span>
