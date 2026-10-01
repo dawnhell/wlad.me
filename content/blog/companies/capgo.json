@@ -1,0 +1,25 @@
+{
+  "slug": "capgo",
+  "name": "Capgo",
+  "listingNote": null,
+  "description": "Live OTA updates + native builds, channels, rollback, and release automation for CapacitorJS apps — ship JS/CSS fixes without waiting on App Store review. Estonia, bootstrapped, team 2–5. Free 14-day trial.",
+  "homepage": "https://capgo.app",
+  "image": "/blog/2026-10-01/capgo.webp",
+  "imageAlt": "Capgo product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$31.2k MRR, 1,130 active subscriptions, ~$36.6k L30, ~$546k all-time, ~5,000 users claimed, founded Nov 2021, Estonia. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/capgo"
+        }
+      ],
+      "indieAngle": "Wrap a popular open framework's missing ops layer (OTA / CI) and charge for reliability + channels — classic boring developer infra."
+    }
+  ]
+}

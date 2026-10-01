@@ -1,0 +1,25 @@
+{
+  "slug": "web3forms",
+  "name": "Web3Forms",
+  "listingNote": null,
+  "description": "Contact-form API for static sites — HTML form posts land in email/webhook with no backend/PHP. Free tier (250 submissions/mo) + paid upgrades. India-founded, Paddle billing.",
+  "homepage": "https://web3forms.com",
+  "image": "/blog/2026-10-01/web3forms.webp",
+  "imageAlt": "Web3Forms product image",
+  "imageWidth": 1200,
+  "imageHeight": 780,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$41.0k MRR, 2,971 active subscriptions, ~$44.3k L30, ~$305k all-time, founded Dec 2020, India. Last sync Oct 1, 2026. (Paddle, not Stripe — still payment-provider verified.)",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/web3forms"
+        }
+      ],
+      "indieAngle": "Own one painful \"I don't want a server\" developer utility, meter submissions, keep the free tier as a funnel."
+    }
+  ]
+}

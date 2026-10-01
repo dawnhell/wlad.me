@@ -14,15 +14,21 @@
   </url>
   <url>
     <loc>https://www.wlad.me/blog</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/about</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/2026-10-01</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/2026-09-30</loc>
@@ -55,8 +61,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/capgo</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/codedex</loc>
     <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/coldsire</loc>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -103,14 +121,38 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/helios</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/heron-copier</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/hirevire</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/image-charts</loc>
     <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/khosmos</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/legalone</loc>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -151,8 +193,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/promatic</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/prosp</loc>
     <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/pushouse</loc>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -207,6 +261,18 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/textbee</loc>
     <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/voxnow</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/web3forms</loc>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

@@ -8,6 +8,7 @@ export type EvidenceKind =
   | 'stripe-verified'
   | 'creem-verified'
   | 'polar-verified'
+  | 'paddle-verified'
   | 'self-reported'
 
 export type BlogSource = {
@@ -92,6 +93,7 @@ export function evidenceLabel(kind: EvidenceKind) {
   if (kind === 'stripe-verified') return 'Stripe-verified'
   if (kind === 'creem-verified') return 'Creem-verified'
   if (kind === 'polar-verified') return 'Polar-verified'
+  if (kind === 'paddle-verified') return 'Paddle-verified'
   return 'Self-reported'
 }
 

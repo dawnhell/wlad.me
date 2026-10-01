@@ -1,0 +1,25 @@
+{
+  "slug": "coldsire",
+  "name": "ColdSire",
+  "listingNote": null,
+  "description": "Premium cold-email inbox infrastructure — Google/Microsoft mailboxes from a pool mixed with real businesses, ~$6/mo per account, pitched at deliverability.",
+  "homepage": "https://coldsire.com",
+  "image": "/blog/2026-10-01/coldsire.webp",
+  "imageAlt": "ColdSire product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$15.6k MRR, 909 active subscriptions, ~$15.3k L30, ~$1.04M all-time, ~5,000 users claimed, founded May 2023, US. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/coldsire"
+        }
+      ],
+      "indieAngle": "Sell the boring dependency under a hot category (cold email) — inboxes, domains, warming — not another AI writer."
+    }
+  ]
+}

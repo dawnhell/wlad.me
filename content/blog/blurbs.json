@@ -27,5 +27,15 @@
   "textbee": "An Android phone becomes the SMS gateway, so there is no per-message fee. The pro plan is about $9.99 a month, and TrustMRR marks the revenue Polar-verified.",
   "quotedeck": "Insurance agents pay about $60 to $140 a month to present a life or health quote as a proper document. One person runs it, and the listing has been for sale.",
   "easy-moving-permits": "Movers pay per application so the permit, the city fee, and the service charge land in one checkout. Recurring revenue reads as zero because the money is the transaction.",
-  "expensent": "Receipts already sit in the inbox. Expensent forwards them to the accountant or into QuickBooks, and one person in Portugal runs it at about $845 MRR."
+  "expensent": "Receipts already sit in the inbox. Expensent forwards them to the accountant or into QuickBooks, and one person in Portugal runs it at about $845 MRR.",
+  "khosmos": "French construction crews already write quotes on site. Khosmos turns that quote into a signature and an invoice, at about €24 a month.",
+  "web3forms": "A static site still needs a contact form. Web3Forms posts it to email with no server, and TrustMRR marks the roughly $41k in monthly revenue as Paddle-verified.",
+  "capgo": "A Capacitor app can ship a JavaScript fix without waiting on App Store review. Capgo is that update pipe, and the Stripe record shows 1,130 subscriptions.",
+  "pushouse": "Merchants pay for WhatsApp broadcasts and cart messages. Pushouse is that channel, founded in January 2026, with 248 subscriptions.",
+  "helios": "Fitness brands already message their members. The last 30 days show about $45.3k while listed recurring revenue reads as none, so the Stripe record looks like usage billing.",
+  "coldsire": "Outbound teams pay about $6 a month per mailbox. The Stripe record shows 909 of those accounts.",
+  "hirevire": "Candidates record answers to the hiring questions, so nobody books a screening call. Plans run about $49 to $249 a month.",
+  "legalone": "French companies have to publish legal notices. LegalOne files them for a fee, which is why recurring revenue reads as zero while the last 30 days show about $10.7k.",
+  "promatic": "Plumbing and HVAC contractors pay about $99 a job so the permit and the inspection get filed. Recurring revenue reads as zero because the bill is the project.",
+  "voxnow": "Belgian law firms pay about €90 a user so a missed call becomes an email summary and an SMS. Twenty-six of those seats are the monthly figure."
 }

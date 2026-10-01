@@ -72,6 +72,7 @@ function evidenceKindFromLabel(label) {
   if (/stripe/i.test(label)) return 'stripe-verified'
   if (/creem/i.test(label)) return 'creem-verified'
   if (/polar/i.test(label)) return 'polar-verified'
+  if (/paddle/i.test(label)) return 'paddle-verified'
   return 'self-reported'
 }
 
@@ -208,6 +209,7 @@ function editionDek(companies, formatted) {
     ['stripe-verified', 'Stripe-verified'],
     ['creem-verified', 'Creem-verified'],
     ['polar-verified', 'Polar-verified'],
+    ['paddle-verified', 'Paddle-verified'],
     ['self-reported', 'self-reported'],
   ]
   const parts = labels

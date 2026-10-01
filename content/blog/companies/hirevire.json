@@ -1,0 +1,25 @@
+{
+  "slug": "hirevire",
+  "name": "Hirevire",
+  "listingNote": null,
+  "description": "Async video interview tool — candidates answer your questions on camera; hiring managers review without scheduling. Plans ~$49 / $149 / $249/mo. India-founded, bootstrapped, team 2–5.",
+  "homepage": "https://hirevire.com",
+  "image": "/blog/2026-10-01/hirevire.webp",
+  "imageAlt": "Hirevire product image",
+  "imageWidth": 1200,
+  "imageHeight": 627,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$13.8k MRR, 162 active subscriptions, ~$14.9k L30, ~$267k all-time, ~180 users claimed, founded Dec 2021, India. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hirevire"
+        }
+      ],
+      "indieAngle": "Own one step of hiring (async screen, reference checks, offer letters) for a vertical instead of building a full HRIS."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "khosmos",
+  "name": "Khosmos",
+  "listingNote": null,
+  "description": "Quote + e-sign + invoicing + payments for French construction pros and micro-entreprises (1–50 people / subcontractors). Create a full quote in under a minute, sign on-site or remotely, then bill. ~€24/mo + per-seat, annual plans available.",
+  "homepage": "https://khosmos.fr",
+  "image": "/blog/2026-10-01/khosmos.webp",
+  "imageAlt": "Khosmos product image",
+  "imageWidth": 1200,
+  "imageHeight": 591,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$21.9k MRR, 834 active subscriptions, ~$24.8k L30, ~$355k all-time, ~12,000 users claimed, founded Mar 2023, France. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/khosmos"
+        }
+      ],
+      "indieAngle": "Pick one country's trade invoicing/e-sign rules and own quote→pay end-to-end. Switching costs are high once invoices live there."
+    }
+  ]
+}

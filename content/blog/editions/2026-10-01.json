@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-01",
+  "title": "Boring SaaS ideas for 1 October 2026",
+  "dek": "Good morning on the beautiful day of 1 October 2026. Here's my revenue notes on 10 products for today. 9 are Stripe-verified and 1 is Paddle-verified.",
+  "heroId": "misty-forest",
+  "companies": [
+    {
+      "slug": "khosmos",
+      "name": "Khosmos",
+      "listingNote": null,
+      "description": "Quote + e-sign + invoicing + payments for French construction pros and micro-entreprises (1–50 people / subcontractors). Create a full quote in under a minute, sign on-site or remotely, then bill. ~€24/mo + per-seat, annual plans available.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$21.9k MRR, 834 active subscriptions, ~$24.8k L30, ~$355k all-time, ~12,000 users claimed, founded Mar 2023, France. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/khosmos"
+        }
+      ],
+      "homepage": "https://khosmos.fr",
+      "indieAngle": "Pick one country's trade invoicing/e-sign rules and own quote→pay end-to-end. Switching costs are high once invoices live there.",
+      "image": "/blog/2026-10-01/khosmos.webp",
+      "imageAlt": "Khosmos product image",
+      "imageWidth": 1200,
+      "imageHeight": 591
+    },
+    {
+      "slug": "web3forms",
+      "name": "Web3Forms",
+      "listingNote": null,
+      "description": "Contact-form API for static sites - HTML form posts land in email/webhook with no backend/PHP. Free tier (250 submissions/mo) + paid upgrades. India-founded, Paddle billing.",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$41.0k MRR, 2,971 active subscriptions, ~$44.3k L30, ~$305k all-time, founded Dec 2020, India. Last sync Oct 1, 2026. (Paddle, not Stripe — still payment-provider verified.)",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/web3forms"
+        }
+      ],
+      "homepage": "https://web3forms.com",
+      "indieAngle": "Own one painful \"I don't want a server\" developer utility, meter submissions, keep the free tier as a funnel.",
+      "image": "/blog/2026-10-01/web3forms.webp",
+      "imageAlt": "Web3Forms product image",
+      "imageWidth": 1200,
+      "imageHeight": 780
+    },
+    {
+      "slug": "capgo",
+      "name": "Capgo",
+      "listingNote": null,
+      "description": "Live OTA updates + native builds, channels, rollback, and release automation for CapacitorJS apps — ship JS/CSS fixes without waiting on App Store review. Estonia, bootstrapped, team 2–5. Free 14-day trial.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$31.2k MRR, 1,130 active subscriptions, ~$36.6k L30, ~$546k all-time, ~5,000 users claimed, founded Nov 2021, Estonia. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/capgo"
+        }
+      ],
+      "homepage": "https://capgo.app",
+      "indieAngle": "Wrap a popular open framework's missing ops layer (OTA / CI) and charge for reliability + channels — classic boring developer infra.",
+      "image": "/blog/2026-10-01/capgo.webp",
+      "imageAlt": "Capgo product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "pushouse",
+      "name": "Pushouse",
+      "listingNote": null,
+      "description": "WhatsApp automation + e-commerce tools — broadcasts, carts, engagement for merchants who live in WhatsApp (UAE-founded, MENA/global e-com vibe).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$25.9k MRR, 248 active subscriptions, ~$34.2k L30, ~$278k all-time, ~1,500 users claimed, founded Jan 2026, UAE. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/pushouse"
+        }
+      ],
+      "homepage": "https://pushouse.com",
+      "indieAngle": "Country/channel messaging ops for e-com (WhatsApp, SMS, iMessage) beats another generic email ESP — especially where WhatsApp is default.",
+      "image": "/blog/2026-10-01/pushouse.webp",
+      "imageAlt": "Pushouse product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "helios",
+      "name": "Helios",
+      "listingNote": null,
+      "description": "Engagement / lifecycle platform for growing fitness brands — turn the flood of leads and member activity into actual conversations and retention (sendhelios.com).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$45.3k L30, ~$687k all-time, listed MRR as \"No active subscriptions\" (treat L30 as the real print signal — mixed/usage billing). ~2,481 users claimed on profile, founded Dec 2020, US. Last sync Oct 1, 2026. UI also surfaces ~$39k as an estimated MRR figure on related cards — prefer L30/all-time here.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/helios"
+        }
+      ],
+      "homepage": "https://sendhelios.com",
+      "indieAngle": "Vertical lifecycle messaging for one sweaty niche (fitness, clinics, tutors) with clear ROI on no-shows and churn.",
+      "image": "/blog/2026-10-01/helios.webp",
+      "imageAlt": "Helios product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "coldsire",
+      "name": "ColdSire",
+      "listingNote": null,
+      "description": "Premium cold-email inbox infrastructure - Google/Microsoft mailboxes from a pool mixed with real businesses, ~$6/mo per account, pitched at deliverability.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$15.6k MRR, 909 active subscriptions, ~$15.3k L30, ~$1.04M all-time, ~5,000 users claimed, founded May 2023, US. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/coldsire"
+        }
+      ],
+      "homepage": "https://coldsire.com",
+      "indieAngle": "Sell the boring dependency under a hot category (cold email) - inboxes, domains, warming — not another AI writer.",
+      "image": "/blog/2026-10-01/coldsire.webp",
+      "imageAlt": "ColdSire product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "hirevire",
+      "name": "Hirevire",
+      "listingNote": null,
+      "description": "Async video interview tool — candidates answer your questions on camera; hiring managers review without scheduling. Plans ~$49 / $149 / $249/mo. India-founded, bootstrapped, team 2–5.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$13.8k MRR, 162 active subscriptions, ~$14.9k L30, ~$267k all-time, ~180 users claimed, founded Dec 2021, India. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hirevire"
+        }
+      ],
+      "homepage": "https://hirevire.com",
+      "indieAngle": "Own one step of hiring (async screen, reference checks, offer letters) for a vertical instead of building a full HRIS.",
+      "image": "/blog/2026-10-01/hirevire.webp",
+      "imageAlt": "Hirevire product image",
+      "imageWidth": 1200,
+      "imageHeight": 627
+    },
+    {
+      "slug": "legalone",
+      "name": "LegalOne",
+      "listingNote": null,
+      "description": "French *annonces légales* (legal notices) publishing — accountants and companies file required notices with competitive rates and compliance baked in. Bootstrapped, France.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$10.7k L30, ~$93k all-time, MRR listed as none / no active subscriptions (pay-per-notice model). Founded Oct 2025, France. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/legalone"
+        }
+      ],
+      "homepage": "https://legalone.fr",
+      "indieAngle": "Digitize a mandatory local filing (legal notices, permits, company registry forms) and sell through accountants who already do the paperwork.",
+      "image": "/blog/2026-10-01/legalone.webp",
+      "imageAlt": "LegalOne product image",
+      "imageWidth": 1200,
+      "imageHeight": 720
+    },
+    {
+      "slug": "promatic",
+      "name": "Promatic",
+      "listingNote": null,
+      "description": "Permit automation for residential plumbing & HVAC contractors — file/manage permits and inspections so jobs aren't stuck waiting on paperwork. ~$99 per project.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6.9k L30, ~$15.7k all-time, MRR listed as none (project billing at $99/job), founded May 2025, US. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/promatic"
+        }
+      ],
+      "homepage": "https://getpromatic.com",
+      "indieAngle": "One trade × one bureaucracy (HVAC permits, electrical inspections, dumpster permits) with per-job pricing is an indie-sized wedge.",
+      "image": "/blog/2026-10-01/promatic.webp",
+      "imageAlt": "Promatic product image",
+      "imageWidth": 1200,
+      "imageHeight": 1200
+    },
+    {
+      "slug": "voxnow",
+      "name": "VoxNow",
+      "listingNote": null,
+      "description": "Voicemail → email transcription/summary + instant SMS reply for Belgian law firms. ~€90/user/mo. Small team (2–5), founded mid-2025.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3.1k MRR, 26 active subscriptions, ~$3.7k L30, ~$23k all-time, ~20 users claimed, founded Jul 2025, Belgium. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/voxnow"
+        }
+      ],
+      "homepage": "https://voxnow.be",
+      "indieAngle": "Voicemail/SMS reception for one regulated profession in one country — high willingness to pay, tiny sales motion.",
+      "image": "/blog/2026-10-01/voxnow.webp",
+      "imageAlt": "VoxNow product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Tutti",
+      "note": "Stripe-verified WhatsApp ERP for LatAm construction trades; ~$1.3k MRR / 37 subs / ~$2.4k L30 / ~$16k all-time. Earliest-stage Conductor-shaped chat ERP.",
+      "homepage": "https://soytutti.com"
+    },
+    {
+      "name": "NDISCompliant",
+      "note": "Stripe-verified AU NDIS SIL audit document packs; ~$8.0k L30 / ~$45k all-time; ~$297 one-time (compliance pack, not seat SaaS).",
+      "homepage": "https://ndiscompliant.com.au"
+    },
+    {
+      "name": "Fidelatoo",
+      "note": "Stripe-verified FR digital loyalty cards for local shops; ~$6.9k MRR / 239 subs / ~$7.5k L30 / ~$164k all-time.",
+      "homepage": "https://fidelatoo.fr"
+    },
+    {
+      "name": "Data Bloo",
+      "note": "Stripe-verified Looker Studio templates/connectors; ~$6.1k MRR / 219 subs / ~$8.7k L30 / ~$654k all-time (one-time-heavy packaging).",
+      "homepage": "https://databloo.com"
+    },
+    {
+      "name": "isMalicious",
+      "note": "Stripe-verified threat-intel API for SIEM/MSSPs; ~$2.0k MRR / 16 subs / ~$1.8k L30 / ~$14k all-time; for sale on marketplace.",
+      "homepage": "https://ismalicious.com"
+    },
+    {
+      "name": "car-docs.ro",
+      "note": "Stripe-verified Romanian car sale-purchase contracts; ~$834 L30 / ~$14k all-time; ~30 RON one-shot — ultra-local form glue.",
+      "homepage": "https://car-docs.ro"
+    },
+    {
+      "name": "AltIndex",
+      "note": "Stripe-verified alternative-data stock scores + API; ~$16.9k MRR / 676 subs / ~$11.0k L30 / ~$663k all-time (fintech, less \"boring ops\").",
+      "homepage": "https://altindex.com"
+    }
+  ]
+}

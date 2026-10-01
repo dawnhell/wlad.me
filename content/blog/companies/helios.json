@@ -1,0 +1,25 @@
+{
+  "slug": "helios",
+  "name": "Helios",
+  "listingNote": null,
+  "description": "Engagement / lifecycle platform for growing fitness brands — turn the flood of leads and member activity into actual conversations and retention (sendhelios.com).",
+  "homepage": "https://sendhelios.com",
+  "image": "/blog/2026-10-01/helios.webp",
+  "imageAlt": "Helios product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$45.3k L30, ~$687k all-time, listed MRR as \"No active subscriptions\" (treat L30 as the real print signal — mixed/usage billing). ~2,481 users claimed on profile, founded Dec 2020, US. Last sync Oct 1, 2026. UI also surfaces ~$39k as an estimated MRR figure on related cards — prefer L30/all-time here.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/helios"
+        }
+      ],
+      "indieAngle": "Vertical lifecycle messaging for one sweaty niche (fitness, clinics, tutors) with clear ROI on no-shows and churn."
+    }
+  ]
+}

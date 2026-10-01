@@ -1,0 +1,25 @@
+{
+  "slug": "promatic",
+  "name": "Promatic",
+  "listingNote": null,
+  "description": "Permit automation for residential plumbing & HVAC contractors — file/manage permits and inspections so jobs aren't stuck waiting on paperwork. ~$99 per project.",
+  "homepage": "https://getpromatic.com",
+  "image": "/blog/2026-10-01/promatic.webp",
+  "imageAlt": "Promatic product image",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6.9k L30, ~$15.7k all-time, MRR listed as none (project billing at $99/job), founded May 2025, US. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/promatic"
+        }
+      ],
+      "indieAngle": "One trade × one bureaucracy (HVAC permits, electrical inspections, dumpster permits) with per-job pricing is an indie-sized wedge."
+    }
+  ]
+}

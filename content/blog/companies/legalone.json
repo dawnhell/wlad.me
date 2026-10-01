@@ -1,0 +1,25 @@
+{
+  "slug": "legalone",
+  "name": "LegalOne",
+  "listingNote": null,
+  "description": "French *annonces légales* (legal notices) publishing — accountants and companies file required notices with competitive rates and compliance baked in. Bootstrapped, France.",
+  "homepage": "https://legalone.fr",
+  "image": "/blog/2026-10-01/legalone.webp",
+  "imageAlt": "LegalOne product image",
+  "imageWidth": 1200,
+  "imageHeight": 720,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$10.7k L30, ~$93k all-time, MRR listed as none / no active subscriptions (pay-per-notice model). Founded Oct 2025, France. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/legalone"
+        }
+      ],
+      "indieAngle": "Digitize a mandatory local filing (legal notices, permits, company registry forms) and sell through accountants who already do the paperwork."
+    }
+  ]
+}

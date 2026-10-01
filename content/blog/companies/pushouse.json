@@ -1,0 +1,25 @@
+{
+  "slug": "pushouse",
+  "name": "Pushouse",
+  "listingNote": null,
+  "description": "WhatsApp automation + e-commerce tools — broadcasts, carts, engagement for merchants who live in WhatsApp (UAE-founded, MENA/global e-com vibe).",
+  "homepage": "https://pushouse.com",
+  "image": "/blog/2026-10-01/pushouse.webp",
+  "imageAlt": "Pushouse product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$25.9k MRR, 248 active subscriptions, ~$34.2k L30, ~$278k all-time, ~1,500 users claimed, founded Jan 2026, UAE. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/pushouse"
+        }
+      ],
+      "indieAngle": "Country/channel messaging ops for e-com (WhatsApp, SMS, iMessage) beats another generic email ESP — especially where WhatsApp is default."
+    }
+  ]
+}

@@ -35,11 +35,13 @@ const AboutPage: tNextPageWithLayout = () => {
       </section>
 
       <section className="flex max-w-[65ch] flex-col gap-3">
-        <h2 className="font-serif text-2xl font-normal">Creem-verified and Polar-verified</h2>
+        <h2 className="font-serif text-2xl font-normal">
+          Creem-verified, Polar-verified, and Paddle-verified
+        </h2>
         <p className="leading-relaxed text-muted-foreground">
           Same idea, different processor. The day’s brief marks the TrustMRR
-          listing as connected to Creem or Polar. This site does not audit the
-          number. The TrustMRR page is linked next to it.
+          listing as connected to Creem, Polar, or Paddle. This site does not
+          audit the number. The TrustMRR page is linked next to it.
         </p>
       </section>
 

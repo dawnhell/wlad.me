@@ -1,0 +1,25 @@
+{
+  "slug": "voxnow",
+  "name": "VoxNow",
+  "listingNote": null,
+  "description": "Voicemail → email transcription/summary + instant SMS reply for Belgian law firms. ~€90/user/mo. Small team (2–5), founded mid-2025.",
+  "homepage": "https://voxnow.be",
+  "image": "/blog/2026-10-01/voxnow.webp",
+  "imageAlt": "VoxNow product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3.1k MRR, 26 active subscriptions, ~$3.7k L30, ~$23k all-time, ~20 users claimed, founded Jul 2025, Belgium. Last sync Oct 1, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/voxnow"
+        }
+      ],
+      "indieAngle": "Voicemail/SMS reception for one regulated profession in one country — high willingness to pay, tiny sales motion."
+    }
+  ]
+}
