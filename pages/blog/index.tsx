@@ -147,8 +147,9 @@ BlogIndex.getLayout = function getLayout(
 ) {
   return (
     <Layout
-      title="Boring SaaS | Wlad"
-      description="Dated notes on software products that already make money. Each figure is labeled Stripe-verified or self-reported, and each one links to its source."
+      title="Boring SaaS(with revenue $$$) | Wlad"
+      description="Dated notes on handpicked software products that already make money.
+      Almost each of them is Stripe-verified with a public link to its TrustMRR listing."
       image={pageProps.hero.src}
       mainAlign="start"
       rss
