@@ -1,0 +1,25 @@
+{
+  "slug": "uhoh-com",
+  "name": "uhoh.com",
+  "listingNote": null,
+  "description": "Flat-fee managed IT help desk / MSP for growing startups — \"priced by you,\" free to try, subscriptions starting ~$3k/mo (up to ~50 staff). Canada-founded, mid-2025.",
+  "homepage": "https://uhoh.com",
+  "image": "/blog/2026-10-02/uhoh-com.webp",
+  "imageAlt": "uhoh.com product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$36.4k MRR, 30 active subscriptions, ~$32.8k L30, ~$417k all-time, founded Jun 2025, Canada. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/uhoh-com"
+        }
+      ],
+      "indieAngle": "Productize a service niche (IT desk, bookkeeping, SOC monitoring) with flat monthly pricing and a simple intake portal — sell outcomes, not tickets."
+    }
+  ]
+}

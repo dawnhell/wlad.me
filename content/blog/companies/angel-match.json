@@ -1,0 +1,25 @@
+{
+  "slug": "angel-match",
+  "name": "Angel Match",
+  "listingNote": null,
+  "description": "Searchable database of ~124k–125k angel investors and VCs for founders raising seed. Freemium + paid subscription. US, founded 2019.",
+  "homepage": "https://angelmatch.io",
+  "image": "/blog/2026-10-02/angel-match.webp",
+  "imageAlt": "Angel Match product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$24.8k MRR, 311 active subscriptions, ~$28.4k L30, ~$961k all-time, ~125,000 users claimed, founded Jan 2019, US. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/angel-match"
+        }
+      ],
+      "indieAngle": "Own a niche contact graph (angels, procurement buyers, clinic GMs) with enrichment + filters. Data freshness is the retention hook."
+    }
+  ]
+}

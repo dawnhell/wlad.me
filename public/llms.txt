@@ -9,13 +9,16 @@
 
 ## Editions
 
-- [Boring SaaS ideas for 1 October 2026](https://www.wlad.me/blog/2026-10-01): Good morning on the beautiful day of 1 October 2026. Here's my revenue notes on 10 products for today. 9 are Stripe-verified and 1 is Paddle-verified. Each figure links to its source.
+- [Boring SaaS ideas for 2 October 2026](https://www.wlad.me/blog/2026-10-02): Revenue notes on 10 products for 2 October 2026. 10 are Stripe-verified. Each figure links to its source.
+- [Boring SaaS ideas for 1 October 2026](https://www.wlad.me/blog/2026-10-01): Good morning on the beautiful day of 1 October 2026. Here's my revenue notes on 10 products for today. 9 are Stripe-verified and 1 is Paddle-verified.
 - [Boring SaaS ideas for 30 September 2026](https://www.wlad.me/blog/2026-09-30): Morning internet! Here's today's revenue notes on 10 products, 30 September 2026. 8 are Stripe-verified, 1 is Creem-verified and 1 is Polar-verified. And we have verification of each of those figures.
 - [Boring SaaS ideas for 29 September 2026](https://www.wlad.me/blog/2026-09-29): Another day, another dollar. Here's revenue notes on 10 products for 29 September 2026. All 10 are labeled Stripe-verified. Each figure links to its source.
 - [Boring SaaS ideas for 28 September 2026](https://www.wlad.me/blog/2026-09-28): Welcome to the first edition of this cycle! Today we have revenue notes on 9 products, 28 September 2026. 6 are labeled Stripe-verified and 3 are self-reported. I've added verification of each of those figures(where it's possible).
 
 ## Companies
 
+- [Aila](https://www.wlad.me/blog/companies/aila): Agentic AI for US mortgage teams — intake/compliance agents that listen to discovery calls, build the loan file in LOS/CRM (ARIVE, LendingPad, etc.), request docs, score compliance. From ~$50/LO/mo (intake+compliance); enterprise ~$200/LO/mo. Homepage also at withaila.com.
+- [Angel Match](https://www.wlad.me/blog/companies/angel-match): Searchable database of ~124k–125k angel investors and VCs for founders raising seed. Freemium + paid subscription. US, founded 2019.
 - [Anonymous workforce-management SaaS](https://www.wlad.me/blog/companies/anonymous-workforce-management-saas): Scheduling/time/compliance for employers.
 - [Calendesk](https://www.wlad.me/blog/companies/calendesk): B2B booking + payments + client portal for therapists, psychologists, coaches, lawyers, beauty/fitness — white-label, subscription packages, API-first. Polish-founded, bootstrapped since 2020.
 - [Capgo](https://www.wlad.me/blog/companies/capgo): Live OTA updates + native builds, channels, rollback, and release automation for CapacitorJS apps — ship JS/CSS fixes without waiting on App Store review. Estonia, bootstrapped, team 2–5. Free 14-day trial.
@@ -25,20 +28,26 @@
 - [ControlResell](https://www.wlad.me/blog/companies/controlresell): Ops OS for pro resellers (Vinted, Shopify, etc.) — listings, negotiation, relisting, sales/purchase tracking. France-first.
 - [DataExpert / TechCreator](https://www.wlad.me/blog/companies/dataexpert-techcreator): Data engineering + AI upskilling education (courses / community) at dataexpert.io — ~$119/mo.
 - [Easy Moving Permits](https://www.wlad.me/blog/companies/easy-moving-permits): Online platform to apply for and manage moving / street / dumpster / scaffolding parking permits across cities — transparent pricing including city fees + service charge; charged per application via Stripe.
+- [Enquiry Genie](https://www.wlad.me/blog/companies/enquiry-genie): Chrome extension that drafts Airbnb/direct-booking enquiry replies in the host's tone with live pricing & availability (Gmail/Outlook + iCal/Airbnb sync). £1 for 14 days, then ~£29/mo for up to 5 properties. UK, bootstrapped.
 - [Expensent](https://www.wlad.me/blog/companies/expensent): Finds receipts/invoices in Gmail/Outlook/IMAP and forwards them to your accountant, QuickBooks, Xero, Expensify, etc. — one-click catch-up + auto-forward rules. Solo, bootstrapped, Portugal. Solo ~$19/mo, Pro ~$59/mo.
+- [Fast Corp Ltd](https://www.wlad.me/blog/companies/fast-corp-ltd): All-in-one Bulgarian EU company launch + ongoing compliance. Online EOOD/OOD formation in ~3–5 business days (formation from ~€1,500–€1,750), then optional bookkeeping/VAT/payroll (accounting from ~€229/mo). EU IBAN/banking support, virtual office, 10% corporate tax pitch. Bootstrapped, Sofia, team 2–5, ~3,000 clients claimed since 2018.
 - [Flocksy](https://www.wlad.me/blog/companies/flocksy): Flat-rate design/video subscription, ~$1,199–$2,999+/mo.
 - [GESWORK](https://www.wlad.me/blog/companies/geswork): Modular management software for French service companies (ops / productivity suite).
+- [Guidejar](https://www.wlad.me/blog/companies/guidejar): Interactive product demos / how-to guides / internal docs — record a process (Chrome or desktop), edit, AI voiceover/translate, share or embed; help-center hosting. Free up to 5 guides; paid unlimited. India-founded, ~10k users claimed.
 - [Helios](https://www.wlad.me/blog/companies/helios): Engagement / lifecycle platform for growing fitness brands — turn the flood of leads and member activity into actual conversations and retention (sendhelios.com).
 - [Heron Copier](https://www.wlad.me/blog/companies/heron-copier): Multi-platform trade copier + trading journal — copy between cTrader, MT4/MT5, TradeLocker, MatchTrader, DXtrade, Telegram; cloud or local, no VPS required.
 - [Hirevire](https://www.wlad.me/blog/companies/hirevire): Async video interview tool — candidates answer your questions on camera; hiring managers review without scheduling. Plans ~$49 / $149 / $249/mo. India-founded, bootstrapped, team 2–5.
 - [Image-Charts](https://www.wlad.me/blog/companies/image-charts): Chart-as-image API for emails, PDFs, and chatbots (Google Image Charts spiritual successor). Bootstrapped since 2017.
+- [Karma](https://www.wlad.me/blog/companies/karma): Employee recognition & rewards bot for Slack and Microsoft Teams — public/private kudos, analytics, gift-card rewards. ~$3/user/mo. NZ-listed on TrustMRR; G2 ~4.9.
 - [Khosmos](https://www.wlad.me/blog/companies/khosmos): Quote + e-sign + invoicing + payments for French construction pros and micro-entreprises (1–50 people / subcontractors). Create a full quote in under a minute, sign on-site or remotely, then bill. ~€24/mo + per-seat, annual plans available.
 - [LegalOne](https://www.wlad.me/blog/companies/legalone): French *annonces légales* (legal notices) publishing — accountants and companies file required notices with competitive rates and compliance baked in. Bootstrapped, France.
+- [Liinks](https://www.wlad.me/blog/companies/liinks): Link-in-bio / multi-link landing pages for creators and brand teams — customize, auto-pull Instagram links, track clicks. Starter ~$5/mo, Pro ~$12/mo. US, founded 2020.
 - [MedPilot](https://www.wlad.me/blog/companies/medpilot): AI receptionist / patient-booking stack for medical practices — after-hours calls, no-show recovery, lead follow-up. Pricing starts ~$297–$2,497/mo (quote-based).
 - [Mon Atelier](https://www.wlad.me/blog/companies/mon-atelier): All-in-one ERP for French repair shops (phone, PC, appliance, bike): tickets, NF525 invoices, stock, POS, booking, QualiRépar, police ledger. From €19/mo. Solo founder, 48 shops.
 - [MyCater](https://www.wlad.me/blog/companies/mycater): B2B catering marketplace for French companies — breakfast, lunch, events, cocktails — with ordering, invoicing, and curated caterers in one place.
 - [MyFrank](https://www.wlad.me/blog/companies/myfrank): B2B SaaS that gamifies Google review collection per employee (QR codes, challenges, multi-location tracking). For sale per founder note.
 - [MyPlots](https://www.wlad.me/blog/companies/myplots): Event discovery + ticketing, 20% + $1/ticket.
+- [Pasul.ro](https://www.wlad.me/blog/companies/pasul-ro): Romanian mental-health marketplace matching clients (Romania + diaspora) with vetted Romanian-speaking psychologists/therapists for online or in-person sessions. Free 15-min discovery call, secure payments, ~219 RON average per session. Founded late 2024, Romania.
 - [Plutio](https://www.wlad.me/blog/companies/plutio): All-in-one app for freelancers (projects, proposals, contracts, invoices, forms).
 - [Promatic](https://www.wlad.me/blog/companies/promatic): Permit automation for residential plumbing & HVAC contractors — file/manage permits and inspections so jobs aren't stuck waiting on paperwork. ~$99 per project.
 - [PROSP](https://www.wlad.me/blog/companies/prosp): LinkedIn outreach automation with AI personalization (prosp.ai); listed for sale on TrustMRR.
@@ -52,6 +61,8 @@
 - [Supliful](https://www.wlad.me/blog/companies/supliful): Private-label CPG + fulfillment for creators.
 - [Tally](https://www.wlad.me/blog/companies/tally): Freemium form builder.
 - [textbee](https://www.wlad.me/blog/companies/textbee): Open-source Twilio alternative — turn an Android phone into an SMS gateway; send/receive programmatically with no per-message gateway fees. Free / Pro ~$9.99 / Scale ~$29.99.
+- [uhoh.com](https://www.wlad.me/blog/companies/uhoh-com): Flat-fee managed IT help desk / MSP for growing startups — "priced by you," free to try, subscriptions starting ~$3k/mo (up to ~50 staff). Canada-founded, mid-2025.
+- [V62Form](https://www.wlad.me/blog/companies/v62form): UK DVLA V62 helper — fill/print/ship the form to get a replacement V5C vehicle registration certificate (logbook) when lost, stolen, damaged, or missing after purchase. Free download / Print & Ship ~£11.95 / Complete Service ~£39.95. UK, founded 2025.
 - [VoxNow](https://www.wlad.me/blog/companies/voxnow): Voicemail → email transcription/summary + instant SMS reply for Belgian law firms. ~€90/user/mo. Small team (2–5), founded mid-2025.
 - [Web3Forms](https://www.wlad.me/blog/companies/web3forms): Contact-form API for static sites — HTML form posts land in email/webhook with no backend/PHP. Free tier (250 submissions/mo) + paid upgrades. India-founded, Paddle billing.
 - [Windmill Growth](https://www.wlad.me/blog/companies/windmill-growth): Done-for-you personal branding / LinkedIn content service for B2B founders (~$3,999/mo retainers).

@@ -1,0 +1,25 @@
+{
+  "slug": "liinks",
+  "name": "Liinks",
+  "listingNote": null,
+  "description": "Link-in-bio / multi-link landing pages for creators and brand teams — customize, auto-pull Instagram links, track clicks. Starter ~$5/mo, Pro ~$12/mo. US, founded 2020.",
+  "homepage": "https://liinks.co",
+  "image": "/blog/2026-10-02/liinks.webp",
+  "imageAlt": "Liinks product image",
+  "imageWidth": 1200,
+  "imageHeight": 680,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$31.2k MRR, 5,419 active subscriptions, ~$32.7k L30, ~$1.76M all-time, ~10,000 users claimed, founded May 2020, US. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/liinks"
+        }
+      ],
+      "indieAngle": "Own a thin, high-volume creator utility (link page, media kit, tipping page) with cheap seats and brutal retention via habit."
+    }
+  ]
+}

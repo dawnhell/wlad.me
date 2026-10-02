@@ -1,0 +1,25 @@
+{
+  "slug": "enquiry-genie",
+  "name": "Enquiry Genie",
+  "listingNote": null,
+  "description": "Chrome extension that drafts Airbnb/direct-booking enquiry replies in the host's tone with live pricing & availability (Gmail/Outlook + iCal/Airbnb sync). £1 for 14 days, then ~£29/mo for up to 5 properties. UK, bootstrapped.",
+  "homepage": "https://enquirygenie.ai",
+  "image": "/blog/2026-10-02/enquiry-genie.webp",
+  "imageAlt": "Enquiry Genie product image",
+  "imageWidth": 1200,
+  "imageHeight": 634,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$9.4k L30, ~$353k all-time, MRR listed as none / no active subscriptions. ~54 users claimed on profile, founded Apr 2025, UK. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/enquiry-genie"
+        }
+      ],
+      "indieAngle": "Automate the repetitive guest/host (or clinic/patient) email that already has structured data (calendar + price). Stay in inbox; charge per property/location."
+    }
+  ]
+}

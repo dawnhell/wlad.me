@@ -1,0 +1,25 @@
+{
+  "slug": "karma",
+  "name": "Karma",
+  "listingNote": null,
+  "description": "Employee recognition & rewards bot for Slack and Microsoft Teams — public/private kudos, analytics, gift-card rewards. ~$3/user/mo. NZ-listed on TrustMRR; G2 ~4.9.",
+  "homepage": "https://karmabot.chat",
+  "image": "/blog/2026-10-02/karma.webp",
+  "imageAlt": "Karma product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6.1k MRR, 263 active subscriptions, ~$24.5k L30, ~$725k all-time, ~14,000 users claimed, founded Jan 2024, New Zealand. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/karma"
+        }
+      ],
+      "indieAngle": "Build one Slack/Teams utility HR will budget for (recognition, PTO, standups, on-call) and charge per active seat."
+    }
+  ]
+}

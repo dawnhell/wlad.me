@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-02",
+  "title": "Boring SaaS ideas for 2 October 2026",
+  "dek": "Hey folks! Here are revenue notes on 10 products for 2 October 2026. 10 are Stripe-verified. As always, all of them link to their source.",
+  "heroId": "coast-waves",
+  "companies": [
+    {
+      "slug": "fast-corp-ltd",
+      "name": "Fast Corp Ltd",
+      "listingNote": null,
+      "description": "All-in-one Bulgarian EU company launch + ongoing compliance. Online EOOD/OOD formation in ~3–5 business days (formation from ~€1,500–€1,750), then optional bookkeeping/VAT/payroll (accounting from ~€229/mo). EU IBAN/banking support, virtual office, 10% corporate tax pitch. Bootstrapped, Sofia, team 2–5, ~3,000 clients claimed since 2018.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8.6k L30, ~$56k all-time, MRR not listed as seat subscriptions (formation + service mix). Founded Jul 2025 on TrustMRR profile (ops claim longer history), Bulgaria. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/fast-corp-ltd"
+        },
+        {
+          "label": "fastcorp.eu",
+          "url": "https://fastcorp.eu/pricing"
+        },
+        {
+          "label": "fastcorp.eu",
+          "url": "https://fastcorp.eu/accounting"
+        }
+      ],
+      "homepage": "https://fastcorp.eu",
+      "indieAngle": "Pick one low-tax / high-bureaucracy EU (or LatAm) jurisdiction and sell remote incorporation + bookkeeping as a productized firm. Switching costs explode once VAT and payroll live there.",
+      "image": "/blog/2026-10-02/fast-corp-ltd.webp",
+      "imageAlt": "Fast Corp Ltd product image",
+      "imageWidth": 1200,
+      "imageHeight": 623
+    },
+    {
+      "slug": "liinks",
+      "name": "Liinks",
+      "listingNote": null,
+      "description": "Link-in-bio / multi-link landing pages for creators and brand teams — customize, auto-pull Instagram links, track clicks. Starter ~$5/mo, Pro ~$12/mo. US, founded 2020.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$31.2k MRR, 5,419 active subscriptions, ~$32.7k L30, ~$1.76M all-time, ~10,000 users claimed, founded May 2020, US. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/liinks"
+        }
+      ],
+      "homepage": "https://liinks.co",
+      "indieAngle": "Own a thin, high-volume creator utility (link page, media kit, tipping page) with cheap seats and brutal retention via habit.",
+      "image": "/blog/2026-10-02/liinks.webp",
+      "imageAlt": "Liinks product image",
+      "imageWidth": 1200,
+      "imageHeight": 680
+    },
+    {
+      "slug": "pasul-ro",
+      "name": "Pasul.ro",
+      "listingNote": null,
+      "description": "Romanian mental-health marketplace matching clients (Romania + diaspora) with vetted Romanian-speaking psychologists/therapists for online or in-person sessions. Free 15-min discovery call, secure payments, ~219 RON average per session. Founded late 2024, Romania.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$30.6k L30, ~$306k all-time, MRR listed without active seat count (session marketplace). ~2,000 users claimed, founded Dec 2024, Romania. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/pasul-ro"
+        }
+      ],
+      "homepage": "https://pasul.ro",
+      "indieAngle": "Match diaspora patients to same-language clinicians in one country (therapy, dentistry, physio). Trust + language is the moat; payments + matching are the product.",
+      "image": "/blog/2026-10-02/pasul-ro.webp",
+      "imageAlt": "Pasul.ro product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "uhoh-com",
+      "name": "uhoh.com",
+      "listingNote": null,
+      "description": "Flat-fee managed IT help desk / MSP for growing startups — \"priced by you,\" free to try, subscriptions starting ~$3k/mo (up to ~50 staff). Canada-founded, mid-2025.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$36.4k MRR, 30 active subscriptions, ~$32.8k L30, ~$417k all-time, founded Jun 2025, Canada. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/uhoh-com"
+        }
+      ],
+      "homepage": "https://uhoh.com",
+      "indieAngle": "Productize a service niche (IT desk, bookkeeping, SOC monitoring) with flat monthly pricing and a simple intake portal — sell outcomes, not tickets.",
+      "image": "/blog/2026-10-02/uhoh-com.webp",
+      "imageAlt": "uhoh.com product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "angel-match",
+      "name": "Angel Match",
+      "listingNote": null,
+      "description": "Searchable database of ~124k–125k angel investors and VCs for founders raising seed. Freemium + paid subscription. US, founded 2019.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$24.8k MRR, 311 active subscriptions, ~$28.4k L30, ~$961k all-time, ~125,000 users claimed, founded Jan 2019, US. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/angel-match"
+        }
+      ],
+      "homepage": "https://angelmatch.io",
+      "indieAngle": "Own a niche contact graph (angels, procurement buyers, clinic GMs) with enrichment + filters. Data freshness is the retention hook.",
+      "image": "/blog/2026-10-02/angel-match.webp",
+      "imageAlt": "Angel Match product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "v62form",
+      "name": "V62Form",
+      "listingNote": null,
+      "description": "UK DVLA V62 helper — fill/print/ship the form to get a replacement V5C vehicle registration certificate (logbook) when lost, stolen, damaged, or missing after purchase. Free download / Print & Ship ~£11.95 / Complete Service ~£39.95. UK, founded 2025.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$33.8k all-time, MRR listed as none (pay-per-form). ~5,000 users claimed, founded Mar 2025, UK. Last sync Oct 2, 2026. (L30 not prominently listed on card; all-time is the solid signal.)",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/v62form"
+        }
+      ],
+      "homepage": "https://v62form.co.uk",
+      "indieAngle": "Wrap one painful DVLA / DMV / registry form with guided UX + print/ship. Expand form-by-form once SEO works.",
+      "image": "/blog/2026-10-02/v62form.webp",
+      "imageAlt": "V62Form product image",
+      "imageWidth": 1200,
+      "imageHeight": 500
+    },
+    {
+      "slug": "karma",
+      "name": "Karma",
+      "listingNote": null,
+      "description": "Employee recognition & rewards bot for Slack and Microsoft Teams — public/private kudos, analytics, gift-card rewards. ~$3/user/mo. NZ-listed on TrustMRR; G2 ~4.9.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6.1k MRR, 263 active subscriptions, ~$24.5k L30, ~$725k all-time, ~14,000 users claimed, founded Jan 2024, New Zealand. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/karma"
+        }
+      ],
+      "homepage": "https://karmabot.chat",
+      "indieAngle": "Build one Slack/Teams utility HR will budget for (recognition, PTO, standups, on-call) and charge per active seat.",
+      "image": "/blog/2026-10-02/karma.webp",
+      "imageAlt": "Karma product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "enquiry-genie",
+      "name": "Enquiry Genie",
+      "listingNote": null,
+      "description": "Chrome extension that drafts Airbnb/direct-booking enquiry replies in the host's tone with live pricing & availability (Gmail/Outlook + iCal/Airbnb sync). £1 for 14 days, then ~£29/mo for up to 5 properties. UK, bootstrapped.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$9.4k L30, ~$353k all-time, MRR listed as none / no active subscriptions. ~54 users claimed on profile, founded Apr 2025, UK. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/enquiry-genie"
+        }
+      ],
+      "homepage": "https://enquirygenie.ai",
+      "indieAngle": "Automate the repetitive guest/host (or clinic/patient) email that already has structured data (calendar + price). Stay in inbox; charge per property/location.",
+      "image": "/blog/2026-10-02/enquiry-genie.webp",
+      "imageAlt": "Enquiry Genie product image",
+      "imageWidth": 1200,
+      "imageHeight": 634
+    },
+    {
+      "slug": "guidejar",
+      "name": "Guidejar",
+      "listingNote": null,
+      "description": "Interactive product demos / how-to guides / internal docs — record a process (Chrome or desktop), edit, AI voiceover/translate, share or embed; help-center hosting. Free up to 5 guides; paid unlimited. India-founded, ~10k users claimed.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5.0k MRR, 215 active subscriptions, ~$5.5k L30, ~$145k all-time, ~10,000 users claimed, founded Jul 2023, India. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/guidejar"
+        }
+      ],
+      "homepage": "https://guidejar.com",
+      "indieAngle": "Capture → shareable guide for one workflow type (onboarding, SOPs, feature tours). Free tier as SEO funnel; seats/workspaces as upgrade.",
+      "image": "/blog/2026-10-02/guidejar.webp",
+      "imageAlt": "Guidejar product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "aila",
+      "name": "Aila",
+      "listingNote": null,
+      "description": "Agentic AI for US mortgage teams — intake/compliance agents that listen to discovery calls, build the loan file in LOS/CRM (ARIVE, LendingPad, etc.), request docs, score compliance. From ~$50/LO/mo (intake+compliance); enterprise ~$200/LO/mo. Homepage also at withaila.com.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$18.1k MRR, 99 active subscriptions, ~$18.7k L30, ~$116k all-time, ~100 users claimed, founded Nov 2023, US. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/aila"
+        }
+      ],
+      "homepage": "https://aila.fyi",
+      "indieAngle": "Own one regulated sales call → system-of-record pipeline (mortgage, insurance, wealth). Charge per producer; integrate the LOS they already live in.",
+      "image": "/blog/2026-10-02/aila.webp",
+      "imageAlt": "Aila product image",
+      "imageWidth": 1200,
+      "imageHeight": 1120
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "ChatDash",
+      "note": "Stripe-verified white-label AI agent/dashboard for agencies; ~$20.8k MRR / 119 subs / ~$20.5k L30 / ~$584k all-time.",
+      "homepage": "https://chat-dash.com"
+    },
+    {
+      "name": "Marky",
+      "note": "Stripe-verified social content for authors/SMBs; ~$21.3k MRR / 477 subs / ~$29.9k L30 / ~$996k all-time.",
+      "homepage": "https://mymarky.ai"
+    },
+    {
+      "name": "TrackAI",
+      "note": "RevenueCat-verified photo calorie tracker (Poland); ~$19.6k MRR / 5,067 subs / ~$21.6k L30 / ~$270k all-time.",
+      "homepage": "https://trackai.app"
+    },
+    {
+      "name": "NoticeRegistry",
+      "note": "Stripe-verified public-notices index (foreclosures, bids, probate); ~$2.0k MRR / 70 subs / ~$2.8k L30 / ~$4.8k all-time — early but ultra-boring legal data.",
+      "homepage": "https://noticeregistry.com"
+    },
+    {
+      "name": "Tradevipe",
+      "note": "Stripe-verified white-label trading journal for prop firms; ~$160k all-time; founder note ~$4.5k MRR / ~$50k ARR (Stripe seat-MRR field empty).",
+      "homepage": "https://tradevipe.com"
+    },
+    {
+      "name": "PatentFig",
+      "note": "Stripe-verified AI patent drawings; ~$2.8k MRR / 66 subs / ~$6.0k L30 / ~$17k all-time (key stale Jul 2026).",
+      "homepage": "https://patentfig.ai"
+    },
+    {
+      "name": "PMSuite",
+      "note": "Polar-verified HR/CRM/payroll suite; ~$43k L30 / ~$295k all-time — Polar API key expired (last sync Aug 4, 2026); treat figures as stale.",
+      "homepage": "https://pmsuite.co"
+    }
+  ]
+}

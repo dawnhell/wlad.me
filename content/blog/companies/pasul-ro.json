@@ -1,0 +1,25 @@
+{
+  "slug": "pasul-ro",
+  "name": "Pasul.ro",
+  "listingNote": null,
+  "description": "Romanian mental-health marketplace matching clients (Romania + diaspora) with vetted Romanian-speaking psychologists/therapists for online or in-person sessions. Free 15-min discovery call, secure payments, ~219 RON average per session. Founded late 2024, Romania.",
+  "homepage": "https://pasul.ro",
+  "image": "/blog/2026-10-02/pasul-ro.webp",
+  "imageAlt": "Pasul.ro product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$30.6k L30, ~$306k all-time, MRR listed without active seat count (session marketplace). ~2,000 users claimed, founded Dec 2024, Romania. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/pasul-ro"
+        }
+      ],
+      "indieAngle": "Match diaspora patients to same-language clinicians in one country (therapy, dentistry, physio). Trust + language is the moat; payments + matching are the product."
+    }
+  ]
+}

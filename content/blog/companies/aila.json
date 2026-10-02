@@ -1,0 +1,25 @@
+{
+  "slug": "aila",
+  "name": "Aila",
+  "listingNote": null,
+  "description": "Agentic AI for US mortgage teams — intake/compliance agents that listen to discovery calls, build the loan file in LOS/CRM (ARIVE, LendingPad, etc.), request docs, score compliance. From ~$50/LO/mo (intake+compliance); enterprise ~$200/LO/mo. Homepage also at withaila.com.",
+  "homepage": "https://aila.fyi",
+  "image": "/blog/2026-10-02/aila.webp",
+  "imageAlt": "Aila product image",
+  "imageWidth": 1200,
+  "imageHeight": 1120,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$18.1k MRR, 99 active subscriptions, ~$18.7k L30, ~$116k all-time, ~100 users claimed, founded Nov 2023, US. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/aila"
+        }
+      ],
+      "indieAngle": "Own one regulated sales call → system-of-record pipeline (mortgage, insurance, wealth). Charge per producer; integrate the LOS they already live in."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "guidejar",
+  "name": "Guidejar",
+  "listingNote": null,
+  "description": "Interactive product demos / how-to guides / internal docs — record a process (Chrome or desktop), edit, AI voiceover/translate, share or embed; help-center hosting. Free up to 5 guides; paid unlimited. India-founded, ~10k users claimed.",
+  "homepage": "https://guidejar.com",
+  "image": "/blog/2026-10-02/guidejar.webp",
+  "imageAlt": "Guidejar product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5.0k MRR, 215 active subscriptions, ~$5.5k L30, ~$145k all-time, ~10,000 users claimed, founded Jul 2023, India. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/guidejar"
+        }
+      ],
+      "indieAngle": "Capture → shareable guide for one workflow type (onboarding, SOPs, feature tours). Free tier as SEO funnel; seats/workspaces as upgrade."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "v62form",
+  "name": "V62Form",
+  "listingNote": null,
+  "description": "UK DVLA V62 helper — fill/print/ship the form to get a replacement V5C vehicle registration certificate (logbook) when lost, stolen, damaged, or missing after purchase. Free download / Print & Ship ~£11.95 / Complete Service ~£39.95. UK, founded 2025.",
+  "homepage": "https://v62form.co.uk",
+  "image": "/blog/2026-10-02/v62form.webp",
+  "imageAlt": "V62Form product image",
+  "imageWidth": 1200,
+  "imageHeight": 500,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$33.8k all-time, MRR listed as none (pay-per-form). ~5,000 users claimed, founded Mar 2025, UK. Last sync Oct 2, 2026. (L30 not prominently listed on card; all-time is the solid signal.)",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/v62form"
+        }
+      ],
+      "indieAngle": "Wrap one painful DVLA / DMV / registry form with guided UX + print/ship. Expand form-by-form once SEO works."
+    }
+  ]
+}

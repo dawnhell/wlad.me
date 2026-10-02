@@ -1,0 +1,33 @@
+{
+  "slug": "fast-corp-ltd",
+  "name": "Fast Corp Ltd",
+  "listingNote": null,
+  "description": "All-in-one Bulgarian EU company launch + ongoing compliance. Online EOOD/OOD formation in ~3–5 business days (formation from ~€1,500–€1,750), then optional bookkeeping/VAT/payroll (accounting from ~€229/mo). EU IBAN/banking support, virtual office, 10% corporate tax pitch. Bootstrapped, Sofia, team 2–5, ~3,000 clients claimed since 2018.",
+  "homepage": "https://fastcorp.eu",
+  "image": "/blog/2026-10-02/fast-corp-ltd.webp",
+  "imageAlt": "Fast Corp Ltd product image",
+  "imageWidth": 1200,
+  "imageHeight": 623,
+  "mentions": [
+    {
+      "date": "2026-10-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8.6k L30, ~$56k all-time, MRR not listed as seat subscriptions (formation + service mix). Founded Jul 2025 on TrustMRR profile (ops claim longer history), Bulgaria. Last sync Oct 2, 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/fast-corp-ltd"
+        },
+        {
+          "label": "fastcorp.eu",
+          "url": "https://fastcorp.eu/pricing"
+        },
+        {
+          "label": "fastcorp.eu",
+          "url": "https://fastcorp.eu/accounting"
+        }
+      ],
+      "indieAngle": "Pick one low-tax / high-bureaucracy EU (or LatAm) jurisdiction and sell remote incorporation + bookkeeping as a productized firm. Switching costs explode once VAT and payroll live there."
+    }
+  ]
+}

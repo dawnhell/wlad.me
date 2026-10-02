@@ -37,5 +37,15 @@
   "hirevire": "Candidates record answers to the hiring questions, so nobody books a screening call. Plans run about $49 to $249 a month.",
   "legalone": "French companies have to publish legal notices. LegalOne files them for a fee, which is why recurring revenue reads as zero while the last 30 days show about $10.7k.",
   "promatic": "Plumbing and HVAC contractors pay about $99 a job so the permit and the inspection get filed. Recurring revenue reads as zero because the bill is the project.",
-  "voxnow": "Belgian law firms pay about €90 a user so a missed call becomes an email summary and an SMS. Twenty-six of those seats are the monthly figure."
+  "voxnow": "Belgian law firms pay about €90 a user so a missed call becomes an email summary and an SMS. Twenty-six of those seats are the monthly figure.",
+  "fast-corp-ltd": "People pay to open a Bulgarian company and then keep the books there. Formation starts around €1,500, and accounting from about €229 a month is the part that stays.",
+  "liinks": "Creators pay $5 or $12 a month for one page that holds every link. The Stripe record shows 5,419 of those subscriptions.",
+  "pasul-ro": "Romanian speakers book a therapist through Pasul, online or in person. The last 30 days show about $30.6k because the money is the session, not a monthly seat.",
+  "uhoh-com": "Startups pay a flat monthly fee for a managed IT desk, with plans from about $3,000 a month. Thirty of those subscriptions are the Stripe figure.",
+  "angel-match": "Founders pay for a searchable list of angel investors and VCs. Hundreds of those subscriptions have added up to nearly $1M all-time.",
+  "v62form": "People in the UK pay once, about £11.95 to print and ship or £39.95 for the full service, to replace a lost V5C logbook. Recurring revenue reads as zero because each form is a single checkout.",
+  "karma": "Teams pay about $3 a user so kudos and gift cards live inside Slack or Teams. The last 30 days show about $24.5k, above the listed seat figure, which fits annual plans and reward top-ups.",
+  "enquiry-genie": "Airbnb hosts pay about £29 a month so replies to guest emails go out in their own tone, with live prices attached. Listed recurring revenue reads as none, so the last 30 days, about $9.4k, is the figure to read.",
+  "guidejar": "Teams record a click-through of a workflow and share it instead of walking someone through the same steps. The free side stops at five guides, and 215 subscriptions are the paid side.",
+  "aila": "US loan officers pay from about $50 a month so a discovery call gets written into the loan file. Ninety-nine of those seats are the Stripe figure."
 }
