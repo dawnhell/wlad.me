@@ -1,0 +1,29 @@
+{
+  "slug": "cartboss",
+  "name": "CartBoss",
+  "listingNote": null,
+  "description": "Pay-as-you-go SMS abandoned-cart recovery for Shopify/WooCommerce stores. No monthly subscription; first 25 messages free; GDPR-compliant. Founded Mar 2021, Slovenia.",
+  "homepage": "https://www.cartboss.io/",
+  "image": "/blog/2026-10-03/cartboss.webp",
+  "imageAlt": "CartBoss product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (usage-based), ~$25,822–$25,974 L30, ~$1,741,653 all-time, ~45% L30 profit margin. Last sync Oct 3, 2026 ~05:00 Warsaw (03:00 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/cartboss"
+        },
+        {
+          "label": "cartboss.io",
+          "url": "https://www.cartboss.io/"
+        }
+      ],
+      "indieAngle": "Own one recovery channel for a platform (Shopify SMS, WhatsApp, email dunning) with prepaid credits. Charge for messages sent, not seats."
+    }
+  ]
+}

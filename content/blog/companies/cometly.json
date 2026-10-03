@@ -1,0 +1,29 @@
+{
+  "slug": "cometly",
+  "name": "Cometly",
+  "listingNote": null,
+  "description": "Marketing attribution and analytics for B2B SaaS — sends accurate attribution data back to ad platforms; AI chat over ads data. Founded Oct  mid-2020, US. High ACV (291 subs → ~$206k MRR).",
+  "homepage": "https://www.cometly.com/",
+  "image": "/blog/2026-10-03/cometly.webp",
+  "imageAlt": "Cometly product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$206,311 MRR, 291 active subscriptions, ~$253,748 L30, ~$9,929,042 all-time, ~90% L30 profit margin. Last sync Oct 3, 2026 ~04:13 Warsaw (02:13 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/cometly"
+        },
+        {
+          "label": "cometly.com",
+          "url": "https://www.cometly.com/"
+        }
+      ],
+      "indieAngle": "Narrow attribution for one channel stack (Meta+Stripe, or LinkedIn+HubSpot) and charge for \"which ad paid the invoice.\" High ACV, small logo count."
+    }
+  ]
+}

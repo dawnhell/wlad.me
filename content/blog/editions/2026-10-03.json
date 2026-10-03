@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-03",
+  "title": "Boring SaaS ideas for 3 October 2026",
+  "dek": "Hey folks! Here are revenue notes on 10 products for 3 October 2026. 10 are Stripe-verified. As always, all of them link to their source.",
+  "heroId": "mountain-lake",
+  "companies": [
+    {
+      "slug": "kibu",
+      "name": "Kibu",
+      "listingNote": null,
+      "description": "Content, compliance, and EHR platform built specifically for provider organizations serving people with intellectual and developmental disabilities (I/DD). Helps DSPs deliver care while managing regulatory documentation across hundreds of orgs and ~48 US states. HIPAA-compliant; contact-sales pricing. Founded Jan 2022, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$234,319 MRR, 375 active subscriptions, ~$200,210 L30 snapshot, ~$3,096,047 all-time. Founded Jan 2022, US. Caveat: Stripe API key expired; revenue last synced Apr 19, 2026 (profile still shows cached L30/MRR snapshots). Last profile refresh cached around Oct 4, 2026 UTC.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kibu"
+        },
+        {
+          "label": "kibu.com",
+          "url": "https://kibu.com/"
+        }
+      ],
+      "homepage": "https://kibu.com/",
+      "indieAngle": "Pick one regulated care vertical (I/DD, home health, behavioral health) in one country and own documentation + compliance + scheduling. Sell to ops directors, not founders on X.",
+      "image": "/blog/2026-10-03/kibu.webp",
+      "imageAlt": "Kibu product image",
+      "imageWidth": 1200,
+      "imageHeight": 631
+    },
+    {
+      "slug": "uk-hormone-prescribing-ops-agency",
+      "name": "UK hormone prescribing + ops agency",
+      "listingNote": "Stealth",
+      "description": "Stealth TrustMRR listing described as a Hormone Prescribing service in UK & Operations/Automation Consulting Agency. No public domain on TrustMRR. GB, founded Mar 2023, bootstrapped. 2,339 active subscriptions on Stripe.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$165,463 MRR, 2,339 active subscriptions, ~$240,175–$240,376 L30, ~$6,414,562 all-time, ~60% L30 profit margin. Last sync Oct 3, 2026 ~05:24 Warsaw (03:24 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/medical-practice-medical-consulting-agency"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Pair a licensed niche (hormones, dermatology, dental, vet) with productized ops/automation for clinics. Compliance is the moat; software is the leverage.",
+      "image": "/blog/2026-10-03/uk-hormone-prescribing-ops-agency.webp",
+      "imageAlt": "UK hormone prescribing + ops agency product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "1lookup",
+      "name": "1Lookup",
+      "listingNote": null,
+      "description": "Real-time phone, email, and IP validation/enrichment API — 34 data products on one API key and one shared credit balance (validation, enrichment, B2B prospecting, SEO, transcription). Usage/credit pricing; integrations with Twilio, HubSpot, Shopify, Salesforce. Founded Jan 2022, US. Listed for sale at $10M on TrustMRR.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$247,963 MRR, 686 active subscriptions, ~$389,388–$389,883 L30, ~$5,201,760 all-time, ~40% L30 profit margin. Last sync Oct 3, 2026 ~04:09 Warsaw (02:09 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/1lookup"
+        },
+        {
+          "label": "1lookup.io",
+          "url": "https://www.1lookup.io/"
+        }
+      ],
+      "homepage": "https://www.1lookup.io/",
+      "indieAngle": "Ship one boring verification/enrichment API (phone, VAT ID, IBAN, company registry) with prepaid credits. Own the \"stop paying for bad data\" wedge.",
+      "image": "/blog/2026-10-03/1lookup.webp",
+      "imageAlt": "1Lookup product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "rezi",
+      "name": "Rezi",
+      "listingNote": null,
+      "description": "AI-assisted resume builder aimed at ATS-friendly job applications. Free / Pro ~$29/mo / Lifetime ~$149; Rezi Enterprise for orgs (300+ organizations claimed). Forbes-ranked #1 AI resume builder (company-stated). Founded May 2015, US, VC-backed. ~4.5M estimated users on TrustMRR.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$251,264 MRR, 10,418 active subscriptions, ~$222,910–$224,316 L30, ~$10,260,842 all-time, ~60% L30 profit margin. Last sync Oct 3, 2026 ~04:15 Warsaw (02:15 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/rezi"
+        },
+        {
+          "label": "rezi.ai",
+          "url": "https://www.rezi.ai/"
+        }
+      ],
+      "homepage": "https://www.rezi.ai/",
+      "indieAngle": "Own one career-bureaucracy artifact (resume, cover letter, visa packet, LinkedIn audit) with freemium + lifetime + enterprise upsell. Volume seats print even at low ARPU.",
+      "image": "/blog/2026-10-03/rezi.webp",
+      "imageAlt": "Rezi product image",
+      "imageWidth": 1200,
+      "imageHeight": 680
+    },
+    {
+      "slug": "cometly",
+      "name": "Cometly",
+      "listingNote": null,
+      "description": "Marketing attribution and analytics for B2B SaaS — sends accurate attribution data back to ad platforms; AI chat over ads data. Founded Oct  mid-2020, US. High ACV (291 subs → ~$206k MRR).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$206,311 MRR, 291 active subscriptions, ~$253,748 L30, ~$9,929,042 all-time, ~90% L30 profit margin. Last sync Oct 3, 2026 ~04:13 Warsaw (02:13 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/cometly"
+        },
+        {
+          "label": "cometly.com",
+          "url": "https://www.cometly.com/"
+        }
+      ],
+      "homepage": "https://www.cometly.com/",
+      "indieAngle": "Narrow attribution for one channel stack (Meta+Stripe, or LinkedIn+HubSpot) and charge for \"which ad paid the invoice.\" High ACV, small logo count.",
+      "image": "/blog/2026-10-03/cometly.webp",
+      "imageAlt": "Cometly product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "probate-leads",
+      "name": "Probate leads",
+      "listingNote": "Stealth / \"Stealth Company\"",
+      "description": "Stealth TrustMRR listing: sells probate leads to real estate investors and agents. Pulls motivated sellers who must sell within ~90–120 days due to legal situations; works directly with courts; enrichment pipeline claimed. Pricing: $1 trial, then ~$50–$800/mo tiers. TALL stack (Tailwind/Alpine/Laravel/Livewire). Founded Mar 2010, US. ~800 estimated users, 627 active subs.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$71,149 MRR, 627 active subscriptions, ~$62,295–$62,658 L30, ~$972,190 all-time, ~75% L30 profit margin. Last sync Oct 3, 2026 ~07:08 Warsaw (05:08 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/b2bsaas"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Own one courthouse/public-record niche (probate, tax liens, code violations, liquor licenses) and sell enriched leads on a subscription. Bureaucracy is the data moat.",
+      "image": "/blog/2026-10-03/probate-leads.webp",
+      "imageAlt": "Probate leads product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "upscale-system-llc",
+      "name": "Upscale System LLC",
+      "listingNote": "Upscale B2B",
+      "description": "CRM + lead-gen / done-for-you outbound growth partner for B2B companies — email, calling, and LinkedIn campaigns; pilot then scale. TrustMRR description mixes \"CRM and Lead generation softwares\" with outbound services. Founded Mar 2023, US. ~200 estimated users, 289 active subs.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$100,269 MRR, 289 active subscriptions, ~$84,224 L30, ~$768,741 all-time. Last sync Oct 3, 2026 ~06:04 Warsaw (04:04 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/upscale-system-llc"
+        },
+        {
+          "label": "upscaleb2b.com",
+          "url": "https://upscaleb2b.com/"
+        }
+      ],
+      "homepage": "https://upscaleb2b.com/",
+      "indieAngle": "Package outbound (inbox + dialer + CRM) as a fixed-scope monthly product for one ICP (agencies, local services, SaaS). Services margin + software stickiness.",
+      "image": "/blog/2026-10-03/upscale-system-llc.webp",
+      "imageAlt": "Upscale System LLC product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "cartboss",
+      "name": "CartBoss",
+      "listingNote": null,
+      "description": "Pay-as-you-go SMS abandoned-cart recovery for Shopify/WooCommerce stores. No monthly subscription; first 25 messages free; GDPR-compliant. Founded Mar 2021, Slovenia.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (usage-based), ~$25,822–$25,974 L30, ~$1,741,653 all-time, ~45% L30 profit margin. Last sync Oct 3, 2026 ~05:00 Warsaw (03:00 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/cartboss"
+        },
+        {
+          "label": "cartboss.io",
+          "url": "https://www.cartboss.io/"
+        }
+      ],
+      "homepage": "https://www.cartboss.io/",
+      "indieAngle": "Own one recovery channel for a platform (Shopify SMS, WhatsApp, email dunning) with prepaid credits. Charge for messages sent, not seats.",
+      "image": "/blog/2026-10-03/cartboss.webp",
+      "imageAlt": "CartBoss product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "proclinica",
+      "name": "PROCLINICA",
+      "listingNote": null,
+      "description": "Spanish private clinic management SaaS — agenda, clinical history, billing, reminders, VeriFactu + RGPD compliance, Google Calendar + Stripe integrations. Data hosted in Spain. Proclinica Pro ~€34.99/mo or ~€367.20/year, 7-day trial. Founded Aug 2021, Spain. ~350 estimated users, 136 active subs.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,416 MRR, 136 active subscriptions, ~$6,726 L30, ~$35,464 all-time, ~80% L30 profit margin. Last sync Oct 3, 2026 ~06:51 Warsaw (04:51 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/proclinica"
+        },
+        {
+          "label": "proclinica.es",
+          "url": "https://proclinica.es/"
+        }
+      ],
+      "homepage": "https://proclinica.es/",
+      "indieAngle": "Build clinic/practice software for one EU country with local e-invoice + privacy baked in. Sell in the local language; compliance beats features.",
+      "image": "/blog/2026-10-03/proclinica.webp",
+      "imageAlt": "PROCLINICA product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "white-glove-content",
+      "name": "White Glove Content",
+      "listingNote": null,
+      "description": "Subscription productized service that produces faceless social video (scripting, AI voiceover, editing, thumbnails) for YouTube/TikTok/Reels/Facebook, delivered via dashboard with optional auto-upload. Starter ~$54 / Growth ~$124 / Pro ~$284 per month; month-to-month, $0 setup. Bootstrapped, team 2–5, founded Apr 2026, US. Listed for sale at $2.5M on TrustMRR.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$66,171 MRR, 589 active subscriptions, ~$69,308–$69,382 L30, ~$242,825 all-time, ~65% L30 profit margin. Last sync Oct 3, 2026 ~08:31 Warsaw (06:31 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/white-glove-content"
+        },
+        {
+          "label": "whiteglovecontent.com",
+          "url": "https://www.whiteglovecontent.com/"
+        }
+      ],
+      "homepage": "https://www.whiteglovecontent.com/",
+      "indieAngle": "Productize one creative ops pipeline (faceless video, newsletter, product photos) into fixed monthly tiers with a client dashboard. Sell the outcome, meter the seats.",
+      "image": "/blog/2026-10-03/white-glove-content.webp",
+      "imageAlt": "White Glove Content product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "ezi services Inc.",
+      "note": "On-demand home-services marketplace (cleaning, lawn, detailing, snow) matching vetted contractors to homeowners/Airbnb hosts. Stripe-verified ~$6,727 L30, ~$365,760 all-time, MRR $0 (transactional), ~4,000 users claimed, Canada, founded 2020. Asking ~$600k on TrustMRR. Marketplace take-rate, not seats.",
+      "homepage": "https://ezi.services/"
+    },
+    {
+      "name": "Podawaa",
+      "note": "LinkedIn scheduling / amplification SaaS (FR). Stripe-verified ~$66,390 MRR, 618 subs, ~$58,766 L30, ~$1,186,316 all-time, ~90% margin. Fresh sync Oct 3. Less Conductor-lane, strong money.",
+      "homepage": "https://podawaa.com/"
+    },
+    {
+      "name": "Dropkiller",
+      "note": "E-com product/ad research subscriptions. Stripe-verified ~$60,179 MRR, 2,702 subs, ~$49,511 L30, ~$452,343 all-time — but Stripe key expired Aug 16, 2026; treat as stale.",
+      "homepage": "https://www.dropkiller.com/"
+    }
+  ]
+}

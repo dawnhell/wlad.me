@@ -1,0 +1,29 @@
+{
+  "slug": "rezi",
+  "name": "Rezi",
+  "listingNote": null,
+  "description": "AI-assisted resume builder aimed at ATS-friendly job applications. Free / Pro ~$29/mo / Lifetime ~$149; Rezi Enterprise for orgs (300+ organizations claimed). Forbes-ranked #1 AI resume builder (company-stated). Founded May 2015, US, VC-backed. ~4.5M estimated users on TrustMRR.",
+  "homepage": "https://www.rezi.ai/",
+  "image": "/blog/2026-10-03/rezi.webp",
+  "imageAlt": "Rezi product image",
+  "imageWidth": 1200,
+  "imageHeight": 680,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$251,264 MRR, 10,418 active subscriptions, ~$222,910–$224,316 L30, ~$10,260,842 all-time, ~60% L30 profit margin. Last sync Oct 3, 2026 ~04:15 Warsaw (02:15 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/rezi"
+        },
+        {
+          "label": "rezi.ai",
+          "url": "https://www.rezi.ai/"
+        }
+      ],
+      "indieAngle": "Own one career-bureaucracy artifact (resume, cover letter, visa packet, LinkedIn audit) with freemium + lifetime + enterprise upsell. Volume seats print even at low ARPU."
+    }
+  ]
+}

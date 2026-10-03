@@ -1,0 +1,29 @@
+{
+  "slug": "kibu",
+  "name": "Kibu",
+  "listingNote": null,
+  "description": "Content, compliance, and EHR platform built specifically for provider organizations serving people with intellectual and developmental disabilities (I/DD). Helps DSPs deliver care while managing regulatory documentation across hundreds of orgs and ~48 US states. HIPAA-compliant; contact-sales pricing. Founded Jan 2022, US.",
+  "homepage": "https://kibu.com/",
+  "image": "/blog/2026-10-03/kibu.webp",
+  "imageAlt": "Kibu product image",
+  "imageWidth": 1200,
+  "imageHeight": 631,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$234,319 MRR, 375 active subscriptions, ~$200,210 L30 snapshot, ~$3,096,047 all-time. Founded Jan 2022, US. Caveat: Stripe API key expired; revenue last synced Apr 19, 2026 (profile still shows cached L30/MRR snapshots). Last profile refresh cached around Oct 4, 2026 UTC.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kibu"
+        },
+        {
+          "label": "kibu.com",
+          "url": "https://kibu.com/"
+        }
+      ],
+      "indieAngle": "Pick one regulated care vertical (I/DD, home health, behavioral health) in one country and own documentation + compliance + scheduling. Sell to ops directors, not founders on X."
+    }
+  ]
+}

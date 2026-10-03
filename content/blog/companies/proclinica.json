@@ -1,0 +1,29 @@
+{
+  "slug": "proclinica",
+  "name": "PROCLINICA",
+  "listingNote": null,
+  "description": "Spanish private clinic management SaaS — agenda, clinical history, billing, reminders, VeriFactu + RGPD compliance, Google Calendar + Stripe integrations. Data hosted in Spain. Proclinica Pro ~€34.99/mo or ~€367.20/year, 7-day trial. Founded Aug 2021, Spain. ~350 estimated users, 136 active subs.",
+  "homepage": "https://proclinica.es/",
+  "image": "/blog/2026-10-03/proclinica.webp",
+  "imageAlt": "PROCLINICA product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,416 MRR, 136 active subscriptions, ~$6,726 L30, ~$35,464 all-time, ~80% L30 profit margin. Last sync Oct 3, 2026 ~06:51 Warsaw (04:51 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/proclinica"
+        },
+        {
+          "label": "proclinica.es",
+          "url": "https://proclinica.es/"
+        }
+      ],
+      "indieAngle": "Build clinic/practice software for one EU country with local e-invoice + privacy baked in. Sell in the local language; compliance beats features."
+    }
+  ]
+}

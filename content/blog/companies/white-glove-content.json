@@ -1,0 +1,29 @@
+{
+  "slug": "white-glove-content",
+  "name": "White Glove Content",
+  "listingNote": null,
+  "description": "Subscription productized service that produces faceless social video (scripting, AI voiceover, editing, thumbnails) for YouTube/TikTok/Reels/Facebook, delivered via dashboard with optional auto-upload. Starter ~$54 / Growth ~$124 / Pro ~$284 per month; month-to-month, $0 setup. Bootstrapped, team 2–5, founded Apr 2026, US. Listed for sale at $2.5M on TrustMRR.",
+  "homepage": "https://www.whiteglovecontent.com/",
+  "image": "/blog/2026-10-03/white-glove-content.webp",
+  "imageAlt": "White Glove Content product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$66,171 MRR, 589 active subscriptions, ~$69,308–$69,382 L30, ~$242,825 all-time, ~65% L30 profit margin. Last sync Oct 3, 2026 ~08:31 Warsaw (06:31 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/white-glove-content"
+        },
+        {
+          "label": "whiteglovecontent.com",
+          "url": "https://www.whiteglovecontent.com/"
+        }
+      ],
+      "indieAngle": "Productize one creative ops pipeline (faceless video, newsletter, product photos) into fixed monthly tiers with a client dashboard. Sell the outcome, meter the seats."
+    }
+  ]
+}

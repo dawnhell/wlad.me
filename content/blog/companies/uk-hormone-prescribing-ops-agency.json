@@ -1,0 +1,25 @@
+{
+  "slug": "uk-hormone-prescribing-ops-agency",
+  "name": "UK hormone prescribing + ops agency",
+  "listingNote": "Stealth",
+  "description": "Stealth TrustMRR listing described as a Hormone Prescribing service in UK & Operations/Automation Consulting Agency. No public domain on TrustMRR. GB, founded Mar 2023, bootstrapped. 2,339 active subscriptions on Stripe.",
+  "homepage": null,
+  "image": "/blog/2026-10-03/uk-hormone-prescribing-ops-agency.webp",
+  "imageAlt": "UK hormone prescribing + ops agency product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$165,463 MRR, 2,339 active subscriptions, ~$240,175–$240,376 L30, ~$6,414,562 all-time, ~60% L30 profit margin. Last sync Oct 3, 2026 ~05:24 Warsaw (03:24 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/medical-practice-medical-consulting-agency"
+        }
+      ],
+      "indieAngle": "Pair a licensed niche (hormones, dermatology, dental, vet) with productized ops/automation for clinics. Compliance is the moat; software is the leverage."
+    }
+  ]
+}

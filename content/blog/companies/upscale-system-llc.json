@@ -1,0 +1,29 @@
+{
+  "slug": "upscale-system-llc",
+  "name": "Upscale System LLC",
+  "listingNote": "Upscale B2B",
+  "description": "CRM + lead-gen / done-for-you outbound growth partner for B2B companies — email, calling, and LinkedIn campaigns; pilot then scale. TrustMRR description mixes \"CRM and Lead generation softwares\" with outbound services. Founded Mar 2023, US. ~200 estimated users, 289 active subs.",
+  "homepage": "https://upscaleb2b.com/",
+  "image": "/blog/2026-10-03/upscale-system-llc.webp",
+  "imageAlt": "Upscale System LLC product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$100,269 MRR, 289 active subscriptions, ~$84,224 L30, ~$768,741 all-time. Last sync Oct 3, 2026 ~06:04 Warsaw (04:04 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/upscale-system-llc"
+        },
+        {
+          "label": "upscaleb2b.com",
+          "url": "https://upscaleb2b.com/"
+        }
+      ],
+      "indieAngle": "Package outbound (inbox + dialer + CRM) as a fixed-scope monthly product for one ICP (agencies, local services, SaaS). Services margin + software stickiness."
+    }
+  ]
+}

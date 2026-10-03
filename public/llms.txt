@@ -9,7 +9,8 @@
 
 ## Editions
 
-- [Boring SaaS ideas for 2 October 2026](https://www.wlad.me/blog/2026-10-02): Revenue notes on 10 products for 2 October 2026. 10 are Stripe-verified. Each figure links to its source.
+- [Boring SaaS ideas for 3 October 2026](https://www.wlad.me/blog/2026-10-03): Hey folks! Here are revenue notes on 10 products for 3 October 2026. 10 are Stripe-verified. As always, all of them link to their source.
+- [Boring SaaS ideas for 2 October 2026](https://www.wlad.me/blog/2026-10-02): Hey folks! Here are revenue notes on 10 products for 2 October 2026. 10 are Stripe-verified. As always, all of them link to their source.
 - [Boring SaaS ideas for 1 October 2026](https://www.wlad.me/blog/2026-10-01): Good morning on the beautiful day of 1 October 2026. Here's my revenue notes on 10 products for today. 9 are Stripe-verified and 1 is Paddle-verified.
 - [Boring SaaS ideas for 30 September 2026](https://www.wlad.me/blog/2026-09-30): Morning internet! Here's today's revenue notes on 10 products, 30 September 2026. 8 are Stripe-verified, 1 is Creem-verified and 1 is Polar-verified. And we have verification of each of those figures.
 - [Boring SaaS ideas for 29 September 2026](https://www.wlad.me/blog/2026-09-29): Another day, another dollar. Here's revenue notes on 10 products for 29 September 2026. All 10 are labeled Stripe-verified. Each figure links to its source.
@@ -17,13 +18,16 @@
 
 ## Companies
 
+- [1Lookup](https://www.wlad.me/blog/companies/1lookup): Real-time phone, email, and IP validation/enrichment API — 34 data products on one API key and one shared credit balance (validation, enrichment, B2B prospecting, SEO, transcription). Usage/credit pricing; integrations with Twilio, HubSpot, Shopify, Salesforce. Founded Jan 2022, US. Listed for sale at $10M on TrustMRR.
 - [Aila](https://www.wlad.me/blog/companies/aila): Agentic AI for US mortgage teams — intake/compliance agents that listen to discovery calls, build the loan file in LOS/CRM (ARIVE, LendingPad, etc.), request docs, score compliance. From ~$50/LO/mo (intake+compliance); enterprise ~$200/LO/mo. Homepage also at withaila.com.
 - [Angel Match](https://www.wlad.me/blog/companies/angel-match): Searchable database of ~124k–125k angel investors and VCs for founders raising seed. Freemium + paid subscription. US, founded 2019.
 - [Anonymous workforce-management SaaS](https://www.wlad.me/blog/companies/anonymous-workforce-management-saas): Scheduling/time/compliance for employers.
 - [Calendesk](https://www.wlad.me/blog/companies/calendesk): B2B booking + payments + client portal for therapists, psychologists, coaches, lawyers, beauty/fitness — white-label, subscription packages, API-first. Polish-founded, bootstrapped since 2020.
 - [Capgo](https://www.wlad.me/blog/companies/capgo): Live OTA updates + native builds, channels, rollback, and release automation for CapacitorJS apps — ship JS/CSS fixes without waiting on App Store review. Estonia, bootstrapped, team 2–5. Free 14-day trial.
+- [CartBoss](https://www.wlad.me/blog/companies/cartboss): Pay-as-you-go SMS abandoned-cart recovery for Shopify/WooCommerce stores. No monthly subscription; first 25 messages free; GDPR-compliant. Founded Mar 2021, Slovenia.
 - [Codédex](https://www.wlad.me/blog/companies/codedex): Gamified beginner coding + Club sub from ~$9.99/mo.
 - [ColdSire](https://www.wlad.me/blog/companies/coldsire): Premium cold-email inbox infrastructure — Google/Microsoft mailboxes from a pool mixed with real businesses, ~$6/mo per account, pitched at deliverability.
+- [Cometly](https://www.wlad.me/blog/companies/cometly): Marketing attribution and analytics for B2B SaaS — sends accurate attribution data back to ad platforms; AI chat over ads data. Founded Oct  mid-2020, US. High ACV (291 subs → ~$206k MRR).
 - [Conductor](https://www.wlad.me/blog/companies/conductor): The QuickBooks Desktop & Enterprise API — real-time access to every QBD object via Python, Node/TypeScript, and REST. Abstracts Web Connector, qbXML, SOAP, and the rest of Intuit's legacy mess.
 - [ControlResell](https://www.wlad.me/blog/companies/controlresell): Ops OS for pro resellers (Vinted, Shopify, etc.) — listings, negotiation, relisting, sales/purchase tracking. France-first.
 - [DataExpert / TechCreator](https://www.wlad.me/blog/companies/dataexpert-techcreator): Data engineering + AI upskilling education (courses / community) at dataexpert.io — ~$119/mo.
@@ -40,6 +44,7 @@
 - [Image-Charts](https://www.wlad.me/blog/companies/image-charts): Chart-as-image API for emails, PDFs, and chatbots (Google Image Charts spiritual successor). Bootstrapped since 2017.
 - [Karma](https://www.wlad.me/blog/companies/karma): Employee recognition & rewards bot for Slack and Microsoft Teams — public/private kudos, analytics, gift-card rewards. ~$3/user/mo. NZ-listed on TrustMRR; G2 ~4.9.
 - [Khosmos](https://www.wlad.me/blog/companies/khosmos): Quote + e-sign + invoicing + payments for French construction pros and micro-entreprises (1–50 people / subcontractors). Create a full quote in under a minute, sign on-site or remotely, then bill. ~€24/mo + per-seat, annual plans available.
+- [Kibu](https://www.wlad.me/blog/companies/kibu): Content, compliance, and EHR platform built specifically for provider organizations serving people with intellectual and developmental disabilities (I/DD). Helps DSPs deliver care while managing regulatory documentation across hundreds of orgs and ~48 US states. HIPAA-compliant; contact-sales pricing. Founded Jan 2022, US.
 - [LegalOne](https://www.wlad.me/blog/companies/legalone): French *annonces légales* (legal notices) publishing — accountants and companies file required notices with competitive rates and compliance baked in. Bootstrapped, France.
 - [Liinks](https://www.wlad.me/blog/companies/liinks): Link-in-bio / multi-link landing pages for creators and brand teams — customize, auto-pull Instagram links, track clicks. Starter ~$5/mo, Pro ~$12/mo. US, founded 2020.
 - [MedPilot](https://www.wlad.me/blog/companies/medpilot): AI receptionist / patient-booking stack for medical practices — after-hours calls, no-show recovery, lead follow-up. Pricing starts ~$297–$2,497/mo (quote-based).
@@ -49,10 +54,13 @@
 - [MyPlots](https://www.wlad.me/blog/companies/myplots): Event discovery + ticketing, 20% + $1/ticket.
 - [Pasul.ro](https://www.wlad.me/blog/companies/pasul-ro): Romanian mental-health marketplace matching clients (Romania + diaspora) with vetted Romanian-speaking psychologists/therapists for online or in-person sessions. Free 15-min discovery call, secure payments, ~219 RON average per session. Founded late 2024, Romania.
 - [Plutio](https://www.wlad.me/blog/companies/plutio): All-in-one app for freelancers (projects, proposals, contracts, invoices, forms).
+- [Probate leads](https://www.wlad.me/blog/companies/probate-leads): Stealth TrustMRR listing: sells **probate leads to real estate investors and agents**. Pulls motivated sellers who must sell within ~90–120 days due to legal situations; works directly with courts; enrichment pipeline claimed. Pricing: $1 trial, then ~$50–$800/mo tiers. TALL stack (Tailwind/Alpine/Laravel/Livewire). Founded Mar 2010, US. ~800 estimated users, 627 active subs.
+- [PROCLINICA](https://www.wlad.me/blog/companies/proclinica): Spanish private clinic management SaaS — agenda, clinical history, billing, reminders, VeriFactu + RGPD compliance, Google Calendar + Stripe integrations. Data hosted in Spain. Proclinica Pro ~€34.99/mo or ~€367.20/year, 7-day trial. Founded Aug 2021, Spain. ~350 estimated users, 136 active subs.
 - [Promatic](https://www.wlad.me/blog/companies/promatic): Permit automation for residential plumbing & HVAC contractors — file/manage permits and inspections so jobs aren't stuck waiting on paperwork. ~$99 per project.
 - [PROSP](https://www.wlad.me/blog/companies/prosp): LinkedIn outreach automation with AI personalization (prosp.ai); listed for sale on TrustMRR.
 - [Pushouse](https://www.wlad.me/blog/companies/pushouse): WhatsApp automation + e-commerce tools — broadcasts, carts, engagement for merchants who live in WhatsApp (UAE-founded, MENA/global e-com vibe).
 - [QuoteDeck](https://www.wlad.me/blog/companies/quotedeck): Insurance SaaS for agents/agencies to create and present professional life & health quotes (vs screenshots, messy PDFs, phone chase). Solo founder, bootstrapped. ~$60–$140/mo.
+- [Rezi](https://www.wlad.me/blog/companies/rezi): AI-assisted resume builder aimed at ATS-friendly job applications. Free / Pro ~$29/mo / Lifetime ~$149; Rezi Enterprise for orgs (300+ organizations claimed). Forbes-ranked #1 AI resume builder (company-stated). Founded May 2015, US, VC-backed. ~4.5M estimated users on TrustMRR.
 - [Salesrobot](https://www.wlad.me/blog/companies/salesrobot): LinkedIn + cold-email outreach automation.
 - [SEOBOT](https://www.wlad.me/blog/companies/seobot): AI agent for SEO — keywords, research, blog, mini apps, pSEO — from John Rush's stable. ~$49/mo.
 - [SoldComps](https://www.wlad.me/blog/companies/soldcomps): eBay sold-comps API for resellers and analysts — one keyword returns up to 200 completed sales with real prices, conditions, and dates.
@@ -62,7 +70,10 @@
 - [Tally](https://www.wlad.me/blog/companies/tally): Freemium form builder.
 - [textbee](https://www.wlad.me/blog/companies/textbee): Open-source Twilio alternative — turn an Android phone into an SMS gateway; send/receive programmatically with no per-message gateway fees. Free / Pro ~$9.99 / Scale ~$29.99.
 - [uhoh.com](https://www.wlad.me/blog/companies/uhoh-com): Flat-fee managed IT help desk / MSP for growing startups — "priced by you," free to try, subscriptions starting ~$3k/mo (up to ~50 staff). Canada-founded, mid-2025.
+- [UK hormone prescribing + ops agency](https://www.wlad.me/blog/companies/uk-hormone-prescribing-ops-agency): Stealth TrustMRR listing described as a **Hormone Prescribing service in UK & Operations/Automation Consulting Agency**. No public domain on TrustMRR. GB, founded Mar 2023, bootstrapped. 2,339 active subscriptions on Stripe.
+- [Upscale System LLC](https://www.wlad.me/blog/companies/upscale-system-llc): CRM + lead-gen / done-for-you outbound growth partner for B2B companies — email, calling, and LinkedIn campaigns; pilot then scale. TrustMRR description mixes "CRM and Lead generation softwares" with outbound services. Founded Mar 2023, US. ~200 estimated users, 289 active subs.
 - [V62Form](https://www.wlad.me/blog/companies/v62form): UK DVLA V62 helper — fill/print/ship the form to get a replacement V5C vehicle registration certificate (logbook) when lost, stolen, damaged, or missing after purchase. Free download / Print & Ship ~£11.95 / Complete Service ~£39.95. UK, founded 2025.
 - [VoxNow](https://www.wlad.me/blog/companies/voxnow): Voicemail → email transcription/summary + instant SMS reply for Belgian law firms. ~€90/user/mo. Small team (2–5), founded mid-2025.
 - [Web3Forms](https://www.wlad.me/blog/companies/web3forms): Contact-form API for static sites — HTML form posts land in email/webhook with no backend/PHP. Free tier (250 submissions/mo) + paid upgrades. India-founded, Paddle billing.
+- [White Glove Content](https://www.wlad.me/blog/companies/white-glove-content): Subscription productized service that produces faceless social video (scripting, AI voiceover, editing, thumbnails) for YouTube/TikTok/Reels/Facebook, delivered via dashboard with optional auto-upload. Starter ~$54 / Growth ~$124 / Pro ~$284 per month; month-to-month, $0 setup. Bootstrapped, team 2–5, founded Apr 2026, US. Listed for sale at $2.5M on TrustMRR.
 - [Windmill Growth](https://www.wlad.me/blog/companies/windmill-growth): Done-for-you personal branding / LinkedIn content service for B2B founders (~$3,999/mo retainers).

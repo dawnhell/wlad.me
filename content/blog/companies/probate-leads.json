@@ -1,0 +1,25 @@
+{
+  "slug": "probate-leads",
+  "name": "Probate leads",
+  "listingNote": "Stealth / \"Stealth Company\"",
+  "description": "Stealth TrustMRR listing: sells probate leads to real estate investors and agents. Pulls motivated sellers who must sell within ~90–120 days due to legal situations; works directly with courts; enrichment pipeline claimed. Pricing: $1 trial, then ~$50–$800/mo tiers. TALL stack (Tailwind/Alpine/Laravel/Livewire). Founded Mar 2010, US. ~800 estimated users, 627 active subs.",
+  "homepage": null,
+  "image": "/blog/2026-10-03/probate-leads.webp",
+  "imageAlt": "Probate leads product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$71,149 MRR, 627 active subscriptions, ~$62,295–$62,658 L30, ~$972,190 all-time, ~75% L30 profit margin. Last sync Oct 3, 2026 ~07:08 Warsaw (05:08 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/b2bsaas"
+        }
+      ],
+      "indieAngle": "Own one courthouse/public-record niche (probate, tax liens, code violations, liquor licenses) and sell enriched leads on a subscription. Bureaucracy is the data moat."
+    }
+  ]
+}

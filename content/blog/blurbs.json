@@ -47,5 +47,15 @@
   "karma": "Teams pay about $3 a user so kudos and gift cards live inside Slack or Teams. The last 30 days show about $24.5k, above the listed seat figure, which fits annual plans and reward top-ups.",
   "enquiry-genie": "Airbnb hosts pay about £29 a month so replies to guest emails go out in their own tone, with live prices attached. Listed recurring revenue reads as none, so the last 30 days, about $9.4k, is the figure to read.",
   "guidejar": "Teams record a click-through of a workflow and share it instead of walking someone through the same steps. The free side stops at five guides, and 215 subscriptions are the paid side.",
-  "aila": "US loan officers pay from about $50 a month so a discovery call gets written into the loan file. Ninety-nine of those seats are the Stripe figure."
+  "aila": "US loan officers pay from about $50 a month so a discovery call gets written into the loan file. Ninety-nine of those seats are the Stripe figure.",
+  "kibu": "Disability-service providers pay so the care log and the compliance paperwork live in one system. The Stripe snapshot is about $234k in monthly revenue, and the key expired in April 2026, so that figure is the last verified sync.",
+  "uk-hormone-prescribing-ops-agency": "A UK hormone-prescribing service and ops agency, with no public site on the listing. The Stripe record shows 2,339 subscriptions and about $165k in monthly revenue, synced 3 October.",
+  "1lookup": "Teams pay in credits to check a phone number, an email, or an IP. The last 30 days show about $390k, above the listed monthly figure, because the bill is usage. The listing is for sale at $10M.",
+  "rezi": "Job seekers pay about $29 a month, or $149 once, for a resume built to pass an applicant tracking system. The Stripe record shows 10,418 of those subscriptions.",
+  "cometly": "B2B teams pay to see which ads actually closed revenue. 291 of those subscriptions add up to about $206k a month.",
+  "probate-leads": "Real estate investors pay about $50 to $800 a month for probate leads pulled from court filings. The listing has no public site, and the Stripe record shows 627 subscriptions.",
+  "upscale-system-llc": "B2B companies pay for outbound that runs email, calls, and LinkedIn from one CRM. 289 of those subscriptions add up to about $100k a month.",
+  "cartboss": "Stores pay per text when someone leaves a cart, not a monthly seat. Recurring revenue reads as zero, and the all-time total is about $1.74M.",
+  "proclinica": "Spanish private clinics pay about €35 a month for the agenda, the clinical history, and the invoice. 136 of those subscriptions are the Stripe figure.",
+  "white-glove-content": "People pay about $54 to $284 a month for faceless social video, delivered from a dashboard. 589 of those subscriptions are the figure, and the listing is for sale at $2.5M."
 }

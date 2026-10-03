@@ -63,6 +63,7 @@ function parseSources(body) {
     const match = line.match(/https?:\/\/\S+/)
     if (!match) continue
     const url = match[0].replace(/[),.;]+$/, '')
+    if (new URL(url).pathname.endsWith('.md')) continue
     sources.push({ label: sourceLabel(url), url })
   }
   return sources
@@ -102,7 +103,7 @@ function homepageFromText(text) {
   return null
 }
 
-function parseHonorable(body) {
+function parseHonorableLines(body) {
   return body
     .split('\n')
     .map((line) => {
@@ -127,6 +128,38 @@ function parseHonorable(body) {
       return null
     })
     .filter(Boolean)
+}
+
+function parseHonorableSections(body) {
+  return body
+    .split(/\n(?=### )/)
+    .map((section) => {
+      const lines = section.trim().split('\n')
+      if (!lines[0].startsWith('### ')) return null
+      const name = lines[0].replace(/^###\s+/, '').trim()
+      const rest = lines.slice(1).join('\n')
+      const note = rest
+        .split('\n')
+        .map((line) => line.trim())
+        .filter(
+          (line) =>
+            line && line !== '---' && !line.startsWith('!') && !/^\[/.test(line),
+        )
+        .join(' ')
+      const labeled = rest.match(/\[Homepage\]\((https?:\/\/[^)]+)\)/)
+      return {
+        name,
+        note,
+        homepage: labeled ? labeled[1] : homepageFromText(rest),
+      }
+    })
+    .filter(Boolean)
+}
+
+function parseHonorable(body) {
+  const lines = parseHonorableLines(body)
+  if (lines.length > 0) return lines
+  return parseHonorableSections(body)
 }
 
 async function compressImage(inputPath, outputPath) {

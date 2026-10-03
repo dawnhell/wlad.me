@@ -1,0 +1,29 @@
+{
+  "slug": "1lookup",
+  "name": "1Lookup",
+  "listingNote": null,
+  "description": "Real-time phone, email, and IP validation/enrichment API — 34 data products on one API key and one shared credit balance (validation, enrichment, B2B prospecting, SEO, transcription). Usage/credit pricing; integrations with Twilio, HubSpot, Shopify, Salesforce. Founded Jan 2022, US. Listed for sale at $10M on TrustMRR.",
+  "homepage": "https://www.1lookup.io/",
+  "image": "/blog/2026-10-03/1lookup.webp",
+  "imageAlt": "1Lookup product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-10-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$247,963 MRR, 686 active subscriptions, ~$389,388–$389,883 L30, ~$5,201,760 all-time, ~40% L30 profit margin. Last sync Oct 3, 2026 ~04:09 Warsaw (02:09 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/1lookup"
+        },
+        {
+          "label": "1lookup.io",
+          "url": "https://www.1lookup.io/"
+        }
+      ],
+      "indieAngle": "Ship one boring verification/enrichment API (phone, VAT ID, IBAN, company registry) with prepaid credits. Own the \"stop paying for bad data\" wedge."
+    }
+  ]
+}
