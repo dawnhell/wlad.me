@@ -1,0 +1,29 @@
+{
+  "slug": "festejar",
+  "name": "Festejar",
+  "listingNote": null,
+  "description": "Ticketing + branded web platform for local clubs / nightclubs / venues in Catalonia — agenda, ticket sales, store, and subscriptions under one always-updated site with unified branding. Founded Mar 2026, Spain.",
+  "homepage": "https://festejar.cat/",
+  "image": "/blog/2026-10-04/festejar.webp",
+  "imageAlt": "Festejar product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (ticketing / txn), ~$38,385 L30, ~$187,515 all-time. Last sync Oct 4, 2026 ~07:46 Warsaw (05:46 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/festejar"
+        },
+        {
+          "label": "festejar.cat",
+          "url": "https://festejar.cat/"
+        }
+      ],
+      "indieAngle": "Own ticketing + branded event pages for one city/region/scene (student clubs, sports halls, festival bars). Take rate on GMV; language + local payments are the lock-in."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "friendfilter-groupfilter",
+  "name": "FriendFilter + GroupFilter",
+  "listingNote": null,
+  "description": "Established Chrome extensions for Facebook friend and group management — spot inactive / low-quality / fake connections so posts reach people who engage. Free / Growth ~$29 / Pro ~$49 per month. Rails + Vue + Postgres. Founded Mar 2019, US. ~120k estimated users; 337 active subs. Listed for asset sale (includes ~100k dormant email list).",
+  "homepage": "https://friendfilter.com/",
+  "image": "/blog/2026-10-04/friendfilter-groupfilter.webp",
+  "imageAlt": "FriendFilter + GroupFilter product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8,237 MRR, 337 active subscriptions, ~$6,904 L30, ~$1,796,102 all-time, ~90% L30 profit margin. Caveat: Stripe API key expired Sep 18, 2026; treat figures as last-synced cache.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/friendfilter-groupfilter"
+        },
+        {
+          "label": "friendfilter.com",
+          "url": "https://friendfilter.com/"
+        }
+      ],
+      "indieAngle": "Ship one durable browser extension that fixes a platform hygiene pain (LinkedIn connection rot, Instagram ghost followers, Gmail label chaos) and charge monthly. Maintenance + SEO > feature churn."
+    }
+  ]
+}

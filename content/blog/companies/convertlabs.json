@@ -1,0 +1,29 @@
+{
+  "slug": "convertlabs",
+  "name": "ConvertLabs",
+  "listingNote": null,
+  "description": "All-in-one booking + marketing SaaS for home-service businesses (cleaning, lawn care, carpet cleaning, etc.) — bookings, payments, websites, and teams on one screen. Plans ~$67 / $197 / $397 per month. Founded Apr 2018, US. ~1,000 estimated users; 474 active subs.",
+  "homepage": "https://convertlabs.io/",
+  "image": "/blog/2026-10-04/convertlabs.webp",
+  "imageAlt": "ConvertLabs product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$27,861 MRR, 474 active subscriptions, ~$30,539 L30, ~$2,220,704 all-time. Last sync Oct 4, 2026 ~04:09 Warsaw (02:09 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/convertlabs"
+        },
+        {
+          "label": "convertlabs.io",
+          "url": "https://convertlabs.io/"
+        }
+      ],
+      "indieAngle": "Pick one home-service trade in one country (AU cleaners, UK gardeners, PL HVAC) and own booking + invoicing + simple marketing site. Sell to owners, not marketers."
+    }
+  ]
+}

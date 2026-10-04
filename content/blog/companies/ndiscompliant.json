@@ -1,0 +1,29 @@
+{
+  "slug": "ndiscompliant",
+  "name": "NDISCompliant",
+  "listingNote": null,
+  "description": "AI-powered compliance automation for Australian NDIS (National Disability Insurance Scheme) registered providers — generates policies, procedures, risk registers, and training matrices mapped to NDIS Practice Standards; gap analysis + regulatory monitoring. Description lists AUD $149 / $349 / $699 monthly tiers; profile also shows a $297 one-time SIL audit-ready document kit. Operated by Axior Labs (Bendigo VIC). Founded Jan 2025, Australia. ~40 estimated users.",
+  "homepage": "https://ndiscompliant.com.au/",
+  "image": "/blog/2026-10-04/ndiscompliant.webp",
+  "imageAlt": "NDISCompliant product image",
+  "imageWidth": 900,
+  "imageHeight": 1262,
+  "mentions": [
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions, ~$5,623 L30, ~$45,411 all-time, ~75% L30 profit margin. Last sync Oct 4, 2026 ~07:20 Warsaw (05:20 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ndiscompliant"
+        },
+        {
+          "label": "ndiscompliant.com.au",
+          "url": "https://ndiscompliant.com.au/"
+        }
+      ],
+      "indieAngle": "Package audit-ready document kits + monitoring for one national disability / care scheme. Sell to ops managers before registration deadlines; deadline calendars are free marketing."
+    }
+  ]
+}

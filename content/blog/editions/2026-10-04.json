@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-04",
+  "title": "Boring SaaS ideas for 4 October 2026",
+  "dek": "Hey folks! Here are revenue notes on 10 products for 4 October 2026. 10 are Stripe-verified. As usual, all of them link to their source.",
+  "heroId": "misty-forest",
+  "companies": [
+    {
+      "slug": "comp-ai",
+      "name": "Comp AI",
+      "listingNote": null,
+      "description": "Open-source-friendly compliance SaaS that automates evidence collection, policy generation, and continuous monitoring for SOC 2, ISO 27001, HIPAA, and GDPR. Sold to startups through enterprise as \"compliance that helps you close deals.\" Founded Jan 2025, US. ~1,000 estimated users on TrustMRR.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$11,911 MRR, 49 active subscriptions, ~$697,350–$699,725 L30, ~$5,791,980 all-time. Last sync Oct 4, 2026 ~05:33 Warsaw (03:33 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/comp-ai"
+        },
+        {
+          "label": "trycomp.ai",
+          "url": "https://trycomp.ai/"
+        }
+      ],
+      "homepage": "https://trycomp.ai/",
+      "indieAngle": "Own one compliance framework wedge (SOC 2 Type II evidence, or ISO 27001 for EU SMBs, or HIPAA for clinics) with annual seats + audit-week setup packs. Sell to the person who has to close the security questionnaire.",
+      "image": "/blog/2026-10-04/comp-ai.webp",
+      "imageAlt": "Comp AI product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "hypeproxies",
+      "name": "HypeProxies",
+      "listingNote": null,
+      "description": "ISP + residential proxy infrastructure with unlimited bandwidth, built for high-volume data collection / scraping / e-com automation. Plans from ~$65–$300/mo with quarterly discounts. Founded Oct 2019, US. ~20k estimated users; claims $100M+ in e-com purchases powered through the network.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (usage/prepaid), ~$320,452 L30, ~$11,679,609 all-time. Last sync Oct 4, 2026 ~04:11 Warsaw (02:11 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hypeproxies"
+        },
+        {
+          "label": "hypeproxies.com",
+          "url": "https://hypeproxies.com/"
+        }
+      ],
+      "homepage": "https://hypeproxies.com/",
+      "indieAngle": "Niche a proxy / egress product for one vertical (price monitoring, ad verification, marketplace sellers) with prepaid credits. Meter bandwidth, not seats.",
+      "image": "/blog/2026-10-04/hypeproxies.webp",
+      "imageAlt": "HypeProxies product image",
+      "imageWidth": 1200,
+      "imageHeight": 676
+    },
+    {
+      "slug": "convertlabs",
+      "name": "ConvertLabs",
+      "listingNote": null,
+      "description": "All-in-one booking + marketing SaaS for home-service businesses (cleaning, lawn care, carpet cleaning, etc.) — bookings, payments, websites, and teams on one screen. Plans ~$67 / $197 / $397 per month. Founded Apr 2018, US. ~1,000 estimated users; 474 active subs.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$27,861 MRR, 474 active subscriptions, ~$30,539 L30, ~$2,220,704 all-time. Last sync Oct 4, 2026 ~04:09 Warsaw (02:09 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/convertlabs"
+        },
+        {
+          "label": "convertlabs.io",
+          "url": "https://convertlabs.io/"
+        }
+      ],
+      "homepage": "https://convertlabs.io/",
+      "indieAngle": "Pick one home-service trade in one country (AU cleaners, UK gardeners, PL HVAC) and own booking + invoicing + simple marketing site. Sell to owners, not marketers.",
+      "image": "/blog/2026-10-04/convertlabs.webp",
+      "imageAlt": "ConvertLabs product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "simple-analytics",
+      "name": "Simple Analytics",
+      "listingNote": null,
+      "description": "Privacy-first / cookieless website analytics for agencies, enterprise teams, and white-label partners. GDPR + SOC 2 compliant, EU-owned, works alongside GA4. Freemium (\"start for free\"). Founded Aug 2018, NL. ~40.8k estimated users; 1,263 active subs.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$38,296 MRR, 1,263 active subscriptions, ~$40,283 L30, ~$1,893,017 all-time. Last sync Oct 4, 2026 ~04:07 Warsaw (02:07 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/simple-analytics"
+        },
+        {
+          "label": "simpleanalytics.com",
+          "url": "https://www.simpleanalytics.com/"
+        }
+      ],
+      "homepage": "https://www.simpleanalytics.com/",
+      "indieAngle": "Own one privacy analytics wedge (cookieless + white-label for agencies, or EU-only hosting for regulated buyers). Sell the compliance story as hard as the charts.",
+      "image": "/blog/2026-10-04/simple-analytics.webp",
+      "imageAlt": "Simple Analytics product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "stoik",
+      "name": "Stoïk",
+      "listingNote": null,
+      "description": "European cyber-risk company combining cyber insurance with cybersecurity services — prevent, detect, recover. Sold primarily through insurance brokers. Founded Oct 2021, France. ~2,000 estimated users.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (premium / service txn), ~$40,146 L30, ~$23,282,016 all-time. Last sync Oct 4, 2026 ~08:14 Warsaw (06:14 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stoik"
+        },
+        {
+          "label": "stoik.com",
+          "url": "https://stoik.com/"
+        }
+      ],
+      "homepage": "https://stoik.com/",
+      "indieAngle": "Pair a licensed niche (cyber, professional indemnity, contractors' liability) with productized security / ops tooling sold via brokers. Compliance is the moat; software is the leverage.",
+      "image": "/blog/2026-10-04/stoik.webp",
+      "imageAlt": "Stoïk product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "presscart",
+      "name": "Presscart",
+      "listingNote": null,
+      "description": "Media marketplace for founders/marketers/agencies to buy press placements that rank in Google and show up in AI answers — article + interview + backlink packs (promo ~$599, normally ~$999). Y Combinator–backed. Founded Mar 2016, US. ~2,000 estimated users.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,000 MRR, 2 active subscriptions, ~$62,199 L30, ~$3,265,158 all-time. Caveat: Stripe API key expired Jul 17, 2026; treat L30/MRR as last-synced cache (profile refresh around that date).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/presscart"
+        },
+        {
+          "label": "presscart.com",
+          "url": "https://presscart.com/"
+        }
+      ],
+      "homepage": "https://presscart.com/",
+      "indieAngle": "Marketplace one boring media outcome (guest posts in one niche, podcast bookings, local newspaper placements) with fixed SKUs. Charge per placement, not seats.",
+      "image": "/blog/2026-10-04/presscart.webp",
+      "imageAlt": "Presscart product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "festejar",
+      "name": "Festejar",
+      "listingNote": null,
+      "description": "Ticketing + branded web platform for local clubs / nightclubs / venues in Catalonia — agenda, ticket sales, store, and subscriptions under one always-updated site with unified branding. Founded Mar 2026, Spain.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (ticketing / txn), ~$38,385 L30, ~$187,515 all-time. Last sync Oct 4, 2026 ~07:46 Warsaw (05:46 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/festejar"
+        },
+        {
+          "label": "festejar.cat",
+          "url": "https://festejar.cat/"
+        }
+      ],
+      "homepage": "https://festejar.cat/",
+      "indieAngle": "Own ticketing + branded event pages for one city/region/scene (student clubs, sports halls, festival bars). Take rate on GMV; language + local payments are the lock-in.",
+      "image": "/blog/2026-10-04/festejar.webp",
+      "imageAlt": "Festejar product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "ndiscompliant",
+      "name": "NDISCompliant",
+      "listingNote": null,
+      "description": "AI-powered compliance automation for Australian NDIS (National Disability Insurance Scheme) registered providers — generates policies, procedures, risk registers, and training matrices mapped to NDIS Practice Standards; gap analysis + regulatory monitoring. Description lists AUD $149 / $349 / $699 monthly tiers; profile also shows a $297 one-time SIL audit-ready document kit. Operated by Axior Labs (Bendigo VIC). Founded Jan 2025, Australia. ~40 estimated users.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions, ~$5,623 L30, ~$45,411 all-time, ~75% L30 profit margin. Last sync Oct 4, 2026 ~07:20 Warsaw (05:20 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ndiscompliant"
+        },
+        {
+          "label": "ndiscompliant.com.au",
+          "url": "https://ndiscompliant.com.au/"
+        }
+      ],
+      "homepage": "https://ndiscompliant.com.au/",
+      "indieAngle": "Package audit-ready document kits + monitoring for one national disability / care scheme. Sell to ops managers before registration deadlines; deadline calendars are free marketing.",
+      "image": "/blog/2026-10-04/ndiscompliant.webp",
+      "imageAlt": "NDISCompliant product image",
+      "imageWidth": 900,
+      "imageHeight": 1262
+    },
+    {
+      "slug": "quotedeck",
+      "name": "QuoteDeck",
+      "listingNote": null,
+      "description": "Insurance SaaS for health and life agents/agencies to create and present professional quotes (instead of screenshots, messy emails, and jumbled PDFs), then collect info / signatures / compliance in one flow. Pricing ~$59.99/mo Individual (Pro) / ~$139.99/mo Agency. Founded Nov 2025, US. 11 active subs. Listed for sale at $18k on TrustMRR.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,110 MRR, 11 active subscriptions, ~$3,350 L30, ~$19,795 all-time, ~85% L30 profit margin. Asking $18k. Last sync Oct 4, 2026 ~02:47 Warsaw (00:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quotedeck-llc"
+        },
+        {
+          "label": "quotedeck.app",
+          "url": "https://quotedeck.app/"
+        }
+      ],
+      "homepage": "https://quotedeck.app/",
+      "indieAngle": "Own quote presentation + e-sign for one insurance line (life, Medicare, commercial GL) in one market. Sell to agency owners who still paste screenshots into Gmail.",
+      "image": "/blog/2026-10-04/quotedeck.webp",
+      "imageAlt": "QuoteDeck product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "friendfilter-groupfilter",
+      "name": "FriendFilter + GroupFilter",
+      "listingNote": null,
+      "description": "Established Chrome extensions for Facebook friend and group management — spot inactive / low-quality / fake connections so posts reach people who engage. Free / Growth ~$29 / Pro ~$49 per month. Rails + Vue + Postgres. Founded Mar 2019, US. ~120k estimated users; 337 active subs. Listed for asset sale (includes ~100k dormant email list).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8,237 MRR, 337 active subscriptions, ~$6,904 L30, ~$1,796,102 all-time, ~90% L30 profit margin. Caveat: Stripe API key expired Sep 18, 2026; treat figures as last-synced cache.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/friendfilter-groupfilter"
+        },
+        {
+          "label": "friendfilter.com",
+          "url": "https://friendfilter.com/"
+        }
+      ],
+      "homepage": "https://friendfilter.com/",
+      "indieAngle": "Ship one durable browser extension that fixes a platform hygiene pain (LinkedIn connection rot, Instagram ghost followers, Gmail label chaos) and charge monthly. Maintenance + SEO > feature churn.",
+      "image": "/blog/2026-10-04/friendfilter-groupfilter.webp",
+      "imageAlt": "FriendFilter + GroupFilter product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Conforme Pro",
+      "note": "FR construction / real-estate supplier document compliance (INPI API, expiry alerts, subcontractor invites) — strongest Conductor-lane shape today, but still pre-scale: Stripe-verified ~$55 MRR / 1 sub / ~$1.2k all-time / $0 L30. Asking $5k. Fine shape, wrong money yet.",
+      "homepage": "https://conformite.hometopus.org/"
+    },
+    {
+      "name": "CertTrack / Property Alerts USA",
+      "note": "License/COI expiry reminders and landlord 311/permit digests — perfect boring concepts, but TrustMRR shows pre-revenue ($0 MRR / $0 all-time) turnkey listings (~$800 ask each). Idea seeds, not printers.",
+      "homepage": null
+    },
+    {
+      "name": "US business formation + accounting (Stealth / Hidden Business)",
+      "note": "\"Launch your US Business from anywhere! Formation to accounting and taxes on the same platform.\" Stripe-verified cache ~$12k MRR / 93 subs / ~$55k L30 / ~$4.4M all-time — but Stripe key expired Nov 20, 2025 and no public domain. Strong Fast Corp–adjacent lane; treat numbers as stale.",
+      "homepage": null
+    },
+    {
+      "name": "isMalicious",
+      "note": "FR threat-intel / SIEM API (STIX/TAXII, OpenCTI). Stripe-verified ~$2.1k MRR / 17 subs / ~$1.9k L30 / ~$14.7k all-time. Small but real API plumbing.",
+      "homepage": "https://www.ismalicious.com/"
+    },
+    {
+      "name": "PatentFig",
+      "note": "AI patent illustration for attorneys/inventors. Stripe-verified ~$2.8k MRR / 66 subs / ~$6.0k L30 / ~$17k all-time — but key expired Jul 18, 2026. Legal-ops glue when numbers refresh.",
+      "homepage": "https://patentfig.ai/"
+    },
+    {
+      "name": "Zero Bounce / Dropkiller / Podawaa / VelvetYuzu",
+      "note": "Zero Bounce: deliverability tester with $0 current MRR (stale all-time ~$25k). Dropkiller: ecom insights ~$60k MRR but key expired Aug 2026 (covered as HM yesterday). Podawaa: LinkedIn scheduler ~$66k MRR (HM yesterday). VelvetYuzu: AI workspace ~$21k MRR — not boring enough for the main list.",
+      "homepage": null
+    }
+  ]
+}

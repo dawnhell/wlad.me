@@ -1,0 +1,29 @@
+{
+  "slug": "hypeproxies",
+  "name": "HypeProxies",
+  "listingNote": null,
+  "description": "ISP + residential proxy infrastructure with unlimited bandwidth, built for high-volume data collection / scraping / e-com automation. Plans from ~$65–$300/mo with quarterly discounts. Founded Oct 2019, US. ~20k estimated users; claims $100M+ in e-com purchases powered through the network.",
+  "homepage": "https://hypeproxies.com/",
+  "image": "/blog/2026-10-04/hypeproxies.webp",
+  "imageAlt": "HypeProxies product image",
+  "imageWidth": 1200,
+  "imageHeight": 676,
+  "mentions": [
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (usage/prepaid), ~$320,452 L30, ~$11,679,609 all-time. Last sync Oct 4, 2026 ~04:11 Warsaw (02:11 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hypeproxies"
+        },
+        {
+          "label": "hypeproxies.com",
+          "url": "https://hypeproxies.com/"
+        }
+      ],
+      "indieAngle": "Niche a proxy / egress product for one vertical (price monitoring, ad verification, marketplace sellers) with prepaid credits. Meter bandwidth, not seats."
+    }
+  ]
+}

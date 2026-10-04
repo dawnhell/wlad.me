@@ -1,0 +1,29 @@
+{
+  "slug": "simple-analytics",
+  "name": "Simple Analytics",
+  "listingNote": null,
+  "description": "Privacy-first / cookieless website analytics for agencies, enterprise teams, and white-label partners. GDPR + SOC 2 compliant, EU-owned, works alongside GA4. Freemium (\"start for free\"). Founded Aug 2018, NL. ~40.8k estimated users; 1,263 active subs.",
+  "homepage": "https://www.simpleanalytics.com/",
+  "image": "/blog/2026-10-04/simple-analytics.webp",
+  "imageAlt": "Simple Analytics product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$38,296 MRR, 1,263 active subscriptions, ~$40,283 L30, ~$1,893,017 all-time. Last sync Oct 4, 2026 ~04:07 Warsaw (02:07 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/simple-analytics"
+        },
+        {
+          "label": "simpleanalytics.com",
+          "url": "https://www.simpleanalytics.com/"
+        }
+      ],
+      "indieAngle": "Own one privacy analytics wedge (cookieless + white-label for agencies, or EU-only hosting for regulated buyers). Sell the compliance story as hard as the charts."
+    }
+  ]
+}

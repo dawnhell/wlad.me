@@ -1,0 +1,29 @@
+{
+  "slug": "stoik",
+  "name": "Stoïk",
+  "listingNote": null,
+  "description": "European cyber-risk company combining cyber insurance with cybersecurity services — prevent, detect, recover. Sold primarily through insurance brokers. Founded Oct 2021, France. ~2,000 estimated users.",
+  "homepage": "https://stoik.com/",
+  "image": "/blog/2026-10-04/stoik.webp",
+  "imageAlt": "Stoïk product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (premium / service txn), ~$40,146 L30, ~$23,282,016 all-time. Last sync Oct 4, 2026 ~08:14 Warsaw (06:14 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stoik"
+        },
+        {
+          "label": "stoik.com",
+          "url": "https://stoik.com/"
+        }
+      ],
+      "indieAngle": "Pair a licensed niche (cyber, professional indemnity, contractors' liability) with productized security / ops tooling sold via brokers. Compliance is the moat; software is the leverage."
+    }
+  ]
+}

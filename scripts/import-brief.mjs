@@ -46,10 +46,19 @@ function parseHomepage(value) {
   return match[0].replace(/[),.;]+$/, '')
 }
 
+function plainText(value) {
+  if (!value) return value
+  return value
+    .replace(/\*\*(.+?)\*\*/g, '$1')
+    .replace(/(^|[^*])\*([^*]+)\*(?!\*)/g, '$1$2')
+    .replace(/[ \t]+\n/g, '\n')
+    .trim()
+}
+
 function fieldValue(body, label) {
   const pattern = new RegExp(`\\*\\*${label}:\\*\\*\\s*(.+)`)
   const match = body.match(pattern)
-  return match ? match[1].trim() : null
+  return match ? plainText(match[1]) : null
 }
 
 function parseSources(body) {
@@ -83,7 +92,7 @@ function parseMoney(body) {
   const label = match[1] || ''
   return {
     evidenceKind: evidenceKindFromLabel(label),
-    evidence: match[2].trim(),
+    evidence: plainText(match[2]),
   }
 }
 
@@ -111,7 +120,7 @@ function parseHonorableLines(body) {
       if (colon) {
         return {
           name: colon[1].trim(),
-          note: colon[2].trim(),
+          note: plainText(colon[2]),
           homepage: homepageFromText(colon[2]),
         }
       }
@@ -121,7 +130,7 @@ function parseHonorableLines(body) {
       if (dash) {
         return {
           name: dash[1].trim(),
-          note: dash[3].trim(),
+          note: plainText(dash[3]),
           homepage: homepageFromText(dash[2] || ''),
         }
       }
@@ -138,14 +147,16 @@ function parseHonorableSections(body) {
       if (!lines[0].startsWith('### ')) return null
       const name = lines[0].replace(/^###\s+/, '').trim()
       const rest = lines.slice(1).join('\n')
-      const note = rest
-        .split('\n')
-        .map((line) => line.trim())
-        .filter(
-          (line) =>
-            line && line !== '---' && !line.startsWith('!') && !/^\[/.test(line),
-        )
-        .join(' ')
+      const note = plainText(
+        rest
+          .split('\n')
+          .map((line) => line.trim())
+          .filter(
+            (line) =>
+              line && line !== '---' && !line.startsWith('!') && !/^\[/.test(line),
+          )
+          .join(' '),
+      )
       const labeled = rest.match(/\[Homepage\]\((https?:\/\/[^)]+)\)/)
       return {
         name,

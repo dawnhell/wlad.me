@@ -57,5 +57,14 @@
   "upscale-system-llc": "B2B companies pay for outbound that runs email, calls, and LinkedIn from one CRM. 289 of those subscriptions add up to about $100k a month.",
   "cartboss": "Stores pay per text when someone leaves a cart, not a monthly seat. Recurring revenue reads as zero, and the all-time total is about $1.74M.",
   "proclinica": "Spanish private clinics pay about €35 a month for the agenda, the clinical history, and the invoice. 136 of those subscriptions are the Stripe figure.",
-  "white-glove-content": "People pay about $54 to $284 a month for faceless social video, delivered from a dashboard. 589 of those subscriptions are the figure, and the listing is for sale at $2.5M."
+  "white-glove-content": "People pay about $54 to $284 a month for faceless social video, delivered from a dashboard. 589 of those subscriptions are the figure, and the listing is for sale at $2.5M.",
+  "comp-ai": "Startups pay about $12k a month across 49 seats so SOC 2, ISO 27001, HIPAA, and GDPR evidence lives in one place. The last 30 days show about $700k, which fits annual contracts and setup packs on top of those seats.",
+  "hypeproxies": "Scrapers and stores pay for residential and ISP proxies, from about $65 to $300 a month, billed as usage rather than seats. Recurring revenue reads as zero, and the last 30 days show about $320k.",
+  "convertlabs": "Cleaning, lawn, and carpet businesses pay about $67 to $397 a month so bookings, payments, and the marketing site live on one screen. 474 of those subscriptions add up to about $28k a month.",
+  "simple-analytics": "Agencies and teams pay for cookieless analytics that can sit next to Google Analytics. 1,263 of those subscriptions add up to about $38k a month.",
+  "stoik": "European brokers sell cyber insurance with the security work attached. Seat revenue reads as zero, the last 30 days show about $40k, and the all-time total is about $23.3M.",
+  "presscart": "Founders buy a press placement, about $599 on promo or $999 normally, instead of an agency retainer. Two subscriptions are the seat figure, the last 30 days show about $62k, and the Stripe key expired in July 2026.",
+  "festejar": "Clubs in Catalonia pay per ticket so the agenda, the store, and the brand live on one site. Seat revenue reads as zero, and about $188k has come through since the product launched in March 2026.",
+  "ndiscompliant": "Australian NDIS providers pay AUD $149 to $699 a month, or $297 once, for audit-ready policies and a gap check. Seat revenue reads as zero, and the last 30 days show about $5.6k.",
+  "friendfilter-groupfilter": "People pay about $29 or $49 a month for a Chrome extension that drops inactive Facebook friends and groups. 337 of those subscriptions are the figure, the Stripe key expired in September 2026, and the listing is for sale."
 }

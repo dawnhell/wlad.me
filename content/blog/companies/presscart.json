@@ -1,0 +1,29 @@
+{
+  "slug": "presscart",
+  "name": "Presscart",
+  "listingNote": null,
+  "description": "Media marketplace for founders/marketers/agencies to buy press placements that rank in Google and show up in AI answers — article + interview + backlink packs (promo ~$599, normally ~$999). Y Combinator–backed. Founded Mar 2016, US. ~2,000 estimated users.",
+  "homepage": "https://presscart.com/",
+  "image": "/blog/2026-10-04/presscart.webp",
+  "imageAlt": "Presscart product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,000 MRR, 2 active subscriptions, ~$62,199 L30, ~$3,265,158 all-time. Caveat: Stripe API key expired Jul 17, 2026; treat L30/MRR as last-synced cache (profile refresh around that date).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/presscart"
+        },
+        {
+          "label": "presscart.com",
+          "url": "https://presscart.com/"
+        }
+      ],
+      "indieAngle": "Marketplace one boring media outcome (guest posts in one niche, podcast bookings, local newspaper placements) with fixed SKUs. Charge per placement, not seats."
+    }
+  ]
+}

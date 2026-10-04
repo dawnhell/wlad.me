@@ -2,9 +2,9 @@
   "slug": "quotedeck",
   "name": "QuoteDeck",
   "listingNote": null,
-  "description": "Insurance SaaS for agents/agencies to create and present professional life & health quotes (vs screenshots, messy PDFs, phone chase). Solo founder, bootstrapped. ~$60–$140/mo.",
-  "homepage": "https://quotedeck.app",
-  "image": "/blog/2026-09-30/quotedeck.webp",
+  "description": "Insurance SaaS for health and life agents/agencies to create and present professional quotes (instead of screenshots, messy emails, and jumbled PDFs), then collect info / signatures / compliance in one flow. Pricing ~$59.99/mo Individual (Pro) / ~$139.99/mo Agency. Founded Nov 2025, US. 11 active subs. Listed for sale at $18k on TrustMRR.",
+  "homepage": "https://quotedeck.app/",
+  "image": "/blog/2026-10-04/quotedeck.webp",
   "imageAlt": "QuoteDeck product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -20,6 +20,22 @@
         }
       ],
       "indieAngle": "Most solo-plausible vertical of the day — one licensed niche, quote → signature → compliance."
+    },
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,110 MRR, 11 active subscriptions, ~$3,350 L30, ~$19,795 all-time, ~85% L30 profit margin. Asking $18k. Last sync Oct 4, 2026 ~02:47 Warsaw (00:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quotedeck-llc"
+        },
+        {
+          "label": "quotedeck.app",
+          "url": "https://quotedeck.app/"
+        }
+      ],
+      "indieAngle": "Own quote presentation + e-sign for one insurance line (life, Medicare, commercial GL) in one market. Sell to agency owners who still paste screenshots into Gmail."
     }
   ]
 }

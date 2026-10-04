@@ -1,0 +1,29 @@
+{
+  "slug": "comp-ai",
+  "name": "Comp AI",
+  "listingNote": null,
+  "description": "Open-source-friendly compliance SaaS that automates evidence collection, policy generation, and continuous monitoring for SOC 2, ISO 27001, HIPAA, and GDPR. Sold to startups through enterprise as \"compliance that helps you close deals.\" Founded Jan 2025, US. ~1,000 estimated users on TrustMRR.",
+  "homepage": "https://trycomp.ai/",
+  "image": "/blog/2026-10-04/comp-ai.webp",
+  "imageAlt": "Comp AI product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$11,911 MRR, 49 active subscriptions, ~$697,350–$699,725 L30, ~$5,791,980 all-time. Last sync Oct 4, 2026 ~05:33 Warsaw (03:33 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/comp-ai"
+        },
+        {
+          "label": "trycomp.ai",
+          "url": "https://trycomp.ai/"
+        }
+      ],
+      "indieAngle": "Own one compliance framework wedge (SOC 2 Type II evidence, or ISO 27001 for EU SMBs, or HIPAA for clinics) with annual seats + audit-week setup packs. Sell to the person who has to close the security questionnaire."
+    }
+  ]
+}
