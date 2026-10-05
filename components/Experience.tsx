@@ -20,6 +20,26 @@ interface ExperienceProps {
 
 const MY_EXPERIENCE: ExperienceItem[] = [
   {
+    title: 'Senior UI Engineer',
+    details: 'Full-Time • Remote • Warsaw, Poland',
+    period: 'Apr 2026 - Present',
+    company: 'constructor.com',
+    companyUrl: 'https://constructor.com',
+    logo: 'https://info.constructor.io/hubfs/constructor-favicon-2026.svg',
+    description: (
+      <>
+        <span>
+          Working on a team that enables prospects to experience the full demo
+          flow of Constructor services.
+        </span>
+      </>
+    ),
+    technologies: [
+      'Typescript, Javascript, ReactJS, Next.js, Shadcn/ui',
+      'Cypress, Playwright',
+    ],
+  },
+  {
     title: 'Senior Frontend Engineer',
     details: 'Full-Time • Remote • Warsaw, Poland',
     period: 'Aug 2025 - Aug 2026',
