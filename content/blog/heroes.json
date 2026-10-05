@@ -75,5 +75,71 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:African_bush_elephants_(Loxodonta_africana)_female_with_six-week-old_baby.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "animal"
+  },
+  {
+    "id": "desert-dunes",
+    "src": "/blog/heroes/desert-dunes.webp",
+    "alt": "Sand dunes in the Thar Desert",
+    "width": 1600,
+    "height": 1032,
+    "credit": "Clément Bardot",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Dunes%2C_D%C3%A9sert_du_Thar.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "autumn-path",
+    "src": "/blog/heroes/autumn-path.webp",
+    "alt": "A forest path through yellow autumn leaves in Tuntorp",
+    "width": 800,
+    "height": 533,
+    "credit": "W.carter",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Forest_path_through_yellow_autumn_leaves_in_Tuntorp_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "glacier-ice",
+    "src": "/blog/heroes/glacier-ice.webp",
+    "alt": "Ice calved from Knik Glacier",
+    "width": 1120,
+    "height": 747,
+    "credit": "Eric Kilby",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ice_Calved_From_Knik_Glacier.jpg",
+    "license": "CC BY-SA 2.0",
+    "subject": "nature"
+  },
+  {
+    "id": "lavender-field",
+    "src": "/blog/heroes/lavender-field.webp",
+    "alt": "A lavender field with Mont Ventoux behind it",
+    "width": 1440,
+    "height": 960,
+    "credit": "Robert Brink",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Lavender_field_and_Mont_Ventoux.jpg",
+    "license": "CC BY-SA 3.0",
+    "subject": "nature"
+  },
+  {
+    "id": "river-canyon",
+    "src": "/blog/heroes/river-canyon.webp",
+    "alt": "The Rio Alhama canyon in Andalusia",
+    "width": 960,
+    "height": 534,
+    "credit": "Jebulon",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Rio_Alhama_canyon%2C_Alhama_de_Granada%2C_Andalusia%2C_Spain.jpg",
+    "license": "CC0",
+    "subject": "nature"
+  },
+  {
+    "id": "skogafoss",
+    "src": "/blog/heroes/skogafoss.webp",
+    "alt": "Skógafoss waterfall in Iceland",
+    "width": 1600,
+    "height": 855,
+    "credit": "Martin Falbisoner",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sk%C3%B3gafoss_July_2014.JPG",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

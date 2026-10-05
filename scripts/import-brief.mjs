@@ -280,12 +280,34 @@ function prettyDate(isoDate) {
   }).format(new Date(`${isoDate}T00:00:00Z`))
 }
 
+function usedHeroIds(exceptDate) {
+  const editionDir = path.join(contentRoot, 'editions')
+  if (!fs.existsSync(editionDir)) return new Set()
+  const used = new Set()
+  for (const name of fs.readdirSync(editionDir)) {
+    if (!name.endsWith('.json') || name === `${exceptDate}.json`) continue
+    const edition = JSON.parse(fs.readFileSync(path.join(editionDir, name), 'utf8'))
+    if (edition.heroId) used.add(edition.heroId)
+  }
+  return used
+}
+
 function heroIdForDate(isoDate, heroes) {
-  const day = Math.floor(Date.parse(`${isoDate}T00:00:00Z`) / 86400000)
-  const nature = heroes.filter((hero) => hero.subject === 'nature')
-  const animals = heroes.filter((hero) => hero.subject !== 'nature')
-  const pool = nature.length > 0 ? nature : animals
-  return pool[day % pool.length].id
+  const editionPath = path.join(contentRoot, 'editions', `${isoDate}.json`)
+  const used = usedHeroIds(isoDate)
+  if (fs.existsSync(editionPath)) {
+    const current = JSON.parse(fs.readFileSync(editionPath, 'utf8'))
+    if (current.heroId && !used.has(current.heroId)) return current.heroId
+  }
+  const unusedNature = heroes.filter((hero) => hero.subject === 'nature' && !used.has(hero.id))
+  const unusedOther = heroes.filter((hero) => hero.subject !== 'nature' && !used.has(hero.id))
+  const next = unusedNature[0] || unusedOther[0]
+  if (!next) {
+    throw new Error(
+      `No unused hero left for ${isoDate}. Add a new photo to content/blog/heroes.json. Do not reuse a hero.`,
+    )
+  }
+  return next.id
 }
 
 function readCompany(slug) {

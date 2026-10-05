@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from 'node:fs/promises'
+import { access, mkdir, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -64,6 +64,54 @@ const picks = [
     license: 'CC BY 2.0',
     url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%28Explored%29_Misty_Winter_morning_in_Stonor_Forest_-_Flickr_-_scotbot.jpg/1920px-%28Explored%29_Misty_Winter_morning_in_Stonor_Forest_-_Flickr_-_scotbot.jpg',
   },
+  {
+    id: 'desert-dunes',
+    subject: 'nature',
+    alt: 'Sand dunes in the Thar Desert',
+    credit: 'Clément Bardot',
+    license: 'CC BY-SA 4.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Dunes%2C_D%C3%A9sert_du_Thar.jpg/1920px-Dunes%2C_D%C3%A9sert_du_Thar.jpg',
+  },
+  {
+    id: 'autumn-path',
+    subject: 'nature',
+    alt: 'A forest path through yellow autumn leaves in Tuntorp',
+    credit: 'W.carter',
+    license: 'CC BY-SA 4.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Forest_path_through_yellow_autumn_leaves_in_Tuntorp_1.jpg/1920px-Forest_path_through_yellow_autumn_leaves_in_Tuntorp_1.jpg',
+  },
+  {
+    id: 'glacier-ice',
+    subject: 'nature',
+    alt: 'Ice calved from Knik Glacier',
+    credit: 'Eric Kilby',
+    license: 'CC BY-SA 2.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Ice_Calved_From_Knik_Glacier.jpg/1920px-Ice_Calved_From_Knik_Glacier.jpg',
+  },
+  {
+    id: 'lavender-field',
+    subject: 'nature',
+    alt: 'A lavender field with Mont Ventoux behind it',
+    credit: 'Robert Brink',
+    license: 'CC BY-SA 3.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Lavender_field_and_Mont_Ventoux.jpg/1920px-Lavender_field_and_Mont_Ventoux.jpg',
+  },
+  {
+    id: 'river-canyon',
+    subject: 'nature',
+    alt: 'The Rio Alhama canyon in Andalusia',
+    credit: 'Jebulon',
+    license: 'CC0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Rio_Alhama_canyon%2C_Alhama_de_Granada%2C_Andalusia%2C_Spain.jpg/1920px-Rio_Alhama_canyon%2C_Alhama_de_Granada%2C_Andalusia%2C_Spain.jpg',
+  },
+  {
+    id: 'skogafoss',
+    subject: 'nature',
+    alt: 'Skógafoss waterfall in Iceland',
+    credit: 'Martin Falbisoner',
+    license: 'CC BY-SA 4.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sk%C3%B3gafoss_July_2014.JPG/1920px-Sk%C3%B3gafoss_July_2014.JPG',
+  },
 ]
 
 function filePage(thumbUrl) {
@@ -78,6 +126,27 @@ await mkdir(path.join(root, 'content/blog'), { recursive: true })
 const heroes = []
 
 for (const pick of picks) {
+  const filename = `${pick.id}.webp`
+  const outputPath = path.join(outDir, filename)
+  try {
+    await access(outputPath)
+    const meta = await sharp(outputPath).metadata()
+    heroes.push({
+      id: pick.id,
+      src: `/blog/heroes/${filename}`,
+      alt: pick.alt,
+      width: meta.width,
+      height: meta.height,
+      credit: pick.credit,
+      creditUrl: filePage(pick.url),
+      license: pick.license,
+      subject: pick.subject,
+    })
+    console.log(`${filename} kept`)
+    continue
+  } catch {
+    // Download when the file is not there yet.
+  }
   const response = await fetch(pick.url, {
     headers: { 'User-Agent': 'wlad.me blog hero import (wlad@wlad.me)' },
   })
@@ -105,8 +174,7 @@ for (const pick of picks) {
       .toBuffer()
   }
   const meta = await sharp(buffer).metadata()
-  const filename = `${pick.id}.webp`
-  await writeFile(path.join(outDir, filename), buffer)
+  await writeFile(outputPath, buffer)
   heroes.push({
     id: pick.id,
     src: `/blog/heroes/${filename}`,
