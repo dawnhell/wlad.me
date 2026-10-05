@@ -1,0 +1,29 @@
+{
+  "slug": "immowp",
+  "name": "ImmoWP",
+  "listingNote": null,
+  "description": "French \"passerelle immobilière\": syncs listings from an agency's real-estate software (company-stated 75+ compatible tools, e.g. Hektor, Apimo, Netty, Immofacile, Ubiflow, Whise, SweepBright) into the agency's existing WordPress site. Price, photos, DPE energy labels and \"sold\" status update several times a day, with failed-import monitoring and a free listings plugin. €500 HT one-time (install + first year), then €150 HT/yr. Company-stated 200+ agencies since 2017. TrustMRR founded date: Sep 2021.",
+  "homepage": "https://www.immowp.fr/",
+  "image": "/blog/2026-10-05/immowp.webp",
+  "imageAlt": "ImmoWP product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 subs (one-time + annual invoices), ~$4,629 L30, ~$48,736 all-time. Revenue synced Oct 5, 2026 ~04:21 Warsaw (02:21 UTC). Note that the all-time Stripe figure is small relative to \"200+ agencies since 2017\", so some billing likely predates or sits outside this Stripe account (my inference).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/immowp"
+        },
+        {
+          "label": "immowp.fr",
+          "url": "https://www.immowp.fr/"
+        }
+      ],
+      "indieAngle": "Same play for PL real-estate CRMs (Asari, Galactica Virgo, EstiCRM, IMO) → WordPress/Webflow, or for car-dealer DMS → dealer website. Charge setup + annual maintenance; each new supported feed is a new SEO landing page."
+    }
+  ]
+}

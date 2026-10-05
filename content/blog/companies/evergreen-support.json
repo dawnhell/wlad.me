@@ -1,0 +1,29 @@
+{
+  "slug": "evergreen-support",
+  "name": "Evergreen Support",
+  "listingNote": null,
+  "description": "Done-for-you customer-support email team for small online sellers / online businesses, billed monthly or weekly (\"Start onboarding for $1\", free support audit). Founded Jul 2022, US.",
+  "homepage": "https://evergreensupport.co/",
+  "image": "/blog/2026-10-05/evergreen-support.webp",
+  "imageAlt": "Evergreen Support product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$25,100 MRR, 22 active subscriptions, ~$23,175 L30, ~$812,808 all-time. Revenue synced Oct 5, 2026 ~04:06 Warsaw (02:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/evergreen-support-llc"
+        },
+        {
+          "label": "evergreensupport.co",
+          "url": "https://evergreensupport.co/"
+        }
+      ],
+      "indieAngle": "Productize support for one platform's sellers (Shopify PL, Allegro, Etsy) with fixed weekly pricing plus your own helpdesk tooling. Software is leverage; the retainer is the business."
+    }
+  ]
+}

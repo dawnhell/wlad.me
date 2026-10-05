@@ -1,0 +1,29 @@
+{
+  "slug": "tree-nerd-academy",
+  "name": "Tree Nerd Academy",
+  "listingNote": null,
+  "description": "Online study platform for the ISA Certified Arborist exam: video lessons, flashcards, glossary, an AI helper. One-time tiers: Starter $60 / Self-Study Protocol $199 / Inner Circle Edition $229. Founded Dec 2025, Sweden.",
+  "homepage": "https://treenerdacademy.com/",
+  "image": "/blog/2026-10-05/tree-nerd-academy.webp",
+  "imageAlt": "Tree Nerd Academy product image",
+  "imageWidth": 675,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 subs (one-time packages), ~$34,423 L30, ~$213,715 all-time, ~95% L30 profit margin. Revenue synced Oct 5, 2026 ~05:21 Warsaw (03:21 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tree-nerd-academy"
+        },
+        {
+          "label": "treenerdacademy.com",
+          "url": "https://treenerdacademy.com/"
+        }
+      ],
+      "indieAngle": "Pick one blue-collar or regulated certification exam with an official body of knowledge (electrician SEP in PL, HVAC F-gas, CDL, NEBOSH, ISA arborist cousins) and sell a one-time prep pack at $60–$230. Pass rates and exam dates do the marketing."
+    }
+  ]
+}

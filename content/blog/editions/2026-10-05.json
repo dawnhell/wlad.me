@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-05",
+  "title": "Monday's boring SaaS, 5 October 2026",
+  "dek": "5 October 2026. Ten products this morning, all of them Stripe-verified. The source link is on each note.",
+  "heroId": "coast-waves",
+  "companies": [
+    {
+      "slug": "maidsnblack",
+      "name": "MaidsnBlack",
+      "listingNote": "Maids in Black",
+      "description": "Tech-driven residential and Airbnb cleaning service for DC / Maryland / Virginia. Online \"book in 60 seconds\" pricing by bedrooms/bathrooms, cleaners in teams of two, weekly / bi-weekly / monthly recurring plans, and a contractor-recruiting portal (mib.moppworks.com) offering scheduling, payments and customer management to cleaners. Founded Feb 2013, US. TrustMRR pricing model: \"Contact for Quote\".",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (per-job billing), ~$105,289 L30, ~$22,872,928 all-time. Revenue synced Oct 5, 2026 ~10:03 Warsaw (08:03 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/maidsnblack"
+        },
+        {
+          "label": "maidsinblack.com",
+          "url": "https://maidsinblack.com/"
+        },
+        {
+          "label": "mib.moppworks.com",
+          "url": "https://mib.moppworks.com/"
+        }
+      ],
+      "homepage": "https://maidsinblack.com/",
+      "indieAngle": "Don't run cleaners yourself. Sell the \"book in 60s + dispatch + charge after service\" stack to one-city cleaning operators (white-label booking widget + contractor payouts), or run the playbook in one metro where nobody does instant online pricing.",
+      "image": "/blog/2026-10-05/maidsnblack.webp",
+      "imageAlt": "MaidsnBlack product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "corsidia",
+      "name": "Corsidia",
+      "listingNote": null,
+      "description": "Italian course-comparison directory. It picks schools, training bodies and teachers, so users can compare course offers and prices and then contact the organizers directly. Corsidia.org covers publicly funded active-labour-policy training. Free for course seekers. Founded Jan 2018, Italy.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions, ~$78,758 L30, ~$3,115,522 all-time. Revenue synced Oct 5, 2026 ~05:47 Warsaw (03:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/corsidia"
+        },
+        {
+          "label": "corsidia.com",
+          "url": "https://corsidia.com/"
+        }
+      ],
+      "homepage": "https://corsidia.com/",
+      "indieAngle": "Build a \"compare local course providers\" directory for one country/language (PL driving schools, forklift/UDT certs, language schools) and charge providers per lead. SEO pages per city × course type are the product.",
+      "image": "/blog/2026-10-05/corsidia.webp",
+      "imageAlt": "Corsidia product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "tree-nerd-academy",
+      "name": "Tree Nerd Academy",
+      "listingNote": null,
+      "description": "Online study platform for the ISA Certified Arborist exam: video lessons, flashcards, glossary, an AI helper. One-time tiers: Starter $60 / Self-Study Protocol $199 / Inner Circle Edition $229. Founded Dec 2025, Sweden.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 subs (one-time packages), ~$34,423 L30, ~$213,715 all-time, ~95% L30 profit margin. Revenue synced Oct 5, 2026 ~05:21 Warsaw (03:21 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tree-nerd-academy"
+        },
+        {
+          "label": "treenerdacademy.com",
+          "url": "https://treenerdacademy.com/"
+        }
+      ],
+      "homepage": "https://treenerdacademy.com/",
+      "indieAngle": "Pick one blue-collar or regulated certification exam with an official body of knowledge (electrician SEP in PL, HVAC F-gas, CDL, NEBOSH, ISA arborist cousins) and sell a one-time prep pack at $60–$230. Pass rates and exam dates do the marketing.",
+      "image": "/blog/2026-10-05/tree-nerd-academy.webp",
+      "imageAlt": "Tree Nerd Academy product image",
+      "imageWidth": 675,
+      "imageHeight": 675
+    },
+    {
+      "slug": "backpedal",
+      "name": "BackPedal",
+      "listingNote": null,
+      "description": "London theft-recovery subscription for bikes and e-bikes. Mechanics install covert GSM/GPS/BLE trackers (17 disguised casings), a 24/7 in-house team recovers stolen bikes (company-stated ~80% recovery rate, ~48h typical), and backup theft insurance is underwritten by Sundays (FCA regulated). Annual protection from £153 (~£12.75/mo). Founded Sep 2021, UK.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$25,383 MRR, 372 active subscriptions, ~$59,307 L30 (upfront kit fees + renewals), ~$1,467,646 all-time. Revenue synced Oct 5, 2026 ~04:13 Warsaw (02:13 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/backpedal-ltd"
+        },
+        {
+          "label": "backpedal.co",
+          "url": "https://www.backpedal.co/"
+        }
+      ],
+      "homepage": "https://www.backpedal.co/",
+      "indieAngle": "Recovery-as-a-subscription for one high-theft asset in one city (e-bikes in Warsaw, cargo bikes, tools in vans, construction equipment). Partner with a licensed insurer for the backup cover and own the tracking + recovery ops.",
+      "image": "/blog/2026-10-05/backpedal.webp",
+      "imageAlt": "BackPedal product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "evergreen-support",
+      "name": "Evergreen Support",
+      "listingNote": null,
+      "description": "Done-for-you customer-support email team for small online sellers / online businesses, billed monthly or weekly (\"Start onboarding for $1\", free support audit). Founded Jul 2022, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$25,100 MRR, 22 active subscriptions, ~$23,175 L30, ~$812,808 all-time. Revenue synced Oct 5, 2026 ~04:06 Warsaw (02:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/evergreen-support-llc"
+        },
+        {
+          "label": "evergreensupport.co",
+          "url": "https://evergreensupport.co/"
+        }
+      ],
+      "homepage": "https://evergreensupport.co/",
+      "indieAngle": "Productize support for one platform's sellers (Shopify PL, Allegro, Etsy) with fixed weekly pricing plus your own helpdesk tooling. Software is leverage; the retainer is the business.",
+      "image": "/blog/2026-10-05/evergreen-support.webp",
+      "imageAlt": "Evergreen Support product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "dotmarket-eu",
+      "name": "Dotmarket.eu",
+      "listingNote": null,
+      "description": "French marketplace for buying / selling digital businesses (SaaS, media, e-commerce, web agencies). Claims 300+ vetted and valued deals a year (company-stated). Registered in Estonia, founded Jan 2020.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$12,903 MRR, 403 active subscriptions, ~$9,043 L30, ~$1,141,337 all-time. Revenue synced Oct 5, 2026 ~04:05 Warsaw (02:05 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dotmarket-eu"
+        },
+        {
+          "label": "dotmarket.eu",
+          "url": "https://www.dotmarket.eu/"
+        }
+      ],
+      "homepage": "https://www.dotmarket.eu/",
+      "indieAngle": "Run a language-local \"buy a small online business\" marketplace (PL / CZ / DE) with paid buyer access and valuation packs. Local trust and language are the moat versus Acquire.com.",
+      "image": "/blog/2026-10-05/dotmarket-eu.webp",
+      "imageAlt": "Dotmarket.eu product image",
+      "imageWidth": 1200,
+      "imageHeight": 575
+    },
+    {
+      "slug": "vacation-rental-guest-ops",
+      "name": "Vacation-rental guest ops",
+      "listingNote": "Stealth Company",
+      "description": "Anonymous B2B SaaS that automates guest operations for vacation-rental hosts/managers (\"Automate guest operations in your vacation rental for $0/month\"). Pricing: €12 / property / month plus a 7% fee on guest upsells. Founded Jun 2023, US. Listed for sale at $600k.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8,203 MRR, 78 active subscriptions, ~$10,752 L30, ~$218,721 all-time, ~75% L30 profit margin. Asking $600,000. Revenue synced Oct 5, 2026 ~07:39 Warsaw (05:39 UTC). No public domain (stealth).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/anonymous-startup-31"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Per-unit pricing + take rate on upsells for one rental vertical (Polish mountain apartments, campsites, boat charters). Hook into the PMS/channel manager they already use.",
+      "image": "/blog/2026-10-05/vacation-rental-guest-ops.webp",
+      "imageAlt": "Vacation-rental guest ops product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "firecert",
+      "name": "FireCert",
+      "listingNote": null,
+      "description": "UK fire & security compliance software for contractors: asset registers built from panel/CSV exports, locked + hashed certificates (BS 5839-1/-6, BS 5266 emergency lighting, BS 5306 extinguishers, PD 6662 intruder, CCTV, access control, dry risers), QR asset tags, visit reminders, client portal, Xero integration. £79/mo Professional, £129/mo Business. Founded Feb 2026, UK. Company-stated 4.9/5 from 47 customers.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,515 MRR, 39 active subscriptions, ~$4,542 L30, ~$16,647 all-time, ~95% L30 profit margin. Revenue synced Oct 5, 2026 ~07:06 Warsaw (05:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/firecert"
+        },
+        {
+          "label": "firecert.uk",
+          "url": "https://firecert.uk/"
+        }
+      ],
+      "homepage": "https://firecert.uk/",
+      "indieAngle": "Find one national standard that tradespeople must certify against (PL fire-protection inspections, gas/electrical periodic checks, lift inspections, F-gas logs) and ship certificate generation + asset register + reminders + Xero/accounting sync. SEO on \"<standard> certificate template\" is the free acquisition channel.",
+      "image": "/blog/2026-10-05/firecert.webp",
+      "imageAlt": "FireCert product image",
+      "imageWidth": 1024,
+      "imageHeight": 1024
+    },
+    {
+      "slug": "immowp",
+      "name": "ImmoWP",
+      "listingNote": null,
+      "description": "French \"passerelle immobilière\": syncs listings from an agency's real-estate software (company-stated 75+ compatible tools, e.g. Hektor, Apimo, Netty, Immofacile, Ubiflow, Whise, SweepBright) into the agency's existing WordPress site. Price, photos, DPE energy labels and \"sold\" status update several times a day, with failed-import monitoring and a free listings plugin. €500 HT one-time (install + first year), then €150 HT/yr. Company-stated 200+ agencies since 2017. TrustMRR founded date: Sep 2021.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 subs (one-time + annual invoices), ~$4,629 L30, ~$48,736 all-time. Revenue synced Oct 5, 2026 ~04:21 Warsaw (02:21 UTC). Note that the all-time Stripe figure is small relative to \"200+ agencies since 2017\", so some billing likely predates or sits outside this Stripe account (my inference).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/immowp"
+        },
+        {
+          "label": "immowp.fr",
+          "url": "https://www.immowp.fr/"
+        }
+      ],
+      "homepage": "https://www.immowp.fr/",
+      "indieAngle": "Same play for PL real-estate CRMs (Asari, Galactica Virgo, EstiCRM, IMO) → WordPress/Webflow, or for car-dealer DMS → dealer website. Charge setup + annual maintenance; each new supported feed is a new SEO landing page.",
+      "image": "/blog/2026-10-05/immowp.webp",
+      "imageAlt": "ImmoWP product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "attivita24",
+      "name": "Attivita24",
+      "listingNote": null,
+      "description": "Italian marketplace to buy and sell small and medium-sized businesses (shops, bars, SMEs) directly owner-to-buyer, without brokers. Listing packages Base €34 / Plus €86 / Premium €149 + VAT. Founded Oct 2025, Italy. Listed for sale at $800k (first listed Feb 2026).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 subs (one-time listing packs), ~$11,177 L30, ~$88,188 all-time, ~30% L30 profit margin. Asking $800,000. Revenue synced Oct 5, 2026 ~05:28 Warsaw (03:28 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/attivita24"
+        },
+        {
+          "label": "attivita24.com",
+          "url": "https://www.attivita24.com/"
+        }
+      ],
+      "homepage": "https://www.attivita24.com/",
+      "indieAngle": "Owner-direct \"business for sale\" classifieds for one country (PL: sklepy, gastronomia, salony) with paid listing tiers. Pairs naturally with Dotmarket-style valuation packs.",
+      "image": "/blog/2026-10-05/attivita24.webp",
+      "imageAlt": "Attivita24 product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "easytools / Easycart (Warsaw, PL)",
+      "note": "No-code checkout for digital products, courses, subscriptions and tickets on the creator's own Stripe. Transaction fees + plans. TrustMRR shows Stripe-verified GMV ~$2.70M L30 / ~$82.1M all-time. This is creator GMV, not easytools' own revenue. Caveat: Stripe API key expired, and revenue was last synced Nov 21, 2025, so the numbers are stale. Company page states 1.29M transactions / 810k buyers. Third-party EMIS summary: 2025 net sales +77.7% (no absolute figure). Strong Warsaw example of \"Stripe-native checkout glue\".",
+      "homepage": "https://easycart.pl/"
+    },
+    {
+      "name": "TruckerDB",
+      "note": "Daily DOT/FMCSA carrier leads + insurance-renewal alerts for dispatchers, insurance agents, compliance agents and factoring companies. All SEO-acquired (founder-stated). Stripe-verified ~$1,878 MRR / 22 subs / ~$2,463 L30 / ~$7,784 all-time, founded Apr 2026. Perfect public-data-glue shape, still small.",
+      "homepage": "https://www.truckerdb.com/"
+    },
+    {
+      "name": "PDFBolt (PL)",
+      "note": "Privacy-first HTML→PDF generation API (Free / $19 / $79 / $249). Stripe-verified ~$2,154 MRR / 58 subs / ~$2,460 L30 / ~$19.8k all-time. Boring dev plumbing from Poland.",
+      "homepage": "https://pdfbolt.com/"
+    },
+    {
+      "name": "BankPDF (stealth)",
+      "note": "Slug suggests a bank-statement PDF tool, but the profile is anonymous with no description. Stripe-verified ~$2,867 MRR / 44 subs / ~$3,860 L30 / ~$67.1k all-time. Accounting-glue shape, details unknown.",
+      "homepage": null
+    },
+    {
+      "name": "Plate Lookup",
+      "note": "License-plate / VIN vehicle-history lookup (auction history, recalls, title brands, odometer). Mostly one-time purchases: Stripe-verified ~$7,650 L30 / ~$51.8k all-time ($32 MRR). Public-data resale.",
+      "homepage": "https://platelookup.app/"
+    },
+    {
+      "name": "Legal Tech (BG)",
+      "note": "Bulgarian legal cloud software (€19 / €49 / €79 per month). Stripe-verified ~$13.4k MRR / 90 subs, but only ~$1.9k L30 / ~$15k all-time. MRR looks like recently annualised or new contracts, so watch before trusting it.",
+      "homepage": "https://legal-tech.bg/"
+    }
+  ]
+}

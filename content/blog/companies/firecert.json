@@ -1,0 +1,29 @@
+{
+  "slug": "firecert",
+  "name": "FireCert",
+  "listingNote": null,
+  "description": "UK fire & security compliance software for contractors: asset registers built from panel/CSV exports, locked + hashed certificates (BS 5839-1/-6, BS 5266 emergency lighting, BS 5306 extinguishers, PD 6662 intruder, CCTV, access control, dry risers), QR asset tags, visit reminders, client portal, Xero integration. £79/mo Professional, £129/mo Business. Founded Feb 2026, UK. Company-stated 4.9/5 from 47 customers.",
+  "homepage": "https://firecert.uk/",
+  "image": "/blog/2026-10-05/firecert.webp",
+  "imageAlt": "FireCert product image",
+  "imageWidth": 1024,
+  "imageHeight": 1024,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,515 MRR, 39 active subscriptions, ~$4,542 L30, ~$16,647 all-time, ~95% L30 profit margin. Revenue synced Oct 5, 2026 ~07:06 Warsaw (05:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/firecert"
+        },
+        {
+          "label": "firecert.uk",
+          "url": "https://firecert.uk/"
+        }
+      ],
+      "indieAngle": "Find one national standard that tradespeople must certify against (PL fire-protection inspections, gas/electrical periodic checks, lift inspections, F-gas logs) and ship certificate generation + asset register + reminders + Xero/accounting sync. SEO on \"<standard> certificate template\" is the free acquisition channel."
+    }
+  ]
+}

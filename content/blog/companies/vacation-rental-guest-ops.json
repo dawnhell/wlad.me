@@ -1,0 +1,25 @@
+{
+  "slug": "vacation-rental-guest-ops",
+  "name": "Vacation-rental guest ops",
+  "listingNote": "Stealth Company",
+  "description": "Anonymous B2B SaaS that automates guest operations for vacation-rental hosts/managers (\"Automate guest operations in your vacation rental for $0/month\"). Pricing: €12 / property / month plus a 7% fee on guest upsells. Founded Jun 2023, US. Listed for sale at $600k.",
+  "homepage": null,
+  "image": "/blog/2026-10-05/vacation-rental-guest-ops.webp",
+  "imageAlt": "Vacation-rental guest ops product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8,203 MRR, 78 active subscriptions, ~$10,752 L30, ~$218,721 all-time, ~75% L30 profit margin. Asking $600,000. Revenue synced Oct 5, 2026 ~07:39 Warsaw (05:39 UTC). No public domain (stealth).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/anonymous-startup-31"
+        }
+      ],
+      "indieAngle": "Per-unit pricing + take rate on upsells for one rental vertical (Polish mountain apartments, campsites, boat charters). Hook into the PMS/channel manager they already use."
+    }
+  ]
+}

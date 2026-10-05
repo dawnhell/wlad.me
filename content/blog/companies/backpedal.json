@@ -1,0 +1,29 @@
+{
+  "slug": "backpedal",
+  "name": "BackPedal",
+  "listingNote": null,
+  "description": "London theft-recovery subscription for bikes and e-bikes. Mechanics install covert GSM/GPS/BLE trackers (17 disguised casings), a 24/7 in-house team recovers stolen bikes (company-stated ~80% recovery rate, ~48h typical), and backup theft insurance is underwritten by Sundays (FCA regulated). Annual protection from £153 (~£12.75/mo). Founded Sep 2021, UK.",
+  "homepage": "https://www.backpedal.co/",
+  "image": "/blog/2026-10-05/backpedal.webp",
+  "imageAlt": "BackPedal product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$25,383 MRR, 372 active subscriptions, ~$59,307 L30 (upfront kit fees + renewals), ~$1,467,646 all-time. Revenue synced Oct 5, 2026 ~04:13 Warsaw (02:13 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/backpedal-ltd"
+        },
+        {
+          "label": "backpedal.co",
+          "url": "https://www.backpedal.co/"
+        }
+      ],
+      "indieAngle": "Recovery-as-a-subscription for one high-theft asset in one city (e-bikes in Warsaw, cargo bikes, tools in vans, construction equipment). Partner with a licensed insurer for the backup cover and own the tracking + recovery ops."
+    }
+  ]
+}

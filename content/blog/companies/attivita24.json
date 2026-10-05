@@ -1,0 +1,29 @@
+{
+  "slug": "attivita24",
+  "name": "Attivita24",
+  "listingNote": null,
+  "description": "Italian marketplace to buy and sell small and medium-sized businesses (shops, bars, SMEs) directly owner-to-buyer, without brokers. Listing packages Base €34 / Plus €86 / Premium €149 + VAT. Founded Oct 2025, Italy. Listed for sale at $800k (first listed Feb 2026).",
+  "homepage": "https://www.attivita24.com/",
+  "image": "/blog/2026-10-05/attivita24.webp",
+  "imageAlt": "Attivita24 product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 subs (one-time listing packs), ~$11,177 L30, ~$88,188 all-time, ~30% L30 profit margin. Asking $800,000. Revenue synced Oct 5, 2026 ~05:28 Warsaw (03:28 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/attivita24"
+        },
+        {
+          "label": "attivita24.com",
+          "url": "https://www.attivita24.com/"
+        }
+      ],
+      "indieAngle": "Owner-direct \"business for sale\" classifieds for one country (PL: sklepy, gastronomia, salony) with paid listing tiers. Pairs naturally with Dotmarket-style valuation packs."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "maidsnblack",
+  "name": "MaidsnBlack",
+  "listingNote": "Maids in Black",
+  "description": "Tech-driven residential and Airbnb cleaning service for DC / Maryland / Virginia. Online \"book in 60 seconds\" pricing by bedrooms/bathrooms, cleaners in teams of two, weekly / bi-weekly / monthly recurring plans, and a contractor-recruiting portal (mib.moppworks.com) offering scheduling, payments and customer management to cleaners. Founded Feb 2013, US. TrustMRR pricing model: \"Contact for Quote\".",
+  "homepage": "https://maidsinblack.com/",
+  "image": "/blog/2026-10-05/maidsnblack.webp",
+  "imageAlt": "MaidsnBlack product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions (per-job billing), ~$105,289 L30, ~$22,872,928 all-time. Revenue synced Oct 5, 2026 ~10:03 Warsaw (08:03 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/maidsnblack"
+        },
+        {
+          "label": "maidsinblack.com",
+          "url": "https://maidsinblack.com/"
+        },
+        {
+          "label": "mib.moppworks.com",
+          "url": "https://mib.moppworks.com/"
+        }
+      ],
+      "indieAngle": "Don't run cleaners yourself. Sell the \"book in 60s + dispatch + charge after service\" stack to one-city cleaning operators (white-label booking widget + contractor payouts), or run the playbook in one metro where nobody does instant online pricing."
+    }
+  ]
+}

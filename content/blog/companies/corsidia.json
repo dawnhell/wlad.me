@@ -1,0 +1,29 @@
+{
+  "slug": "corsidia",
+  "name": "Corsidia",
+  "listingNote": null,
+  "description": "Italian course-comparison directory. It picks schools, training bodies and teachers, so users can compare course offers and prices and then contact the organizers directly. Corsidia.org covers publicly funded active-labour-policy training. Free for course seekers. Founded Jan 2018, Italy.",
+  "homepage": "https://corsidia.com/",
+  "image": "/blog/2026-10-05/corsidia.webp",
+  "imageAlt": "Corsidia product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 seat subscriptions, ~$78,758 L30, ~$3,115,522 all-time. Revenue synced Oct 5, 2026 ~05:47 Warsaw (03:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/corsidia"
+        },
+        {
+          "label": "corsidia.com",
+          "url": "https://corsidia.com/"
+        }
+      ],
+      "indieAngle": "Build a \"compare local course providers\" directory for one country/language (PL driving schools, forklift/UDT certs, language schools) and charge providers per lead. SEO pages per city × course type are the product."
+    }
+  ]
+}

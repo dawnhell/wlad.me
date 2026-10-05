@@ -1,0 +1,29 @@
+{
+  "slug": "dotmarket-eu",
+  "name": "Dotmarket.eu",
+  "listingNote": null,
+  "description": "French marketplace for buying / selling digital businesses (SaaS, media, e-commerce, web agencies). Claims 300+ vetted and valued deals a year (company-stated). Registered in Estonia, founded Jan 2020.",
+  "homepage": "https://www.dotmarket.eu/",
+  "image": "/blog/2026-10-05/dotmarket-eu.webp",
+  "imageAlt": "Dotmarket.eu product image",
+  "imageWidth": 1200,
+  "imageHeight": 575,
+  "mentions": [
+    {
+      "date": "2026-10-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$12,903 MRR, 403 active subscriptions, ~$9,043 L30, ~$1,141,337 all-time. Revenue synced Oct 5, 2026 ~04:05 Warsaw (02:05 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dotmarket-eu"
+        },
+        {
+          "label": "dotmarket.eu",
+          "url": "https://www.dotmarket.eu/"
+        }
+      ],
+      "indieAngle": "Run a language-local \"buy a small online business\" marketplace (PL / CZ / DE) with paid buyer access and valuation packs. Local trust and language are the moat versus Acquire.com."
+    }
+  ]
+}
