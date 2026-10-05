@@ -2,6 +2,7 @@ import { Analytics } from '@vercel/analytics/react'
 import type { NextPage } from 'next'
 import type { AppProps } from 'next/app'
 import { Newsreader, Source_Sans_3 } from 'next/font/google'
+import Head from 'next/head'
 import { useRouter } from 'next/router'
 import Script from 'next/script'
 import type { ReactElement, ReactNode } from 'react'
@@ -34,6 +35,7 @@ export type tAppPropsWithLayout = AppProps & {
 
 function App({ Component, pageProps }: tAppPropsWithLayout) {
   const router = useRouter()
+  const eventDashApiKey = process.env.NEXT_PUBLIC_EVENT_DASH_API_KEY
   const skipTracking =
     router.pathname.startsWith('/legal') ||
     router.pathname === '/share' ||
@@ -65,9 +67,18 @@ function App({ Component, pageProps }: tAppPropsWithLayout) {
     >
       {skipTracking ? null : (
         <>
+          {eventDashApiKey ? (
+            <Head>
+              <link
+                rel="preload"
+                as="image"
+                href={`https://www.eventda.sh/api/crawl?key=${eventDashApiKey}`}
+              />
+            </Head>
+          ) : null}
           <Script
             src="https://www.eventda.sh/tracker.js"
-            data-api-key={process.env.NEXT_PUBLIC_EVENT_DASH_API_KEY}
+            data-api-key={eventDashApiKey}
             strategy="afterInteractive"
           />
 
