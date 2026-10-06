@@ -26,7 +26,8 @@
       "image": "/blog/2026-10-03/kibu.webp",
       "imageAlt": "Kibu product image",
       "imageWidth": 1200,
-      "imageHeight": 631
+      "imageHeight": 631,
+      "whyItPrints": "Pure regulated vertical ops software — the Conductor shape applied to disability services. Providers cannot improvise compliance; once the EHR + care logs live in Kibu, switching costs explode. High ACV B2B seats (375 subs → ~$234k MRR) without consumer virality."
     },
     {
       "slug": "uk-hormone-prescribing-ops-agency",
@@ -46,7 +47,8 @@
       "image": "/blog/2026-10-03/uk-hormone-prescribing-ops-agency.webp",
       "imageAlt": "UK hormone prescribing + ops agency product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Regulated medical + ops consulting hybrid: recurring patient/service revenue under UK prescribing rules, plus agency automation. Massive all-time (~$6.4M) with real seat count — classic \"own a regulated workflow, charge monthly\" print, not a toy GPT wrapper."
     },
     {
       "slug": "1lookup",
@@ -70,7 +72,8 @@
       "image": "/blog/2026-10-03/1lookup.webp",
       "imageAlt": "1Lookup product image",
       "imageWidth": 1200,
-      "imageHeight": 628
+      "imageHeight": 628,
+      "whyItPrints": "Developer infra plumbing that fraud teams and marketers renew without thinking. Credits > seats: L30 revenue (~$390k) exceeds listed MRR (~$248k) because of overage/usage. Unsexy data quality that invoices itself."
     },
     {
       "slug": "rezi",
@@ -94,7 +97,8 @@
       "image": "/blog/2026-10-03/rezi.webp",
       "imageAlt": "Rezi product image",
       "imageWidth": 1200,
-      "imageHeight": 680
+      "imageHeight": 680,
+      "whyItPrints": "Job-hunt utility with brutal volume — 10k+ paying subs and $10M+ all-time. \"Make my PDF pass the ATS\" is evergreen career bureaucracy glue, not a novelty chat app."
     },
     {
       "slug": "cometly",
@@ -118,7 +122,8 @@
       "image": "/blog/2026-10-03/cometly.webp",
       "imageAlt": "Cometly product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Ads attribution plumbing. SaaS teams pay to know which campaigns closed revenue; once pixels and CRM sync live, churn is painful. Analytics infra with fat seats, not consumer virality."
     },
     {
       "slug": "probate-leads",
@@ -138,7 +143,8 @@
       "image": "/blog/2026-10-03/probate-leads.webp",
       "imageAlt": "Probate leads product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Court → lead → investor data glue. Zero AI-demo energy: scrape/enrich probate filings, charge subscriptions for inventory. Sticky because lead quality compounds with court relationships."
     },
     {
       "slug": "upscale-system-llc",
@@ -162,7 +168,8 @@
       "image": "/blog/2026-10-03/upscale-system-llc.webp",
       "imageAlt": "Upscale System LLC product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Productized outbound + CRM seats. High MRR on a few hundred customers means real ACV. Selling \"we book meetings\" as recurring software/services hybrid — classic indie MSP-adjacent print."
     },
     {
       "slug": "cartboss",
@@ -186,7 +193,8 @@
       "image": "/blog/2026-10-03/cartboss.webp",
       "imageAlt": "CartBoss product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "E-com revenue plumbing — SMS \"you left something in your cart.\" Usage billing means no seat MRR, but ~$1.74M all-time proves the meter prints when stores send volume. Classic boring recovery infra."
     },
     {
       "slug": "proclinica",
@@ -210,7 +218,8 @@
       "image": "/blog/2026-10-03/proclinica.webp",
       "imageAlt": "PROCLINICA product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Country clinic OS — Calendesk/Khosmos cousin for private healthcare. Local e-invoicing (VeriFactu) and privacy law are the moat; solo clinics pay to avoid Excel + WhatsApp chaos."
     },
     {
       "slug": "white-glove-content",
@@ -234,7 +243,8 @@
       "image": "/blog/2026-10-03/white-glove-content.webp",
       "imageAlt": "White Glove Content product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Done-for-you content factory sold as SaaS seats. 589 subs × mid-tier ARPU = real print without building another UGC toy. Productized agency with dashboard delivery."
     }
   ],
   "honorableMentions": [

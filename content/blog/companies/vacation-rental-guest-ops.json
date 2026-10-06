@@ -21,5 +21,6 @@
       ],
       "indieAngle": "Per-unit pricing + take rate on upsells for one rental vertical (Polish mountain apartments, campsites, boat charters). Hook into the PMS/channel manager they already use."
     }
-  ]
+  ],
+  "whyItPrints": "Short-term-rental ops glue: check-in instructions, guest messaging, upsells (early check-in, late checkout). Per-property pricing scales with portfolio managers, and the upsell take rate adds GMV-linked revenue. 75% L30 margin."
 }

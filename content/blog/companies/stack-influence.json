@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Micro-creator seeding for one marketplace + one country (Allegro sellers in PL, Etsy/Faire makers, Shopify DTC food brands). Flat fee per campaign + % of creator payout. The creator database and shipping workflow are the product."
     }
-  ]
+  ],
+  "whyItPrints": "Ops-heavy marketplace: product shipping logistics, creator vetting, and payouts at scale. Brands pay for volume of authentic posts/UGC without negotiating with each creator (per its value prop). Recurring retainers + per-campaign fees + payout float = big GMV through Stripe."
 }

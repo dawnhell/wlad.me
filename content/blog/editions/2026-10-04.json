@@ -26,7 +26,8 @@
       "image": "/blog/2026-10-04/comp-ai.webp",
       "imageAlt": "Comp AI product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Security-questionnaire and audit bureaucracy glue. Once policies + evidence live in Comp AI, switching costs explode and renewals are mandatory for B2B sales. High ACV / low logo count (49 subs → ~$12k MRR) with massive L30 (~$700k) from annual / setup billing — pure regulated ops, not a GPT wrapper."
     },
     {
       "slug": "hypeproxies",
@@ -50,7 +51,8 @@
       "image": "/blog/2026-10-04/hypeproxies.webp",
       "imageAlt": "HypeProxies product image",
       "imageWidth": 1200,
-      "imageHeight": 676
+      "imageHeight": 676,
+      "whyItPrints": "Unsexy infra plumbing — IPs that don't get blocked. Usage / prepaid billing shows $0 seat MRR but ~$320k L30 and ~$11.7M all-time. Once scrapers and sneaker bots are wired to your proxies, churn is painful. Classic \"sell the pickaxes\" print."
     },
     {
       "slug": "convertlabs",
@@ -74,7 +76,8 @@
       "image": "/blog/2026-10-04/convertlabs.webp",
       "imageAlt": "ConvertLabs product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Local-services OS. Field businesses hate juggling calendars, invoices, and marketing sites; once jobs and payments live in ConvertLabs, they renew. Mid-tier ACV × hundreds of logos = steady ~$28k MRR and $2.2M+ all-time — Calendesk/Khosmos cousin for US home services."
     },
     {
       "slug": "simple-analytics",
@@ -98,7 +101,8 @@
       "image": "/blog/2026-10-04/simple-analytics.webp",
       "imageAlt": "Simple Analytics product image",
       "imageWidth": 1200,
-      "imageHeight": 628
+      "imageHeight": 628,
+      "whyItPrints": "Analytics plumbing that marketing teams renew without thinking — especially when cookies and GA4 consent hell make privacy analytics a procurement checkbox. ~$38k MRR on volume seats; ~$1.9M all-time. EventDash-adjacent lane: \"measure traffic without creepy tracking.\""
     },
     {
       "slug": "stoik",
@@ -122,7 +126,8 @@
       "image": "/blog/2026-10-04/stoik.webp",
       "imageAlt": "Stoïk product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Regulated insurance + security hybrid. Premiums and services invoice through Stripe without classic seat MRR ($0 MRR / 0 subs) but ~$40k L30 and a staggering ~$23.3M all-time. Conductor-lane energy: own a regulated risk workflow, charge when coverage renews."
     },
     {
       "slug": "presscart",
@@ -146,7 +151,8 @@
       "image": "/blog/2026-10-04/presscart.webp",
       "imageAlt": "Presscart product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Marketplace take-rate on PR inventory. Tiny seat MRR (~$2k / 2 subs) but ~$62k L30 and ~$3.3M all-time from transactional placements. \"Skip the agency retainer, buy the placement\" — unsexy media ops glue."
     },
     {
       "slug": "festejar",
@@ -170,7 +176,8 @@
       "image": "/blog/2026-10-04/festejar.webp",
       "imageAlt": "Festejar product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Geo-niche marketplace txn glue. $0 seat MRR but ~$38k L30 and ~$188k all-time in ~7 months — clubs pay take-rate or event fees to sell tickets without cobbling Shopify + Eventbrite + a brochure site. Narrow geography is the moat."
     },
     {
       "slug": "ndiscompliant",
@@ -194,7 +201,8 @@
       "image": "/blog/2026-10-04/ndiscompliant.webp",
       "imageAlt": "NDISCompliant product image",
       "imageWidth": 900,
-      "imageHeight": 1262
+      "imageHeight": 1262,
+      "whyItPrints": "Pure regulated vertical docs — Kibu cousin for AU disability providers facing SIL / audit deadlines. $0 seat MRR with ~$5.6k L30 and ~$45k all-time suggests pack / one-time + sporadic subscription billing around compliance deadlines. Bureaucracy is the product."
     },
     {
       "slug": "quotedeck",
@@ -218,7 +226,8 @@
       "image": "/blog/2026-10-04/quotedeck.webp",
       "imageAlt": "QuoteDeck product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Insurance-agent sales ops glue — Conductor-lane for brokers. Tiny but real Stripe revenue (~$2.1k MRR / ~$3.3k L30) with 85% margins. Agents hate PDF chaos; once quotes + e-sign live in one deck, switching hurts."
     },
     {
       "slug": "friendfilter-groupfilter",
@@ -242,7 +251,8 @@
       "image": "/blog/2026-10-04/friendfilter-groupfilter.webp",
       "imageAlt": "FriendFilter + GroupFilter product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Decade-old browser utility that still prints. ~$8.2k MRR, ~$1.8M all-time, ~90% margins. No AI-demo energy — Facebook graph hygiene that creators and marketers quietly renew."
     }
   ],
   "honorableMentions": [

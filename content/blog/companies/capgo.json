@@ -21,5 +21,6 @@
       ],
       "indieAngle": "Wrap a popular open framework's missing ops layer (OTA / CI) and charge for reliability + channels — classic boring developer infra."
     }
-  ]
+  ],
+  "whyItPrints": "Mobile teams hate store review delays for hotfixes. Capgo is infra they already understand (Capacitor), billed like a deployment pipe — sticky once release channels are wired."
 }

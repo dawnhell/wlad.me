@@ -21,5 +21,6 @@
       ],
       "indieAngle": "Own one regulated sales call → system-of-record pipeline (mortgage, insurance, wealth). Charge per producer; integrate the LOS they already live in."
     }
-  ]
+  ],
+  "whyItPrints": "Vertical workflow glue for loan officers (not a general chatbot). Clear ACV per LO, ~99 paying seats, sticky once wired into LOS — Conductor-shaped but for mortgage ops instead of QuickBooks Desktop."
 }

@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Do the same for PL komornicze licytacje (court-bailiff auctions on licytacje.komornik.pl / e-licytacje), or for CZ/SK dražby. Alerts by city/price + document summaries + paid \"we'll inspect / handle paperwork\" add-ons."
     }
-  ]
+  ],
+  "whyItPrints": "Public court notices sitting in a clunky government format. Investors pay to see them first and in English. In under a year it has 126 subs, and the service add-ons + success fee turn a data feed into a transaction business."
 }

@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Join KRS + Księgi Wieczyste (land & mortgage registers) + MSiG notices into \"who has a maturing loan / new charge / insolvency signal\" alerts for PL lenders, debt buyers and B2B sales teams. Charge per seat in the hundreds of euros."
     }
-  ]
+  ],
+  "whyItPrints": "Pure public-registry joining. The data is free but scattered across registers in millions of unstructured filings, and finding a borrower at the right moment is worth thousands to a bridging lender. 10 customers at ~$600/mo average (my calculation). The \"AI\" here is just the search layer."
 }

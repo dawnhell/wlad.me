@@ -20,6 +20,19 @@
         }
       ],
       "indieAngle": "Pick a painful legacy system (QBD, on-prem ERP, country e-invoicing) and sell the API glue forever."
+    },
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "QuickBooks Desktop & Enterprise API ($49 per company file/month). Stripe-verified now ~$41,221 MRR / 263 subs / ~$39,108 L30 / ~$465,323 all-time, ~95% margin, L30 MRR growth +7.8%. On Sep 30 it was ~$40.5k MRR / 255 subs / ~$38.5k L30 / ~$460k AT. Synced Oct 6, 2026 ~04:26 Warsaw. TrustMRR also shows it listed for sale at $1,250,000 (2.7x, first listed Mar 6, 2026, 21 offers).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "indieAngle": "Pick a painful legacy system (QBD, on-prem ERP, country e-invoicing) and sell the API glue forever."
     }
-  ]
+  ],
+  "whyItPrints": "Developers integrating with QBD still need a reliable bridge. Conductor sells $49/company-file/mo infrastructure that \"completely runs itself\" — classic Conductor-lane accounting glue, not another AI wrapper."
 }

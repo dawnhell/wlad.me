@@ -26,7 +26,8 @@
       "image": "/blog/2026-10-06/ff-dispatch.webp",
       "imageAlt": "FF Dispatch product image",
       "imageWidth": 1200,
-      "imageHeight": 670
+      "imageHeight": 670,
+      "whyItPrints": "It is a percentage of every load hauled. Owner-operators hate load boards and paperwork, and a dispatcher who gets them $2.85/mi instead of $2.10/mi (company-stated averages) pays for itself. The \"authority → loads → money side\" funnel lets one customer buy several services."
     },
     {
       "slug": "vignette-id",
@@ -54,7 +55,8 @@
       "image": "/blog/2026-10-06/vignette-id.webp",
       "imageAlt": "Vignette ID product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Government toll-payment glue. Drivers crossing several countries otherwise deal with nine separate state portals in local languages, and get fined if they skip it. The product is a checkout over official systems. Volume comes from summer/holiday traffic and fleets."
     },
     {
       "slug": "stack-influence",
@@ -78,7 +80,8 @@
       "image": "/blog/2026-10-06/stack-influence.webp",
       "imageAlt": "Stack Influence product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Ops-heavy marketplace: product shipping logistics, creator vetting, and payouts at scale. Brands pay for volume of authentic posts/UGC without negotiating with each creator (per its value prop). Recurring retainers + per-campaign fees + payout float = big GMV through Stripe."
     },
     {
       "slug": "juiced",
@@ -102,7 +105,8 @@
       "image": "/blog/2026-10-06/juiced.webp",
       "imageAlt": "Juiced product image",
       "imageWidth": 1200,
-      "imageHeight": 750
+      "imageHeight": 750,
+      "whyItPrints": "Plumbing for the pay-per-lead industry (verticals not named on TrustMRR; the homepage demo shows a \"Wellness Subscriber\" lead). Whoever routes the leads controls the money, and switching routers mid-campaign is painful. 13 customers paying ~$750/mo each on average (my calculation from MRR ÷ subs)."
     },
     {
       "slug": "book-the-move",
@@ -126,7 +130,8 @@
       "image": "/blog/2026-10-06/book-the-move.webp",
       "imageAlt": "Book The Move product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Public listing data turned into a trigger list (a listed house means a move is coming) for one blue-collar vertical with a high job value. 5 clients at ~$1k/mo average (my calculation) and an 80% margin."
     },
     {
       "slug": "wcmultishipping",
@@ -150,7 +155,8 @@
       "image": "/blog/2026-10-06/wcmultishipping.webp",
       "imageAlt": "WcMultiShipping product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Legacy carrier-API glue. Carriers ship clunky SOAP/web-service APIs and PDF label specs, and small merchants just want \"pickup point + label\" to work. 591 subs at ~$4.85 average (my calculation): tiny ticket, huge install base, and nobody churns off their shipping plugin in peak season."
     },
     {
       "slug": "trackssl",
@@ -174,7 +180,8 @@
       "image": "/blog/2026-10-06/trackssl.webp",
       "imageAlt": "TrackSSL product image",
       "imageWidth": 1200,
-      "imageHeight": 687
+      "imageHeight": 687,
+      "whyItPrints": "Pure \"insurance\" utility: nobody thinks about it until a cert expires and the site goes down. Agencies with hundreds of client domains pay per domain forever. Public cert lifetimes are scheduled to drop to 47 days by 2029 ([CA/B Forum ballot SC-081](https://cabforum.org/2025/04/11/ballot-sc081v3-introduce-schedule-of-reducing-validity-and-data-reuse-periods/)), so more renewals means more chances for automation to fail."
     },
     {
       "slug": "subbasta",
@@ -198,7 +205,8 @@
       "image": "/blog/2026-10-06/subbasta.webp",
       "imageAlt": "Subbasta product image",
       "imageWidth": 1200,
-      "imageHeight": 675
+      "imageHeight": 675,
+      "whyItPrints": "Public court notices sitting in a clunky government format. Investors pay to see them first and in English. In under a year it has 126 subs, and the service add-ons + success fee turn a data feed into a transaction business."
     },
     {
       "slug": "journeyfuse",
@@ -222,7 +230,8 @@
       "image": "/blog/2026-10-06/journeyfuse.webp",
       "imageAlt": "JourneyFuse product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Vertical CRM for an old-school profession (host-agency travel advisors) that ran on spreadsheets and email. Seven months old with 405 paying subs, and +28.3% L30 MRR growth. A cheap price point in a tight-knit niche seems to spread fast (my read of the growth; acquisition channel not disclosed)."
     },
     {
       "slug": "harperai",
@@ -246,7 +255,8 @@
       "image": "/blog/2026-10-06/harperai.webp",
       "imageAlt": "HarperAI product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Pure public-registry joining. The data is free but scattered across registers in millions of unstructured filings, and finding a borrower at the right moment is worth thousands to a bridging lender. 10 customers at ~$600/mo average (my calculation). The \"AI\" here is just the search layer."
     }
   ],
   "honorableMentions": [

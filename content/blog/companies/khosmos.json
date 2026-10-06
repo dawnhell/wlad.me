@@ -21,5 +21,6 @@
       ],
       "indieAngle": "Pick one country's trade invoicing/e-sign rules and own quote→pay end-to-end. Switching costs are high once invoices live there."
     }
-  ]
+  ],
+  "whyItPrints": "Tradespeople lose deals when quotes are slow. Khosmos owns the quote→cash workflow in one country vertical — same shape as Conductor (legacy/ops glue) and Calendesk (country booking), but for French chantier admin."
 }

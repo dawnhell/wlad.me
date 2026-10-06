@@ -30,7 +30,8 @@
       "image": "/blog/2026-10-05/maidsnblack.webp",
       "imageAlt": "MaidsnBlack product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Local service plus thin software, no AI. Recurring cleans become habit revenue, while the booking + dispatch + auto-charge stack lets it run like a marketplace. 13 years of Stripe history adds up to ~$22.9M. Card-on-file, charged after service, is the whole moat."
     },
     {
       "slug": "corsidia",
@@ -54,7 +55,8 @@
       "image": "/blog/2026-10-05/corsidia.webp",
       "imageAlt": "Corsidia product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Lead-gen directory for a fragmented, offline-heavy local market (language schools, professional courses, vocational training). Stripe shows $0 seat MRR but ~$79k L30 and ~$3.1M all-time. Since users pay nothing, the money presumably comes from course providers (paid listings or leads). That part is my inference; the founder's description just says \"You'll have to figure it out.\""
     },
     {
       "slug": "tree-nerd-academy",
@@ -78,7 +80,8 @@
       "image": "/blog/2026-10-05/tree-nerd-academy.webp",
       "imageAlt": "Tree Nerd Academy product image",
       "imageWidth": 675,
-      "imageHeight": 675
+      "imageHeight": 675,
+      "whyItPrints": "Certification-exam prep for a trade career, sold to people who need the credential to get paid more. Under 10 months old, with ~$34k L30, ~$214k all-time and a 95% L30 margin. TrustMRR also lists tiny arborist flashcard apps doing a few hundred dollars a month, so the niche has demand and Tree Nerd is clearly winning it."
     },
     {
       "slug": "backpedal",
@@ -102,7 +105,8 @@
       "image": "/blog/2026-10-05/backpedal.webp",
       "imageAlt": "BackPedal product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Hardware + ops + insurance wrapper sold as a subscription. Delivery riders and commuters can't afford to lose an e-bike, so they renew. Physical install and recovery ops are a moat no SaaS clone can copy overnight."
     },
     {
       "slug": "evergreen-support",
@@ -126,7 +130,8 @@
       "image": "/blog/2026-10-05/evergreen-support.webp",
       "imageAlt": "Evergreen Support product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Productized service, inbox outsourcing. 22 clients paying ~$1.1k/mo each on average (my calculation from MRR ÷ subs) adds up to ~$25k MRR and ~$813k all-time. Nobody wants to answer \"where's my order?\" emails, and once a team knows your store's macros, switching is painful."
     },
     {
       "slug": "dotmarket-eu",
@@ -150,7 +155,8 @@
       "image": "/blog/2026-10-05/dotmarket-eu.webp",
       "imageAlt": "Dotmarket.eu product image",
       "imageWidth": 1200,
-      "imageHeight": 575
+      "imageHeight": 575,
+      "whyItPrints": "Deal-flow subscription. Buyers pay recurring access for vetted listings, sellers pay for valuation/listing. 403 subs at ~$32 average (my calculation) is a classic \"small ticket × hundreds of logos\" print, and French-language focus keeps Flippa/Acquire away."
     },
     {
       "slug": "vacation-rental-guest-ops",
@@ -170,7 +176,8 @@
       "image": "/blog/2026-10-05/vacation-rental-guest-ops.webp",
       "imageAlt": "Vacation-rental guest ops product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Short-term-rental ops glue: check-in instructions, guest messaging, upsells (early check-in, late checkout). Per-property pricing scales with portfolio managers, and the upsell take rate adds GMV-linked revenue. 75% L30 margin."
     },
     {
       "slug": "firecert",
@@ -194,7 +201,8 @@
       "image": "/blog/2026-10-05/firecert.webp",
       "imageAlt": "FireCert product image",
       "imageWidth": 1024,
-      "imageHeight": 1024
+      "imageHeight": 1024,
+      "whyItPrints": "British Standards paperwork that fire contractors legally must produce and keep, and that has lived in Word templates and spreadsheets until now. ~$4.5k MRR within ~7 months of founding and a 95% margin. This is the Conforme/NDISCompliant shape, but with real money."
     },
     {
       "slug": "immowp",
@@ -218,7 +226,8 @@
       "image": "/blog/2026-10-05/immowp.webp",
       "imageAlt": "ImmoWP product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Pure Conductor-lane legacy glue. Agencies already pay for vertical CRMs that export XML/FTP feeds, and WordPress agencies don't want to rebuild sites. Tiny ACV, but integration maintenance is the recurring fee and switching is near-zero churn."
     },
     {
       "slug": "attivita24",
@@ -242,7 +251,8 @@
       "image": "/blog/2026-10-05/attivita24.webp",
       "imageAlt": "Attivita24 product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Classifieds for main-street businesses, an old-school category where brokers charge a lot. Paid listing packs give ~$11k L30 within a year, at a 30% L30 margin (so ad spend is heavy)."
     }
   ],
   "honorableMentions": [

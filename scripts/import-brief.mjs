@@ -235,6 +235,7 @@ function parseBrief(markdown, briefDir, date) {
       sources: parseSources(body),
       homepage: parseHomepage(fieldValue(body, 'Homepage') || ''),
       indieAngle: fieldValue(body, 'Indie angle'),
+      whyItPrints: fieldValue(body, 'Why boring / prints'),
       imageFile: imageMatch ? imageMatch[1].trim() : null,
       briefDir,
       date,
@@ -495,6 +496,7 @@ async function main() {
       sources: entry.sources,
       homepage: entry.homepage,
       indieAngle: entry.indieAngle,
+      whyItPrints: entry.whyItPrints,
       image,
       imageAlt,
       imageWidth,
@@ -525,6 +527,7 @@ async function main() {
     company.name = entry.name
     company.listingNote = entry.listingNote
     company.description = entry.description
+    company.whyItPrints = entry.whyItPrints
     if (entry.homepage) company.homepage = entry.homepage
     if (image) {
       company.image = image

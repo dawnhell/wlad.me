@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Don't hire dispatchers. Build the software a 3–10 person dispatch shop runs on: load-board aggregation, rate-con/POD parsing, commission invoicing via Stripe, and factoring hand-off. Or run the same commission play for EU vans (PL/LT transport is huge) with the big EU freight exchanges as the load source."
     }
-  ]
+  ],
+  "whyItPrints": "It is a percentage of every load hauled. Owner-operators hate load boards and paperwork, and a dispatcher who gets them $2.85/mi instead of $2.10/mi (company-stated averages) pays for itself. The \"authority → loads → money side\" funnel lets one customer buy several services."
 }

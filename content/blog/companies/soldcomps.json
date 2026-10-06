@@ -21,5 +21,6 @@
       ],
       "indieAngle": "Wrap a marketplace's awkward public data into a paid API — same shape as ControlResell ops, but for pricing intel."
     }
-  ]
+  ],
+  "whyItPrints": "Resellers live on sold comps. eBay's own APIs are restricted/messy; SoldComps sells clean access at $9–$79/mo. Pure data plumbing for a sweaty niche."
 }

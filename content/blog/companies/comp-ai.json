@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Own one compliance framework wedge (SOC 2 Type II evidence, or ISO 27001 for EU SMBs, or HIPAA for clinics) with annual seats + audit-week setup packs. Sell to the person who has to close the security questionnaire."
     }
-  ]
+  ],
+  "whyItPrints": "Security-questionnaire and audit bureaucracy glue. Once policies + evidence live in Comp AI, switching costs explode and renewals are mandatory for B2B sales. High ACV / low logo count (49 subs → ~$12k MRR) with massive L30 (~$700k) from annual / setup billing — pure regulated ops, not a GPT wrapper."
 }

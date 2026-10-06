@@ -7,13 +7,16 @@ import TrustMrrChart from '../../../components/blog/TrustMrrChart'
 import Layout from '../../../components/Layout'
 import blurbs from '../../../content/blog/blurbs.json'
 import {
+  companyFaq,
   evidenceLabel,
   formatEditionDate,
   latestMention,
+  linkedSources,
+  priceLine,
   type Company,
   type CompanyMention,
 } from '../../../lib/blog-format'
-import { articleSchema, breadcrumbSchema } from '../../../lib/blog-schema'
+import { articleSchema, breadcrumbSchema, faqSchema } from '../../../lib/blog-schema'
 import type { tNextPageWithLayout } from '../../_app'
 
 const notes = blurbs as Record<string, string>
@@ -23,10 +26,13 @@ const editionHref = (slug: string, date: string) => `/blog/${date}#${slug}`
 const Figures = ({
   slug,
   mention,
+  homepage,
 }: {
   slug: string
   mention: CompanyMention
+  homepage: string | null
 }) => {
+  const sources = linkedSources(homepage, mention.sources)
   return (
     <div className="flex max-w-[65ch] flex-col gap-4">
       <p className="text-sm">
@@ -40,9 +46,9 @@ const Figures = ({
         </p>
         <p className="tabular-nums leading-relaxed">{mention.evidence}</p>
       </div>
-      {mention.sources.length > 0 ? (
+      {sources.length > 0 ? (
         <p className="flex flex-wrap items-baseline gap-x-4 gap-y-2 text-sm">
-          {mention.sources.map((source) => (
+          {sources.map((source) => (
             <OutboundLink key={source.url} href={source.url}>
               {source.label}
             </OutboundLink>
@@ -53,10 +59,21 @@ const Figures = ({
   )
 }
 
-const CompanyPage: tNextPageWithLayout<{ company: Company }> = ({ company }) => {
+type CompanyPeer = { slug: string; name: string }
+
+const CompanyPage: tNextPageWithLayout<{
+  company: Company
+  peers: CompanyPeer[]
+}> = ({ company, peers }) => {
   const latest = latestMention(company)
   const earlier = company.mentions.slice(0, -1).reverse()
   const blurb = notes[company.slug]
+  const price = priceLine(company.description)
+  const about = price
+    ? company.description.replace(price, '').replace(/\s{2,}/g, ' ').trim()
+    : company.description
+  const sources = linkedSources(company.homepage, latest.sources)
+  const faq = companyFaq(company)
 
   return (
     <article className="mx-auto flex w-full max-w-3xl flex-col gap-10">
@@ -76,29 +93,8 @@ const CompanyPage: tNextPageWithLayout<{ company: Company }> = ({ company }) => 
           {company.listingNote ? (
             <p className="text-sm text-muted-foreground">{company.listingNote}</p>
           ) : null}
-          <p className="text-sm text-muted-foreground">{company.description}</p>
         </header>
 
-        {company.image ? (
-          <figure className="overflow-hidden rounded-2xl">
-            <Image
-              src={company.image}
-              alt={company.imageAlt || company.name}
-              width={company.imageWidth || 1200}
-              height={company.imageHeight || 630}
-              priority
-              sizes="(min-width: 768px) 736px, 100vw"
-              className="h-auto w-full"
-            />
-          </figure>
-        ) : null}
-
-        {blurb ? (
-          <p className="max-w-[65ch] text-lg leading-relaxed text-pretty">{blurb}</p>
-        ) : latest.indieAngle ? (
-          <p className="max-w-[65ch] text-lg leading-relaxed text-pretty">{latest.indieAngle}</p>
-        ) : null}
-        <TrustMrrChart name={company.name} sources={latest.sources} />
         <div className="flex max-w-[65ch] flex-col gap-4">
           <p className="text-sm">
             <a href={editionHref(company.slug, latest.date)} className="text-link">
@@ -115,14 +111,60 @@ const CompanyPage: tNextPageWithLayout<{ company: Company }> = ({ company }) => 
             {company.homepage ? (
               <OutboundLink href={company.homepage}>Homepage</OutboundLink>
             ) : null}
-            {latest.sources.map((source) => (
+            {sources.map((source) => (
               <OutboundLink key={source.url} href={source.url}>
                 {source.label}
               </OutboundLink>
             ))}
           </p>
         </div>
+
+        {company.image ? (
+          <figure className="overflow-hidden rounded-2xl">
+            <Image
+              src={company.image}
+              alt={company.imageAlt || company.name}
+              width={company.imageWidth || 1200}
+              height={company.imageHeight || 630}
+              priority
+              sizes="(min-width: 768px) 736px, 100vw"
+              className="h-auto w-full"
+            />
+          </figure>
+        ) : null}
+
+        {about ? (
+          <p className="max-w-[65ch] leading-relaxed text-pretty">{about}</p>
+        ) : null}
+        {company.whyItPrints ? (
+          <p className="max-w-[65ch] leading-relaxed text-pretty">{company.whyItPrints}</p>
+        ) : null}
+        {price ? (
+          <p className="max-w-[65ch] leading-relaxed text-pretty">{price}</p>
+        ) : null}
+        {blurb ? (
+          <p className="max-w-[65ch] text-lg leading-relaxed text-pretty">{blurb}</p>
+        ) : null}
+        {latest.indieAngle ? (
+          <p className="max-w-[65ch] leading-relaxed text-pretty">{latest.indieAngle}</p>
+        ) : null}
+        <TrustMrrChart name={company.name} sources={latest.sources} />
       </div>
+
+      {peers.length > 0 ? (
+        <section className="flex w-full flex-col gap-3">
+          <h2 className="font-serif text-3xl font-normal tracking-tight">
+            Also on {formatEditionDate(latest.date)}
+          </h2>
+          <p className="flex max-w-[65ch] flex-wrap gap-x-4 gap-y-2 text-sm">
+            {peers.map((peer) => (
+              <a key={peer.slug} href={`/blog/companies/${peer.slug}`} className="text-link">
+                {peer.name}
+              </a>
+            ))}
+          </p>
+        </section>
+      ) : null}
 
       {earlier.length > 0 ? (
         <section className="flex w-full flex-col gap-8">
@@ -130,10 +172,25 @@ const CompanyPage: tNextPageWithLayout<{ company: Company }> = ({ company }) => 
             Earlier notes
           </h2>
           {earlier.map((mention) => (
-            <Figures key={mention.date} slug={company.slug} mention={mention} />
+            <Figures
+              key={mention.date}
+              slug={company.slug}
+              mention={mention}
+              homepage={company.homepage}
+            />
           ))}
         </section>
       ) : null}
+
+      <section className="flex w-full max-w-[65ch] flex-col gap-6">
+        <h2 className="font-serif text-3xl font-normal tracking-tight">Questions</h2>
+        {faq.map((item) => (
+          <div key={item.question} className="flex flex-col gap-2">
+            <h3 className="font-serif text-xl font-normal">{item.question}</h3>
+            <p className="leading-relaxed text-pretty">{item.answer}</p>
+          </div>
+        ))}
+      </section>
     </article>
   )
 }
@@ -149,10 +206,14 @@ CompanyPage.getLayout = function getLayout(
     { name: 'Companies', path: '/blog#companies' },
     { name: company.name, path: `/blog/companies/${company.slug}` },
   ]
-  const description = `${company.description} Figures recorded ${formatEditionDate(latest.date)}, labeled ${evidenceLabel(latest.evidenceKind).toLowerCase()}.`
+  const description = `On ${formatEditionDate(latest.date)} the recorded figure is labeled ${evidenceLabel(latest.evidenceKind)}. ${company.description}`
+  const headline =
+    latest.evidenceKind === 'self-reported'
+      ? `${company.name} revenue notes`
+      : `${company.name} verified revenue`
   return (
     <Layout
-      title={`${company.name} revenue notes | Boring SaaS`}
+      title={`${headline} | Boring SaaS`}
       description={description}
       image={company.image || '/circle_me.jpg'}
       mainAlign="start"
@@ -161,13 +222,14 @@ CompanyPage.getLayout = function getLayout(
       rss
       extraStructuredData={[
         articleSchema({
-          headline: `${company.name} revenue notes`,
+          headline,
           description,
           path: `/blog/companies/${company.slug}`,
           date: latest.date,
           image: company.image,
         }),
         breadcrumbSchema(crumbs),
+        faqSchema(companyFaq(company)),
       ]}
     >
       {page}
@@ -190,8 +252,13 @@ export async function getStaticProps({
 }: {
   params: { slug: string }
 }) {
-  const { getCompany } = await import('../../../lib/blog')
+  const { getCompany, getEdition } = await import('../../../lib/blog')
   const company = getCompany(params.slug)
   if (!company) return { notFound: true }
-  return { props: { company } }
+  const latest = latestMention(company)
+  const edition = getEdition(latest.date)
+  const peers = (edition?.companies ?? [])
+    .filter((entry) => entry.slug !== company.slug)
+    .map((entry) => ({ slug: entry.slug, name: entry.name }))
+  return { props: { company, peers } }
 }

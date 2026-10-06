@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Own one recovery channel for a platform (Shopify SMS, WhatsApp, email dunning) with prepaid credits. Charge for messages sent, not seats."
     }
-  ]
+  ],
+  "whyItPrints": "E-com revenue plumbing — SMS \"you left something in your cart.\" Usage billing means no seat MRR, but ~$1.74M all-time proves the meter prints when stores send volume. Classic boring recovery infra."
 }

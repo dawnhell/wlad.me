@@ -22,7 +22,8 @@
       "image": "/blog/2026-09-29/mycater.webp",
       "imageAlt": "MyCater product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Office managers already buy catering every week; MyCater takes a cut of that spend instead of selling another AI seat. Classic marketplace glue for a sleepy ops budget."
     },
     {
       "slug": "stan",
@@ -42,7 +43,8 @@
       "image": "/blog/2026-09-29/stan.webp",
       "imageAlt": "Stan product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Takes a cut of creator checkouts at massive scale. Not glamorous infra — just the cash register creators already need."
     },
     {
       "slug": "windmill-growth",
@@ -62,7 +64,8 @@
       "image": "/blog/2026-09-29/windmill-growth.webp",
       "imageAlt": "Windmill Growth product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "High ACV service wrapped in Stripe subscriptions — founders hate posting, Windmill sells the relief. Ops-heavy, not product-sexy."
     },
     {
       "slug": "prosp",
@@ -82,7 +85,8 @@
       "image": "/blog/2026-09-29/prosp.webp",
       "imageAlt": "PROSP product image",
       "imageWidth": 1200,
-      "imageHeight": 664
+      "imageHeight": 664,
+      "whyItPrints": "Agencies and sales teams already pay for LinkedIn volume. Residential proxies + sequences is an old play that still clears Stripe."
     },
     {
       "slug": "dataexpert-techcreator",
@@ -102,7 +106,8 @@
       "image": "/blog/2026-09-29/dataexpert-techcreator.webp",
       "imageAlt": "DataExpert / TechCreator product image",
       "imageWidth": 1200,
-      "imageHeight": 1200
+      "imageHeight": 1200,
+      "whyItPrints": "Career education on Stripe is a proven print machine; Zach Wilson’s brand feeds a recurring cohort engine."
     },
     {
       "slug": "controlresell",
@@ -122,7 +127,8 @@
       "image": "/blog/2026-09-29/controlresell.webp",
       "imageAlt": "ControlResell product image",
       "imageWidth": 1200,
-      "imageHeight": 1200
+      "imageHeight": 1200,
+      "whyItPrints": "Resellers drown in listing chores; a $30–120/mo ops layer on that grind is pure vertical SaaS."
     },
     {
       "slug": "myfrank",
@@ -142,7 +148,8 @@
       "image": "/blog/2026-09-29/myfrank.webp",
       "imageAlt": "MyFrank product image",
       "imageWidth": 1200,
-      "imageHeight": 676
+      "imageHeight": 676,
+      "whyItPrints": "Multi-site hospitality/retail already buys review tools; attributing reviews to staff is a sticky ops wedge."
     },
     {
       "slug": "image-charts",
@@ -162,7 +169,8 @@
       "image": "/blog/2026-09-29/image-charts.webp",
       "imageAlt": "Image-Charts product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Developers still need charts that render in email. Tiny MRR relative to lifetime — classic durable API micro-SaaS."
     },
     {
       "slug": "geswork",
@@ -186,7 +194,8 @@
       "image": "/blog/2026-09-29/geswork.webp",
       "imageAlt": "GESWORK product image",
       "imageWidth": 1200,
-      "imageHeight": 1200
+      "imageHeight": 1200,
+      "whyItPrints": "Service SMBs need scheduling, docs, and billing in one place. Same founder also runs Valideo (field intervention reports, ~$3.7k MRR Stripe-verified)."
     },
     {
       "slug": "mon-atelier",
@@ -210,7 +219,8 @@
       "image": "/blog/2026-09-29/mon-atelier.webp",
       "imageAlt": "Mon Atelier product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Conductor-shaped — compliance + repair workflow glue. French e-invoicing / NF525 is the moat, not AI features."
     }
   ],
   "honorableMentions": [

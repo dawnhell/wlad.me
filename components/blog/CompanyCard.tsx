@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
 import blurbs from '../../content/blog/blurbs.json'
-import { evidenceLabel, type EditionCompany } from '../../lib/blog-format'
+import { evidenceLabel, linkedSources, type EditionCompany } from '../../lib/blog-format'
 import OutboundLink from './OutboundLink'
 import TrustMrrChart from './TrustMrrChart'
 
@@ -69,7 +69,7 @@ const CompanyCard = ({
           {company.homepage ? (
             <OutboundLink href={company.homepage}>Homepage</OutboundLink>
           ) : null}
-          {company.sources.map((source) => (
+          {linkedSources(company.homepage, company.sources).map((source) => (
             <OutboundLink key={source.url} href={source.url}>
               {source.label}
             </OutboundLink>

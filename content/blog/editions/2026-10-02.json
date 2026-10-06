@@ -30,7 +30,8 @@
       "image": "/blog/2026-10-02/fast-corp-ltd.webp",
       "imageAlt": "Fast Corp Ltd product image",
       "imageWidth": 1200,
-      "imageHeight": 623
+      "imageHeight": 623,
+      "whyItPrints": "Same shape as LegalOne (FR legal notices) and Khosmos (FR trade invoicing): own one country's mandatory admin stack. Formation is a high-ticket front door; monthly accounting is the sticky recurring layer. Entrepreneurs pay to avoid lawyers and tax chaos."
     },
     {
       "slug": "liinks",
@@ -50,7 +51,8 @@
       "image": "/blog/2026-10-02/liinks.webp",
       "imageAlt": "Liinks product image",
       "imageWidth": 1200,
-      "imageHeight": 680
+      "imageHeight": 680,
+      "whyItPrints": "Linktree-shaped infra with real Stripe scale: thousands of paying subs and $1.7M+ all-time. Unsexy \"one URL for everything\" plumbing that creators renew without thinking."
     },
     {
       "slug": "pasul-ro",
@@ -70,7 +72,8 @@
       "image": "/blog/2026-10-02/pasul-ro.webp",
       "imageAlt": "Pasul.ro product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Country + language vertical healthcare marketplace — Calendesk cousin for therapy demand, not therapist SaaS. Transaction volume (~$30k L30) without seat MRR means take-rate on sessions, not subscriptions."
     },
     {
       "slug": "uhoh-com",
@@ -90,7 +93,8 @@
       "image": "/blog/2026-10-02/uhoh-com.webp",
       "imageAlt": "uhoh.com product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Selling outsourced IT ops as a productized MSP with transparent Stripe billing. Tiny sub count (30) × high ACV = real print; classic boring B2B services wrapped as SaaS-ish recurring."
     },
     {
       "slug": "angel-match",
@@ -110,7 +114,8 @@
       "image": "/blog/2026-10-02/angel-match.webp",
       "imageAlt": "Angel Match product image",
       "imageWidth": 1200,
-      "imageHeight": 750
+      "imageHeight": 750,
+      "whyItPrints": "Data directory SaaS — scrape/enrich once, charge annually for access. Nearly $1M all-time and ~$25k MRR with hundreds of subs; founders will keep paying while fundraising."
     },
     {
       "slug": "v62form",
@@ -130,7 +135,8 @@
       "image": "/blog/2026-10-02/v62form.webp",
       "imageAlt": "V62Form product image",
       "imageWidth": 1200,
-      "imageHeight": 500
+      "imageHeight": 500,
+      "whyItPrints": "Pure government-form glue (car-docs.ro / Easy Moving Permits lane). Transaction revenue, no seat MRR — people pay once to dodge Post Office queues and paperwork anxiety."
     },
     {
       "slug": "karma",
@@ -150,7 +156,8 @@
       "image": "/blog/2026-10-02/karma.webp",
       "imageAlt": "Karma product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Workplace Slack apps that sit in the chat and meter seats. L30 (~$25k) far above seat-MRR (~$6k) suggests annual plans / rewards top-ups — still ~$725k all-time verified."
     },
     {
       "slug": "enquiry-genie",
@@ -170,7 +177,8 @@
       "image": "/blog/2026-10-02/enquiry-genie.webp",
       "imageAlt": "Enquiry Genie product image",
       "imageWidth": 1200,
-      "imageHeight": 634
+      "imageHeight": 634,
+      "whyItPrints": "Narrow ops automation for hosts drowning in the same email. Strong all-time (~$353k) with \"no active subscriptions\" on the MRR field — treat L30/all-time as the print signal (usage/mixed billing pattern, like Helios/MedPilot)."
     },
     {
       "slug": "guidejar",
@@ -190,7 +198,8 @@
       "image": "/blog/2026-10-02/guidejar.webp",
       "imageAlt": "Guidejar product image",
       "imageWidth": 1200,
-      "imageHeight": 675
+      "imageHeight": 675,
+      "whyItPrints": "Supademo-adjacent documentation infra. Teams buy so support stops screen-sharing the same flow — ~$5k MRR and ~$145k all-time with hundreds of subs."
     },
     {
       "slug": "aila",
@@ -210,7 +219,8 @@
       "image": "/blog/2026-10-02/aila.webp",
       "imageAlt": "Aila product image",
       "imageWidth": 1200,
-      "imageHeight": 1120
+      "imageHeight": 1120,
+      "whyItPrints": "Vertical workflow glue for loan officers (not a general chatbot). Clear ACV per LO, ~99 paying seats, sticky once wired into LOS — Conductor-shaped but for mortgage ops instead of QuickBooks Desktop."
     }
   ],
   "honorableMentions": [

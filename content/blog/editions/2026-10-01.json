@@ -22,7 +22,8 @@
       "image": "/blog/2026-10-01/khosmos.webp",
       "imageAlt": "Khosmos product image",
       "imageWidth": 1200,
-      "imageHeight": 591
+      "imageHeight": 591,
+      "whyItPrints": "Tradespeople lose deals when quotes are slow. Khosmos owns the quote→cash workflow in one country vertical — same shape as Conductor (legacy/ops glue) and Calendesk (country booking), but for French chantier admin."
     },
     {
       "slug": "web3forms",
@@ -42,7 +43,8 @@
       "image": "/blog/2026-10-01/web3forms.webp",
       "imageAlt": "Web3Forms product image",
       "imageWidth": 1200,
-      "imageHeight": 780
+      "imageHeight": 780,
+      "whyItPrints": "Every brochure site still needs a contact form. Web3Forms sells the dumbest possible plumbing at scale — ~3k paying subs, developer word-of-mouth, almost no \"AI\" story required."
     },
     {
       "slug": "capgo",
@@ -62,7 +64,8 @@
       "image": "/blog/2026-10-01/capgo.webp",
       "imageAlt": "Capgo product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Mobile teams hate store review delays for hotfixes. Capgo is infra they already understand (Capacitor), billed like a deployment pipe — sticky once release channels are wired."
     },
     {
       "slug": "pushouse",
@@ -82,7 +85,8 @@
       "image": "/blog/2026-10-01/pushouse.webp",
       "imageAlt": "Pushouse product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "In many markets WhatsApp is the CRM. Pushouse sells channel ops, not a new social network — high L30 vs young founding date suggests merchants already paying for delivery infra."
     },
     {
       "slug": "helios",
@@ -102,7 +106,8 @@
       "image": "/blog/2026-10-01/helios.webp",
       "imageAlt": "Helios product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Gyms and fitness brands already buy \"text/email the members\" software. High Stripe L30 with no tracked seat-MRR suggests usage / mixed billing (same pattern as MedPilot yesterday)."
     },
     {
       "slug": "coldsire",
@@ -122,7 +127,8 @@
       "image": "/blog/2026-10-01/coldsire.webp",
       "imageAlt": "ColdSire product image",
       "imageWidth": 1200,
-      "imageHeight": 675
+      "imageHeight": 675,
+      "whyItPrints": "Outbound teams don't want to babysit Google bans. Selling mailboxes as infra is unsexy and recurring; ~900 subs and $1M+ all-time say the pain is real (ethics/compliance vary by buyer — note the grey-hat adjacency)."
     },
     {
       "slug": "hirevire",
@@ -142,7 +148,8 @@
       "image": "/blog/2026-10-01/hirevire.webp",
       "imageAlt": "Hirevire product image",
       "imageWidth": 1200,
-      "imageHeight": 627
+      "imageHeight": 627,
+      "whyItPrints": "Screening calls don't scale. Hirevire productizes \"watch every applicant\" for SMB recruiters — clear ACV, recurring seats, no need to become an ATS."
     },
     {
       "slug": "legalone",
@@ -162,7 +169,8 @@
       "image": "/blog/2026-10-01/legalone.webp",
       "imageAlt": "LegalOne product image",
       "imageWidth": 1200,
-      "imageHeight": 720
+      "imageHeight": 720,
+      "whyItPrints": "Legal notices are mandatory, price-sensitive, and accountant-distributed. Transaction revenue (not seat MRR) with ~$11k L30 and ~917 users claimed — classic country compliance marketplace."
     },
     {
       "slug": "promatic",
@@ -182,7 +190,8 @@
       "image": "/blog/2026-10-01/promatic.webp",
       "imageAlt": "Promatic product image",
       "imageWidth": 1200,
-      "imageHeight": 1200
+      "imageHeight": 1200,
+      "whyItPrints": "Same lane as Easy Moving Permits (Sep 30): contractors hate city portals. Project-priced compliance glue; early but real Stripe L30."
     },
     {
       "slug": "voxnow",
@@ -202,7 +211,8 @@
       "image": "/blog/2026-10-01/voxnow.webp",
       "imageAlt": "VoxNow product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Lawyers miss client calls and hate digging through voicemail. Tiny today (~$3k MRR) but pure vertical \"answer the phone\" ops — MedPilot cousin for legal, country-specific."
     }
   ],
   "honorableMentions": [

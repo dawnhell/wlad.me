@@ -22,7 +22,8 @@
       "image": "/blog/2026-09-30/conductor.webp",
       "imageAlt": "Conductor product image",
       "imageWidth": 1200,
-      "imageHeight": 610
+      "imageHeight": 610,
+      "whyItPrints": "Developers integrating with QBD still need a reliable bridge. Conductor sells $49/company-file/mo infrastructure that \"completely runs itself\" — classic Conductor-lane accounting glue, not another AI wrapper."
     },
     {
       "slug": "calendesk",
@@ -42,7 +43,8 @@
       "image": "/blog/2026-09-30/calendesk.webp",
       "imageAlt": "Calendesk product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Service pros already schedule and take deposits every day. Calendesk owns that workflow at ~$79–$147/mo instead of inventing a new category."
     },
     {
       "slug": "soldcomps",
@@ -62,7 +64,8 @@
       "image": "/blog/2026-09-30/soldcomps.webp",
       "imageAlt": "SoldComps product image",
       "imageWidth": 1169,
-      "imageHeight": 668
+      "imageHeight": 668,
+      "whyItPrints": "Resellers live on sold comps. eBay's own APIs are restricted/messy; SoldComps sells clean access at $9–$79/mo. Pure data plumbing for a sweaty niche."
     },
     {
       "slug": "medpilot",
@@ -82,7 +85,8 @@
       "image": "/blog/2026-09-30/medpilot.webp",
       "imageAlt": "MedPilot product image",
       "imageWidth": 1200,
-      "imageHeight": 1080
+      "imageHeight": 1080,
+      "whyItPrints": "Clinics hate empty chairs and missed calls. High ACV practice software billed on Stripe; L30 revenue dwarfs listed subscription MRR (usage/setup-heavy mix)."
     },
     {
       "slug": "seobot",
@@ -102,7 +106,8 @@
       "image": "/blog/2026-09-30/seobot.webp",
       "imageAlt": "SEOBOT product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Founders still buy \"write and publish SEO content for me.\" Recurring content ops on Stripe with a long all-time trail. (Promoted from Sep 28 honorable mention with fresh sync.)"
     },
     {
       "slug": "heron-copier",
@@ -122,7 +127,8 @@
       "image": "/blog/2026-09-30/heron-copier.webp",
       "imageAlt": "Heron Copier product image",
       "imageWidth": 1200,
-      "imageHeight": 788
+      "imageHeight": 788,
+      "whyItPrints": "Retail traders pay monthly for copy/journal tooling. Narrow fintech utility with hundreds of subs and nearly $500k lifetime — not a consumer social app."
     },
     {
       "slug": "textbee",
@@ -142,7 +148,8 @@
       "image": "/blog/2026-09-30/textbee.webp",
       "imageAlt": "textbee product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "SMS is still how ops tools notify humans. BYOD gateway undercuts Twilio for indie/dev use cases; Polar-verified recurring."
     },
     {
       "slug": "quotedeck",
@@ -162,7 +169,8 @@
       "image": "/blog/2026-09-30/quotedeck.webp",
       "imageAlt": "QuoteDeck product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Insurance agents still sell with ugly PDFs. Vertical quoting + compliance workflow is pure niche ops SaaS."
     },
     {
       "slug": "easy-moving-permits",
@@ -182,7 +190,8 @@
       "image": "/blog/2026-09-30/easy-moving-permits.webp",
       "imageAlt": "Easy Moving Permits product image",
       "imageWidth": 188,
-      "imageHeight": 300
+      "imageHeight": 300,
+      "whyItPrints": "Civic permit glue. Movers and residents will pay to not get towed. Transaction model, not seats — same energy as MyCater's \"take a cut of the inevitable spend.\""
     },
     {
       "slug": "expensent",
@@ -202,7 +211,8 @@
       "image": "/blog/2026-09-30/expensent.webp",
       "imageAlt": "Expensent product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": "Tiny today, but pure Conductor-cousin: inbox → bookkeeping glue. SMBs already hate digging receipts for their accountant."
     }
   ],
   "honorableMentions": [

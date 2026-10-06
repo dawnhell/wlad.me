@@ -26,7 +26,8 @@
       "image": "/blog/2026-09-28/tally.webp",
       "imageAlt": "Tally product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": null
     },
     {
       "slug": "supademo",
@@ -50,7 +51,8 @@
       "image": "/blog/2026-09-28/supademo.webp",
       "imageAlt": "Supademo product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": null
     },
     {
       "slug": "plutio",
@@ -70,7 +72,8 @@
       "image": "/blog/2026-09-28/plutio.webp",
       "imageAlt": "Plutio product image",
       "imageWidth": 1200,
-      "imageHeight": 627
+      "imageHeight": 627,
+      "whyItPrints": null
     },
     {
       "slug": "anonymous-workforce-management-saas",
@@ -90,7 +93,8 @@
       "image": null,
       "imageAlt": null,
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "whyItPrints": null
     },
     {
       "slug": "myplots",
@@ -110,7 +114,8 @@
       "image": "/blog/2026-09-28/myplots.webp",
       "imageAlt": "MyPlots product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": null
     },
     {
       "slug": "supliful",
@@ -130,7 +135,8 @@
       "image": "/blog/2026-09-28/supliful.webp",
       "imageAlt": "Supliful product image",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 630,
+      "whyItPrints": null
     },
     {
       "slug": "salesrobot",
@@ -150,7 +156,8 @@
       "image": "/blog/2026-09-28/salesrobot.webp",
       "imageAlt": "Salesrobot product image",
       "imageWidth": 1200,
-      "imageHeight": 777
+      "imageHeight": 777,
+      "whyItPrints": null
     },
     {
       "slug": "codedex",
@@ -170,7 +177,8 @@
       "image": "/blog/2026-09-28/codedex.webp",
       "imageAlt": "Codédex product image",
       "imageWidth": 1200,
-      "imageHeight": 583
+      "imageHeight": 583,
+      "whyItPrints": null
     },
     {
       "slug": "flocksy",
@@ -194,7 +202,8 @@
       "image": "/blog/2026-09-28/flocksy.webp",
       "imageAlt": "Flocksy product image",
       "imageWidth": 1200,
-      "imageHeight": 640
+      "imageHeight": 640,
+      "whyItPrints": null
     }
   ],
   "honorableMentions": [

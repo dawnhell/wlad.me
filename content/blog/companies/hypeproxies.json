@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Niche a proxy / egress product for one vertical (price monitoring, ad verification, marketplace sellers) with prepaid credits. Meter bandwidth, not seats."
     }
-  ]
+  ],
+  "whyItPrints": "Unsexy infra plumbing — IPs that don't get blocked. Usage / prepaid billing shows $0 seat MRR but ~$320k L30 and ~$11.7M all-time. Once scrapers and sneaker bots are wired to your proxies, churn is painful. Classic \"sell the pickaxes\" print."
 }

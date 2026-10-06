@@ -21,5 +21,6 @@
       ],
       "indieAngle": "Match diaspora patients to same-language clinicians in one country (therapy, dentistry, physio). Trust + language is the moat; payments + matching are the product."
     }
-  ]
+  ],
+  "whyItPrints": "Country + language vertical healthcare marketplace — Calendesk cousin for therapy demand, not therapist SaaS. Transaction volume (~$30k L30) without seat MRR means take-rate on sessions, not subscriptions."
 }

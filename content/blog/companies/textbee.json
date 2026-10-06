@@ -21,5 +21,6 @@
       ],
       "indieAngle": "Open-core + cheap pro tier for a commodity API (SMS, email, WhatsApp) that businesses already budget for."
     }
-  ]
+  ],
+  "whyItPrints": "SMS is still how ops tools notify humans. BYOD gateway undercuts Twilio for indie/dev use cases; Polar-verified recurring."
 }

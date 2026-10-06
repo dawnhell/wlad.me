@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Same play for carriers that are underserved in your market: InPost Paczkomaty, DPD Pickup, Orlen Paczka, Poczta Polska → WooCommerce / Shopify / PrestaShop. Free plugin on the official directory as the funnel, paid tier for label generation + returns."
     }
-  ]
+  ],
+  "whyItPrints": "Legacy carrier-API glue. Carriers ship clunky SOAP/web-service APIs and PDF label specs, and small merchants just want \"pickup point + label\" to work. 591 subs at ~$4.85 average (my calculation): tiny ticket, huge install base, and nobody churns off their shipping plugin in peak season."
 }

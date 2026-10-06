@@ -29,5 +29,6 @@
       ],
       "indieAngle": "Don't run cleaners yourself. Sell the \"book in 60s + dispatch + charge after service\" stack to one-city cleaning operators (white-label booking widget + contractor payouts), or run the playbook in one metro where nobody does instant online pricing."
     }
-  ]
+  ],
+  "whyItPrints": "Local service plus thin software, no AI. Recurring cleans become habit revenue, while the booking + dispatch + auto-charge stack lets it run like a marketplace. 13 years of Stripe history adds up to ~$22.9M. Card-on-file, charged after service, is the whole moat."
 }

@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Build a \"compare local course providers\" directory for one country/language (PL driving schools, forklift/UDT certs, language schools) and charge providers per lead. SEO pages per city × course type are the product."
     }
-  ]
+  ],
+  "whyItPrints": "Lead-gen directory for a fragmented, offline-heavy local market (language schools, professional courses, vocational training). Stripe shows $0 seat MRR but ~$79k L30 and ~$3.1M all-time. Since users pay nothing, the money presumably comes from course providers (paid listings or leads). That part is my inference; the founder's description just says \"You'll have to figure it out.\""
 }

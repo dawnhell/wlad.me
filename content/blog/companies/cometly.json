@@ -25,5 +25,6 @@
       ],
       "indieAngle": "Narrow attribution for one channel stack (Meta+Stripe, or LinkedIn+HubSpot) and charge for \"which ad paid the invoice.\" High ACV, small logo count."
     }
-  ]
+  ],
+  "whyItPrints": "Ads attribution plumbing. SaaS teams pay to know which campaigns closed revenue; once pixels and CRM sync live, churn is painful. Analytics infra with fat seats, not consumer virality."
 }

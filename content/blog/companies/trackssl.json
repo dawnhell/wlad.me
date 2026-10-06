@@ -25,5 +25,6 @@
       ],
       "indieAngle": "\"Expiry monitoring\" for anything with a renewal date that breaks business if missed: domains, SSL, Apple/Google push certs, SAML signing certs, EU qualified e-signature certs, KSeF tokens. Per-item pricing, agency plans, Slack/Teams alerts."
     }
-  ]
+  ],
+  "whyItPrints": "Pure \"insurance\" utility: nobody thinks about it until a cert expires and the site goes down. Agencies with hundreds of client domains pay per domain forever. Public cert lifetimes are scheduled to drop to 47 days by 2029 ([CA/B Forum ballot SC-081](https://cabforum.org/2025/04/11/ballot-sc081v3-introduce-schedule-of-reducing-validity-and-data-reuse-periods/)), so more renewals means more chances for automation to fail."
 }
