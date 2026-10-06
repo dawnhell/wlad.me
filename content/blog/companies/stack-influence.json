@@ -1,0 +1,29 @@
+{
+  "slug": "stack-influence",
+  "name": "Stack Influence",
+  "listingNote": null,
+  "description": "Micro-creator marketing platform for eCommerce / Amazon brands. Brands seed products to hundreds of small creators who post about them, with no per-creator fee negotiation. Pricing mixes flat fees ($30, $100 + 8% creator payout, $500 + platform fees) and monthly tiers ($499/mo, $1,799/mo, $6k/mo annual). Founded Jan 2020, US.",
+  "homepage": "https://stackinfluence.com/",
+  "image": "/blog/2026-10-06/stack-influence.webp",
+  "imageAlt": "Stack Influence product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$28,439 MRR, 56 active subscriptions, ~$817,885 L30, ~$28,294,510 all-time. Revenue synced Oct 5, 2026 ~04:13 Warsaw (02:13 UTC), about 1 day old. L30 most likely includes creator payouts / campaign budgets passing through (my inference). Treat it as GMV, not net revenue.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stack-influence"
+        },
+        {
+          "label": "stackinfluence.com",
+          "url": "https://stackinfluence.com/"
+        }
+      ],
+      "indieAngle": "Micro-creator seeding for one marketplace + one country (Allegro sellers in PL, Etsy/Faire makers, Shopify DTC food brands). Flat fee per campaign + % of creator payout. The creator database and shipping workflow are the product."
+    }
+  ]
+}

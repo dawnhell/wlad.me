@@ -1,0 +1,29 @@
+{
+  "slug": "subbasta",
+  "name": "Subbasta",
+  "listingNote": null,
+  "description": "Aggregator for Malta's judicial property auctions. It presents court-sale data in a usable way and translates official documents from Maltese. Subscription for platform access, plus Power-of-Attorney onboarding €249, property viewing €150/property, legal research from €199, and a 1% success fee on winning bids. Founded Dec 2025, Malta.",
+  "homepage": "https://subbastamalta.com/",
+  "image": "/blog/2026-10-06/subbasta.webp",
+  "imageAlt": "Subbasta product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,606 MRR, 126 active subscriptions, ~$5,079 L30, ~$58,575 all-time, ~80% L30 profit margin, L30 MRR growth −12.1%. Revenue synced Oct 6, 2026 ~05:44 Warsaw (03:44 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/subbasta"
+        },
+        {
+          "label": "subbastamalta.com",
+          "url": "https://subbastamalta.com/"
+        }
+      ],
+      "indieAngle": "Do the same for PL komornicze licytacje (court-bailiff auctions on licytacje.komornik.pl / e-licytacje), or for CZ/SK dražby. Alerts by city/price + document summaries + paid \"we'll inspect / handle paperwork\" add-ons."
+    }
+  ]
+}

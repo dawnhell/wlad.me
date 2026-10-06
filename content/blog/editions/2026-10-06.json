@@ -1,0 +1,289 @@
+{
+  "date": "2026-10-06",
+  "title": "Tuesday's boring SaaS, 6 October 2026",
+  "dek": "It's Tuesday. Notes on 10 products for 6 October 2026. Stripe verified all of them, and each figure has a link.",
+  "heroId": "skogafoss",
+  "companies": [
+    {
+      "slug": "ff-dispatch",
+      "name": "FF Dispatch",
+      "listingNote": "FF GROUP LLC",
+      "description": "Truck-dispatch and back-office service for US owner-operators (incl. box trucks). Dispatchers find and negotiate 3–5 load options a day and handle rate confirmations, PODs and invoicing. Optional add-ons cover authority/company formation, DOT compliance, factoring & fuel, banking, and bookkeeping & taxes. Pricing: 5–8% commission, no contracts. The founder says on TrustMRR that carriers are invoiced via Stripe after the job is done and paid, and that they are building their own TMS with payments. Founded Oct 2023, US, team of 26–50 (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 subs (commission billed per job), ~$40,831 L30, ~$904,004 all-time. Revenue synced Oct 6, 2026 ~08:43 Warsaw (06:43 UTC). Company-stated on homepage: 1,000+ carriers, 4.6★ rating, 24/7 support.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ff-group-llc"
+        },
+        {
+          "label": "dispatchff.com",
+          "url": "https://www.dispatchff.com/"
+        }
+      ],
+      "homepage": "https://www.dispatchff.com/",
+      "indieAngle": "Don't hire dispatchers. Build the software a 3–10 person dispatch shop runs on: load-board aggregation, rate-con/POD parsing, commission invoicing via Stripe, and factoring hand-off. Or run the same commission play for EU vans (PL/LT transport is huge) with the big EU freight exchanges as the load source.",
+      "image": "/blog/2026-10-06/ff-dispatch.webp",
+      "imageAlt": "FF Dispatch product image",
+      "imageWidth": 1200,
+      "imageHeight": 670
+    },
+    {
+      "slug": "vignette-id",
+      "name": "Vignette ID",
+      "listingNote": "e-vignettes.eu",
+      "description": "Web + iOS app for buying highway e-vignettes and tunnel tolls in 9 European countries (SI, AT, CZ, SK, CH, RO, HU, BG, MD) in 21 languages: pick vehicle, plate, start date, and pay with card / Apple Pay / Google Pay. It also sends expiry reminders. Ukrainian team of 2–5, founded Jan 2022, bootstrapped (founder-stated). TrustMRR lists 2026 EIC (European Innovation Council) support.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$32,547 L30, ~$623,521 all-time, MRR ~$35 / 14 subs (almost everything is one-off purchases). Revenue synced Oct 6, 2026 ~07:43 Warsaw (05:43 UTC). Company-stated on homepage: 3,716,843 vignettes sold. TrustMRR \"estimated users\" 2,500,000 (founder-stated). Note: the Stripe totals probably include the pass-through vignette price, not just the service margin (my inference; the margin isn't disclosed).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/vignette-id"
+        },
+        {
+          "label": "e-vignettes.eu",
+          "url": "https://e-vignettes.eu/"
+        },
+        {
+          "label": "apps.apple.com",
+          "url": "https://apps.apple.com/ua/app/id1636526833"
+        }
+      ],
+      "homepage": "https://e-vignettes.eu/",
+      "indieAngle": "\"One checkout for N annoying state portals.\" Same shape works for parking zones (PL Strefa Płatnego Parkowania per city), low-emission-zone stickers (DE Umweltplakette, FR Crit'Air), ferry/bridge tolls, or fleet bulk-buying with invoices. SEO for \"<country> vignette 2027\" does the marketing every spring.",
+      "image": "/blog/2026-10-06/vignette-id.webp",
+      "imageAlt": "Vignette ID product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "stack-influence",
+      "name": "Stack Influence",
+      "listingNote": null,
+      "description": "Micro-creator marketing platform for eCommerce / Amazon brands. Brands seed products to hundreds of small creators who post about them, with no per-creator fee negotiation. Pricing mixes flat fees ($30, $100 + 8% creator payout, $500 + platform fees) and monthly tiers ($499/mo, $1,799/mo, $6k/mo annual). Founded Jan 2020, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$28,439 MRR, 56 active subscriptions, ~$817,885 L30, ~$28,294,510 all-time. Revenue synced Oct 5, 2026 ~04:13 Warsaw (02:13 UTC), about 1 day old. L30 most likely includes creator payouts / campaign budgets passing through (my inference). Treat it as GMV, not net revenue.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stack-influence"
+        },
+        {
+          "label": "stackinfluence.com",
+          "url": "https://stackinfluence.com/"
+        }
+      ],
+      "homepage": "https://stackinfluence.com/",
+      "indieAngle": "Micro-creator seeding for one marketplace + one country (Allegro sellers in PL, Etsy/Faire makers, Shopify DTC food brands). Flat fee per campaign + % of creator payout. The creator database and shipping workflow are the product.",
+      "image": "/blog/2026-10-06/stack-influence.webp",
+      "imageAlt": "Stack Influence product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "juiced",
+      "name": "Juiced",
+      "listingNote": "Juiced Leads, LLC",
+      "description": "Lead-distribution platform for lead-gen businesses. It routes each inbound lead in real time to the right buyer (SMS, email, or straight into the buyer's CRM). Waterfall logic covers prepaid partner quotas, direct auction to the highest bid, a reverse-auction marketplace for \"fresh\" and then \"aged\" leads, and round-robin leftovers. Target: lead-gen pros and agencies generating $1M+/month (founder-stated). Founded Feb 2024, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$9,750 MRR, 13 active subscriptions, ~$10,251 L30, ~$160,810 all-time, L30 MRR growth +5.4%. Revenue synced Oct 6, 2026 ~04:39 Warsaw (02:39 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/juiced-leads-llc"
+        },
+        {
+          "label": "usejuiced.com",
+          "url": "https://usejuiced.com/"
+        }
+      ],
+      "homepage": "https://usejuiced.com/",
+      "indieAngle": "Lead routing + resale for one EU vertical where lead-gen is fragmented (PL solar/heat pumps, \"Czyste Powietrze\" grant leads, insurance comparison). Price per seat + per routed lead. Ping-post integrations with the buyers' CRMs are the moat.",
+      "image": "/blog/2026-10-06/juiced.webp",
+      "imageAlt": "Juiced product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "book-the-move",
+      "name": "Book The Move",
+      "listingNote": null,
+      "description": "Done-for-you outbound for moving & storage companies. It finds homeowners in the client's area who have just listed their homes, verifies contact info, and sends personalized emails on the mover's behalf to book jobs. Growth $397 / Pro $697 / Scale $1,197 per month. Founded Jan 2025, US. Listed for sale at $375,000 (6.1x; first listed Apr 1, 2026; 16 offers per TrustMRR).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,125 MRR, 5 active subscriptions, ~$5,125 L30, ~$144,134 all-time, ~80% L30 profit margin, L30 MRR growth −8.9%. Revenue synced Oct 6, 2026 ~04:50 Warsaw (02:50 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/book-the-move"
+        },
+        {
+          "label": "bookthemove.com",
+          "url": "https://www.bookthemove.com/"
+        }
+      ],
+      "homepage": "https://www.bookthemove.com/",
+      "indieAngle": "\"Trigger event → local service pro\" outreach: new listings → movers / cleaners / handymen, new company registrations (KRS/CEIDG) → accountants, building permits → kitchen/window installers. A $400–$1,200 monthly retainer per territory.",
+      "image": "/blog/2026-10-06/book-the-move.webp",
+      "imageAlt": "Book The Move product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "wcmultishipping",
+      "name": "WcMultiShipping",
+      "listingNote": "Mondial Relay & Chronopost for WooCommerce",
+      "description": "WooCommerce plugin (free version + paid) that integrates Mondial Relay and Chronopost. It shows pickup-point maps at checkout, generates shipping and return labels, shares tracking links, and gives one control panel for shipments/returns. Founded Feb 2021, France. Company-stated on homepage: 400,000+ parcels shipped through the plugin, 500+ professionals using it. TrustMRR \"estimated users\" 25,723 (founder-stated, presumably including free installs).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,868 MRR, 591 active subscriptions, ~$3,038 L30, ~$142,219 all-time, L30 MRR growth −4.5%. Revenue synced Oct 6, 2026 ~04:12 Warsaw (02:12 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mondial-relay-woocommerce-wcmultishipping"
+        },
+        {
+          "label": "wcmultishipping.com",
+          "url": "https://www.wcmultishipping.com/"
+        }
+      ],
+      "homepage": "https://www.wcmultishipping.com/",
+      "indieAngle": "Same play for carriers that are underserved in your market: InPost Paczkomaty, DPD Pickup, Orlen Paczka, Poczta Polska → WooCommerce / Shopify / PrestaShop. Free plugin on the official directory as the funnel, paid tier for label generation + returns.",
+      "image": "/blog/2026-10-06/wcmultishipping.webp",
+      "imageAlt": "WcMultiShipping product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "trackssl",
+      "name": "TrackSSL",
+      "listingNote": null,
+      "description": "SSL/TLS certificate monitoring for public and internal/private certs. It alerts on upcoming expiry, failed renewal automation, cert changes and fraudulent certs. Free tier, then from $0.72 per domain. Founded Jun 2017, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,294 MRR, 221 active subscriptions, ~$4,338 L30, ~$191,420 all-time, ~86% L30 profit margin. Revenue synced Oct 6, 2026 ~06:41 Warsaw (04:41 UTC). TrustMRR \"estimated users\" 23,000 (founder-stated).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/trackssl"
+        },
+        {
+          "label": "trackssl.com",
+          "url": "https://trackssl.com/"
+        }
+      ],
+      "homepage": "https://trackssl.com/",
+      "indieAngle": "\"Expiry monitoring\" for anything with a renewal date that breaks business if missed: domains, SSL, Apple/Google push certs, SAML signing certs, EU qualified e-signature certs, KSeF tokens. Per-item pricing, agency plans, Slack/Teams alerts.",
+      "image": "/blog/2026-10-06/trackssl.webp",
+      "imageAlt": "TrackSSL product image",
+      "imageWidth": 1200,
+      "imageHeight": 687
+    },
+    {
+      "slug": "subbasta",
+      "name": "Subbasta",
+      "listingNote": null,
+      "description": "Aggregator for Malta's judicial property auctions. It presents court-sale data in a usable way and translates official documents from Maltese. Subscription for platform access, plus Power-of-Attorney onboarding €249, property viewing €150/property, legal research from €199, and a 1% success fee on winning bids. Founded Dec 2025, Malta.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,606 MRR, 126 active subscriptions, ~$5,079 L30, ~$58,575 all-time, ~80% L30 profit margin, L30 MRR growth −12.1%. Revenue synced Oct 6, 2026 ~05:44 Warsaw (03:44 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/subbasta"
+        },
+        {
+          "label": "subbastamalta.com",
+          "url": "https://subbastamalta.com/"
+        }
+      ],
+      "homepage": "https://subbastamalta.com/",
+      "indieAngle": "Do the same for PL komornicze licytacje (court-bailiff auctions on licytacje.komornik.pl / e-licytacje), or for CZ/SK dražby. Alerts by city/price + document summaries + paid \"we'll inspect / handle paperwork\" add-ons.",
+      "image": "/blog/2026-10-06/subbasta.webp",
+      "imageAlt": "Subbasta product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "journeyfuse",
+      "name": "JourneyFuse",
+      "listingNote": null,
+      "description": "All-in-one CRM for travel advisors and small agencies, \"from first inquiry to paid-in-full\": client journeys, trip/booking tracking, client comms, payments, replacing \"a dozen disconnected tools.\" $25/mo. Founded Mar 2026, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8,188 MRR, 405 active subscriptions, ~$16,761 L30 (L30 above MRR, so likely annual prepayments or onboarding fees, my inference), ~$48,787 all-time. Revenue synced Oct 6, 2026 ~06:37 Warsaw (04:37 UTC). TrustMRR \"estimated users\" 2,800 (founder-stated).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/journeyfuse"
+        },
+        {
+          "label": "journeyfuse.com",
+          "url": "https://journeyfuse.com/"
+        }
+      ],
+      "homepage": "https://journeyfuse.com/",
+      "indieAngle": "$25/mo vertical CRM for a profession of independent agents who share a host/franchise (insurance agents, mortgage brokers, wedding planners, real-estate agents under one broker). Sell through the host network, not ads.",
+      "image": "/blog/2026-10-06/journeyfuse.webp",
+      "imageAlt": "JourneyFuse product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "harperai",
+      "name": "HarperAI",
+      "listingNote": null,
+      "description": "UK public-records data product for specialist lenders, commercial brokers and property developers. It links every Companies House charge to Land Registry titles, corporate structures and officer networks. On top of that it adds search, refinance alerts (e.g. borrowers 14–27 months into a bridging loan with nothing filed since) and lender market-share analytics. £300–£3,152/mo (founder-stated). Founded Sep 2025, UK, bootstrapped. Listed for sale at $199,000 (2.3x; first listed Sep 20, 2026).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6,021 MRR, 10 active subscriptions, ~$7,188 L30, ~$37,937 all-time, ~60% L30 profit margin, L30 MRR growth −6.4%. Revenue synced Oct 6, 2026 ~02:34 Warsaw (00:34 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/harper"
+        },
+        {
+          "label": "askharper.ai",
+          "url": "https://askharper.ai/"
+        }
+      ],
+      "homepage": "https://askharper.ai/",
+      "indieAngle": "Join KRS + Księgi Wieczyste (land & mortgage registers) + MSiG notices into \"who has a maturing loan / new charge / insolvency signal\" alerts for PL lenders, debt buyers and B2B sales teams. Charge per seat in the hundreds of euros.",
+      "image": "/blog/2026-10-06/harperai.webp",
+      "imageAlt": "HarperAI product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Conductor (update, last covered 2026-09-30)",
+      "note": "QuickBooks Desktop & Enterprise API ($49 per company file/month). Stripe-verified now ~$41,221 MRR / 263 subs / ~$39,108 L30 / ~$465,323 all-time, ~95% margin, L30 MRR growth +7.8%. On Sep 30 it was ~$40.5k MRR / 255 subs / ~$38.5k L30 / ~$460k AT. Synced Oct 6, 2026 ~04:26 Warsaw. TrustMRR also shows it listed for sale at $1,250,000 (2.7x, first listed Mar 6, 2026, 21 offers).",
+      "homepage": "https://conductor.is/"
+    },
+    {
+      "name": "Doors Delivered (UK)",
+      "note": "Online internal/external/fire doors supplier for homeowners, developers and trades since Oct 2021. Stripe-verified ~$42,506 L30 / ~$1,554,857 all-time, 25% L30 margin. Listed for sale at $650,000 (1.3x, 19 offers); seller \"looking for a partner to scale.\" Boring building-materials e-com.",
+      "homepage": "https://doorsdelivered.com/"
+    },
+    {
+      "name": "Shugert Marketing (MX/US)",
+      "note": "Shopify Select Partner agency doing storefront performance, migrations, integrations and Shopify Plus for established DTC/B2B brands. Stripe-verified ~$230,300 L30 / ~$4,976,147 all-time since Mar 2024 (project + retainer billing, $0 seat MRR). Services, not software, but it shows how much Shopify integration work pays.",
+      "homepage": "https://shugert.com.mx/"
+    },
+    {
+      "name": "IBERGOUR (ES)",
+      "note": "Online shop for Spanish jamón ibérico since 2005, with 30,000+ customers in the EU/UK (company-stated). Stripe-verified ~$83,493 L30 / ~$881,565 all-time (the Stripe account obviously doesn't cover all 20 years). Seasonal: Q4 Christmas ham.",
+      "homepage": "https://www.ibergour.com/"
+    },
+    {
+      "name": "Nashville Appliance Rental",
+      "note": "Washer & dryer rental delivered to Nashville renters at $79/month. Stripe-verified ~$3,742 MRR / 48 subs / ~$4,512 L30 / ~$49,089 all-time, founded Dec 2024. Rent-to-renters hardware subscription, copyable in any city with lots of unfurnished rentals.",
+      "homepage": "https://nashvilleappliancerental.com/"
+    },
+    {
+      "name": "Gestor de Certificados (ES)",
+      "note": "Windows/macOS app for managing digital certificates (FNMT etc.) for gestorías handling clients' tax filings: €90/yr for 1–2 licences down to €72/yr for 5+. Stripe-verified ~$581 MRR / 64 subs / ~$51,090 all-time, 99% margin. Listed for sale at $25,000. Tiny, but pure gov-cert glue (PL analogue: qualified-signature / KSeF / ePUAP certificate managers for biura rachunkowe).",
+      "homepage": "https://www.gestorcertificados.com/"
+    },
+    {
+      "name": "Skipped for stale Stripe data (expired API keys)",
+      "note": "These looked boring and big, but the Stripe keys have expired, so the numbers are stale. PressWhizz, a link-building marketplace, last synced 11 February 2026 at about $189k for the last 30 days. Avenue Ticketing last synced 31 March 2026 at about $503k. Michael Veail / The Lead Guy last synced 20 February 2026 at about $22.6k MRR. Sherpa last synced 27 December 2025 at about $25.8k MRR.",
+      "homepage": null
+    }
+  ]
+}

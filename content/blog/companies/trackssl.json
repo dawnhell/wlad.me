@@ -1,0 +1,29 @@
+{
+  "slug": "trackssl",
+  "name": "TrackSSL",
+  "listingNote": null,
+  "description": "SSL/TLS certificate monitoring for public and internal/private certs. It alerts on upcoming expiry, failed renewal automation, cert changes and fraudulent certs. Free tier, then from $0.72 per domain. Founded Jun 2017, US.",
+  "homepage": "https://trackssl.com/",
+  "image": "/blog/2026-10-06/trackssl.webp",
+  "imageAlt": "TrackSSL product image",
+  "imageWidth": 1200,
+  "imageHeight": 687,
+  "mentions": [
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,294 MRR, 221 active subscriptions, ~$4,338 L30, ~$191,420 all-time, ~86% L30 profit margin. Revenue synced Oct 6, 2026 ~06:41 Warsaw (04:41 UTC). TrustMRR \"estimated users\" 23,000 (founder-stated).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/trackssl"
+        },
+        {
+          "label": "trackssl.com",
+          "url": "https://trackssl.com/"
+        }
+      ],
+      "indieAngle": "\"Expiry monitoring\" for anything with a renewal date that breaks business if missed: domains, SSL, Apple/Google push certs, SAML signing certs, EU qualified e-signature certs, KSeF tokens. Per-item pricing, agency plans, Slack/Teams alerts."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "wcmultishipping",
+  "name": "WcMultiShipping",
+  "listingNote": "Mondial Relay & Chronopost for WooCommerce",
+  "description": "WooCommerce plugin (free version + paid) that integrates Mondial Relay and Chronopost. It shows pickup-point maps at checkout, generates shipping and return labels, shares tracking links, and gives one control panel for shipments/returns. Founded Feb 2021, France. Company-stated on homepage: 400,000+ parcels shipped through the plugin, 500+ professionals using it. TrustMRR \"estimated users\" 25,723 (founder-stated, presumably including free installs).",
+  "homepage": "https://www.wcmultishipping.com/",
+  "image": "/blog/2026-10-06/wcmultishipping.webp",
+  "imageAlt": "WcMultiShipping product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,868 MRR, 591 active subscriptions, ~$3,038 L30, ~$142,219 all-time, L30 MRR growth −4.5%. Revenue synced Oct 6, 2026 ~04:12 Warsaw (02:12 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mondial-relay-woocommerce-wcmultishipping"
+        },
+        {
+          "label": "wcmultishipping.com",
+          "url": "https://www.wcmultishipping.com/"
+        }
+      ],
+      "indieAngle": "Same play for carriers that are underserved in your market: InPost Paczkomaty, DPD Pickup, Orlen Paczka, Poczta Polska → WooCommerce / Shopify / PrestaShop. Free plugin on the official directory as the funnel, paid tier for label generation + returns."
+    }
+  ]
+}

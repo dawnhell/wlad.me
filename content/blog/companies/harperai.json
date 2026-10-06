@@ -1,0 +1,29 @@
+{
+  "slug": "harperai",
+  "name": "HarperAI",
+  "listingNote": null,
+  "description": "UK public-records data product for specialist lenders, commercial brokers and property developers. It links every Companies House charge to Land Registry titles, corporate structures and officer networks. On top of that it adds search, refinance alerts (e.g. borrowers 14–27 months into a bridging loan with nothing filed since) and lender market-share analytics. £300–£3,152/mo (founder-stated). Founded Sep 2025, UK, bootstrapped. Listed for sale at $199,000 (2.3x; first listed Sep 20, 2026).",
+  "homepage": "https://askharper.ai/",
+  "image": "/blog/2026-10-06/harperai.webp",
+  "imageAlt": "HarperAI product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6,021 MRR, 10 active subscriptions, ~$7,188 L30, ~$37,937 all-time, ~60% L30 profit margin, L30 MRR growth −6.4%. Revenue synced Oct 6, 2026 ~02:34 Warsaw (00:34 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/harper"
+        },
+        {
+          "label": "askharper.ai",
+          "url": "https://askharper.ai/"
+        }
+      ],
+      "indieAngle": "Join KRS + Księgi Wieczyste (land & mortgage registers) + MSiG notices into \"who has a maturing loan / new charge / insolvency signal\" alerts for PL lenders, debt buyers and B2B sales teams. Charge per seat in the hundreds of euros."
+    }
+  ]
+}

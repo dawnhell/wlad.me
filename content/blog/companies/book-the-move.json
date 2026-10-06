@@ -1,0 +1,29 @@
+{
+  "slug": "book-the-move",
+  "name": "Book The Move",
+  "listingNote": null,
+  "description": "Done-for-you outbound for moving & storage companies. It finds homeowners in the client's area who have just listed their homes, verifies contact info, and sends personalized emails on the mover's behalf to book jobs. Growth $397 / Pro $697 / Scale $1,197 per month. Founded Jan 2025, US. Listed for sale at $375,000 (6.1x; first listed Apr 1, 2026; 16 offers per TrustMRR).",
+  "homepage": "https://www.bookthemove.com/",
+  "image": "/blog/2026-10-06/book-the-move.webp",
+  "imageAlt": "Book The Move product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,125 MRR, 5 active subscriptions, ~$5,125 L30, ~$144,134 all-time, ~80% L30 profit margin, L30 MRR growth −8.9%. Revenue synced Oct 6, 2026 ~04:50 Warsaw (02:50 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/book-the-move"
+        },
+        {
+          "label": "bookthemove.com",
+          "url": "https://www.bookthemove.com/"
+        }
+      ],
+      "indieAngle": "\"Trigger event → local service pro\" outreach: new listings → movers / cleaners / handymen, new company registrations (KRS/CEIDG) → accountants, building permits → kitchen/window installers. A $400–$1,200 monthly retainer per territory."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ff-dispatch",
+  "name": "FF Dispatch",
+  "listingNote": "FF GROUP LLC",
+  "description": "Truck-dispatch and back-office service for US owner-operators (incl. box trucks). Dispatchers find and negotiate 3–5 load options a day and handle rate confirmations, PODs and invoicing. Optional add-ons cover authority/company formation, DOT compliance, factoring & fuel, banking, and bookkeeping & taxes. Pricing: 5–8% commission, no contracts. The founder says on TrustMRR that carriers are invoiced via Stripe after the job is done and paid, and that they are building their own TMS with payments. Founded Oct 2023, US, team of 26–50 (founder-stated).",
+  "homepage": "https://www.dispatchff.com/",
+  "image": "/blog/2026-10-06/ff-dispatch.webp",
+  "imageAlt": "FF Dispatch product image",
+  "imageWidth": 1200,
+  "imageHeight": 670,
+  "mentions": [
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 / 0 subs (commission billed per job), ~$40,831 L30, ~$904,004 all-time. Revenue synced Oct 6, 2026 ~08:43 Warsaw (06:43 UTC). Company-stated on homepage: 1,000+ carriers, 4.6★ rating, 24/7 support.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ff-group-llc"
+        },
+        {
+          "label": "dispatchff.com",
+          "url": "https://www.dispatchff.com/"
+        }
+      ],
+      "indieAngle": "Don't hire dispatchers. Build the software a 3–10 person dispatch shop runs on: load-board aggregation, rate-con/POD parsing, commission invoicing via Stripe, and factoring hand-off. Or run the same commission play for EU vans (PL/LT transport is huge) with the big EU freight exchanges as the load source."
+    }
+  ]
+}

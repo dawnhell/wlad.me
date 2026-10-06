@@ -1,0 +1,29 @@
+{
+  "slug": "juiced",
+  "name": "Juiced",
+  "listingNote": "Juiced Leads, LLC",
+  "description": "Lead-distribution platform for lead-gen businesses. It routes each inbound lead in real time to the right buyer (SMS, email, or straight into the buyer's CRM). Waterfall logic covers prepaid partner quotas, direct auction to the highest bid, a reverse-auction marketplace for \"fresh\" and then \"aged\" leads, and round-robin leftovers. Target: lead-gen pros and agencies generating $1M+/month (founder-stated). Founded Feb 2024, US.",
+  "homepage": "https://usejuiced.com/",
+  "image": "/blog/2026-10-06/juiced.webp",
+  "imageAlt": "Juiced product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$9,750 MRR, 13 active subscriptions, ~$10,251 L30, ~$160,810 all-time, L30 MRR growth +5.4%. Revenue synced Oct 6, 2026 ~04:39 Warsaw (02:39 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/juiced-leads-llc"
+        },
+        {
+          "label": "usejuiced.com",
+          "url": "https://usejuiced.com/"
+        }
+      ],
+      "indieAngle": "Lead routing + resale for one EU vertical where lead-gen is fragmented (PL solar/heat pumps, \"Czyste Powietrze\" grant leads, insurance comparison). Price per seat + per routed lead. Ping-post integrations with the buyers' CRMs are the moat."
+    }
+  ]
+}

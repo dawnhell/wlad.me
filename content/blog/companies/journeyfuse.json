@@ -1,0 +1,29 @@
+{
+  "slug": "journeyfuse",
+  "name": "JourneyFuse",
+  "listingNote": null,
+  "description": "All-in-one CRM for travel advisors and small agencies, \"from first inquiry to paid-in-full\": client journeys, trip/booking tracking, client comms, payments, replacing \"a dozen disconnected tools.\" $25/mo. Founded Mar 2026, US.",
+  "homepage": "https://journeyfuse.com/",
+  "image": "/blog/2026-10-06/journeyfuse.webp",
+  "imageAlt": "JourneyFuse product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8,188 MRR, 405 active subscriptions, ~$16,761 L30 (L30 above MRR, so likely annual prepayments or onboarding fees, my inference), ~$48,787 all-time. Revenue synced Oct 6, 2026 ~06:37 Warsaw (04:37 UTC). TrustMRR \"estimated users\" 2,800 (founder-stated).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/journeyfuse"
+        },
+        {
+          "label": "journeyfuse.com",
+          "url": "https://journeyfuse.com/"
+        }
+      ],
+      "indieAngle": "$25/mo vertical CRM for a profession of independent agents who share a host/franchise (insurance agents, mortgage brokers, wedding planners, real-estate agents under one broker). Sell through the host network, not ads."
+    }
+  ]
+}
