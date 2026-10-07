@@ -1,0 +1,30 @@
+{
+  "slug": "cloud-backup-for-podio",
+  "name": "Cloud Backup for Podio",
+  "listingNote": null,
+  "description": "Backup and restore for all data and files stored in Podio, the work-management platform now owned by Progress. It runs regular automatic backups that you manage in a web UI. 100 MB free, then paid plans for automatic/recurring backups and bigger sizes (company-stated). Its homepage shows a \"Progress Podio Authorised Partner\" badge. Founded Aug 2014, Germany.",
+  "homepage": "https://www.cloud-backup-for-podio.com/",
+  "image": "/blog/2026-10-07/cloud-backup-for-podio.webp",
+  "imageAlt": "Cloud Backup for Podio product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,397 MRR (−3.3% L30), 36 active subscriptions, ~$2,156 L30, ~$27,438 last 12 months, ~$361,502 all-time. Revenue synced Oct 7, 2026 ~04:18 Warsaw (02:18 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/cloud-backup-for-podio"
+        },
+        {
+          "label": "cloud-backup-for-podio.com",
+          "url": "https://www.cloud-backup-for-podio.com/"
+        }
+      ],
+      "indieAngle": "\"Backup for a platform that forgot backups.\" Look for sticky business apps with APIs but weak export/restore: Airtable, Monday, ClickUp, Pipedrive, Fakturownia/inFakt in PL, Optima/Subiekt data. Per-workspace pricing, nightly snapshots, one-click restore of a deleted record."
+    }
+  ],
+  "whyItPrints": "A legacy platform with loyal business users and business-critical data, and a third-party backup that fills the gap. Customers buy it as insurance and never think about it again. 36 subs at ~$67/mo average (my calculation). It's slowly shrinking with Podio's own user base, but it has paid for 12 years."
+}

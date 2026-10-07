@@ -1,0 +1,30 @@
+{
+  "slug": "coldcaller-pro",
+  "name": "coldcaller.pro",
+  "listingNote": "France",
+  "description": "French B2B prospecting SaaS that sells qualified cold-calling leads to solopreneurs and agencies, enriched with the business owner's direct mobile and email, so you skip the receptionist (homepage tagline: \"Plus de RDV en moins de temps, sans passer par la secrétaire\"). €19 / €49 / €99 per month, no free trial. Founded Apr 2026, FR, one person, bootstrapped, word-of-mouth only. Listed for sale at $70,000 (0.4x; first listed Aug 4, 2026).",
+  "homepage": "https://coldcaller.pro/",
+  "image": "/blog/2026-10-07/coldcaller-pro.webp",
+  "imageAlt": "coldcaller.pro product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,309 MRR (−21.3% L30), 103 active subscriptions, ~$14,533 L30 (well above MRR, probably one-off lead packs or annual plans; my inference), ~$82,467 all-time, ~93% L30 profit margin, ~3,003 visitors in L30. Revenue synced Oct 7, 2026 ~07:42 Warsaw (05:42 UTC). The founder description says €2.4k MRR, which is older than the current Stripe figure.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/coldcallerpro"
+        },
+        {
+          "label": "coldcaller.pro",
+          "url": "https://coldcaller.pro/"
+        }
+      ],
+      "indieAngle": "Build it on public registries plus enrichment for one country: in PL, KRS/CEIDG board members + phone numbers for \"właściciel firmy\" by industry and city. Watch GDPR closely (B2B legitimate-interest rules differ by country), and sell to the agencies that dial all day."
+    }
+  ],
+  "whyItPrints": "Data resale with almost no costs: 93% margin and ~9% visitor-to-paid conversion (founder-stated). Lead data on the people who sign the cheques is something SMB sellers always pay for."
+}

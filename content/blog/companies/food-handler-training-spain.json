@@ -1,0 +1,26 @@
+{
+  "slug": "food-handler-training-spain",
+  "name": "Food-handler training, Spain",
+  "listingNote": "Stealth Company",
+  "description": "Online food-handler (\"manipulador de alimentos\") training and certificates in Spain. The TrustMRR description is just \"Ofrecemos formación en manipulación de alimentos\", and the founder profile is named \"Alimentia Formación\". Founded Apr 9, 2026, ES. Next.js + Stripe. Channels listed: SEO, Google Ads, Instagram.",
+  "homepage": null,
+  "image": "/blog/2026-10-07/food-handler-training-spain.webp",
+  "imageAlt": "Food-handler training, Spain product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-off purchases), ~$39,087 L30 (+17.1%), ~$106,239 last 3 months, ~$161,202 all-time (all within six months). Daily revenue runs ~$500–$1,900. Revenue synced Oct 7, 2026 ~08:06 Warsaw (06:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/startup-a66a92db7a72"
+        }
+      ],
+      "indieAngle": "Poland has the same shape: sanepid-related food hygiene training, BHP (health & safety) initial training, first-aid refreshers, forklift/UDT prep. Pick one mandatory certificate, build a clean course + exam + instant PDF certificate, and buy the long-tail search terms per city. Add a B2B \"train all my staff\" invoice option for restaurants."
+    }
+  ],
+  "whyItPrints": "Spanish food-safety rules require food workers to be trained in hygiene, and employers, job seekers and new hires look for \"curso manipulador de alimentos\" constantly. It's a cheap one-off course with a certificate PDF at the end. Demand comes from hospitality hiring churn, so it doesn't need to be recurring to compound."
+}

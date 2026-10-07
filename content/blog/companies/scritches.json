@@ -1,0 +1,30 @@
+{
+  "slug": "scritches",
+  "name": "Scritches",
+  "listingNote": null,
+  "description": "Pet-sitting and dog-walking business software for solo and small-team providers: client management, bookings, and payments in one place, replacing spreadsheets and text threads. \"Start for free\" pricing. Targets pet sitters, dog walkers, trainers, boarders, groomers, and daycare owners. Founded Sep 2024, US. TrustMRR lists ~700 estimated users (founder-stated).",
+  "homepage": "https://scritches.io/",
+  "image": "/blog/2026-10-07/scritches.webp",
+  "imageAlt": "Scritches product image",
+  "imageWidth": 1200,
+  "imageHeight": 597,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,229 MRR, 201 active subscriptions (~$26 average, my calculation), ~$6,452 L30, ~$40,842 last 12 months, ~$43,586 all-time. Revenue synced Oct 7, 2026 ~05:15 Warsaw (03:15 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/scritches"
+        },
+        {
+          "label": "scritches.io",
+          "url": "https://scritches.io/"
+        }
+      ],
+      "indieAngle": "Free-to-start vertical scheduling + payments for a solo-trade niche in PL/EU that's still on WhatsApp and Excel: private tutors, piano teachers, cleaners, physio home visits. Paid tier unlocks online payments, reminders, and invoices (KSeF-ready e-invoices would be a strong PL hook)."
+    }
+  ],
+  "whyItPrints": "A vertical tool for a huge long tail of tiny service businesses that the big pet-care tools price out. Once a sitter's clients, schedules and invoices live in it, they don't move. Growing steadily: +7.6% L30 MRR."
+}

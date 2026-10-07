@@ -1,0 +1,292 @@
+{
+  "date": "2026-10-07",
+  "title": "Wednesday's boring SaaS, 7 October 2026",
+  "dek": "Wednesday, 7 October 2026. Ten products, all Stripe-verified. A stealth food-handler course in Spain did about $39k in the last 30 days, and it has no public site.",
+  "heroId": "red-fox",
+  "companies": [
+    {
+      "slug": "food-handler-training-spain",
+      "name": "Food-handler training, Spain",
+      "listingNote": "Stealth Company",
+      "description": "Online food-handler (\"manipulador de alimentos\") training and certificates in Spain. The TrustMRR description is just \"Ofrecemos formación en manipulación de alimentos\", and the founder profile is named \"Alimentia Formación\". Founded Apr 9, 2026, ES. Next.js + Stripe. Channels listed: SEO, Google Ads, Instagram.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-off purchases), ~$39,087 L30 (+17.1%), ~$106,239 last 3 months, ~$161,202 all-time (all within six months). Daily revenue runs ~$500–$1,900. Revenue synced Oct 7, 2026 ~08:06 Warsaw (06:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/startup-a66a92db7a72"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Poland has the same shape: sanepid-related food hygiene training, BHP (health & safety) initial training, first-aid refreshers, forklift/UDT prep. Pick one mandatory certificate, build a clean course + exam + instant PDF certificate, and buy the long-tail search terms per city. Add a B2B \"train all my staff\" invoice option for restaurants.",
+      "whyItPrints": "Spanish food-safety rules require food workers to be trained in hygiene, and employers, job seekers and new hires look for \"curso manipulador de alimentos\" constantly. It's a cheap one-off course with a certificate PDF at the end. Demand comes from hospitality hiring churn, so it doesn't need to be recurring to compound.",
+      "image": "/blog/2026-10-07/food-handler-training-spain.webp",
+      "imageAlt": "Food-handler training, Spain product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "linkar-used-car-mechanical-warranty-france",
+      "name": "Linkar — used-car mechanical warranty, France",
+      "listingNote": "Stealth Company",
+      "description": "Mechanical breakdown warranty for used vehicles, covering repair costs up to €15,000 per year (founder description). Target persona: owners of used vehicles. B2C, one person, bootstrapped, founded Apr 2022, FR. TrustMRR lists ~5,000 estimated users (founder-stated). Listed for sale at $200,000 (1.1x; first listed Dec 19, 2025; 12 offers).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$15,797 MRR (+3.0% L30), 415 active subscriptions, ~$14,502 L30, ~$106,531 last 12 months, ~$299,201 all-time, ~40% L30 profit margin, ~3,713 visitors and ~$3.82 revenue per visitor in L30. Revenue synced Oct 7, 2026 ~04:41 Warsaw (02:41 UTC). Note: a second TrustMRR stealth profile with the same Linkar description (CH, founded Nov 2025, ~$15.5k MRR / 38 subs / ~$187k all-time) has an expired Stripe key since Oct 2, so treat that one as stale.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/startup-9f7468483864"
+        },
+        {
+          "label": "Stale profile",
+          "url": "https://trustmrr.com/startup/private-enterprise-35"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "The real business is the claims ops and an underwriting partner, not the website. In PL, \"gwarancja mechaniczna\" for 8–15-year-old cars bought from Otomoto is a gap: partner with an insurer or a garage network, sell monthly online, and use the car's VIN/history check as the funnel.",
+      "whyItPrints": "Monthly insurance-like subscription on a car people already depend on. Customers hate surprise gearbox bills, and once they're covered they rarely cancel while the car is old. 415 subs at ~$38/mo average (my calculation from MRR ÷ subs).",
+      "image": "/blog/2026-10-07/linkar-used-car-mechanical-warranty-france.webp",
+      "imageAlt": "Linkar — used-car mechanical warranty, France product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "mytraiteur",
+      "name": "MyTraiteur",
+      "listingNote": null,
+      "description": "Online event caterer in Paris: cocktails, buffets, breakfasts, plateaux-repas and seated meals for companies and private events. The hook is an instant online quote: customers configure their reception and download a custom devis themselves instead of waiting days for a caterer to reply (company-stated; rated 4.9/5). Founded Feb 2018, FR, team of 2–5, bootstrapped, SEO-driven.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$9,740 L30 (+164.5%), ~$120,224 last 12 months, ~$789,411 all-time, MRR $0 (per-order). Revenue synced Oct 7, 2026 ~07:41 Warsaw (05:41 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mytraiteur"
+        },
+        {
+          "label": "mytraiteur.com",
+          "url": "https://www.mytraiteur.com/"
+        }
+      ],
+      "homepage": "https://www.mytraiteur.com/",
+      "indieAngle": "Sell the instant-quote engine, not the food: a white-label \"configure your event, get a PDF quote, pay a deposit\" widget for local caterers in Warsaw/Kraków who still quote by email. Charge a monthly fee plus a small deposit fee.",
+      "whyItPrints": "Corporate catering is a huge, repeat-purchase B2B spend where the incumbent experience is phone calls and PDFs. Making the quote self-serve is the whole product. Revenue is lumpy (big days of $1.5k–$3.3k, then quiet days), which fits event catering.",
+      "image": "/blog/2026-10-07/mytraiteur.webp",
+      "imageAlt": "MyTraiteur product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "cloud-backup-for-podio",
+      "name": "Cloud Backup for Podio",
+      "listingNote": null,
+      "description": "Backup and restore for all data and files stored in Podio, the work-management platform now owned by Progress. It runs regular automatic backups that you manage in a web UI. 100 MB free, then paid plans for automatic/recurring backups and bigger sizes (company-stated). Its homepage shows a \"Progress Podio Authorised Partner\" badge. Founded Aug 2014, Germany.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,397 MRR (−3.3% L30), 36 active subscriptions, ~$2,156 L30, ~$27,438 last 12 months, ~$361,502 all-time. Revenue synced Oct 7, 2026 ~04:18 Warsaw (02:18 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/cloud-backup-for-podio"
+        },
+        {
+          "label": "cloud-backup-for-podio.com",
+          "url": "https://www.cloud-backup-for-podio.com/"
+        }
+      ],
+      "homepage": "https://www.cloud-backup-for-podio.com/",
+      "indieAngle": "\"Backup for a platform that forgot backups.\" Look for sticky business apps with APIs but weak export/restore: Airtable, Monday, ClickUp, Pipedrive, Fakturownia/inFakt in PL, Optima/Subiekt data. Per-workspace pricing, nightly snapshots, one-click restore of a deleted record.",
+      "whyItPrints": "A legacy platform with loyal business users and business-critical data, and a third-party backup that fills the gap. Customers buy it as insurance and never think about it again. 36 subs at ~$67/mo average (my calculation). It's slowly shrinking with Podio's own user base, but it has paid for 12 years.",
+      "image": "/blog/2026-10-07/cloud-backup-for-podio.webp",
+      "imageAlt": "Cloud Backup for Podio product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "ladataviz",
+      "name": "LaDataViz",
+      "listingNote": null,
+      "description": "Add-on tools for Tableau: Figma to Tableau ($15/mo), Viz Extensions ($20/mo), LaDataViz Pro ($30/mo), and custom Enterprise. Target persona: Tableau users building and managing dashboards. Founded Jul 2023, Spain. TrustMRR lists ~3,000 estimated users (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,350 MRR (−5.5% L30), 140 active subscriptions, ~$3,074 L30, ~$153,734 all-time. Revenue synced Oct 7, 2026 ~06:13 Warsaw (04:13 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ladataviz"
+        },
+        {
+          "label": "Tools",
+          "url": "https://ladataviz.com/tools"
+        }
+      ],
+      "homepage": "https://ladataviz.com/",
+      "indieAngle": "Same play for any expensive enterprise tool with a plugin API and a professional user base: Power BI custom visuals, Looker Studio connectors, SAP Analytics Cloud widgets, Excel add-ins for accountants. Small monthly fee, sold in the community where those people already hang out.",
+      "whyItPrints": "Enterprise BI tool, expensive seats, and designers/analysts who'll expense $20/mo without asking. Tableau's own extension ecosystem is thin, so a specialist with a few sharp tools owns the niche. 140 subs at ~$24 average (my calculation) on only ~645 visitors in L30.",
+      "image": "/blog/2026-10-07/ladataviz.webp",
+      "imageAlt": "LaDataViz product image",
+      "imageWidth": 1200,
+      "imageHeight": 627
+    },
+    {
+      "slug": "tolltracker",
+      "name": "TollTracker",
+      "listingNote": "Bulgaria",
+      "description": "iOS app for Bulgarian drivers that tracks your average speed in real time through toll-camera sections, runs in the background, and alerts you before you go over the section limit. Free download with in-app monthly/annual plans. Founded Sep 2025, BG.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,017 MRR, 1,293 active subscriptions, ~$6,344 L30, ~$14,873 last 3 months, ~$46,532 all-time. Revenue synced Oct 7, 2026 ~05:04 Warsaw (03:04 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tolltracker"
+        },
+        {
+          "label": "apps.apple.com",
+          "url": "https://apps.apple.com/app/id6751225594"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Every country that rolls out section control or new toll rules gets one of these. In PL, the odcinkowy pomiar prędkości (section speed control) network keeps growing, and e-TOLL rules confuse foreign drivers. A \"rules of the road for this country, live\" app for cross-border drivers and fleets is a narrow but real subscription.",
+      "whyItPrints": "A new government enforcement system (average-speed checks via toll cameras) creates instant fear of fines, and a $4 subscription is cheaper than one ticket. 1,293 subs at ~$3.88 average (my calculation) one year in, with zero B2B sales.",
+      "image": "/blog/2026-10-07/tolltracker.webp",
+      "imageAlt": "TollTracker product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "scritches",
+      "name": "Scritches",
+      "listingNote": null,
+      "description": "Pet-sitting and dog-walking business software for solo and small-team providers: client management, bookings, and payments in one place, replacing spreadsheets and text threads. \"Start for free\" pricing. Targets pet sitters, dog walkers, trainers, boarders, groomers, and daycare owners. Founded Sep 2024, US. TrustMRR lists ~700 estimated users (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,229 MRR, 201 active subscriptions (~$26 average, my calculation), ~$6,452 L30, ~$40,842 last 12 months, ~$43,586 all-time. Revenue synced Oct 7, 2026 ~05:15 Warsaw (03:15 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/scritches"
+        },
+        {
+          "label": "scritches.io",
+          "url": "https://scritches.io/"
+        }
+      ],
+      "homepage": "https://scritches.io/",
+      "indieAngle": "Free-to-start vertical scheduling + payments for a solo-trade niche in PL/EU that's still on WhatsApp and Excel: private tutors, piano teachers, cleaners, physio home visits. Paid tier unlocks online payments, reminders, and invoices (KSeF-ready e-invoices would be a strong PL hook).",
+      "whyItPrints": "A vertical tool for a huge long tail of tiny service businesses that the big pet-care tools price out. Once a sitter's clients, schedules and invoices live in it, they don't move. Growing steadily: +7.6% L30 MRR.",
+      "image": "/blog/2026-10-07/scritches.webp",
+      "imageAlt": "Scritches product image",
+      "imageWidth": 1200,
+      "imageHeight": 597
+    },
+    {
+      "slug": "catalister",
+      "name": "Catalister",
+      "listingNote": null,
+      "description": "Product-listing automation for Shopify: research products and push thousands of listings into a store in minutes. Starter €14.99 / Stacker €24.99 / Scaler €34.99 / Slayer €59.99 per month, plus Enterprise. Targets e-commerce store owners and dropshippers. Founded Oct 2024, NL. Listed for sale at $300,000 (3.7x; first listed Feb 18, 2026).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,882 MRR, 100 active subscriptions, ~$6,572 L30, ~$264,810 all-time, ~65% L30 profit margin, ~1,528 visitors in L30. Revenue synced Oct 7, 2026 ~05:33 Warsaw (03:33 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/catalister"
+        },
+        {
+          "label": "catalister.com",
+          "url": "https://www.catalister.com/"
+        }
+      ],
+      "homepage": "https://www.catalister.com/",
+      "indieAngle": "Do listing automation for a marketplace with a painful API and a less flaky audience: wholesale distributor feeds into Allegro, BaseLinker or PrestaShop (CSV/XML supplier feeds → clean listings, price rules, stock sync). Wholesalers and real shops churn far less than dropshippers.",
+      "whyItPrints": "Catalog grunt work: copying, cleaning and uploading products is the most hated job in a new store. It sits on Shopify's API and has ~65% margins. The flip side: MRR is down 13.6% in L30 and the dropshipping audience churns.",
+      "image": "/blog/2026-10-07/catalister.webp",
+      "imageAlt": "Catalister product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "coldcaller-pro",
+      "name": "coldcaller.pro",
+      "listingNote": "France",
+      "description": "French B2B prospecting SaaS that sells qualified cold-calling leads to solopreneurs and agencies, enriched with the business owner's direct mobile and email, so you skip the receptionist (homepage tagline: \"Plus de RDV en moins de temps, sans passer par la secrétaire\"). €19 / €49 / €99 per month, no free trial. Founded Apr 2026, FR, one person, bootstrapped, word-of-mouth only. Listed for sale at $70,000 (0.4x; first listed Aug 4, 2026).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,309 MRR (−21.3% L30), 103 active subscriptions, ~$14,533 L30 (well above MRR, probably one-off lead packs or annual plans; my inference), ~$82,467 all-time, ~93% L30 profit margin, ~3,003 visitors in L30. Revenue synced Oct 7, 2026 ~07:42 Warsaw (05:42 UTC). The founder description says €2.4k MRR, which is older than the current Stripe figure.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/coldcallerpro"
+        },
+        {
+          "label": "coldcaller.pro",
+          "url": "https://coldcaller.pro/"
+        }
+      ],
+      "homepage": "https://coldcaller.pro/",
+      "indieAngle": "Build it on public registries plus enrichment for one country: in PL, KRS/CEIDG board members + phone numbers for \"właściciel firmy\" by industry and city. Watch GDPR closely (B2B legitimate-interest rules differ by country), and sell to the agencies that dial all day.",
+      "whyItPrints": "Data resale with almost no costs: 93% margin and ~9% visitor-to-paid conversion (founder-stated). Lead data on the people who sign the cheques is something SMB sellers always pay for.",
+      "image": "/blog/2026-10-07/coldcaller-pro.webp",
+      "imageAlt": "coldcaller.pro product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "wordpress-and-woocommerce-maintenance-business",
+      "name": "WordPress & WooCommerce maintenance business",
+      "listingNote": "Stealth Company",
+      "description": "A one-person WordPress and WooCommerce maintenance business with 25 recurring US clients (founder-stated), running since 2021. Updates, backups, security, and the occasional one-off project. The founder says it runs at ~96% margin on ~12 hours a month with no employees, and claims $300K+ lifetime revenue including pre-Stripe billing (self-reported; Stripe only shows billing since June 2024). Not currently listed for sale, though the description reads like a sale pitch.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,612 MRR (−1.9% L30), 23 active subscriptions, ~$3,812 L30, ~$50,831 last 12 months, ~$120,876 all-time on Stripe, ~96% L30 profit margin. Revenue synced Oct 7, 2026 ~07:28 Warsaw (05:28 UTC). Note: another TrustMRR stealth profile carries the identical description with different numbers (~$2,827 MRR / 142 subs / ~$117,863 all-time): profile (https://trustmrr.com/startup/startup-7df5029028b9). I couldn't tell which one is the canonical listing.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/anonymous-startup-28"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "For you specifically: a Next.js/Supabase \"care plan\" for small SaaS and agency-built sites (dependency bumps, Supabase/Stripe key rotation, uptime, backups) at $99–$199/mo. It's the same model with a more modern stack and fewer competitors.",
+      "whyItPrints": "Care plans are the most boring recurring revenue in web work: clients pay monthly so their site never breaks, and the work is mostly automated. 23 subs at ~$157/mo average (my calculation).",
+      "image": "/blog/2026-10-07/wordpress-and-woocommerce-maintenance-business.webp",
+      "imageAlt": "WordPress & WooCommerce maintenance business product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Postal Form (US) and Send Letters Online UK",
+      "note": "Two \"post office without the post office\" services: upload a PDF or write a letter, and they print, envelope and mail it. Postal Form uses USPS and starts at ~$3.40 (company-stated); Send Letters Online prints, folds, franks and posts via Royal Mail from £2.86 (company-stated). Stripe-verified: Postal Form ~$6,647 L30 / ~$19,571 all-time (founded Oct 2024); Send Letters Online UK ~$4,641 L30 / ~$20,464 all-time (founded May 2026). Send Letters Online is at https://sendlettersonline.co.uk/. Government and legal letters still have to be on paper. PL analogue: a hybrid-mail service for \"list polecony\" (registered letters) via Poczta Polska's e-Polecony.",
+      "homepage": "https://postalform.com/"
+    },
+    {
+      "name": "Stealth CRM + lead-gen software (US)",
+      "note": "\"We sell CRM and Lead generation softwares,\" and that's the whole description. Stripe-verified ~$100,653 MRR / 4,185 subs / ~$100,950 L30 / ~$3,276,579 all-time, founded Jan 2024, though MRR is down 18.8% in L30. Big and boring, but too opaque to evaluate. TrustMRR: https://trustmrr.com/startup/unnamed-company-49.",
+      "homepage": null
+    },
+    {
+      "name": "Elevum Group (Costa Rica public procurement)",
+      "note": "Monitors SICOP, Costa Rica's national tender system, and alerts suppliers when a tender matches their product codes, with document summaries and past winning prices. $10 / $30 / $45 per month. Stripe-verified ~$2,054 MRR / 21 subs / ~$12,800 all-time, 80% margin. Small, but it's the tender-alert model again (PL analogue: e-Zamówienia / BZP).",
+      "homepage": "https://elevumgroup.com/"
+    },
+    {
+      "name": "Property Vendors",
+      "note": "Job board and company directory for the US property-preservation industry (contractors who secure and maintain foreclosed homes), run from Ireland since 2018. Stripe-verified ~$2,876 L30 / ~$151,509 all-time. TrustMRR lists ~62k estimated users (founder-stated). A sleepy niche directory that keeps paying.",
+      "homepage": "https://propertyvendors.com/"
+    },
+    {
+      "name": "DPack (Australia)",
+      "note": "Wholesale disposable cups, food packaging and cleaning supplies for Melbourne cafés and restaurants, with 3,800+ products and free metro delivery over $150 (company-stated). Stripe-verified ~$20,124 L30 / ~$45,384 all-time, ~30% margin. Boring B2B e-commerce.",
+      "homepage": "https://dpack.com.au/"
+    },
+    {
+      "name": "Bakering (Barcelona)",
+      "note": "Home and office delivery of catering from well-known Barcelona bakeries and patisseries, since 2016. Stripe-verified ~$11,282 L30 / ~$571,107 all-time. Same corporate-catering demand as MyTraiteur, with a marketplace twist.",
+      "homepage": "https://www.bakering.es/"
+    },
+    {
+      "name": "DLAcademy (SAP courses, stale)",
+      "note": "Online SAP courses and consulting (PT/BR). Last Stripe sync showed ~$2,199 MRR / 137 subs / ~$47,512 all-time, but the API key expired and the data is from Feb 18, 2026 ~12:58 Warsaw (CET). Flagged only because SAP training was on your list. TrustMRR: https://trustmrr.com/startup/dlacademy.",
+      "homepage": null
+    },
+    {
+      "name": "BasinCheck (PL)",
+      "note": "A field-first safety-audit app for oil & gas contractors that replaces paper checklists, founded Dec 2025 in Poland. Stripe-verified ~$895 MRR / 5 subs / ~$5,576 all-time. Tiny, but it's a Polish founder selling a boring compliance tool to a US industry.",
+      "homepage": "https://basincheck.com/"
+    }
+  ]
+}

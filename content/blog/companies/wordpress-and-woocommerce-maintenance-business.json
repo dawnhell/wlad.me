@@ -1,0 +1,26 @@
+{
+  "slug": "wordpress-and-woocommerce-maintenance-business",
+  "name": "WordPress & WooCommerce maintenance business",
+  "listingNote": "Stealth Company",
+  "description": "A one-person WordPress and WooCommerce maintenance business with 25 recurring US clients (founder-stated), running since 2021. Updates, backups, security, and the occasional one-off project. The founder says it runs at ~96% margin on ~12 hours a month with no employees, and claims $300K+ lifetime revenue including pre-Stripe billing (self-reported; Stripe only shows billing since June 2024). Not currently listed for sale, though the description reads like a sale pitch.",
+  "homepage": null,
+  "image": "/blog/2026-10-07/wordpress-and-woocommerce-maintenance-business.webp",
+  "imageAlt": "WordPress & WooCommerce maintenance business product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,612 MRR (−1.9% L30), 23 active subscriptions, ~$3,812 L30, ~$50,831 last 12 months, ~$120,876 all-time on Stripe, ~96% L30 profit margin. Revenue synced Oct 7, 2026 ~07:28 Warsaw (05:28 UTC). Note: another TrustMRR stealth profile carries the identical description with different numbers (~$2,827 MRR / 142 subs / ~$117,863 all-time): profile (https://trustmrr.com/startup/startup-7df5029028b9). I couldn't tell which one is the canonical listing.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/anonymous-startup-28"
+        }
+      ],
+      "indieAngle": "For you specifically: a Next.js/Supabase \"care plan\" for small SaaS and agency-built sites (dependency bumps, Supabase/Stripe key rotation, uptime, backups) at $99–$199/mo. It's the same model with a more modern stack and fewer competitors."
+    }
+  ],
+  "whyItPrints": "Care plans are the most boring recurring revenue in web work: clients pay monthly so their site never breaks, and the work is mostly automated. 23 subs at ~$157/mo average (my calculation)."
+}

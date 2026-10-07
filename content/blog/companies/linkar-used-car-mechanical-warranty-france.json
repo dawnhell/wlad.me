@@ -1,0 +1,30 @@
+{
+  "slug": "linkar-used-car-mechanical-warranty-france",
+  "name": "Linkar — used-car mechanical warranty, France",
+  "listingNote": "Stealth Company",
+  "description": "Mechanical breakdown warranty for used vehicles, covering repair costs up to €15,000 per year (founder description). Target persona: owners of used vehicles. B2C, one person, bootstrapped, founded Apr 2022, FR. TrustMRR lists ~5,000 estimated users (founder-stated). Listed for sale at $200,000 (1.1x; first listed Dec 19, 2025; 12 offers).",
+  "homepage": null,
+  "image": "/blog/2026-10-07/linkar-used-car-mechanical-warranty-france.webp",
+  "imageAlt": "Linkar — used-car mechanical warranty, France product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$15,797 MRR (+3.0% L30), 415 active subscriptions, ~$14,502 L30, ~$106,531 last 12 months, ~$299,201 all-time, ~40% L30 profit margin, ~3,713 visitors and ~$3.82 revenue per visitor in L30. Revenue synced Oct 7, 2026 ~04:41 Warsaw (02:41 UTC). Note: a second TrustMRR stealth profile with the same Linkar description (CH, founded Nov 2025, ~$15.5k MRR / 38 subs / ~$187k all-time) has an expired Stripe key since Oct 2, so treat that one as stale.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/startup-9f7468483864"
+        },
+        {
+          "label": "Stale profile",
+          "url": "https://trustmrr.com/startup/private-enterprise-35"
+        }
+      ],
+      "indieAngle": "The real business is the claims ops and an underwriting partner, not the website. In PL, \"gwarancja mechaniczna\" for 8–15-year-old cars bought from Otomoto is a gap: partner with an insurer or a garage network, sell monthly online, and use the car's VIN/history check as the funnel."
+    }
+  ],
+  "whyItPrints": "Monthly insurance-like subscription on a car people already depend on. Customers hate surprise gearbox bills, and once they're covered they rarely cancel while the car is old. 415 subs at ~$38/mo average (my calculation from MRR ÷ subs)."
+}

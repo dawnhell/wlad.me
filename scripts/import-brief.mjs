@@ -51,6 +51,7 @@ function plainText(value) {
   return value
     .replace(/\*\*(.+?)\*\*/g, '$1')
     .replace(/(^|[^*])\*([^*]+)\*(?!\*)/g, '$1$2')
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, '$1 ($2)')
     .replace(/[ \t]+\n/g, '\n')
     .trim()
 }
@@ -69,11 +70,16 @@ function parseSources(body) {
   for (const line of rest) {
     if (!line.trim()) continue
     if (!line.trim().startsWith('-')) break
-    const match = line.match(/https?:\/\/\S+/)
+    const labeled = line.match(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/)
+    const match = labeled || line.match(/https?:\/\/\S+/)
     if (!match) continue
-    const url = match[0].replace(/[),.;]+$/, '')
+    const url = (labeled ? labeled[2] : match[0]).replace(/[),.;]+$/, '')
     if (new URL(url).pathname.endsWith('.md')) continue
-    sources.push({ label: sourceLabel(url), url })
+    const written = labeled ? labeled[1].trim() : ''
+    sources.push({
+      label: written && !/^trustmrr$/i.test(written) ? written : sourceLabel(url),
+      url,
+    })
   }
   return sources
 }

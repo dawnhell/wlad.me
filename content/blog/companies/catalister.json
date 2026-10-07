@@ -1,0 +1,30 @@
+{
+  "slug": "catalister",
+  "name": "Catalister",
+  "listingNote": null,
+  "description": "Product-listing automation for Shopify: research products and push thousands of listings into a store in minutes. Starter €14.99 / Stacker €24.99 / Scaler €34.99 / Slayer €59.99 per month, plus Enterprise. Targets e-commerce store owners and dropshippers. Founded Oct 2024, NL. Listed for sale at $300,000 (3.7x; first listed Feb 18, 2026).",
+  "homepage": "https://www.catalister.com/",
+  "image": "/blog/2026-10-07/catalister.webp",
+  "imageAlt": "Catalister product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,882 MRR, 100 active subscriptions, ~$6,572 L30, ~$264,810 all-time, ~65% L30 profit margin, ~1,528 visitors in L30. Revenue synced Oct 7, 2026 ~05:33 Warsaw (03:33 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/catalister"
+        },
+        {
+          "label": "catalister.com",
+          "url": "https://www.catalister.com/"
+        }
+      ],
+      "indieAngle": "Do listing automation for a marketplace with a painful API and a less flaky audience: wholesale distributor feeds into Allegro, BaseLinker or PrestaShop (CSV/XML supplier feeds → clean listings, price rules, stock sync). Wholesalers and real shops churn far less than dropshippers."
+    }
+  ],
+  "whyItPrints": "Catalog grunt work: copying, cleaning and uploading products is the most hated job in a new store. It sits on Shopify's API and has ~65% margins. The flip side: MRR is down 13.6% in L30 and the dropshipping audience churns."
+}

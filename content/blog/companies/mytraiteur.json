@@ -1,0 +1,30 @@
+{
+  "slug": "mytraiteur",
+  "name": "MyTraiteur",
+  "listingNote": null,
+  "description": "Online event caterer in Paris: cocktails, buffets, breakfasts, plateaux-repas and seated meals for companies and private events. The hook is an instant online quote: customers configure their reception and download a custom devis themselves instead of waiting days for a caterer to reply (company-stated; rated 4.9/5). Founded Feb 2018, FR, team of 2–5, bootstrapped, SEO-driven.",
+  "homepage": "https://www.mytraiteur.com/",
+  "image": "/blog/2026-10-07/mytraiteur.webp",
+  "imageAlt": "MyTraiteur product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$9,740 L30 (+164.5%), ~$120,224 last 12 months, ~$789,411 all-time, MRR $0 (per-order). Revenue synced Oct 7, 2026 ~07:41 Warsaw (05:41 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mytraiteur"
+        },
+        {
+          "label": "mytraiteur.com",
+          "url": "https://www.mytraiteur.com/"
+        }
+      ],
+      "indieAngle": "Sell the instant-quote engine, not the food: a white-label \"configure your event, get a PDF quote, pay a deposit\" widget for local caterers in Warsaw/Kraków who still quote by email. Charge a monthly fee plus a small deposit fee."
+    }
+  ],
+  "whyItPrints": "Corporate catering is a huge, repeat-purchase B2B spend where the incumbent experience is phone calls and PDFs. Making the quote self-serve is the whole product. Revenue is lumpy (big days of $1.5k–$3.3k, then quiet days), which fits event catering."
+}

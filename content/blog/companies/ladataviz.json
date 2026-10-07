@@ -1,0 +1,30 @@
+{
+  "slug": "ladataviz",
+  "name": "LaDataViz",
+  "listingNote": null,
+  "description": "Add-on tools for Tableau: Figma to Tableau ($15/mo), Viz Extensions ($20/mo), LaDataViz Pro ($30/mo), and custom Enterprise. Target persona: Tableau users building and managing dashboards. Founded Jul 2023, Spain. TrustMRR lists ~3,000 estimated users (founder-stated).",
+  "homepage": "https://ladataviz.com/",
+  "image": "/blog/2026-10-07/ladataviz.webp",
+  "imageAlt": "LaDataViz product image",
+  "imageWidth": 1200,
+  "imageHeight": 627,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,350 MRR (−5.5% L30), 140 active subscriptions, ~$3,074 L30, ~$153,734 all-time. Revenue synced Oct 7, 2026 ~06:13 Warsaw (04:13 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ladataviz"
+        },
+        {
+          "label": "Tools",
+          "url": "https://ladataviz.com/tools"
+        }
+      ],
+      "indieAngle": "Same play for any expensive enterprise tool with a plugin API and a professional user base: Power BI custom visuals, Looker Studio connectors, SAP Analytics Cloud widgets, Excel add-ins for accountants. Small monthly fee, sold in the community where those people already hang out."
+    }
+  ],
+  "whyItPrints": "Enterprise BI tool, expensive seats, and designers/analysts who'll expense $20/mo without asking. Tableau's own extension ecosystem is thin, so a specialist with a few sharp tools owns the niche. 140 subs at ~$24 average (my calculation) on only ~645 visitors in L30."
+}

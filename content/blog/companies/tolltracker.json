@@ -1,0 +1,30 @@
+{
+  "slug": "tolltracker",
+  "name": "TollTracker",
+  "listingNote": "Bulgaria",
+  "description": "iOS app for Bulgarian drivers that tracks your average speed in real time through toll-camera sections, runs in the background, and alerts you before you go over the section limit. Free download with in-app monthly/annual plans. Founded Sep 2025, BG.",
+  "homepage": null,
+  "image": "/blog/2026-10-07/tolltracker.webp",
+  "imageAlt": "TollTracker product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,017 MRR, 1,293 active subscriptions, ~$6,344 L30, ~$14,873 last 3 months, ~$46,532 all-time. Revenue synced Oct 7, 2026 ~05:04 Warsaw (03:04 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tolltracker"
+        },
+        {
+          "label": "apps.apple.com",
+          "url": "https://apps.apple.com/app/id6751225594"
+        }
+      ],
+      "indieAngle": "Every country that rolls out section control or new toll rules gets one of these. In PL, the odcinkowy pomiar prędkości (section speed control) network keeps growing, and e-TOLL rules confuse foreign drivers. A \"rules of the road for this country, live\" app for cross-border drivers and fleets is a narrow but real subscription."
+    }
+  ],
+  "whyItPrints": "A new government enforcement system (average-speed checks via toll cameras) creates instant fear of fines, and a $4 subscription is cheaper than one ticket. 1,293 subs at ~$3.88 average (my calculation) one year in, with zero B2B sales."
+}
