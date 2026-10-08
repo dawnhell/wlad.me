@@ -1,0 +1,30 @@
+{
+  "slug": "yadaphone",
+  "name": "Yadaphone",
+  "listingNote": "Austria",
+  "description": "Cheap international calls from the browser, with no app and no phone verification. Pay-as-you-go credit, aimed at freelancers and businesses that call abroad (company-stated). Founded Mar 2025, AT.",
+  "homepage": "https://yadaphone.com/",
+  "image": "/blog/2026-10-08/yadaphone.webp",
+  "imageAlt": "Yadaphone product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-10-08",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR ~$1,060, 405 active subscriptions, ~$13,358 L30 (+10.0%), ~$39,021 last 3 months, ~$179,571 last 12 months, ~$259,247 all-time. Revenue synced Oct 8, 2026 ~06:33 Warsaw (04:33 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/yadaphone"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://yadaphone.com/"
+        }
+      ],
+      "indieAngle": "Make it a diaspora utility: \"call a Polish number from the UK/DE/NL in your browser\" for Poles abroad who need to reach ZUS, banks, clinics or family. Twilio or Telnyx in the back end, Stripe top-ups, and SEO pages per destination and institution."
+    }
+  ],
+  "whyItPrints": "Telecom arbitrage with a modern UX. People who need to call a bank, a government office or family abroad top up and forget. ~$180k in the last 12 months, and L30 is up 10%. MRR is small because most revenue is credit top-ups rather than subscriptions (my inference from MRR vs L30)."
+}

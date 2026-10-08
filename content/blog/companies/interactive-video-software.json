@@ -1,0 +1,26 @@
+{
+  "slug": "interactive-video-software",
+  "name": "Interactive video software",
+  "listingNote": "Stealth Company",
+  "description": "Interactive video software for education, training and marketing: \"turn any video into an interactive experience that increases engagement, measures understanding, and drives action.\" The founder says the drag-and-drop editor was rebuilt from scratch in 2025, has little tech debt, and comes with a 60 domain rating and good G2/Capterra reviews (founder-stated). Pricing is $99 / $299 / $499 per month plus Enterprise. Founded 2018, US, one person, bootstrapped, Vue + Rails. Channels: SEO, affiliate, word of mouth, blog. Listed for sale at $2,100,000 (4.1x; first listed Dec 9, 2025; 14 offers). The seller describes it as $44k MRR plus some services revenue and $450k SDE (founder-stated).",
+  "homepage": null,
+  "image": "/blog/2026-10-08/interactive-video-software.webp",
+  "imageAlt": "Interactive video software product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-08",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$47,004 MRR (+1.1% L30), 219 active subscriptions, ~$39,088 L30 (+26.0%), ~$111,166 last 3 months, ~$450,494 last 12 months, ~$2,321,937 all-time, ~90% L30 profit margin. Revenue synced Oct 8, 2026 ~04:37 Warsaw (02:37 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/interactive-video-saas"
+        }
+      ],
+      "indieAngle": "Take the narrow version for PL/EU: mandatory-training videos (BHP, RODO/GDPR, AML for accountants) with in-video questions, a pass mark and an auto-generated certificate PDF. HR departments buy \"proof of training\" much more readily than they buy \"engagement.\""
+    }
+  ],
+  "whyItPrints": "Corporate trainers and course creators need proof that people actually watched and understood the video, and a quiz inside the video does that. At $99–$499/mo it's a line item L&D teams renew without thinking. 219 subs at ~$215/mo average (my calculation from MRR ÷ subs) on only ~6.2k visitors in L30."
+}

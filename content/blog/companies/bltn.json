@@ -1,0 +1,30 @@
+{
+  "slug": "bltn",
+  "name": "bltn",
+  "listingNote": "church bulletins",
+  "description": "Church bulletin software: one weekly workflow produces print-ready bulletins, digital bulletins, email newsletters, SMS broadcasts, social posts and signup forms (company-stated). It's made by two brothers and has run since 2014. Bootstrapped, US. TrustMRR lists ~3.5M estimated users (founder-stated).",
+  "homepage": "https://usebltn.com/",
+  "image": "/blog/2026-10-08/bltn.webp",
+  "imageAlt": "bltn product image",
+  "imageWidth": 500,
+  "imageHeight": 494,
+  "mentions": [
+    {
+      "date": "2026-10-08",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,948 L30 (−0.5%), ~$9,157 last 3 months, ~$39,585 last 12 months, ~$247,036 all-time. Revenue synced Oct 8, 2026 ~10:07 Warsaw (08:07 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/bltn"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://usebltn.com/"
+        }
+      ],
+      "indieAngle": "Polish parishes publish weekly \"ogłoszenia parafialne\" and intentions on paper, the website and Facebook. A tool that does one weekly entry → printable A4 + website page + newsletter + SMS, at ~49 zł/month per parish, has thousands of potential customers and no modern competitor I know of."
+    }
+  ],
+  "whyItPrints": "Every church publishes the same announcements every week across paper, email and screens, usually by copy-paste. It has made a steady ~$3k a month for years (monthly totals of ~$2.9k–$3.8k over the last 12 months). Note: Stripe shows only 2 active subscriptions and $38 MRR, so most billing evidently runs outside Stripe subscriptions, e.g. invoices or one-off charges (my inference)."
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "acsperf",
+  "name": "ACSPerf'",
+  "listingNote": "France",
+  "description": "An ECU remapping \"file service\" in Ners (Gard), France. Garages and tuners upload the original engine-computer read, pay in credits, choose options (performance, E85 conversion, etc.), and download the modified file. Installation is the customer's job (company-stated, per its terms). The homepage claims 3,000+ vehicles optimised and 50+ partner garages (company-stated). The ordering portal handles credits, file upload, order chat, deferred monthly payment for partners, and an accountant view with FEC export; its agency described this in a case study. Founded Aug 2025, FR, two founders on TrustMRR.",
+  "homepage": "https://acsperf.fr/",
+  "image": "/blog/2026-10-08/acsperf.webp",
+  "imageAlt": "ACSPerf' product image",
+  "imageWidth": 1200,
+  "imageHeight": 800,
+  "mentions": [
+    {
+      "date": "2026-10-08",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (credit purchases, not subscriptions), ~$30,913 L30 (+79.5%), ~$73,115 last 3 months, ~$240,392 last 12 months, ~$262,480 all-time, ~90% L30 profit margin. Revenue synced Oct 8, 2026 ~07:40 Warsaw (05:40 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/acsperf"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://acsperf.fr/"
+        },
+        {
+          "label": "Terms (CGV)",
+          "url": "https://acsperf.fr/cgv"
+        },
+        {
+          "label": "Agency case study (Beva Studio)",
+          "url": "https://beva-studio.fr/realisations/sites-web/acsperf/"
+        }
+      ],
+      "indieAngle": "Don't do the tuning. Sell the portal: a white-label \"file service\" SaaS for the many small ECU tuners who still take files over email and WhatsApp. It needs credits, upload, order status, partner pricing and invoices/exports, at a monthly fee per tuner. It's plain Next.js/Supabase/Stripe CRUD, and every tuner with resellers needs one."
+    }
+  ],
+  "whyItPrints": "It's a B2B digital-file business with no stock. Pro tuners send files every week, and each file is paid for in pre-bought credits. L30 is up 79.5% and the margin is 90%. Caveat: its own terms note that remapping counts as a \"transformation notable\" under the French road code, and some options it lists (EGR/DPF/AdBlue changes) are a regulatory risk area in the EU."
+}

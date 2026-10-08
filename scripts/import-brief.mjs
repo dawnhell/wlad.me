@@ -85,10 +85,12 @@ function parseSources(body) {
 }
 
 function evidenceKindFromLabel(label) {
-  if (/stripe/i.test(label)) return 'stripe-verified'
+  if (/lemon\s*squeezy/i.test(label)) return 'lemon-squeezy-verified'
+  if (/revenuecat/i.test(label)) return 'revenuecat-verified'
   if (/creem/i.test(label)) return 'creem-verified'
   if (/polar/i.test(label)) return 'polar-verified'
   if (/paddle/i.test(label)) return 'paddle-verified'
+  if (/stripe/i.test(label) && !/not\s+stripe/i.test(label)) return 'stripe-verified'
   return 'self-reported'
 }
 
@@ -261,6 +263,8 @@ function editionDek(companies, formatted) {
     ['creem-verified', 'Creem-verified'],
     ['polar-verified', 'Polar-verified'],
     ['paddle-verified', 'Paddle-verified'],
+    ['lemon-squeezy-verified', 'Lemon Squeezy-verified'],
+    ['revenuecat-verified', 'RevenueCat-verified'],
     ['self-reported', 'self-reported'],
   ]
   const parts = labels

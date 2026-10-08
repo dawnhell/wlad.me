@@ -1,0 +1,34 @@
+{
+  "slug": "meet-for-slack",
+  "name": "Meet for Slack",
+  "listingNote": null,
+  "description": "A Slack app: type `/meet` in any channel or DM to generate a Google Meet link. It opens with the right Google account and sets everyone's Slack status to \"On a call\" (company-stated). It says it's approved by Google and Slack and trusted by thousands of teams. 60-day free trial, free for up to 3 people, then $50 / $150 / $500 per year by workspace size (company-stated, yearly pricing). Founded Jun 2023, US.",
+  "homepage": "https://meetslack.com/",
+  "image": "/blog/2026-10-08/meet-for-slack.webp",
+  "imageAlt": "Meet for Slack product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-08",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,173 MRR (−6.0% L30), 387 active subscriptions (~$11/mo average, my calculation), ~$6,426 L30 (+135.2%), ~$46,394 last 12 months, ~$148,161 all-time, ~95% L30 profit margin. Revenue synced Oct 8, 2026 ~07:12 Warsaw (05:12 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/meet-for-slack"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://meetslack.com/"
+        },
+        {
+          "label": "Pricing",
+          "url": "https://meetslack.com/pricing"
+        }
+      ],
+      "indieAngle": "Find two tools that are always used together but don't talk, and charge $50–$150 a year per workspace. For PL teams that could be Slack/Teams ↔ Fakturownia/inFakt (an invoice-paid ping in the channel), or Teams ↔ Google Meet. Each one is a small app, listed in a marketplace, that never needs marketing beyond the directory."
+    }
+  ],
+  "whyItPrints": "It's glue between two tools every startup already pays for, and it fixes the annoying wrong-account problem. A tiny price nobody questions, 95% margin, and distribution through the Slack App Directory. L30 runs above MRR because annual renewals land in lumps (my inference)."
+}

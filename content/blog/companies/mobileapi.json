@@ -1,0 +1,30 @@
+{
+  "slug": "mobileapi",
+  "name": "MobileAPI",
+  "listingNote": "UK",
+  "description": "A REST API with specs, images and prices for 30,000+ phones, tablets, smartwatches and laptops from 200+ brands. It offers fuzzy search with match scoring, autocomplete and manufacturer filters. 200 free requests a month, then Pro $15/mo for 10k requests, then Enterprise (company-stated). \"One API call instead of scraping five different websites.\" Founded Sep 2022, GB, Django + Postgres.",
+  "homepage": "https://mobileapi.dev/",
+  "image": "/blog/2026-10-08/mobileapi.webp",
+  "imageAlt": "MobileAPI product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-08",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,806 MRR (+15.3% L30), 120 active subscriptions, ~$4,678 L30, ~$36,479 last 12 months, ~$56,907 all-time. Revenue synced Oct 8, 2026 ~06:06 Warsaw (04:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mobileapi"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://mobileapi.dev/"
+        }
+      ],
+      "indieAngle": "Pick a dataset devs keep scraping and sell it as a clean API with a $15 tier, for example EU car models/trims with specs (for insurance and leasing quote forms) or EU e-vignette/toll prices per country. The work is the normalisation, and that's also the moat."
+    }
+  ],
+  "whyItPrints": "It sells a cleaned-up dataset to developers building comparison sites, refurb/trade-in tools and telecom shops. Once it's wired into someone's product, it stays. 120 subs at ~$40/mo average (my calculation), and MRR is up 15.3% in L30."
+}

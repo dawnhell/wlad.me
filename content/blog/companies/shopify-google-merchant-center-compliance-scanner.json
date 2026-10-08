@@ -1,0 +1,26 @@
+{
+  "slug": "shopify-google-merchant-center-compliance-scanner",
+  "name": "Shopify Google Merchant Center compliance scanner",
+  "listingNote": "Stealth Company",
+  "description": "\"A simple way to scan your Shopify shop for Google Merchant Center compliance issues.\" Shops use it to find what gets their products disapproved, or their account suspended, in Google Shopping. Founded Mar 2025, AE. React + Node + Supabase. Channels: affiliate, influencers, partnerships. Listed for sale at $175,000 (0.9x; first listed Feb 15, 2026; 7 offers).",
+  "homepage": null,
+  "image": "/blog/2026-10-08/shopify-google-merchant-center-compliance-scanner.webp",
+  "imageAlt": "Shopify Google Merchant Center compliance scanner product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-08",
+      "evidenceKind": "lemon-squeezy-verified",
+      "evidence": "~$14,661 MRR (+29.2% L30), 239 active subscriptions, ~$15,386 L30 (+34.7%), ~$103,168 last 12 months, ~$120,474 all-time, ~90% L30 profit margin. Revenue synced Oct 8, 2026 ~04:47 Warsaw (02:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hidden-business-8"
+        }
+      ],
+      "indieAngle": "Same scanner for the platforms the Shopify app store doesn't serve: WooCommerce, PrestaShop, Shoper/IdoSell in PL, or Allegro listing-policy checks. Read the product feed, flag missing GTINs, prices that don't match the page, and policy-word violations, then email a weekly \"you're still clean\" report."
+    }
+  ],
+  "whyItPrints": "A Merchant Center suspension switches off a shop's Google Shopping traffic, so owners pay to fix it fast and keep paying to stay clean. It's a pure policy-checklist product with a 90% margin. 239 subs at ~$61/mo average (my calculation). MRR is up 29% in L30."
+}

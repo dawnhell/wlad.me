@@ -37,13 +37,13 @@ const AboutPage: tNextPageWithLayout = () => {
 
       <section className="flex max-w-[65ch] flex-col gap-3">
         <h2 className="font-serif text-2xl font-normal">
-          Creem, Polar, and Paddle
+          Creem, Polar, Paddle, Lemon Squeezy, and RevenueCat
         </h2>
         <p className="leading-relaxed text-muted-foreground">
           Same thing, just with a different payment processor.
         </p>
         <p className="leading-relaxed text-muted-foreground">
-          The TrustMRR listing is marked as connected to Creem, Polar, or Paddle. 
+          The TrustMRR listing is marked as connected to Creem, Polar, Paddle, Lemon Squeezy, or RevenueCat. 
           I'm not auditing those numbers either
         </p>
       </section>

@@ -1,0 +1,308 @@
+{
+  "date": "2026-10-08",
+  "title": "Thursday notes, 8 October 2026",
+  "dek": "8 October 2026. Ten products. Stripe covers eight of them. Lemon Squeezy covers a stealth Shopify scanner, and RevenueCat covers P7M.io.",
+  "heroId": "red-deer",
+  "companies": [
+    {
+      "slug": "interactive-video-software",
+      "name": "Interactive video software",
+      "listingNote": "Stealth Company",
+      "description": "Interactive video software for education, training and marketing: \"turn any video into an interactive experience that increases engagement, measures understanding, and drives action.\" The founder says the drag-and-drop editor was rebuilt from scratch in 2025, has little tech debt, and comes with a 60 domain rating and good G2/Capterra reviews (founder-stated). Pricing is $99 / $299 / $499 per month plus Enterprise. Founded 2018, US, one person, bootstrapped, Vue + Rails. Channels: SEO, affiliate, word of mouth, blog. Listed for sale at $2,100,000 (4.1x; first listed Dec 9, 2025; 14 offers). The seller describes it as $44k MRR plus some services revenue and $450k SDE (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$47,004 MRR (+1.1% L30), 219 active subscriptions, ~$39,088 L30 (+26.0%), ~$111,166 last 3 months, ~$450,494 last 12 months, ~$2,321,937 all-time, ~90% L30 profit margin. Revenue synced Oct 8, 2026 ~04:37 Warsaw (02:37 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/interactive-video-saas"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Take the narrow version for PL/EU: mandatory-training videos (BHP, RODO/GDPR, AML for accountants) with in-video questions, a pass mark and an auto-generated certificate PDF. HR departments buy \"proof of training\" much more readily than they buy \"engagement.\"",
+      "whyItPrints": "Corporate trainers and course creators need proof that people actually watched and understood the video, and a quiz inside the video does that. At $99–$499/mo it's a line item L&D teams renew without thinking. 219 subs at ~$215/mo average (my calculation from MRR ÷ subs) on only ~6.2k visitors in L30.",
+      "image": "/blog/2026-10-08/interactive-video-software.webp",
+      "imageAlt": "Interactive video software product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "acsperf",
+      "name": "ACSPerf'",
+      "listingNote": "France",
+      "description": "An ECU remapping \"file service\" in Ners (Gard), France. Garages and tuners upload the original engine-computer read, pay in credits, choose options (performance, E85 conversion, etc.), and download the modified file. Installation is the customer's job (company-stated, per its terms). The homepage claims 3,000+ vehicles optimised and 50+ partner garages (company-stated). The ordering portal handles credits, file upload, order chat, deferred monthly payment for partners, and an accountant view with FEC export; its agency described this in a case study. Founded Aug 2025, FR, two founders on TrustMRR.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (credit purchases, not subscriptions), ~$30,913 L30 (+79.5%), ~$73,115 last 3 months, ~$240,392 last 12 months, ~$262,480 all-time, ~90% L30 profit margin. Revenue synced Oct 8, 2026 ~07:40 Warsaw (05:40 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/acsperf"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://acsperf.fr/"
+        },
+        {
+          "label": "Terms (CGV)",
+          "url": "https://acsperf.fr/cgv"
+        },
+        {
+          "label": "Agency case study (Beva Studio)",
+          "url": "https://beva-studio.fr/realisations/sites-web/acsperf/"
+        }
+      ],
+      "homepage": "https://acsperf.fr/",
+      "indieAngle": "Don't do the tuning. Sell the portal: a white-label \"file service\" SaaS for the many small ECU tuners who still take files over email and WhatsApp. It needs credits, upload, order status, partner pricing and invoices/exports, at a monthly fee per tuner. It's plain Next.js/Supabase/Stripe CRUD, and every tuner with resellers needs one.",
+      "whyItPrints": "It's a B2B digital-file business with no stock. Pro tuners send files every week, and each file is paid for in pre-bought credits. L30 is up 79.5% and the margin is 90%. Caveat: its own terms note that remapping counts as a \"transformation notable\" under the French road code, and some options it lists (EGR/DPF/AdBlue changes) are a regulatory risk area in the EU.",
+      "image": "/blog/2026-10-08/acsperf.webp",
+      "imageAlt": "ACSPerf' product image",
+      "imageWidth": 1200,
+      "imageHeight": 800
+    },
+    {
+      "slug": "shopify-google-merchant-center-compliance-scanner",
+      "name": "Shopify Google Merchant Center compliance scanner",
+      "listingNote": "Stealth Company",
+      "description": "\"A simple way to scan your Shopify shop for Google Merchant Center compliance issues.\" Shops use it to find what gets their products disapproved, or their account suspended, in Google Shopping. Founded Mar 2025, AE. React + Node + Supabase. Channels: affiliate, influencers, partnerships. Listed for sale at $175,000 (0.9x; first listed Feb 15, 2026; 7 offers).",
+      "evidenceKind": "lemon-squeezy-verified",
+      "evidence": "~$14,661 MRR (+29.2% L30), 239 active subscriptions, ~$15,386 L30 (+34.7%), ~$103,168 last 12 months, ~$120,474 all-time, ~90% L30 profit margin. Revenue synced Oct 8, 2026 ~04:47 Warsaw (02:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hidden-business-8"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Same scanner for the platforms the Shopify app store doesn't serve: WooCommerce, PrestaShop, Shoper/IdoSell in PL, or Allegro listing-policy checks. Read the product feed, flag missing GTINs, prices that don't match the page, and policy-word violations, then email a weekly \"you're still clean\" report.",
+      "whyItPrints": "A Merchant Center suspension switches off a shop's Google Shopping traffic, so owners pay to fix it fast and keep paying to stay clean. It's a pure policy-checklist product with a 90% margin. 239 subs at ~$61/mo average (my calculation). MRR is up 29% in L30.",
+      "image": "/blog/2026-10-08/shopify-google-merchant-center-compliance-scanner.webp",
+      "imageAlt": "Shopify Google Merchant Center compliance scanner product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "p7m-io-italian-digital-signature-reader",
+      "name": "P7M.io — Italian digital signature reader",
+      "listingNote": null,
+      "description": "A browser viewer (marketed as \"DocKit\") plus iOS and Android apps that open Italian `.p7m` files: CAdES-signed envelopes used for public-sector e-invoices (FatturaPA XML.P7M), PEC attachments, notarial deeds and court filings. It verifies the signature, extracts the PDF, and renders XML e-invoices, all client-side with no upload (company-stated). The founder says it ranks #3 on Google for the core queries, gets ~40,000 organic clicks a month, has 3,297 paid orders to date, and runs with zero staff and zero paid acquisition (founder-stated). Pricing: €3.99 per document, €12.99/yr, €24.99 lifetime; in-app €1.99 export or €19.99 Pro lifetime. Founded Mar 28, 2026, IT, one person. Listed for sale at $120,000 (2.2x; first listed Oct 7, 2026).",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR ~$445, 251 active subscriptions, ~$4,604 L30 (+15.4%), ~$12,182 last 3 months, ~$20,132 all-time (since April 2026), ~75% L30 profit margin. Revenue synced Oct 8, 2026 ~02:57 Warsaw (00:57 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/confidential-startup-70"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://p7m.io/"
+        }
+      ],
+      "homepage": "https://p7m.io/",
+      "indieAngle": "Poland has the same pain right now. KSeF e-invoices arrive as FA(3) XML that small businesses can't read, and documents signed with Profil Zaufany or qualified XAdES signatures confuse everyone. A private, in-browser \"open / verify / convert to PDF\" tool for KSeF XML and XAdES files, with pay-per-document plus a cheap annual plan for accountants, is a weekend-sized MVP with a lot of search demand.",
+      "whyItPrints": "Italian law creates a file format that ordinary computers can't open, and lawyers, accountants and public employees run into it daily. The free alternatives upload confidential contracts to third-party servers, which is the privacy hook. MRR is small ($445) because most revenue is single-document and lifetime purchases (my inference from the pricing and 251 subs).",
+      "image": "/blog/2026-10-08/p7m-io-italian-digital-signature-reader.webp",
+      "imageAlt": "P7M.io — Italian digital signature reader product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "coucou",
+      "name": "Coucou",
+      "listingNote": "France",
+      "description": "Connects to salon booking systems (Planity, Treatwell, Booksy, Kalendes per the homepage) and texts every online-booked client a few hours after the appointment. The SMS links to a branded mini page with a team video and pushes the client to leave a Google review rather than a Planity one. It also drafts replies to reviews (company-stated). The TrustMRR description promises salons on Planity 20–40 Google reviews a month and a top-3 Maps ranking without ads (founder-stated). €67 Solo / €97 Pro / Enterprise per month. Founded Feb 2025, FR. TrustMRR lists it as a stealth company, but the description names Coucou and the founder profile \"Jean Gab\" matches the founder named in Coucou's Trustpilot reviews. Linking the listing to getcoucou.io is my identification.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,912 MRR (+14.0% L30), 50 active subscriptions, ~$6,043 L30 (+25.7%), ~$39,070 last 12 months, ~$42,129 all-time. Revenue synced Oct 8, 2026 ~10:07 Warsaw (08:07 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/startup-a8e78dd113c0"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.getcoucou.io/"
+        },
+        {
+          "label": "Trustpilot",
+          "url": "https://fr.trustpilot.com/review/getcoucou.io"
+        }
+      ],
+      "homepage": "https://www.getcoucou.io/",
+      "indieAngle": "Booksy is Polish-founded and widely used by PL salons and barbers. A Polish-language \"Booksy → SMS → Google review\" tool is the same product in your home market, priced per salon (SMSAPI/SerwerSMS make sending cheap). Coucou already claims Booksy compatibility, but not in Polish and not for the PL market.",
+      "whyItPrints": "It's glue between a booking platform and Google Maps. Salons live and die by local search, and the booking platform's own review requests keep the reviews on the platform. 50 subs at ~$118/mo average (my calculation), with MRR up 14% in L30.",
+      "image": "/blog/2026-10-08/coucou.webp",
+      "imageAlt": "Coucou product image",
+      "imageWidth": 1200,
+      "imageHeight": 660
+    },
+    {
+      "slug": "rtmp-in",
+      "name": "RTMP.IN",
+      "listingNote": "Estonia",
+      "description": "Lets you go live on Instagram from a computer. It gives you an RTMP server URL and stream key that work in OBS, vMix, Wirecast, Restream, StreamYard and so on, since Instagram itself only allows live from the phone app (company-stated). Founded Jul 2021, EE. Listed for sale at $420,000 (5.5x; first listed Dec 28, 2025; 7 offers).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6,051 MRR (−3.6% L30), ~$6,395 L30, ~$114,248 last 12 months, ~$764,883 all-time, ~90% L30 profit margin, ~1,980 visitors in L30. Revenue synced Oct 8, 2026 ~04:14 Warsaw (02:14 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/rtmp-in"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://rtmp.in/"
+        }
+      ],
+      "homepage": "https://rtmp.in/",
+      "indieAngle": "It's a pattern rather than something to clone: \"Platform X won't let you do Y from desktop or in bulk\" niches print when the workaround is tiny. Look for the ones business users hit, not creators, because they churn less and expense it.",
+      "whyItPrints": "A one-feature workaround for a platform gap: creators and brands want studio-quality Instagram lives, and Instagram doesn't offer it on desktop. ~$765k lifetime from a single utility. The risk is all platform dependency, since Instagram could ship this natively or block it. Note: TrustMRR shows only 3 active subscriptions against ~$6k MRR, so billing is probably mostly prepaid or per-period plans that TrustMRR counts oddly (my inference).",
+      "image": "/blog/2026-10-08/rtmp-in.webp",
+      "imageAlt": "RTMP.IN product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "yadaphone",
+      "name": "Yadaphone",
+      "listingNote": "Austria",
+      "description": "Cheap international calls from the browser, with no app and no phone verification. Pay-as-you-go credit, aimed at freelancers and businesses that call abroad (company-stated). Founded Mar 2025, AT.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR ~$1,060, 405 active subscriptions, ~$13,358 L30 (+10.0%), ~$39,021 last 3 months, ~$179,571 last 12 months, ~$259,247 all-time. Revenue synced Oct 8, 2026 ~06:33 Warsaw (04:33 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/yadaphone"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://yadaphone.com/"
+        }
+      ],
+      "homepage": "https://yadaphone.com/",
+      "indieAngle": "Make it a diaspora utility: \"call a Polish number from the UK/DE/NL in your browser\" for Poles abroad who need to reach ZUS, banks, clinics or family. Twilio or Telnyx in the back end, Stripe top-ups, and SEO pages per destination and institution.",
+      "whyItPrints": "Telecom arbitrage with a modern UX. People who need to call a bank, a government office or family abroad top up and forget. ~$180k in the last 12 months, and L30 is up 10%. MRR is small because most revenue is credit top-ups rather than subscriptions (my inference from MRR vs L30).",
+      "image": "/blog/2026-10-08/yadaphone.webp",
+      "imageAlt": "Yadaphone product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "meet-for-slack",
+      "name": "Meet for Slack",
+      "listingNote": null,
+      "description": "A Slack app: type `/meet` in any channel or DM to generate a Google Meet link. It opens with the right Google account and sets everyone's Slack status to \"On a call\" (company-stated). It says it's approved by Google and Slack and trusted by thousands of teams. 60-day free trial, free for up to 3 people, then $50 / $150 / $500 per year by workspace size (company-stated, yearly pricing). Founded Jun 2023, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,173 MRR (−6.0% L30), 387 active subscriptions (~$11/mo average, my calculation), ~$6,426 L30 (+135.2%), ~$46,394 last 12 months, ~$148,161 all-time, ~95% L30 profit margin. Revenue synced Oct 8, 2026 ~07:12 Warsaw (05:12 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/meet-for-slack"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://meetslack.com/"
+        },
+        {
+          "label": "Pricing",
+          "url": "https://meetslack.com/pricing"
+        }
+      ],
+      "homepage": "https://meetslack.com/",
+      "indieAngle": "Find two tools that are always used together but don't talk, and charge $50–$150 a year per workspace. For PL teams that could be Slack/Teams ↔ Fakturownia/inFakt (an invoice-paid ping in the channel), or Teams ↔ Google Meet. Each one is a small app, listed in a marketplace, that never needs marketing beyond the directory.",
+      "whyItPrints": "It's glue between two tools every startup already pays for, and it fixes the annoying wrong-account problem. A tiny price nobody questions, 95% margin, and distribution through the Slack App Directory. L30 runs above MRR because annual renewals land in lumps (my inference).",
+      "image": "/blog/2026-10-08/meet-for-slack.webp",
+      "imageAlt": "Meet for Slack product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "bltn",
+      "name": "bltn",
+      "listingNote": "church bulletins",
+      "description": "Church bulletin software: one weekly workflow produces print-ready bulletins, digital bulletins, email newsletters, SMS broadcasts, social posts and signup forms (company-stated). It's made by two brothers and has run since 2014. Bootstrapped, US. TrustMRR lists ~3.5M estimated users (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,948 L30 (−0.5%), ~$9,157 last 3 months, ~$39,585 last 12 months, ~$247,036 all-time. Revenue synced Oct 8, 2026 ~10:07 Warsaw (08:07 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/bltn"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://usebltn.com/"
+        }
+      ],
+      "homepage": "https://usebltn.com/",
+      "indieAngle": "Polish parishes publish weekly \"ogłoszenia parafialne\" and intentions on paper, the website and Facebook. A tool that does one weekly entry → printable A4 + website page + newsletter + SMS, at ~49 zł/month per parish, has thousands of potential customers and no modern competitor I know of.",
+      "whyItPrints": "Every church publishes the same announcements every week across paper, email and screens, usually by copy-paste. It has made a steady ~$3k a month for years (monthly totals of ~$2.9k–$3.8k over the last 12 months). Note: Stripe shows only 2 active subscriptions and $38 MRR, so most billing evidently runs outside Stripe subscriptions, e.g. invoices or one-off charges (my inference).",
+      "image": "/blog/2026-10-08/bltn.webp",
+      "imageAlt": "bltn product image",
+      "imageWidth": 500,
+      "imageHeight": 494
+    },
+    {
+      "slug": "mobileapi",
+      "name": "MobileAPI",
+      "listingNote": "UK",
+      "description": "A REST API with specs, images and prices for 30,000+ phones, tablets, smartwatches and laptops from 200+ brands. It offers fuzzy search with match scoring, autocomplete and manufacturer filters. 200 free requests a month, then Pro $15/mo for 10k requests, then Enterprise (company-stated). \"One API call instead of scraping five different websites.\" Founded Sep 2022, GB, Django + Postgres.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,806 MRR (+15.3% L30), 120 active subscriptions, ~$4,678 L30, ~$36,479 last 12 months, ~$56,907 all-time. Revenue synced Oct 8, 2026 ~06:06 Warsaw (04:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mobileapi"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://mobileapi.dev/"
+        }
+      ],
+      "homepage": "https://mobileapi.dev/",
+      "indieAngle": "Pick a dataset devs keep scraping and sell it as a clean API with a $15 tier, for example EU car models/trims with specs (for insurance and leasing quote forms) or EU e-vignette/toll prices per country. The work is the normalisation, and that's also the moat.",
+      "whyItPrints": "It sells a cleaned-up dataset to developers building comparison sites, refurb/trade-in tools and telecom shops. Once it's wired into someone's product, it stays. 120 subs at ~$40/mo average (my calculation), and MRR is up 15.3% in L30.",
+      "image": "/blog/2026-10-08/mobileapi.webp",
+      "imageAlt": "MobileAPI product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Stealth French B2B automotive SaaS",
+      "note": "The entire description is \"B2B SAAS AUTOMOTIVE FR.\" Stripe-verified ~$11,984 MRR / 161 subs / ~$16,388 L30 / ~$114,381 all-time (all within the last ~12 months), 80% margin, MRR −12.7% in L30. Listed for sale at $500,000 (2.5x). Garage/dealer software in France is boring by default, but there's too little detail to judge it. Synced Oct 8 ~06:57 Warsaw. TrustMRR: https://trustmrr.com/startup/private-enterprise-22.",
+      "homepage": null
+    },
+    {
+      "name": "DodgePrint (US)",
+      "note": "Multi-channel listings, orders and financial-transaction control for Etsy, Amazon, TikTok Shop, Shopify and Magento 2. Free / $29 / $59 / $149 per month. Stripe-verified ~$6,425 MRR / 50 subs / ~$6,569 L30 / ~$78,169 all-time, but MRR is down 27.9% in L30 and the $1.2M asking price (16.5x) is ambitious.",
+      "homepage": "https://www.dodgeprint.com/"
+    },
+    {
+      "name": "HYGILAS Academy (FR, \"DISPOO\" on TrustMRR)",
+      "note": "Training and community for people starting and growing cleaning businesses. Stripe-verified ~$3,356 MRR / 187 subs / ~$3,606 L30 / ~$33,013 all-time, with ~10k estimated users (founder-stated). It's a \"teach a boring trade\" business: PL equivalents would be a cleaning-company or carpet-cleaning starter course with templates.",
+      "homepage": "https://hygilas.com/"
+    },
+    {
+      "name": "Rybbit (open-source cookieless analytics)",
+      "note": "Worth knowing for EventDash: an open-source GA replacement, cookieless with no consent banner, $13 / $26 per month. Stripe-verified ~$9,175 MRR / 315 subs / ~$11,757 L30 / ~$101,256 all-time (founded Jan 2024). It's a direct reference point for EventDash's pricing and positioning.",
+      "homepage": "https://rybbit.com/"
+    },
+    {
+      "name": "Knoott (MX wedding gift registry)",
+      "note": "Free for couples, 1% commission on withdrawal, guests pay a 3.9% + MXN $4 fee (founder-stated). Stripe-verified ~$13,302 L30 / ~$50,069 all-time since Mar 2025. Fee-on-flow, not SaaS.",
+      "homepage": "https://www.knoott.com/"
+    },
+    {
+      "name": "Stealth course platform, likely Teachizy (FR)",
+      "note": "Stealth listing with no description, but the slug is teachizy-sas-maj-digital, which points to Teachizy, the French course-hosting platform run by MAJ Digital SAS. That's my inference from the slug and not confirmed on the page. Stripe-verified ~$66,276 MRR / 1,077 subs / ~$62,139 L30 / ~$847,112 last 12 months / ~$2,762,251 all-time, though L30 revenue is down 21.5%. \"Hosting for course creators, in one language market\" is a big, boring business. Synced Oct 8 ~07:19 Warsaw. TrustMRR: https://trustmrr.com/startup/teachizy-sas-maj-digital.",
+      "homepage": null
+    },
+    {
+      "name": "VendPlacer (US)",
+      "note": "Marketplace connecting vending-machine operators with property owners who have space (retail, office, gym). Operators pay $69/mo (founder-stated). Stripe-verified ~$2,981 MRR / 113 subs / ~$11,195 L30 / ~$36,876 all-time, founded Apr 2026, MRR +39.1% in L30. It's a lead-gen subscription for a sweaty-startup trade.",
+      "homepage": "https://vendplacer.com/"
+    },
+    {
+      "name": "Kassenmeister | AK Software GmbH (stale)",
+      "note": "German POS/cash-register software (Kassensystem). The last Stripe sync showed ~$10,825 L30 / ~$215,172 all-time, but the API key expired, and the data is from Nov 26, 2025 ~15:46 Warsaw (CET). It's flagged only because KassenSichV/TSE-compliant POS is exactly the legacy-compliance lane. Also stale and tiny: Vermieter1.de (https://trustmrr.com/startup/vermieter1-de), a German Nebenkostenabrechnung (service-charge statement) tool for private landlords (199€ lifetime option; ~$6,682 all-time; key expired, last sync Feb 3, 2026 ~09:05 Warsaw CET).",
+      "homepage": "https://www.kassenmeister.de/"
+    }
+  ]
+}

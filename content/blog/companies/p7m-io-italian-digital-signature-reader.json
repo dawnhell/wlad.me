@@ -1,0 +1,30 @@
+{
+  "slug": "p7m-io-italian-digital-signature-reader",
+  "name": "P7M.io — Italian digital signature reader",
+  "listingNote": null,
+  "description": "A browser viewer (marketed as \"DocKit\") plus iOS and Android apps that open Italian `.p7m` files: CAdES-signed envelopes used for public-sector e-invoices (FatturaPA XML.P7M), PEC attachments, notarial deeds and court filings. It verifies the signature, extracts the PDF, and renders XML e-invoices, all client-side with no upload (company-stated). The founder says it ranks #3 on Google for the core queries, gets ~40,000 organic clicks a month, has 3,297 paid orders to date, and runs with zero staff and zero paid acquisition (founder-stated). Pricing: €3.99 per document, €12.99/yr, €24.99 lifetime; in-app €1.99 export or €19.99 Pro lifetime. Founded Mar 28, 2026, IT, one person. Listed for sale at $120,000 (2.2x; first listed Oct 7, 2026).",
+  "homepage": "https://p7m.io/",
+  "image": "/blog/2026-10-08/p7m-io-italian-digital-signature-reader.webp",
+  "imageAlt": "P7M.io — Italian digital signature reader product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-08",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR ~$445, 251 active subscriptions, ~$4,604 L30 (+15.4%), ~$12,182 last 3 months, ~$20,132 all-time (since April 2026), ~75% L30 profit margin. Revenue synced Oct 8, 2026 ~02:57 Warsaw (00:57 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/confidential-startup-70"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://p7m.io/"
+        }
+      ],
+      "indieAngle": "Poland has the same pain right now. KSeF e-invoices arrive as FA(3) XML that small businesses can't read, and documents signed with Profil Zaufany or qualified XAdES signatures confuse everyone. A private, in-browser \"open / verify / convert to PDF\" tool for KSeF XML and XAdES files, with pay-per-document plus a cheap annual plan for accountants, is a weekend-sized MVP with a lot of search demand."
+    }
+  ],
+  "whyItPrints": "Italian law creates a file format that ordinary computers can't open, and lawyers, accountants and public employees run into it daily. The free alternatives upload confidential contracts to third-party servers, which is the privacy hook. MRR is small ($445) because most revenue is single-document and lifetime purchases (my inference from the pricing and 251 subs)."
+}

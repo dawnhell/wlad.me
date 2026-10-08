@@ -1,0 +1,30 @@
+{
+  "slug": "rtmp-in",
+  "name": "RTMP.IN",
+  "listingNote": "Estonia",
+  "description": "Lets you go live on Instagram from a computer. It gives you an RTMP server URL and stream key that work in OBS, vMix, Wirecast, Restream, StreamYard and so on, since Instagram itself only allows live from the phone app (company-stated). Founded Jul 2021, EE. Listed for sale at $420,000 (5.5x; first listed Dec 28, 2025; 7 offers).",
+  "homepage": "https://rtmp.in/",
+  "image": "/blog/2026-10-08/rtmp-in.webp",
+  "imageAlt": "RTMP.IN product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-08",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6,051 MRR (−3.6% L30), ~$6,395 L30, ~$114,248 last 12 months, ~$764,883 all-time, ~90% L30 profit margin, ~1,980 visitors in L30. Revenue synced Oct 8, 2026 ~04:14 Warsaw (02:14 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/rtmp-in"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://rtmp.in/"
+        }
+      ],
+      "indieAngle": "It's a pattern rather than something to clone: \"Platform X won't let you do Y from desktop or in bulk\" niches print when the workaround is tiny. Look for the ones business users hit, not creators, because they churn less and expense it."
+    }
+  ],
+  "whyItPrints": "A one-feature workaround for a platform gap: creators and brands want studio-quality Instagram lives, and Instagram doesn't offer it on desktop. ~$765k lifetime from a single utility. The risk is all platform dependency, since Instagram could ship this natively or block it. Note: TrustMRR shows only 3 active subscriptions against ~$6k MRR, so billing is probably mostly prepaid or per-period plans that TrustMRR counts oddly (my inference)."
+}

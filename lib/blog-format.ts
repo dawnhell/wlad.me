@@ -9,6 +9,8 @@ export type EvidenceKind =
   | 'creem-verified'
   | 'polar-verified'
   | 'paddle-verified'
+  | 'lemon-squeezy-verified'
+  | 'revenuecat-verified'
   | 'self-reported'
 
 export type BlogSource = {
@@ -96,6 +98,8 @@ export function evidenceLabel(kind: EvidenceKind) {
   if (kind === 'creem-verified') return 'Creem-verified'
   if (kind === 'polar-verified') return 'Polar-verified'
   if (kind === 'paddle-verified') return 'Paddle-verified'
+  if (kind === 'lemon-squeezy-verified') return 'Lemon Squeezy-verified'
+  if (kind === 'revenuecat-verified') return 'RevenueCat-verified'
   return 'Self-reported'
 }
 
@@ -123,7 +127,10 @@ export function linkedSources(homepage: string | null, sources: BlogSource[]) {
 function sentenceWith(text: string, pattern: RegExp) {
   const parts = text.split(/(?<=[.!?])\s+/).filter(Boolean)
   if (parts.length < 2) return null
-  const hit = parts.find((part) => pattern.test(part))
+  const hit = parts.find(
+    (part) =>
+      pattern.test(part) && !/\b(listed for sale|asking price|first listed)\b/i.test(part),
+  )
   if (!hit || hit === text) return null
   return hit
 }
