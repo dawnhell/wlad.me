@@ -1,0 +1,30 @@
+{
+  "slug": "sandimax",
+  "name": "Sandimax",
+  "listingNote": "Czechia",
+  "description": "A desktop dynamic-wallpaper app — \"bring your desktop to life.\" One-time $5 lifetime license (company-stated). Founded May 2025, CZ.",
+  "homepage": "https://sandimax.com/",
+  "image": "/blog/2026-10-09/sandimax.webp",
+  "imageAlt": "Sandimax product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0, ~$14,112 L30 (−3.2%), ~$39,763 last 3 months, ~$139,665 last 12 months, ~$151,655 all-time. Revenue synced Oct 9, 2026 ~04:11 Warsaw (02:11 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/sandimax"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://sandimax.com/"
+        }
+      ],
+      "indieAngle": "Same playbook for macOS / Windows utilities that feel \"done\" in a weekend: floating docks (see ExtraDock honorable mention), menu-bar weather, or a PL-keyboard / diacritics helper sold as €9 lifetime on Lemon Squeezy / Stripe."
+    }
+  ],
+  "whyItPrints": "Tiny price, huge volume. At $5 one-time, ~$14k L30 implies on the order of ~2,800 licenses in 30 days (my calculation from L30 ÷ $5), with no subscription churn to manage. Classic indie utility: App Store / SEO / impulse buy."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "applyall",
+  "name": "ApplyAll",
+  "listingNote": null,
+  "description": "\"We get people jobs.\" A done-for-you job-application service for tech / corporate / knowledge workers in the US & Canada: they apply on your behalf; pitch is \"Real interviews. Real companies. Or your money back\" (company-stated). Pricing: Standard $249 one-time, Premium $299 one-time. Founded Apr 2023, US. ~4,000 estimated users (founder-stated). Stack: Svelte, TypeScript, PostgreSQL, Elasticsearch, GCP, Stripe.",
+  "homepage": "https://www.applyall.com/",
+  "image": "/blog/2026-10-09/applyall.webp",
+  "imageAlt": "ApplyAll product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,745 MRR (−48.8% L30), 3 active subscriptions, ~$40,444 L30 (+9.7%), ~$122,543 last 3 months, ~$377,047 last 12 months, ~$852,115 all-time. Revenue synced Oct 9, 2026 ~07:00 Warsaw (05:00 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/applyall"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.applyall.com/"
+        }
+      ],
+      "indieAngle": "Same product for EU job boards (Pracuj.pl, StepStone, LinkedIn Easy Apply) sold as a €199 \"we submit 50 applications this week\" pack for Polish remote / DE / NL roles. The hard part is ops quality, not the form-filler code."
+    }
+  ],
+  "whyItPrints": "Job seekers hate filling ATS forms; they will pay a few hundred dollars once to outsource it. L30 (~$40k) ≫ MRR (~$1.7k) because almost all revenue is one-time packages, not seats — classic boring services-product hybrid. Channels: word of mouth, affiliate, LinkedIn."
+}

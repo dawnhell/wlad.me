@@ -1,0 +1,30 @@
+{
+  "slug": "personalisierter-song-de",
+  "name": "personalisierter-song.de",
+  "listingNote": null,
+  "description": "A German Shopify store that sells personalized songs for birthdays, weddings and anniversaries at €39.90 per song, ready in under 10 minutes; plants a tree per order (company-stated). Founded Jan 2025, DE. ~4,000 estimated users. Channels: SEO, newsletter, Google Ads, Meta Ads. Seller says it runs ~1 hour/week with automated production and delivery (founder-stated). Listed for sale at $85,000 (1.0x; first listed Oct 7, 2026).",
+  "homepage": "https://personalisierter-song.de/",
+  "image": "/blog/2026-10-09/personalisierter-song-de.webp",
+  "imageAlt": "personalisierter-song.de product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "shopify-verified",
+      "evidence": "MRR $0, ~$6,394 L30 (−23.9%), ~$26,927 last 3 months, ~$144,418 last 12 months, ~$194,376 all-time, ~54% L30 profit margin. Revenue synced Oct 8, 2026 ~09:54 Warsaw (07:54 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/personalisierter-song-de"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://personalisierter-song.de/"
+        }
+      ],
+      "indieAngle": "Clone for PL: \"spersonalizowana piosenka\" for imieniny / ślub / rocznica at 149–199 PLN, with Meta Ads on Instagram gift season and a Shopify + TTS/music pipeline. Or buy this one and add PL/EN locales."
+    }
+  ],
+  "whyItPrints": "Emotional gifts with a fixed SKU and automated fulfilment. No seats, no churn meetings — just ads → checkout → generated file. ~$194k all-time at roughly 1.0x asking price is a clean, small acquisition for someone who wants a DE gift brand."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "omegleweb",
+  "name": "OmegleWeb",
+  "listingNote": null,
+  "description": "A free Omegle alternative for random video and text chat with interest-based matching and moderation (company-stated). Not affiliated with Omegle.com. Founded Feb 2026, US. Pricing listed as Free on TrustMRR, with revenue from (undisclosed) premium / ads / tips — TrustMRR only shows the Stripe side.",
+  "homepage": "https://omegleweb.com/",
+  "image": "/blog/2026-10-09/omegleweb.webp",
+  "imageAlt": "OmegleWeb product image",
+  "imageWidth": 1200,
+  "imageHeight": 800,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$79,796 MRR (−29.6% L30), 2,549 active subscriptions, ~$105,646 L30 (+8.2%), ~$270,385 last 3 months, ~$327,055 all-time. Revenue synced Oct 9, 2026 ~08:10 Warsaw (06:10 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/omegleweb"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://omegleweb.com/"
+        }
+      ],
+      "indieAngle": "Don't rebuild Omegle. Take the interest-match + moderation stack and sell it as white-label \"talk to a stranger about X\" for language exchange, study partners, or niche hobbies (chess, PL language tandems) with a clear age gate and paid premium for filters."
+    }
+  ],
+  "whyItPrints": "Random-chat demand never died when Omegle shut down; whoever owns the replacement URL gets paid users fast. ~2,549 subs at ~$80k MRR in under eight months is brutal scale. Caveat: MRR is down 29.6% in L30, and consumer chat is a moderation / trust-and-safety grind, not a quiet SaaS."
+}

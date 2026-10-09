@@ -1,0 +1,30 @@
+{
+  "slug": "analytics-mates",
+  "name": "Analytics Mates",
+  "listingNote": "The Helm",
+  "description": "Agency + product behind The Helm, an analytics layer on Google Analytics data for digital marketing and e-commerce managers. Pitch: free GA4 audit, then paid product starting at $999 per website property (company-stated). Google Marketing Platform partner (founder-stated). Founded 2024, US. ~100 estimated users.",
+  "homepage": "https://www.analyticsmates.com/",
+  "image": "/blog/2026-10-09/analytics-mates.webp",
+  "imageAlt": "Analytics Mates product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,148 MRR, 4 active subscriptions, ~$26,823 L30 (+50.2%), ~$70,269 last 3 months, ~$257,480 last 12 months, ~$692,718 all-time, ~50% L30 profit margin. Revenue synced Oct 9, 2026 ~05:05 Warsaw (03:05 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/analytics-mates"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.analyticsmates.com/"
+        }
+      ],
+      "indieAngle": "A PL/EU \"GA4 / GTM cleanup + monthly KPI pack\" for mid-size shops on Shoper / IdoSell / Shopify, sold as a €790 setup + €190/mo retainer. EventDash-adjacent: sell the audit that surfaces \"your purchase event is broken,\" then upsell cookieless analytics."
+    }
+  ],
+  "whyItPrints": "GA4 broke a lot of in-house reporting; teams pay for someone to make the numbers usable again. L30 (~$27k) ≫ MRR (~$3.1k) strongly suggests audits / implementation packs on top of a few seats — same pattern as Comp AI. L30 revenue is up 50.2%."
+}

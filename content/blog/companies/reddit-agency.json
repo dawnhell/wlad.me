@@ -1,0 +1,30 @@
+{
+  "slug": "reddit-agency",
+  "name": "Reddit Agency",
+  "listingNote": null,
+  "description": "A B2B agency whose pitch is \"We'll get ChatGPT to recommend your brand or you don't pay.\" They run Reddit strategy, posting and engagement so brands show up in Reddit threads that LLMs and Google cite (founder-stated). Founded Feb 2025, US. Founder Sabyr Nurgaliyev.",
+  "homepage": "https://redditagency.com/",
+  "image": "/blog/2026-10-09/reddit-agency.webp",
+  "imageAlt": "Reddit Agency product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$51,083 MRR (+30.4% L30), 9 active subscriptions, ~$72,000 L30 (+0.2%), ~$242,275 last 3 months, ~$537,313 last 12 months, ~$561,840 all-time, ~50% L30 profit margin. Revenue synced Oct 9, 2026 ~04:41 Warsaw (02:41 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/reddit-agency"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://redditagency.com/"
+        }
+      ],
+      "indieAngle": "Productize the narrow slice: a monthly \"Reddit → ChatGPT citation\" report for PL/EU B2B SaaS (which subreddits mention you, which threads LLMs cite, what to post next). Sell the audit first at €499, then a €1.5k/mo retainer for the work."
+    }
+  ],
+  "whyItPrints": "Brands already pay agencies for SEO; this is the same cheque for \"AI search / Reddit presence.\" 9 subscriptions at ~$51k MRR implies ~$5.7k/mo average (my calculation from MRR ÷ subs) — high-ticket retainers, not self-serve seats. MRR is up 30.4% in L30."
+}

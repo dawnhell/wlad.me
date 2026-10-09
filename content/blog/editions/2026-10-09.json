@@ -1,0 +1,311 @@
+{
+  "date": "2026-10-09",
+  "title": "Friday's boring SaaS, 9 October 2026",
+  "dek": "Friday, 9 October 2026. Nine of these are Stripe-verified. personalisierter-song.de runs on Shopify, €39.90 a song.",
+  "heroId": "gull-flight",
+  "companies": [
+    {
+      "slug": "event-photo-sharing",
+      "name": "Event photo sharing",
+      "listingNote": "Stealth Company",
+      "description": "\"Photo sharing app for events\" — the TrustMRR description is that short. Founded Apr 2024, DE, stealth (no public homepage). Stack: Astro, React, TypeScript, Tailwind, Cloudflare, SQLite, Stripe. Channels: Google Ads, SEO, Instagram. Listed for sale at $1,500,000 (3.8x; first listed May 31, 2026; 6 offers; 2,429 recent viewers).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0, ~$32,886 L30 (−20.1%), ~$118,590 last 3 months, ~$311,838 last 12 months, ~$546,748 all-time, ~45% L30 profit margin. Revenue synced Oct 9, 2026 ~06:50 Warsaw (04:50 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/photo-sharing"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "PL/EU wedding + firmówka galleries with a QR code on the table, offline-friendly upload, and a €149–€499 event package that auto-expires after 90 days. Upsell printed photo books and a white-label version for wedding photographers.",
+      "whyItPrints": "Weddings and corporate events still need a place for guests to dump photos without joining yet another social network. $0 MRR with ~$33k L30 and ~$98 revenue per visitor (TrustMRR snapshot) means high-ticket event packages, not seats. L30 is down 20.1%, so the buyer would be buying distribution + product, not a growth rocket.",
+      "image": "/blog/2026-10-09/event-photo-sharing.webp",
+      "imageAlt": "Event photo sharing product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "reddit-agency",
+      "name": "Reddit Agency",
+      "listingNote": null,
+      "description": "A B2B agency whose pitch is \"We'll get ChatGPT to recommend your brand or you don't pay.\" They run Reddit strategy, posting and engagement so brands show up in Reddit threads that LLMs and Google cite (founder-stated). Founded Feb 2025, US. Founder Sabyr Nurgaliyev.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$51,083 MRR (+30.4% L30), 9 active subscriptions, ~$72,000 L30 (+0.2%), ~$242,275 last 3 months, ~$537,313 last 12 months, ~$561,840 all-time, ~50% L30 profit margin. Revenue synced Oct 9, 2026 ~04:41 Warsaw (02:41 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/reddit-agency"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://redditagency.com/"
+        }
+      ],
+      "homepage": "https://redditagency.com/",
+      "indieAngle": "Productize the narrow slice: a monthly \"Reddit → ChatGPT citation\" report for PL/EU B2B SaaS (which subreddits mention you, which threads LLMs cite, what to post next). Sell the audit first at €499, then a €1.5k/mo retainer for the work.",
+      "whyItPrints": "Brands already pay agencies for SEO; this is the same cheque for \"AI search / Reddit presence.\" 9 subscriptions at ~$51k MRR implies ~$5.7k/mo average (my calculation from MRR ÷ subs) — high-ticket retainers, not self-serve seats. MRR is up 30.4% in L30.",
+      "image": "/blog/2026-10-09/reddit-agency.webp",
+      "imageAlt": "Reddit Agency product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "omegleweb",
+      "name": "OmegleWeb",
+      "listingNote": null,
+      "description": "A free Omegle alternative for random video and text chat with interest-based matching and moderation (company-stated). Not affiliated with Omegle.com. Founded Feb 2026, US. Pricing listed as Free on TrustMRR, with revenue from (undisclosed) premium / ads / tips — TrustMRR only shows the Stripe side.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$79,796 MRR (−29.6% L30), 2,549 active subscriptions, ~$105,646 L30 (+8.2%), ~$270,385 last 3 months, ~$327,055 all-time. Revenue synced Oct 9, 2026 ~08:10 Warsaw (06:10 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/omegleweb"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://omegleweb.com/"
+        }
+      ],
+      "homepage": "https://omegleweb.com/",
+      "indieAngle": "Don't rebuild Omegle. Take the interest-match + moderation stack and sell it as white-label \"talk to a stranger about X\" for language exchange, study partners, or niche hobbies (chess, PL language tandems) with a clear age gate and paid premium for filters.",
+      "whyItPrints": "Random-chat demand never died when Omegle shut down; whoever owns the replacement URL gets paid users fast. ~2,549 subs at ~$80k MRR in under eight months is brutal scale. Caveat: MRR is down 29.6% in L30, and consumer chat is a moderation / trust-and-safety grind, not a quiet SaaS.",
+      "image": "/blog/2026-10-09/omegleweb.webp",
+      "imageAlt": "OmegleWeb product image",
+      "imageWidth": 1200,
+      "imageHeight": 800
+    },
+    {
+      "slug": "applyall",
+      "name": "ApplyAll",
+      "listingNote": null,
+      "description": "\"We get people jobs.\" A done-for-you job-application service for tech / corporate / knowledge workers in the US & Canada: they apply on your behalf; pitch is \"Real interviews. Real companies. Or your money back\" (company-stated). Pricing: Standard $249 one-time, Premium $299 one-time. Founded Apr 2023, US. ~4,000 estimated users (founder-stated). Stack: Svelte, TypeScript, PostgreSQL, Elasticsearch, GCP, Stripe.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,745 MRR (−48.8% L30), 3 active subscriptions, ~$40,444 L30 (+9.7%), ~$122,543 last 3 months, ~$377,047 last 12 months, ~$852,115 all-time. Revenue synced Oct 9, 2026 ~07:00 Warsaw (05:00 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/applyall"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.applyall.com/"
+        }
+      ],
+      "homepage": "https://www.applyall.com/",
+      "indieAngle": "Same product for EU job boards (Pracuj.pl, StepStone, LinkedIn Easy Apply) sold as a €199 \"we submit 50 applications this week\" pack for Polish remote / DE / NL roles. The hard part is ops quality, not the form-filler code.",
+      "whyItPrints": "Job seekers hate filling ATS forms; they will pay a few hundred dollars once to outsource it. L30 (~$40k) ≫ MRR (~$1.7k) because almost all revenue is one-time packages, not seats — classic boring services-product hybrid. Channels: word of mouth, affiliate, LinkedIn.",
+      "image": "/blog/2026-10-09/applyall.webp",
+      "imageAlt": "ApplyAll product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "analytics-mates",
+      "name": "Analytics Mates",
+      "listingNote": "The Helm",
+      "description": "Agency + product behind The Helm, an analytics layer on Google Analytics data for digital marketing and e-commerce managers. Pitch: free GA4 audit, then paid product starting at $999 per website property (company-stated). Google Marketing Platform partner (founder-stated). Founded 2024, US. ~100 estimated users.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,148 MRR, 4 active subscriptions, ~$26,823 L30 (+50.2%), ~$70,269 last 3 months, ~$257,480 last 12 months, ~$692,718 all-time, ~50% L30 profit margin. Revenue synced Oct 9, 2026 ~05:05 Warsaw (03:05 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/analytics-mates"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.analyticsmates.com/"
+        }
+      ],
+      "homepage": "https://www.analyticsmates.com/",
+      "indieAngle": "A PL/EU \"GA4 / GTM cleanup + monthly KPI pack\" for mid-size shops on Shoper / IdoSell / Shopify, sold as a €790 setup + €190/mo retainer. EventDash-adjacent: sell the audit that surfaces \"your purchase event is broken,\" then upsell cookieless analytics.",
+      "whyItPrints": "GA4 broke a lot of in-house reporting; teams pay for someone to make the numbers usable again. L30 (~$27k) ≫ MRR (~$3.1k) strongly suggests audits / implementation packs on top of a few seats — same pattern as Comp AI. L30 revenue is up 50.2%.",
+      "image": "/blog/2026-10-09/analytics-mates.webp",
+      "imageAlt": "Analytics Mates product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "altitude-cleaning-crew",
+      "name": "Altitude Cleaning Crew",
+      "listingNote": null,
+      "description": "House cleaning in Reno / Sparks, NV: flat-rate pricing, vetted local cleaners, recurring weekly / bi-weekly / monthly visits plus one-time deep cleans from ~$139–$249 (company-stated). 4.9 on Google with 90+ reviews (founder-stated). Founded May 2025, US. Webflow + Stripe. Same MaidsnBlack lane as the Oct 5 standout.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0, ~$18,152 L30 (+0.4%), ~$58,354 last 3 months, ~$231,461 last 12 months, ~$275,237 all-time. Revenue synced Oct 9, 2026 ~04:09 Warsaw (02:09 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/altitude-cleaning-crew"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://altitudecleaningcrew.com/"
+        }
+      ],
+      "homepage": "https://altitudecleaningcrew.com/",
+      "indieAngle": "The software angle, not the brooms: a booking + recurring billing + cleaner-dispatch SaaS for one-city cleaning companies in PL (Warsaw / Kraków / Wrocław), with a \"book in 60 seconds\" page and SMS day-before confirmations. Charge €79–€149/mo per operator.",
+      "whyItPrints": "Recurring home services with card-on-file. $0 seat MRR because customers pay per clean; L30 is steady (~$18k) and all-time is already ~$275k in ~16 months. Ads + SEO + TikTok — sweaty, not sexy.",
+      "image": "/blog/2026-10-09/altitude-cleaning-crew.webp",
+      "imageAlt": "Altitude Cleaning Crew product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "sandimax",
+      "name": "Sandimax",
+      "listingNote": "Czechia",
+      "description": "A desktop dynamic-wallpaper app — \"bring your desktop to life.\" One-time $5 lifetime license (company-stated). Founded May 2025, CZ.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0, ~$14,112 L30 (−3.2%), ~$39,763 last 3 months, ~$139,665 last 12 months, ~$151,655 all-time. Revenue synced Oct 9, 2026 ~04:11 Warsaw (02:11 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/sandimax"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://sandimax.com/"
+        }
+      ],
+      "homepage": "https://sandimax.com/",
+      "indieAngle": "Same playbook for macOS / Windows utilities that feel \"done\" in a weekend: floating docks (see ExtraDock honorable mention), menu-bar weather, or a PL-keyboard / diacritics helper sold as €9 lifetime on Lemon Squeezy / Stripe.",
+      "whyItPrints": "Tiny price, huge volume. At $5 one-time, ~$14k L30 implies on the order of ~2,800 licenses in 30 days (my calculation from L30 ÷ $5), with no subscription churn to manage. Classic indie utility: App Store / SEO / impulse buy.",
+      "image": "/blog/2026-10-09/sandimax.webp",
+      "imageAlt": "Sandimax product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "personalisierter-song-de",
+      "name": "personalisierter-song.de",
+      "listingNote": null,
+      "description": "A German Shopify store that sells personalized songs for birthdays, weddings and anniversaries at €39.90 per song, ready in under 10 minutes; plants a tree per order (company-stated). Founded Jan 2025, DE. ~4,000 estimated users. Channels: SEO, newsletter, Google Ads, Meta Ads. Seller says it runs ~1 hour/week with automated production and delivery (founder-stated). Listed for sale at $85,000 (1.0x; first listed Oct 7, 2026).",
+      "evidenceKind": "shopify-verified",
+      "evidence": "MRR $0, ~$6,394 L30 (−23.9%), ~$26,927 last 3 months, ~$144,418 last 12 months, ~$194,376 all-time, ~54% L30 profit margin. Revenue synced Oct 8, 2026 ~09:54 Warsaw (07:54 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/personalisierter-song-de"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://personalisierter-song.de/"
+        }
+      ],
+      "homepage": "https://personalisierter-song.de/",
+      "indieAngle": "Clone for PL: \"spersonalizowana piosenka\" for imieniny / ślub / rocznica at 149–199 PLN, with Meta Ads on Instagram gift season and a Shopify + TTS/music pipeline. Or buy this one and add PL/EN locales.",
+      "whyItPrints": "Emotional gifts with a fixed SKU and automated fulfilment. No seats, no churn meetings — just ads → checkout → generated file. ~$194k all-time at roughly 1.0x asking price is a clean, small acquisition for someone who wants a DE gift brand.",
+      "image": "/blog/2026-10-09/personalisierter-song-de.webp",
+      "imageAlt": "personalisierter-song.de product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "yadulink",
+      "name": "Yadulink",
+      "listingNote": "France",
+      "description": "French B2B SaaS that turns LinkedIn buying signals (profile visits, post engagement, invitations) into outreach sequences, with lead lists, CRM, unified inbox, API/webhooks/MCP. Pricing: €99/mo Pro excl. VAT; custom for teams (company-stated). Founded Apr 2024, FR, 2–5 people, ~3,000 estimated users. Stack: Django/Python, PostgreSQL, Redis, HTMX, Unipile for LinkedIn. Listed for sale at $125,000 (1.6x; first listed Sep 29, 2026; 2 offers). Seller says the developer spends ≤3 hours/week on it (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8,542 MRR (−5.0% L30), 136 active subscriptions, ~$6,570 L30 (+39.6%), ~$19,762 last 3 months, ~$104,502 last 12 months, ~$190,306 all-time, ~65% L30 profit margin. Revenue synced Oct 9, 2026 ~08:47 Warsaw (06:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/yadulink-aviclick"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://yadulink.com/"
+        }
+      ],
+      "homepage": "https://yadulink.com/",
+      "indieAngle": "Narrow to one ICP: \"LinkedIn signal → sequence\" for EU accounting / ERP consultants selling to SMBs, with Polish and German templates baked in. Or buy Yadulink and push PL/DE localization + agency reseller seats.",
+      "whyItPrints": "LinkedIn prospecting tools are a crowded but still-paying category. 136 subs at ~$8.5k MRR with +39.6% L30 growth and a sub-2x ask is a \"buy distribution, keep building\" deal — not Conductor-lane, but a clean FR SaaS for sale.",
+      "image": "/blog/2026-10-09/yadulink.webp",
+      "imageAlt": "Yadulink product image",
+      "imageWidth": 1096,
+      "imageHeight": 577
+    },
+    {
+      "slug": "get-brazil-visa",
+      "name": "Get Brazil Visa",
+      "listingNote": null,
+      "description": "A specialist desk for foreigners applying for Brazilian residency / digital-nomad / retirement / family / investor visas. It helps navigate government portals; every application is personally reviewed by a licensed Brazilian immigration lawyer; 95%+ approval rate claimed (company-stated). Pricing: $599 flat for nomad / retirement / family; investor cases quoted. Founded Dec 2025, BR. React + Cloudflare + Supabase + Stripe. Channels: SEO, content marketing. ~127k Google Search impressions in L30 (TrustMRR / GSC).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0, ~$3,067 L30 (+7.6%), ~$10,042 last 3 months, ~$16,372 all-time, ~95% L30 profit margin. Revenue synced Oct 9, 2026 ~06:36 Warsaw (04:36 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/get-brazil-visa"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://getbrazilvisa.com/"
+        }
+      ],
+      "homepage": "https://getbrazilvisa.com/",
+      "indieAngle": "The PL/EU version: \"Karta Pobytu / Blue Card / B2B contractor setup in Poland\" as a fixed-price package with document checklists, appointment booking, and a bilingual lawyer review. Or the reverse: help Poles get digital-nomad visas in Spain / Portugal / Brazil with the same $499–$799 flat structure.",
+      "whyItPrints": "Government portals are hostile; people pay once to have a human + checklist get them through. 95% margin, no seats, SEO-led. Same Conductor pattern as Fast Corp (BG company formation) and Easy Moving Permits (city curb permits).",
+      "image": "/blog/2026-10-09/get-brazil-visa.webp",
+      "imageAlt": "Get Brazil Visa product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Authex Labs (IN / UK-priced)",
+      "note": "Managed company email: delegated SPF/DMARC/MTA-STS/TLS-RPT/BIMI, Microsoft 365 access reviews, human help. £249 per managed domain per year. Stripe-verified ~$876 MRR / 19 subs / ~$896 L30 / ~$23,053 all-time, ~350 domains on the platform (founder-stated). Pure Conductor-lane email-auth glue for SMBs and MSPs — small today, correct shape.",
+      "homepage": "https://authexlabs.com/"
+    },
+    {
+      "name": "Menuline",
+      "note": "All-in-one restaurant growth (SEO site, direct ordering, loyalty, SMS/email) at $29 / $99 per month. Stripe-verified ~$4,013 L30 / ~$26,739 all-time (+28.4% L30). MRR listed as $0 on the public snapshot (likely non-subscription or not yet recognised as MRR). Independent restaurants hate DoorDash fees — classic local-services SaaS.",
+      "homepage": "http://menuline.ai/"
+    },
+    {
+      "name": "ExtraDock (Bulgaria)",
+      "note": "macOS floating multi-dock utility. One-year $9.99 / lifetime $27.90 per device. Stripe-verified ~$3,345 L30 / ~$38,577 all-time. Same Sandimax utility lane, EU founder.",
+      "homepage": "https://extradock.app/"
+    },
+    {
+      "name": "Adly (GB, Arabic marketing workspace)",
+      "note": "\"Marketing workspace that replaces the agency\" for Arabic-speaking businesses. Stripe-verified ~$3,801 MRR / 55 subs / ~$3,878 L30 / ~$19,266 all-time, 75% margin. Listed for sale at $115,000 (2.5x). Niche-language vertical SaaS. TrustMRR: https://trustmrr.com/startup/startup-bc9b221b47a5.",
+      "homepage": null
+    },
+    {
+      "name": "Françaisalondres.com",
+      "note": "French-language magazine / media for Francophones in London. £50/yr reader, £250/yr business. Stripe-verified ~$2,629 MRR / 177 subs / ~$4,875 L30 / ~$188,569 all-time. Diaspora media is a quiet subscription business.",
+      "homepage": "https://francaisalondres.com/"
+    },
+    {
+      "name": "BambooVPN",
+      "note": "Superwall-verified ~$10.0k MRR / 1,505 subs / ~$7.8k L30 / ~$171k AT; ask $800k (8.6x). TrustMRR (https://trustmrr.com/startup/bamboovpn)",
+      "homepage": null
+    },
+    {
+      "name": "EverythingWeather",
+      "note": "RevenueCat-verified ~$13.3k MRR / ~$14.9k L30 / ~$130k AT; ask $1.6M (9.0x). TrustMRR (https://trustmrr.com/startup/everythingweather)",
+      "homepage": null
+    },
+    {
+      "name": "AI Toolbox",
+      "note": "Lemon Squeezy + Polar ~$1.3k MRR / 150 subs / ~$21.0k L30 / ~$107k AT (lifetime-heavy); ask $800k (3.2x). TrustMRR (https://trustmrr.com/startup/ai-toolbox)",
+      "homepage": null
+    },
+    {
+      "name": "Mig (PL)",
+      "note": "Lemon Squeezy key expired; last sync Nov 22, 2025. Stale.",
+      "homepage": null
+    },
+    {
+      "name": "FacturaX / Prestashop E-Invoicing / aiDoks",
+      "note": "Conductor-lane e-invoicing, but ~$0–$13 verified revenue so far.",
+      "homepage": null
+    },
+    {
+      "name": "Indexsy",
+      "note": "shows ~$44k MRR / ~$86k L30 on the homepage leaderboard, but the public `/startup/indexsy.md` slug 404'd today, so I couldn't verify details for a full write-up.",
+      "homepage": null
+    }
+  ]
+}

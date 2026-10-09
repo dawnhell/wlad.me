@@ -87,6 +87,7 @@ function parseSources(body) {
 function evidenceKindFromLabel(label) {
   if (/lemon\s*squeezy/i.test(label)) return 'lemon-squeezy-verified'
   if (/revenuecat/i.test(label)) return 'revenuecat-verified'
+  if (/shopify/i.test(label)) return 'shopify-verified'
   if (/creem/i.test(label)) return 'creem-verified'
   if (/polar/i.test(label)) return 'polar-verified'
   if (/paddle/i.test(label)) return 'paddle-verified'
@@ -177,8 +178,20 @@ function parseHonorableSections(body) {
 
 function parseHonorable(body) {
   const lines = parseHonorableLines(body)
-  if (lines.length > 0) return lines
-  return parseHonorableSections(body)
+  const sections = parseHonorableSections(body).filter((section) => {
+    const raw = body.split(/\n(?=### )/).find((chunk) => chunk.trim().startsWith(`### ${section.name}`))
+    if (!raw) return true
+    const content = raw
+      .trim()
+      .split('\n')
+      .slice(1)
+      .map((line) => line.trim())
+      .filter((line) => line && line !== '---' && !line.startsWith('!') && !/^\[/.test(line))
+    return content.some((line) => !line.startsWith('- **'))
+  })
+  if (lines.length === 0) return sections
+  if (sections.length === 0) return lines
+  return [...sections, ...lines]
 }
 
 async function compressImage(inputPath, outputPath) {
@@ -265,6 +278,7 @@ function editionDek(companies, formatted) {
     ['paddle-verified', 'Paddle-verified'],
     ['lemon-squeezy-verified', 'Lemon Squeezy-verified'],
     ['revenuecat-verified', 'RevenueCat-verified'],
+    ['shopify-verified', 'Shopify-verified'],
     ['self-reported', 'self-reported'],
   ]
   const parts = labels

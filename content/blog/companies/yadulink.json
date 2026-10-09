@@ -1,0 +1,30 @@
+{
+  "slug": "yadulink",
+  "name": "Yadulink",
+  "listingNote": "France",
+  "description": "French B2B SaaS that turns LinkedIn buying signals (profile visits, post engagement, invitations) into outreach sequences, with lead lists, CRM, unified inbox, API/webhooks/MCP. Pricing: €99/mo Pro excl. VAT; custom for teams (company-stated). Founded Apr 2024, FR, 2–5 people, ~3,000 estimated users. Stack: Django/Python, PostgreSQL, Redis, HTMX, Unipile for LinkedIn. Listed for sale at $125,000 (1.6x; first listed Sep 29, 2026; 2 offers). Seller says the developer spends ≤3 hours/week on it (founder-stated).",
+  "homepage": "https://yadulink.com/",
+  "image": "/blog/2026-10-09/yadulink.webp",
+  "imageAlt": "Yadulink product image",
+  "imageWidth": 1096,
+  "imageHeight": 577,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$8,542 MRR (−5.0% L30), 136 active subscriptions, ~$6,570 L30 (+39.6%), ~$19,762 last 3 months, ~$104,502 last 12 months, ~$190,306 all-time, ~65% L30 profit margin. Revenue synced Oct 9, 2026 ~08:47 Warsaw (06:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/yadulink-aviclick"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://yadulink.com/"
+        }
+      ],
+      "indieAngle": "Narrow to one ICP: \"LinkedIn signal → sequence\" for EU accounting / ERP consultants selling to SMBs, with Polish and German templates baked in. Or buy Yadulink and push PL/DE localization + agency reseller seats."
+    }
+  ],
+  "whyItPrints": "LinkedIn prospecting tools are a crowded but still-paying category. 136 subs at ~$8.5k MRR with +39.6% L30 growth and a sub-2x ask is a \"buy distribution, keep building\" deal — not Conductor-lane, but a clean FR SaaS for sale."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "event-photo-sharing",
+  "name": "Event photo sharing",
+  "listingNote": "Stealth Company",
+  "description": "\"Photo sharing app for events\" — the TrustMRR description is that short. Founded Apr 2024, DE, stealth (no public homepage). Stack: Astro, React, TypeScript, Tailwind, Cloudflare, SQLite, Stripe. Channels: Google Ads, SEO, Instagram. Listed for sale at $1,500,000 (3.8x; first listed May 31, 2026; 6 offers; 2,429 recent viewers).",
+  "homepage": null,
+  "image": "/blog/2026-10-09/event-photo-sharing.webp",
+  "imageAlt": "Event photo sharing product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0, ~$32,886 L30 (−20.1%), ~$118,590 last 3 months, ~$311,838 last 12 months, ~$546,748 all-time, ~45% L30 profit margin. Revenue synced Oct 9, 2026 ~06:50 Warsaw (04:50 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/photo-sharing"
+        }
+      ],
+      "indieAngle": "PL/EU wedding + firmówka galleries with a QR code on the table, offline-friendly upload, and a €149–€499 event package that auto-expires after 90 days. Upsell printed photo books and a white-label version for wedding photographers."
+    }
+  ],
+  "whyItPrints": "Weddings and corporate events still need a place for guests to dump photos without joining yet another social network. $0 MRR with ~$33k L30 and ~$98 revenue per visitor (TrustMRR snapshot) means high-ticket event packages, not seats. L30 is down 20.1%, so the buyer would be buying distribution + product, not a growth rocket."
+}

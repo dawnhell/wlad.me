@@ -1,0 +1,30 @@
+{
+  "slug": "get-brazil-visa",
+  "name": "Get Brazil Visa",
+  "listingNote": null,
+  "description": "A specialist desk for foreigners applying for Brazilian residency / digital-nomad / retirement / family / investor visas. It helps navigate government portals; every application is personally reviewed by a licensed Brazilian immigration lawyer; 95%+ approval rate claimed (company-stated). Pricing: $599 flat for nomad / retirement / family; investor cases quoted. Founded Dec 2025, BR. React + Cloudflare + Supabase + Stripe. Channels: SEO, content marketing. ~127k Google Search impressions in L30 (TrustMRR / GSC).",
+  "homepage": "https://getbrazilvisa.com/",
+  "image": "/blog/2026-10-09/get-brazil-visa.webp",
+  "imageAlt": "Get Brazil Visa product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0, ~$3,067 L30 (+7.6%), ~$10,042 last 3 months, ~$16,372 all-time, ~95% L30 profit margin. Revenue synced Oct 9, 2026 ~06:36 Warsaw (04:36 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/get-brazil-visa"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://getbrazilvisa.com/"
+        }
+      ],
+      "indieAngle": "The PL/EU version: \"Karta Pobytu / Blue Card / B2B contractor setup in Poland\" as a fixed-price package with document checklists, appointment booking, and a bilingual lawyer review. Or the reverse: help Poles get digital-nomad visas in Spain / Portugal / Brazil with the same $499–$799 flat structure."
+    }
+  ],
+  "whyItPrints": "Government portals are hostile; people pay once to have a human + checklist get them through. 95% margin, no seats, SEO-led. Same Conductor pattern as Fast Corp (BG company formation) and Easy Moving Permits (city curb permits)."
+}

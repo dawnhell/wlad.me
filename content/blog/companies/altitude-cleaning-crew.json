@@ -1,0 +1,30 @@
+{
+  "slug": "altitude-cleaning-crew",
+  "name": "Altitude Cleaning Crew",
+  "listingNote": null,
+  "description": "House cleaning in Reno / Sparks, NV: flat-rate pricing, vetted local cleaners, recurring weekly / bi-weekly / monthly visits plus one-time deep cleans from ~$139–$249 (company-stated). 4.9 on Google with 90+ reviews (founder-stated). Founded May 2025, US. Webflow + Stripe. Same MaidsnBlack lane as the Oct 5 standout.",
+  "homepage": "https://altitudecleaningcrew.com/",
+  "image": "/blog/2026-10-09/altitude-cleaning-crew.webp",
+  "imageAlt": "Altitude Cleaning Crew product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-09",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0, ~$18,152 L30 (+0.4%), ~$58,354 last 3 months, ~$231,461 last 12 months, ~$275,237 all-time. Revenue synced Oct 9, 2026 ~04:09 Warsaw (02:09 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/altitude-cleaning-crew"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://altitudecleaningcrew.com/"
+        }
+      ],
+      "indieAngle": "The software angle, not the brooms: a booking + recurring billing + cleaner-dispatch SaaS for one-city cleaning companies in PL (Warsaw / Kraków / Wrocław), with a \"book in 60 seconds\" page and SMS day-before confirmations. Charge €79–€149/mo per operator."
+    }
+  ],
+  "whyItPrints": "Recurring home services with card-on-file. $0 seat MRR because customers pay per clean; L30 is steady (~$18k) and all-time is already ~$275k in ~16 months. Ads + SEO + TikTok — sweaty, not sexy."
+}

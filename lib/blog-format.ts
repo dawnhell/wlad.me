@@ -11,6 +11,7 @@ export type EvidenceKind =
   | 'paddle-verified'
   | 'lemon-squeezy-verified'
   | 'revenuecat-verified'
+  | 'shopify-verified'
   | 'self-reported'
 
 export type BlogSource = {
@@ -100,6 +101,7 @@ export function evidenceLabel(kind: EvidenceKind) {
   if (kind === 'paddle-verified') return 'Paddle-verified'
   if (kind === 'lemon-squeezy-verified') return 'Lemon Squeezy-verified'
   if (kind === 'revenuecat-verified') return 'RevenueCat-verified'
+  if (kind === 'shopify-verified') return 'Shopify-verified'
   return 'Self-reported'
 }
 
