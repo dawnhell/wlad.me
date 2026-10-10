@@ -296,6 +296,42 @@ function editionDek(companies, formatted) {
   return `Revenue notes on ${companies.length} products for ${formatted}. ${summary} Each figure links to its source.`
 }
 
+function evidenceLabel(kind) {
+  if (kind === 'stripe-verified') return 'Stripe-verified'
+  if (kind === 'creem-verified') return 'Creem-verified'
+  if (kind === 'polar-verified') return 'Polar-verified'
+  if (kind === 'paddle-verified') return 'Paddle-verified'
+  if (kind === 'lemon-squeezy-verified') return 'Lemon Squeezy-verified'
+  if (kind === 'revenuecat-verified') return 'RevenueCat-verified'
+  if (kind === 'shopify-verified') return 'Shopify-verified'
+  return 'Self-reported'
+}
+
+function firstSentence(text) {
+  const trimmed = String(text).trim()
+  for (let i = 0; i < trimmed.length; i++) {
+    const char = trimmed[i]
+    if (char === '!' || char === '?') return trimmed.slice(0, i + 1).trim()
+    if (char !== '.') continue
+    const decimal = /\d/.test(trimmed[i - 1] || '') && /\d/.test(trimmed[i + 1] || '')
+    if (!decimal) return trimmed.slice(0, i + 1).trim()
+  }
+  return trimmed
+}
+
+function figureClause(evidence) {
+  const sentence = firstSentence(evidence).replace(/[.!?]+$/, '')
+  return sentence.split(/,(?!\d)/)[0]?.trim() || sentence
+}
+
+function companyCitation(company) {
+  const latest = company.mentions[company.mentions.length - 1]
+  const figure = figureClause(latest.evidence)
+  const product = firstSentence(company.description)
+  const sentence = /[.!?]$/.test(product) ? product : `${product}.`
+  return `On ${prettyDate(latest.date)} the ${evidenceLabel(latest.evidenceKind)} figure is ${figure}. ${sentence}`
+}
+
 function prettyDate(isoDate) {
   return new Intl.DateTimeFormat('en-GB', {
     day: 'numeric',
@@ -446,7 +482,7 @@ ${rssItems}
   const companyLines = companies
     .map(
       (company) =>
-        `- [${company.name}](${siteUrl}/blog/companies/${company.slug}): ${company.description}`,
+        `- [${company.name}](${siteUrl}/blog/companies/${company.slug}): ${companyCitation(company)}`,
     )
     .join('\n')
   const llms = `# Wlad.me
@@ -471,6 +507,10 @@ ${companyLines}
 
 async function main() {
   const arg = process.argv[2]
+  if (arg === '--seo') {
+    writeSeoFiles()
+    return
+  }
   if (!arg) {
     console.error('Usage: node scripts/import-brief.mjs YYYY-MM-DD')
     process.exit(1)

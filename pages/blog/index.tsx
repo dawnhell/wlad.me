@@ -79,9 +79,10 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
           Boring SaaS
         </h1>
         <p className="max-w-[65ch] leading-relaxed text-muted-foreground">
-          Dated notes on software products that already make money. Each figure
-          is labeled Stripe-verified or self-reported, and each one links to its
-          source.
+          Dated notes on software products that already make money. A figure is
+          labeled Stripe-verified, Creem, Polar, Paddle, Lemon Squeezy,
+          RevenueCat, or Shopify when that processor is connected, and
+          self-reported when it is not. Each one links to its source.
         </p>
         <p className="flex flex-wrap gap-4 text-sm">
           <a href="/blog/about" className="text-link">
@@ -147,9 +148,8 @@ BlogIndex.getLayout = function getLayout(
 ) {
   return (
     <Layout
-      title="Boring SaaS(with revenue $$$) | Wlad"
-      description="Dated notes on handpicked software products that already make money.
-      Almost each of them is Stripe-verified with a public link to its TrustMRR listing."
+      title="Boring SaaS revenue notes | Wlad"
+      description="Dated revenue notes on software products. Figures are labeled Stripe, Creem, Polar, Paddle, Lemon Squeezy, RevenueCat, Shopify, or self-reported."
       image={pageProps.hero.src}
       mainAlign="start"
       rss

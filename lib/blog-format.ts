@@ -109,6 +109,49 @@ export function latestMention(company: Company) {
   return company.mentions[company.mentions.length - 1]
 }
 
+export function firstMention(company: Company) {
+  return company.mentions[0]
+}
+
+function firstSentence(text: string) {
+  const trimmed = text.trim()
+  for (let i = 0; i < trimmed.length; i++) {
+    const char = trimmed[i]
+    if (char === '!' || char === '?') return trimmed.slice(0, i + 1).trim()
+    if (char !== '.') continue
+    const decimal = /\d/.test(trimmed[i - 1] || '') && /\d/.test(trimmed[i + 1] || '')
+    if (!decimal) return trimmed.slice(0, i + 1).trim()
+  }
+  return trimmed
+}
+
+function figureClause(evidence: string) {
+  const sentence = firstSentence(evidence).replace(/[.!?]+$/, '')
+  return sentence.split(/,(?!\d)/)[0]?.trim() || sentence
+}
+
+function productClause(description: string) {
+  const sentence = firstSentence(description).replace(/[.!?]+$/, '')
+  return sentence.split(/\s+[—–]\s+|:\s+/)[0]?.trim() || sentence
+}
+
+function fitClause(text: string, room: number) {
+  if (text.length <= room) return text
+  const cut = text.slice(0, room).replace(/\s+\S*$/, '').trim()
+  return cut || text.slice(0, room).trim()
+}
+
+export function companyMetaDescription(company: Company) {
+  const latest = latestMention(company)
+  const lead = `On ${formatEditionDate(latest.date)} the ${evidenceLabel(latest.evidenceKind)} figure is ${figureClause(latest.evidence)}.`
+  const raw = productClause(company.description)
+  const hasEnd = /[.!?]$/.test(raw)
+  const budget = 160 - lead.length - 1 - (hasEnd ? 0 : 1)
+  const product = budget > 24 ? fitClause(raw, budget) : raw
+  const sentence = /[.!?]$/.test(product) ? product : `${product}.`
+  return `${lead} ${sentence}`
+}
+
 export function samePage(left: string, right: string) {
   try {
     const a = new URL(left)

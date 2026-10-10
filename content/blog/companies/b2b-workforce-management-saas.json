@@ -10,6 +10,18 @@
   "imageHeight": 630,
   "mentions": [
     {
+      "date": "2026-09-28",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$249.8k MRR, 2,497 subs, ~$96k L30, ~$9.22M all-time, bootstrapped, founded Jan 2021.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kl23iod2mdka"
+        }
+      ],
+      "indieAngle": null
+    },
+    {
       "date": "2026-10-10",
       "evidenceKind": "stripe-verified",
       "evidence": "~$243,487 MRR (−3.1% L30), 2,505 active subscriptions, ~$75,029 L30 (−71.6%; snapshot ~$76,174), ~$599,951 last 3 months, ~$1,441,053 last 6 months, ~$3,028,974 last 12 months, ~$9,301,725 all-time. Revenue synced Oct 10, 2026 ~07:45 Warsaw (05:45 UTC). Not listed for sale.",

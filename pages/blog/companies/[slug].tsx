@@ -8,7 +8,9 @@ import Layout from '../../../components/Layout'
 import blurbs from '../../../content/blog/blurbs.json'
 import {
   companyFaq,
+  companyMetaDescription,
   evidenceLabel,
+  firstMention,
   formatEditionDate,
   latestMention,
   linkedSources,
@@ -201,12 +203,13 @@ CompanyPage.getLayout = function getLayout(
 ) {
   const company = pageProps.company
   const latest = latestMention(company)
+  const first = firstMention(company)
   const crumbs = [
     { name: 'Blog', path: '/blog' },
     { name: 'Companies', path: '/blog#companies' },
     { name: company.name, path: `/blog/companies/${company.slug}` },
   ]
-  const description = `On ${formatEditionDate(latest.date)} the recorded figure is labeled ${evidenceLabel(latest.evidenceKind)}. ${company.description}`
+  const description = companyMetaDescription(company)
   const headline =
     latest.evidenceKind === 'self-reported'
       ? `${company.name} revenue notes`
@@ -218,14 +221,15 @@ CompanyPage.getLayout = function getLayout(
       image={company.image || '/circle_me.jpg'}
       mainAlign="start"
       ogType="article"
-      publishedTime={`${latest.date}T00:00:00Z`}
+      publishedTime={`${first.date}T00:00:00Z`}
       rss
       extraStructuredData={[
         articleSchema({
           headline,
           description,
           path: `/blog/companies/${company.slug}`,
-          date: latest.date,
+          date: first.date,
+          dateModified: latest.date,
           image: company.image,
         }),
         breadcrumbSchema(crumbs),

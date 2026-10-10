@@ -39,12 +39,14 @@ export function articleSchema({
   description,
   path,
   date,
+  dateModified,
   image,
 }: {
   headline: string
   description: string
   path: string
   date: string
+  dateModified?: string
   image?: string | null
 }) {
   return {
@@ -53,7 +55,7 @@ export function articleSchema({
     headline,
     description,
     datePublished: date,
-    dateModified: date,
+    dateModified: dateModified ?? date,
     mainEntityOfPage: absoluteUrl(path),
     url: absoluteUrl(path),
     ...(image ? { image: [absoluteUrl(image)] } : {}),
