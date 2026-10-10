@@ -3,7 +3,7 @@ import { useRouter } from 'next/router'
 import { ReactElement } from 'react'
 
 import { PERSON_ID } from '../lib/blog-format'
-import { SITE_URL } from '../lib/site'
+import { SITE_URL, canonicalPath } from '../lib/site'
 import Header from './Header'
 
 const PERSON_DESCRIPTION =
@@ -35,8 +35,7 @@ const Layout = ({
   extraStructuredData = [],
 }: ILayout) => {
   const router = useRouter()
-  const canonicalPath = router.asPath.split('?')[0] || '/'
-  const canonicalUrl = `${SITE_URL}${canonicalPath}`
+  const canonicalUrl = `${SITE_URL}${canonicalPath(router.asPath)}`
   const fullTitle = title
   const fullImage = `${SITE_URL}${image}`
   const structuredData = {

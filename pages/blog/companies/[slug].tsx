@@ -7,6 +7,7 @@ import TrustMrrChart from '../../../components/blog/TrustMrrChart'
 import Layout from '../../../components/Layout'
 import blurbs from '../../../content/blog/blurbs.json'
 import {
+  companyCrumbs,
   companyFaq,
   companyMetaDescription,
   evidenceLabel,
@@ -15,6 +16,7 @@ import {
   latestMention,
   linkedSources,
   priceLine,
+  relatedCompanies,
   type Company,
   type CompanyMention,
 } from '../../../lib/blog-format'
@@ -65,8 +67,8 @@ type CompanyPeer = { slug: string; name: string }
 
 const CompanyPage: tNextPageWithLayout<{
   company: Company
-  peers: CompanyPeer[]
-}> = ({ company, peers }) => {
+  related: CompanyPeer[]
+}> = ({ company, related }) => {
   const latest = latestMention(company)
   const earlier = company.mentions.slice(0, -1).reverse()
   const blurb = notes[company.slug]
@@ -79,13 +81,7 @@ const CompanyPage: tNextPageWithLayout<{
 
   return (
     <article className="mx-auto flex w-full max-w-3xl flex-col gap-10">
-      <Breadcrumbs
-        crumbs={[
-          { name: 'Blog', path: '/blog' },
-          { name: 'Companies', path: '/blog#companies' },
-          { name: company.name, path: `/blog/companies/${company.slug}` },
-        ]}
-      />
+      <Breadcrumbs crumbs={companyCrumbs(company)} />
 
       <div className="flex w-full flex-col gap-5">
         <header className="flex w-full flex-col gap-2">
@@ -153,13 +149,26 @@ const CompanyPage: tNextPageWithLayout<{
         <TrustMrrChart name={company.name} sources={latest.sources} />
       </div>
 
-      {peers.length > 0 ? (
+      {company.whyThisMatters ? (
+        <section className="flex w-full max-w-[65ch] flex-col gap-4">
+          <h2 className="font-serif text-3xl font-normal tracking-tight">
+            Why this matters
+          </h2>
+          {company.whyThisMatters.split(/\n\n+/).map((paragraph, index) => (
+            <p key={index} className="leading-relaxed text-pretty">
+              {paragraph}
+            </p>
+          ))}
+        </section>
+      ) : null}
+
+      {related.length > 0 ? (
         <section className="flex w-full flex-col gap-3">
           <h2 className="font-serif text-3xl font-normal tracking-tight">
-            Also on {formatEditionDate(latest.date)}
+            Related notes
           </h2>
           <p className="flex max-w-[65ch] flex-wrap gap-x-4 gap-y-2 text-sm">
-            {peers.map((peer) => (
+            {related.map((peer) => (
               <a key={peer.slug} href={`/blog/companies/${peer.slug}`} className="text-link">
                 {peer.name}
               </a>
@@ -204,11 +213,7 @@ CompanyPage.getLayout = function getLayout(
   const company = pageProps.company
   const latest = latestMention(company)
   const first = firstMention(company)
-  const crumbs = [
-    { name: 'Blog', path: '/blog' },
-    { name: 'Companies', path: '/blog#companies' },
-    { name: company.name, path: `/blog/companies/${company.slug}` },
-  ]
+  const crumbs = companyCrumbs(company)
   const description = companyMetaDescription(company)
   const headline =
     latest.evidenceKind === 'self-reported'
@@ -256,13 +261,15 @@ export async function getStaticProps({
 }: {
   params: { slug: string }
 }) {
-  const { getCompany, getEdition } = await import('../../../lib/blog')
+  const { getCompanies, getCompany, getEdition } = await import('../../../lib/blog')
   const company = getCompany(params.slug)
   if (!company) return { notFound: true }
   const latest = latestMention(company)
   const edition = getEdition(latest.date)
-  const peers = (edition?.companies ?? [])
-    .filter((entry) => entry.slug !== company.slug)
-    .map((entry) => ({ slug: entry.slug, name: entry.name }))
-  return { props: { company, peers } }
+  const related = relatedCompanies(
+    company,
+    getCompanies(),
+    (edition?.companies ?? []).map((entry) => entry.slug),
+  )
+  return { props: { company, related } }
 }

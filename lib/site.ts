@@ -1,4 +1,10 @@
 export const SITE_URL = 'https://www.wlad.me'
+
+export function canonicalPath(asPath: string) {
+  const path = asPath.split(/[?#]/)[0] || '/'
+  return path.startsWith('/') ? path : `/${path}`
+}
+
 export const FOUNDER_REF = 'wlad.me'
 
 function withFounderRef(url: string): string {

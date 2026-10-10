@@ -6,6 +6,7 @@ import { breadcrumbSchema } from '../../lib/blog-schema'
 import type { tNextPageWithLayout } from '../_app'
 
 const crumbs = [
+  { name: 'Home', path: '/' },
   { name: 'Blog', path: '/blog' },
   { name: 'About', path: '/blog/about' },
 ]

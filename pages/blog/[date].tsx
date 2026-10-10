@@ -6,6 +6,7 @@ import EditionHero from '../../components/blog/EditionHero'
 import OutboundLink from '../../components/blog/OutboundLink'
 import Layout from '../../components/Layout'
 import {
+  editionCrumbs,
   formatEditionDate,
   type Edition,
   type Hero,
@@ -33,12 +34,7 @@ const EditionPage: tNextPageWithLayout<EditionPageProps> = ({
 }) => {
   return (
     <article className="mx-auto flex w-full max-w-3xl flex-col gap-10">
-      <Breadcrumbs
-        crumbs={[
-          { name: 'Blog', path: '/blog' },
-          { name: formatEditionDate(edition.date), path: `/blog/${edition.date}` },
-        ]}
-      />
+      <Breadcrumbs crumbs={editionCrumbs(edition.date)} />
       <EditionHero hero={hero} />
       <header className="flex w-full flex-col gap-4">
         <h1 className="font-serif text-4xl font-normal tracking-tight text-balance md:text-5xl">
@@ -119,13 +115,7 @@ EditionPage.getLayout = function getLayout(
   page: ReactElement,
   pageProps: EditionPageProps,
 ) {
-  const crumbs = [
-    { name: 'Blog', path: '/blog' },
-    {
-      name: formatEditionDate(pageProps.edition.date),
-      path: `/blog/${pageProps.edition.date}`,
-    },
-  ]
+  const crumbs = editionCrumbs(pageProps.edition.date)
   return (
     <Layout
       title={`${pageProps.edition.title} | Boring SaaS`}

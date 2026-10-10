@@ -22,5 +22,6 @@
       "indieAngle": null
     }
   ],
-  "whyItPrints": null
+  "whyItPrints": null,
+  "whyThisMatters": "It's a coding site that feels like a game, and a lot of it is free. Beginner courses in Python, HTML, CSS, JavaScript, and SQL, plus one on GitHub Copilot. They talk about a big set of free interactive lessons. You practice in an editor on the site, so you don't install anything to make a first project.\n\nYou get a character, XP, badges. Short challenges. A forum and a Discord. Monthly challenges with prizes. The free layer is lessons, exercises, and something you can put in a portfolio. Then they ask you to join the club.\n\nThe club is the paid line. Full courses, including ones they mark as club-only, like data structures and Node.js. Certificates. Mentors who look at your projects. An AI helper they named Lumi, for debugging and for practice problems based on where you are. Unlimited builds, hosted there. Club nights, resume workshops, that kind of thing.\n\nThe page has learner stories. People saying they landed an internship or a first job after finishing the courses. Stories, not a placement rate. The shape is a free game-like course, then a membership if you want the mentors and the courses behind the club door.\n\nThe free lessons are the hook. The club is where the certificates, the mentors, and the courses they don't give away actually live."
 }

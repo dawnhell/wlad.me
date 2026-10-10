@@ -602,6 +602,8 @@ async function main() {
     company.mentions = company.mentions.filter((item) => item.date !== date)
     company.mentions.push(mention)
     company.mentions.sort((a, b) => a.date.localeCompare(b.date))
+    // whyThisMatters is written by hand from the homepage. The brief does not
+    // replace it, because `company` is the existing file updated in place.
     writeCompany(company)
   }
 

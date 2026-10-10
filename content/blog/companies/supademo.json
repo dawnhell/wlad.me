@@ -26,5 +26,6 @@
       "indieAngle": "Free side tools feed the main product."
     }
   ],
-  "whyItPrints": null
+  "whyItPrints": null,
+  "whyThisMatters": "You start with a recording. A Loom, a screen capture, whatever you've got. Their AI Command turns that into a demo someone can click through. You can update it, translate it, or tidy the library by typing, so a UI change doesn't mean recording the whole thing again.\n\nThere's another piece, Agentic Demos, for when nobody from sales is around. The demo can ask a few questions, figure out if the person is a fit, and pull up the right clip. That's not a slide deck in an email, and it's not a help article that hopes the reader will search.\n\nSales sends it before a call. Onboarding and training can reuse the same recording after someone has already bought. You can start for free. The free bit is the front door. The paid bit is the library, the edits, and the demos that keep running when the team is offline.\n\nThey don't open with a list of rivals. They open with drop in a recording, get something people can click.\n\nA lot of demo tools make you rebuild the tour by hand after every release. Here you keep the recording and change it by typing. Translate it when the same product sells in another language. Sales, onboarding, and training can share one library instead of three folders of video files."
 }
