@@ -1,0 +1,30 @@
+{
+  "slug": "indexsy",
+  "name": "Indexsy",
+  "listingNote": null,
+  "description": "Operator-led SEO, content, and link-building services sold as packaged products — AuditStack $50, local guest posts from $90, niche edits from $95, \"LLM Booster\" from $99, local PBN citations from $250, BrowserBlast from $250 (company-stated). Founded Dec 2015, CA. Founder Jacky Chou. Domain indexsy.com, DR 65.",
+  "homepage": "https://indexsy.com/",
+  "image": "/blog/2026-10-10/indexsy.webp",
+  "imageAlt": "Indexsy product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$44,506 MRR (−17.6% L30), 28 active subscriptions, ~$87,749 L30 (−19.4%; snapshot ~$88,204), ~$304,144 last 3 months, ~$613,728 last 6 months, ~$989,445 last 12 months, ~$2,689,990 all-time. Revenue synced Oct 10, 2026 ~04:02 Warsaw (02:02 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/indexsy-consulting-ltd"
+        },
+        {
+          "label": "Services",
+          "url": "https://indexsy.com/services"
+        }
+      ],
+      "indieAngle": "Productize one SEO SKU for PL/EU SaaS — \"ChatGPT / AI Overview citation pack\" (the Indexsy \"LLM Booster\" wedge) sold as a €499 audit + €1.5k/mo content retainer. Don't rebuild a full agency; sell one measurable outcome."
+    }
+  ],
+  "whyItPrints": "SEO services with a productized price list is the original boring internet business. 28 subscriptions at ~$44.5k MRR implies ~$1.6k/mo average retainer (my calculation) — high-ticket, not self-serve freemium. L30 cash (~$88k) > MRR because a chunk is one-time audits / link orders. Eleven years in; ~$2.7M all-time."
+}

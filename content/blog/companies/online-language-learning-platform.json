@@ -1,0 +1,26 @@
+{
+  "slug": "online-language-learning-platform",
+  "name": "Online language learning platform",
+  "listingNote": "Stealth / Confidential Startup",
+  "description": "\"Profitable online language learning platform combining live 1-on-1 tutoring with AI-powered speaking practice, personalized learning and learner analytics\" (TrustMRR / founder-stated). Tutor marketplace + subscriptions + proprietary AI practice. Founded Sep 2021, US. Team 11–25, bootstrapped. ~35,000 estimated users; \"thousands of tutors and over 1M lessons analyzed\" (founder-stated). Stack: React, React Native, Laravel, Python, Stripe. Listed for sale at $7,500,000 (1.1x; first listed Sep 16, 2026; 5 offers; ~2,767 recent viewers).",
+  "homepage": null,
+  "image": "/blog/2026-10-10/online-language-learning-platform.webp",
+  "imageAlt": "Online language learning platform product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$147,528 MRR (+8.5% L30), 655 active subscriptions, ~$591,565 L30 (+2.8%; snapshot ~$592,670), ~$1,513,978 last 3 months, ~$2,438,329 last 6 months, ~$4,442,894 last 12 months, ~$8,040,035 all-time, ~482,105 L30 visitors, ~$1.23 revenue/visitor, ~21% L30 profit margin. Asking $7,500,000 (1.1x). Revenue synced Oct 10, 2026 ~08:29 Warsaw (06:29 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/online-edtech"
+        }
+      ],
+      "indieAngle": "Don't buy a $7.5M tutor marketplace. Clone the wedge for one language pair with expensive B2B buyers (PL↔DE corporate language training, or PL nurses → DE/NO medical German) sold as company seats, not consumer freemium."
+    }
+  ],
+  "whyItPrints": "Language tutoring marketplaces are an old model; the AI speaking layer is garnish on a human-supply business that already invoices monthly. L30 cash (~$592k) is ~4× the listed MRR (~$148k) — seller message says reported MRR understates cash (nearly 5×; founder-stated). Big, real, and for sale at a low multiple if the diligence holds."
+}

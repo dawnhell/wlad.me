@@ -2,9 +2,9 @@
   "slug": "capgo",
   "name": "Capgo",
   "listingNote": null,
-  "description": "Live OTA updates + native builds, channels, rollback, and release automation for CapacitorJS apps — ship JS/CSS fixes without waiting on App Store review. Estonia, bootstrapped, team 2–5. Free 14-day trial.",
-  "homepage": "https://capgo.app",
-  "image": "/blog/2026-10-01/capgo.webp",
+  "description": "Live updates / OTA for CapacitorJS apps — ship JS/CSS fixes without waiting for App Store review, plus channels, rollback, native builds, and release automation (company-stated). Founded Nov 2021, EE. Team 2–5, bootstrapped. Founder Martin Donadieu. ~7,800 estimated users (founder-stated). SOC 2 Type II / SOC 3 / ISO 27001 (founder-stated). Stack: Astro, Vue, Supabase, Cloudflare, Resend, Stripe. DR 59.",
+  "homepage": "https://capgo.app/",
+  "image": "/blog/2026-10-10/capgo.webp",
   "imageAlt": "Capgo product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -20,7 +20,23 @@
         }
       ],
       "indieAngle": "Wrap a popular open framework's missing ops layer (OTA / CI) and charge for reliability + channels — classic boring developer infra."
+    },
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$32,254 MRR (+6.8% L30), 1,167 active subscriptions, ~$33,650 L30 (−10.7%; snapshot ~$33,773), ~$101,893 last 3 months, ~$177,989 last 6 months, ~$289,169 last 12 months, ~$555,048 all-time, ~38,047 L30 visitors, ~$0.89 revenue/visitor, ~47% L30 profit margin. Revenue synced Oct 10, 2026 ~04:06 Warsaw (02:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/capgo"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://capgo.app/"
+        }
+      ],
+      "indieAngle": "If Capacitor is crowded, do the same OTA + channel + rollback story for Expo/React Native shops that refuse full Expo EAS, or sell a \"hotfix channel\" managed service for agencies that ship 10+ client apps and hate store review roulette."
     }
   ],
-  "whyItPrints": "Mobile teams hate store review delays for hotfixes. Capgo is infra they already understand (Capacitor), billed like a deployment pipe — sticky once release channels are wired."
+  "whyItPrints": "App Store review delay is a permanent tax on mobile teams. Capgo sells the missing \"CodePush for Capacitor\" wedge — devops glue, not a consumer AI app. ~1,167 subs at ~$32k MRR with ~47% L30 margin and ~38k L30 visitors is a real B2B tools business. MRR growing +6.8% even while L30 cash is −10.7%."
 }

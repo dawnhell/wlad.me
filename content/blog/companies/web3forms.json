@@ -2,9 +2,9 @@
   "slug": "web3forms",
   "name": "Web3Forms",
   "listingNote": null,
-  "description": "Contact-form API for static sites — HTML form posts land in email/webhook with no backend/PHP. Free tier (250 submissions/mo) + paid upgrades. India-founded, Paddle billing.",
-  "homepage": "https://web3forms.com",
-  "image": "/blog/2026-10-01/web3forms.webp",
+  "description": "A no-backend contact-form API: drop an HTML form on a static site and submissions land in email / webhooks without PHP or a server (company-stated). Founded Dec 2020, IN. Founder Surjith S M. Free forever (250 submissions/mo); paid for higher limits. Stack: Next.js, Tailwind, Vercel, Hetzner, Cloudflare, Paddle. DR 85.",
+  "homepage": "https://web3forms.com/",
+  "image": "/blog/2026-10-10/web3forms.webp",
   "imageAlt": "Web3Forms product image",
   "imageWidth": 1200,
   "imageHeight": 780,
@@ -20,7 +20,23 @@
         }
       ],
       "indieAngle": "Own one painful \"I don't want a server\" developer utility, meter submissions, keep the free tier as a funnel."
+    },
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$41,988 MRR (+7.2% L30), 3,038 active subscriptions, ~$44,688 L30 (+0.4%), ~$133,499 last 3 months, ~$250,351 last 6 months, ~$318,476 all-time (L12 = AT on this profile), ~95% L30 profit margin. Revenue synced Oct 10, 2026 ~06:26 Warsaw (04:26 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/web3forms"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://web3forms.com/"
+        }
+      ],
+      "indieAngle": "Same product for EU privacy-sensitive static sites (Astro/Hugo on Cloudflare Pages): EU-hosted inbox, GDPR DPA, spam scoring, and a Zapier/Make + Notion/Sheets destination pack sold as \"Form API for EU agencies\" at €19–€49/mo."
     }
   ],
-  "whyItPrints": "Every brochure site still needs a contact form. Web3Forms sells the dumbest possible plumbing at scale — ~3k paying subs, developer word-of-mouth, almost no \"AI\" story required."
+  "whyItPrints": "Contact forms are the original developer glue. ~3,038 subscriptions at ~$42k MRR with a 95% L30 profit margin is the dream indie shape: tiny infrastructure, SEO/docs-led acquisition, and a free tier that converts when a site gets real traffic. L30 is flat (+0.4%); MRR up +7.2%."
 }

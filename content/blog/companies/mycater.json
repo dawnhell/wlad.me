@@ -2,9 +2,9 @@
   "slug": "mycater",
   "name": "MyCater",
   "listingNote": null,
-  "description": "B2B catering marketplace for French companies — breakfast, lunch, events, cocktails — with ordering, invoicing, and curated caterers in one place.",
-  "homepage": "https://mycater.fr",
-  "image": "/blog/2026-09-29/mycater.webp",
+  "description": "B2B catering marketplace for French companies — breakfast, lunch, corporate events, cocktail receptions — with curated caterers, ordering, invoicing, and support for HR / EAs / office managers (company-stated). Founded Nov 2020, FR. Team 2–5, bootstrapped. ~1,000 estimated users; 5-star rated (founder-stated). Stack: TypeScript/JS, Cloudflare, MySQL, Node.js, RabbitMQ, Sentry, Stripe. Channels: newsletter, SEO. DR 39.",
+  "homepage": "https://mycater.fr/",
+  "image": "/blog/2026-10-10/mycater.webp",
   "imageAlt": "MyCater product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -20,7 +20,23 @@
         }
       ],
       "indieAngle": "Vertical B2B marketplace where the buyer (EA/office manager) is not the caterer — you own the workflow, not the kitchen."
+    },
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$0 MRR, 0 active subscriptions, ~$70,610 L30 (+98.1%), ~$131,203 last 3 months, ~$288,968 last 6 months, ~$618,329 last 12 months, ~$2,449,537 all-time. Revenue synced Oct 10, 2026 ~05:40 Warsaw (03:40 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mycater"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://mycater.fr/"
+        }
+      ],
+      "indieAngle": "Warsaw / Kraków office-lunch marketplace with 20 vetted caterers, company invoicing (NIP / Faktura), and a Slack/Teams \"order lunch for Thursday\" bot. Charge caterers 12–15% take-rate; don't build a consumer food app."
     }
   ],
-  "whyItPrints": "Office managers already buy catering every week; MyCater takes a cut of that spend instead of selling another AI seat. Classic marketplace glue for a sleepy ops budget."
+  "whyItPrints": "Office catering is a weekly recurring ops headache. $0 seat MRR with ~$70.6k L30 (+98%) and ~$2.45M all-time means take-rate / order GMV through Stripe, not SaaS seats — classic marketplace boring. Same lane as MyTraiteur (covered Oct 7) but this is the buyer-side B2B marketplace, not a quote tool."
 }

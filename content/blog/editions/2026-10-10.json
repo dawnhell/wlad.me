@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-10",
+  "title": "Saturday's boring SaaS, 10 October 2026",
+  "dek": "Saturday, 10 October 2026. Eight are Stripe-verified. Web3Forms is Paddle-verified, and Embed Notion Pages is Lemon Squeezy.",
+  "heroId": "elephants",
+  "companies": [
+    {
+      "slug": "b2b-workforce-management-saas",
+      "name": "B2B workforce-management SaaS",
+      "listingNote": "Stealth Company",
+      "description": "TrustMRR lists it as \"B2B workforce-management SaaS\" — that is the entire public description. Founded Jan 2021, bootstrapped, founder \"david\" (~256 X followers). Stealth (no public homepage / domain). Stack on the public profile: Stripe backend only. Audience: B2B. Pricing model: \"Try for free\" (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$243,487 MRR (−3.1% L30), 2,505 active subscriptions, ~$75,029 L30 (−71.6%; snapshot ~$76,174), ~$599,951 last 3 months, ~$1,441,053 last 6 months, ~$3,028,974 last 12 months, ~$9,301,725 all-time. Revenue synced Oct 10, 2026 ~07:45 Warsaw (05:45 UTC). Not listed for sale.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kl23iod2mdka"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Pick one WFM wedge for PL/EU deskless niches that still live in Excel + WhatsApp — cleaning crews, facility maintenance, or restaurant multi-site — and sell schedule + timesheet + simple compliance docs at €8–€15/seat. Don't try to out-build UKG; own one vertical's onboarding and payroll-export formats.",
+      "whyItPrints": "Workforce management is the textbook boring vertical — schedules, time tracking, compliance paperwork for deskless teams. ~$243k MRR with 2,505 seats implies a mid-market / SMB seat product that compounds for years (my inference from MRR ÷ subs ≈ $97/mo average — my calculation). L30 cash is lumpy (−71.6%) while MRR is almost flat (−3.1%), which is what multi-year / annual SaaS often looks like on a 30-day cash window.",
+      "image": "/blog/2026-10-10/b2b-workforce-management-saas.webp",
+      "imageAlt": "B2B workforce-management SaaS product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "web3forms",
+      "name": "Web3Forms",
+      "listingNote": null,
+      "description": "A no-backend contact-form API: drop an HTML form on a static site and submissions land in email / webhooks without PHP or a server (company-stated). Founded Dec 2020, IN. Founder Surjith S M. Free forever (250 submissions/mo); paid for higher limits. Stack: Next.js, Tailwind, Vercel, Hetzner, Cloudflare, Paddle. DR 85.",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$41,988 MRR (+7.2% L30), 3,038 active subscriptions, ~$44,688 L30 (+0.4%), ~$133,499 last 3 months, ~$250,351 last 6 months, ~$318,476 all-time (L12 = AT on this profile), ~95% L30 profit margin. Revenue synced Oct 10, 2026 ~06:26 Warsaw (04:26 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/web3forms"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://web3forms.com/"
+        }
+      ],
+      "homepage": "https://web3forms.com/",
+      "indieAngle": "Same product for EU privacy-sensitive static sites (Astro/Hugo on Cloudflare Pages): EU-hosted inbox, GDPR DPA, spam scoring, and a Zapier/Make + Notion/Sheets destination pack sold as \"Form API for EU agencies\" at €19–€49/mo.",
+      "whyItPrints": "Contact forms are the original developer glue. ~3,038 subscriptions at ~$42k MRR with a 95% L30 profit margin is the dream indie shape: tiny infrastructure, SEO/docs-led acquisition, and a free tier that converts when a site gets real traffic. L30 is flat (+0.4%); MRR up +7.2%.",
+      "image": "/blog/2026-10-10/web3forms.webp",
+      "imageAlt": "Web3Forms product image",
+      "imageWidth": 1200,
+      "imageHeight": 780
+    },
+    {
+      "slug": "capgo",
+      "name": "Capgo",
+      "listingNote": null,
+      "description": "Live updates / OTA for CapacitorJS apps — ship JS/CSS fixes without waiting for App Store review, plus channels, rollback, native builds, and release automation (company-stated). Founded Nov 2021, EE. Team 2–5, bootstrapped. Founder Martin Donadieu. ~7,800 estimated users (founder-stated). SOC 2 Type II / SOC 3 / ISO 27001 (founder-stated). Stack: Astro, Vue, Supabase, Cloudflare, Resend, Stripe. DR 59.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$32,254 MRR (+6.8% L30), 1,167 active subscriptions, ~$33,650 L30 (−10.7%; snapshot ~$33,773), ~$101,893 last 3 months, ~$177,989 last 6 months, ~$289,169 last 12 months, ~$555,048 all-time, ~38,047 L30 visitors, ~$0.89 revenue/visitor, ~47% L30 profit margin. Revenue synced Oct 10, 2026 ~04:06 Warsaw (02:06 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/capgo"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://capgo.app/"
+        }
+      ],
+      "homepage": "https://capgo.app/",
+      "indieAngle": "If Capacitor is crowded, do the same OTA + channel + rollback story for Expo/React Native shops that refuse full Expo EAS, or sell a \"hotfix channel\" managed service for agencies that ship 10+ client apps and hate store review roulette.",
+      "whyItPrints": "App Store review delay is a permanent tax on mobile teams. Capgo sells the missing \"CodePush for Capacitor\" wedge — devops glue, not a consumer AI app. ~1,167 subs at ~$32k MRR with ~47% L30 margin and ~38k L30 visitors is a real B2B tools business. MRR growing +6.8% even while L30 cash is −10.7%.",
+      "image": "/blog/2026-10-10/capgo.webp",
+      "imageAlt": "Capgo product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "supliful",
+      "name": "Supliful",
+      "listingNote": "Brand On Demand, Inc.",
+      "description": "Private-label CPG dropshipping for creators — supplements, coffee, skincare, pet products — with product selection, e-commerce enablement, and fulfillment in one platform; no inventory to manage (company-stated). Founded Jun 2017, US. Founder Martins Lasmanis. Free to design; selling from $69/mo ($55/mo annual). ~1.6M estimated users (founder-stated). Domain: supliful.com, DR 71.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$179,949 MRR (−1.5% L30), 3,341 active subscriptions, ~$990,628 L30 (−0.7%; snapshot ~$991,205), ~$2,964,734 last 3 months, ~$5,972,387 last 6 months, ~$11,526,994 last 12 months, ~$53,654,567 all-time. Revenue synced Oct 10, 2026 ~05:47 Warsaw (03:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/brand-on-demand-inc"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://supliful.com/"
+        }
+      ],
+      "homepage": "https://supliful.com/",
+      "indieAngle": "Don't compete on US supplements. Build a narrow EU private-label lane (PL/DE food supplements or pet treats) with one 3PL, Shopify + Stripe Tax, and a €79/mo \"brand + fulfillment\" seat for indie creators who already have an audience.",
+      "whyItPrints": "This is fulfillment + white-label ops packaged as SaaS. L30 cash (~$991k) ≫ MRR (~$180k) because they also charge when end-customers buy products (platform take / product revenue flowing through Stripe — my inference from founder description \"We charge customers at the time they make the purchase\"). Nine figures all-time on TrustMRR. Boring physical-goods glue with software margins on the SaaS layer.",
+      "image": "/blog/2026-10-10/supliful.webp",
+      "imageAlt": "Supliful product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "online-language-learning-platform",
+      "name": "Online language learning platform",
+      "listingNote": "Stealth / Confidential Startup",
+      "description": "\"Profitable online language learning platform combining live 1-on-1 tutoring with AI-powered speaking practice, personalized learning and learner analytics\" (TrustMRR / founder-stated). Tutor marketplace + subscriptions + proprietary AI practice. Founded Sep 2021, US. Team 11–25, bootstrapped. ~35,000 estimated users; \"thousands of tutors and over 1M lessons analyzed\" (founder-stated). Stack: React, React Native, Laravel, Python, Stripe. Listed for sale at $7,500,000 (1.1x; first listed Sep 16, 2026; 5 offers; ~2,767 recent viewers).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$147,528 MRR (+8.5% L30), 655 active subscriptions, ~$591,565 L30 (+2.8%; snapshot ~$592,670), ~$1,513,978 last 3 months, ~$2,438,329 last 6 months, ~$4,442,894 last 12 months, ~$8,040,035 all-time, ~482,105 L30 visitors, ~$1.23 revenue/visitor, ~21% L30 profit margin. Asking $7,500,000 (1.1x). Revenue synced Oct 10, 2026 ~08:29 Warsaw (06:29 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/online-edtech"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Don't buy a $7.5M tutor marketplace. Clone the wedge for one language pair with expensive B2B buyers (PL↔DE corporate language training, or PL nurses → DE/NO medical German) sold as company seats, not consumer freemium.",
+      "whyItPrints": "Language tutoring marketplaces are an old model; the AI speaking layer is garnish on a human-supply business that already invoices monthly. L30 cash (~$592k) is ~4× the listed MRR (~$148k) — seller message says reported MRR understates cash (nearly 5×; founder-stated). Big, real, and for sale at a low multiple if the diligence holds.",
+      "image": "/blog/2026-10-10/online-language-learning-platform.webp",
+      "imageAlt": "Online language learning platform product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "lookup-product",
+      "name": "Lookup product",
+      "listingNote": "Stealth / Private Enterprise, UAE",
+      "description": "TrustMRR value proposition is literally \"Lookup product.\" Utilities category, $18/month pricing, solo founder (Alptekin Can), founded Jun 2026, AE. No public domain. Listed for sale at $1,400,000 (3.0x Growth tier; first listed Oct 9, 2026; 1 offer; ~213 recent viewers).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$25,489 MRR (−70.4% L30 MRR growth snapshot), 2,107 active subscriptions, ~$39,051 L30 (+157.6%; snapshot ~$39,171), ~$61,643 last 3 months, ~$63,761 all-time (L6/L12 = AT), ~95% L30 profit margin. Asking $1,400,000 (3.0x). Revenue synced Oct 10, 2026 ~08:58 Warsaw (06:58 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/private-enterprise-76"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Build a named EU registry lookup — CEIDG/KRS company cards, UDT certificates, or vehicle history for PL/CZ/SK — sold as $9–$19/mo API + web UI. Same shape as Plate Lookup / 1Lookup, localized.",
+      "whyItPrints": "\"Lookup\" businesses (VIN, plate, phone, company registry, certificate status) are pure query-API cash machines — high margin, SEO/ads acquisition, almost no support. This one is only ~4 months old with ~95% L30 margin, ~2,107 subs at $18/mo, and L30 cash up +158%. Caveat: MRR growth snapshot is −70.4% (likely a short history / plan-mix artifact on a young listing — my inference); treat diligence as mandatory before the $1.4M ask.",
+      "image": "/blog/2026-10-10/lookup-product.webp",
+      "imageAlt": "Lookup product product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "mycater",
+      "name": "MyCater",
+      "listingNote": null,
+      "description": "B2B catering marketplace for French companies — breakfast, lunch, corporate events, cocktail receptions — with curated caterers, ordering, invoicing, and support for HR / EAs / office managers (company-stated). Founded Nov 2020, FR. Team 2–5, bootstrapped. ~1,000 estimated users; 5-star rated (founder-stated). Stack: TypeScript/JS, Cloudflare, MySQL, Node.js, RabbitMQ, Sentry, Stripe. Channels: newsletter, SEO. DR 39.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$0 MRR, 0 active subscriptions, ~$70,610 L30 (+98.1%), ~$131,203 last 3 months, ~$288,968 last 6 months, ~$618,329 last 12 months, ~$2,449,537 all-time. Revenue synced Oct 10, 2026 ~05:40 Warsaw (03:40 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mycater"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://mycater.fr/"
+        }
+      ],
+      "homepage": "https://mycater.fr/",
+      "indieAngle": "Warsaw / Kraków office-lunch marketplace with 20 vetted caterers, company invoicing (NIP / Faktura), and a Slack/Teams \"order lunch for Thursday\" bot. Charge caterers 12–15% take-rate; don't build a consumer food app.",
+      "whyItPrints": "Office catering is a weekly recurring ops headache. $0 seat MRR with ~$70.6k L30 (+98%) and ~$2.45M all-time means take-rate / order GMV through Stripe, not SaaS seats — classic marketplace boring. Same lane as MyTraiteur (covered Oct 7) but this is the buyer-side B2B marketplace, not a quote tool.",
+      "image": "/blog/2026-10-10/mycater.webp",
+      "imageAlt": "MyCater product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "indexsy",
+      "name": "Indexsy",
+      "listingNote": null,
+      "description": "Operator-led SEO, content, and link-building services sold as packaged products — AuditStack $50, local guest posts from $90, niche edits from $95, \"LLM Booster\" from $99, local PBN citations from $250, BrowserBlast from $250 (company-stated). Founded Dec 2015, CA. Founder Jacky Chou. Domain indexsy.com, DR 65.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$44,506 MRR (−17.6% L30), 28 active subscriptions, ~$87,749 L30 (−19.4%; snapshot ~$88,204), ~$304,144 last 3 months, ~$613,728 last 6 months, ~$989,445 last 12 months, ~$2,689,990 all-time. Revenue synced Oct 10, 2026 ~04:02 Warsaw (02:02 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/indexsy-consulting-ltd"
+        },
+        {
+          "label": "Services",
+          "url": "https://indexsy.com/services"
+        }
+      ],
+      "homepage": "https://indexsy.com/",
+      "indieAngle": "Productize one SEO SKU for PL/EU SaaS — \"ChatGPT / AI Overview citation pack\" (the Indexsy \"LLM Booster\" wedge) sold as a €499 audit + €1.5k/mo content retainer. Don't rebuild a full agency; sell one measurable outcome.",
+      "whyItPrints": "SEO services with a productized price list is the original boring internet business. 28 subscriptions at ~$44.5k MRR implies ~$1.6k/mo average retainer (my calculation) — high-ticket, not self-serve freemium. L30 cash (~$88k) > MRR because a chunk is one-time audits / link orders. Eleven years in; ~$2.7M all-time.",
+      "image": "/blog/2026-10-10/indexsy.webp",
+      "imageAlt": "Indexsy product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "fast-corp-ltd",
+      "name": "Fast Corp Ltd.",
+      "listingNote": null,
+      "description": "Fully online Bulgarian company formation + accounting / compliance desk — company ready in 3–5 business days, 10% corporate tax pitch, EU IBAN & banking support (company-stated). Founded (TrustMRR profile), BG. Team 2–5. ~3,000 estimated users. Channels: Facebook, Instagram, Google Ads, Meta Ads, partnerships. Domain fastcorp.eu (DR 4).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$0 MRR, 0 active subscriptions, ~$8,645 L30 (0.0% growth on snapshot), ~$56,373 all-time, ~70% L30 profit margin. Revenue synced Oct 10, 2026 ~07:57 Warsaw (05:57 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/fast-corp-ltd"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://fastcorp.eu/"
+        }
+      ],
+      "homepage": "https://fastcorp.eu/",
+      "indieAngle": "\"Polish LTD / Estonian OÜ / Bulgarian EOOD in a box\" comparison funnel for indie SaaS founders who want an EU company + VAT + Stripe, sold as a €799 formation package + €99/mo bookkeeping. Partner with one local accountant; own the SEO for \"open EU company as non-resident.\"",
+      "whyItPrints": "Cross-border company formation is bureaucracy glue — same lane as Get Brazil Visa / Easy Moving Permits / P7M.io. $0 MRR with ~$8.6k L30 and ~70% L30 margin means one-time formation packages (+ maybe bookkeeping upsells) rather than seats. Ads-heavy acquisition on a low-DR domain; the product is the process, not the brand.",
+      "image": "/blog/2026-10-10/fast-corp-ltd.webp",
+      "imageAlt": "Fast Corp Ltd. product image",
+      "imageWidth": 1200,
+      "imageHeight": 623
+    },
+    {
+      "slug": "embed-notion-pages",
+      "name": "Embed Notion Pages",
+      "listingNote": null,
+      "description": "Embed public Notion pages into WordPress, Webflow, or any site without coding; content stays synced. Paid plans add password/email gates, custom CSS, bulk imports, API (company-stated). Founded Aug 2022, NL. Founder Ozan van Oosten-Şener. Free / Pro $10/mo ($96/yr, 20 embeds) / Unbound $35/mo. Stack: React, Tailwind, TypeScript, Cloudflare, Lemon Squeezy, SendGrid, Supabase. DR 45. Listed for sale at $29,900 (2.2x Starter; first listed Oct 9, 2026; 0 offers; ~264 recent viewers).",
+      "evidenceKind": "lemon-squeezy-verified",
+      "evidence": "~$1,318 MRR (−9.4% L30), 102 active subscriptions, ~$1,112 L30 (+5.3%), ~$3,130 last 3 months, ~$7,225 last 6 months, ~$17,626 last 12 months, ~$40,942 all-time, ~89% L30 profit margin. Asking $29,900 (2.2x). Owner-reported extras on profile: ~$1,067 Lemon Squeezy net last month; ~$77 opex; ~$990 cash profit before tax/owner pay (founder-stated). Revenue synced Oct 10, 2026 ~08:58 Warsaw (06:58 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/embed-notion-pages"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.embednotionpages.com/"
+        }
+      ],
+      "homepage": "https://www.embednotionpages.com/",
+      "indieAngle": "Buy it — or clone the \"gated Notion docs for client portals\" wedge for agencies (password + email allowlist + custom domain) and sell Unbound-style seats to consultancies that refuse to migrate off Notion.",
+      "whyItPrints": "Classic CMS-bridge glue. Notion's native embeds hurt growth (founder notes revenue −24% over the past year) but the paid customization / access-control layer still pays ~$1.3k MRR at ~89% margin with almost no ongoing work (founder-stated). Perfect micro-acquisition for someone who wants a quiet cash-flow app.",
+      "image": "/blog/2026-10-10/embed-notion-pages.webp",
+      "imageAlt": "Embed Notion Pages product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    }
+  ],
+  "honorableMentions": []
+}

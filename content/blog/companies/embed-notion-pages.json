@@ -1,0 +1,30 @@
+{
+  "slug": "embed-notion-pages",
+  "name": "Embed Notion Pages",
+  "listingNote": null,
+  "description": "Embed public Notion pages into WordPress, Webflow, or any site without coding; content stays synced. Paid plans add password/email gates, custom CSS, bulk imports, API (company-stated). Founded Aug 2022, NL. Founder Ozan van Oosten-Şener. Free / Pro $10/mo ($96/yr, 20 embeds) / Unbound $35/mo. Stack: React, Tailwind, TypeScript, Cloudflare, Lemon Squeezy, SendGrid, Supabase. DR 45. Listed for sale at $29,900 (2.2x Starter; first listed Oct 9, 2026; 0 offers; ~264 recent viewers).",
+  "homepage": "https://www.embednotionpages.com/",
+  "image": "/blog/2026-10-10/embed-notion-pages.webp",
+  "imageAlt": "Embed Notion Pages product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "lemon-squeezy-verified",
+      "evidence": "~$1,318 MRR (−9.4% L30), 102 active subscriptions, ~$1,112 L30 (+5.3%), ~$3,130 last 3 months, ~$7,225 last 6 months, ~$17,626 last 12 months, ~$40,942 all-time, ~89% L30 profit margin. Asking $29,900 (2.2x). Owner-reported extras on profile: ~$1,067 Lemon Squeezy net last month; ~$77 opex; ~$990 cash profit before tax/owner pay (founder-stated). Revenue synced Oct 10, 2026 ~08:58 Warsaw (06:58 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/embed-notion-pages"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.embednotionpages.com/"
+        }
+      ],
+      "indieAngle": "Buy it — or clone the \"gated Notion docs for client portals\" wedge for agencies (password + email allowlist + custom domain) and sell Unbound-style seats to consultancies that refuse to migrate off Notion."
+    }
+  ],
+  "whyItPrints": "Classic CMS-bridge glue. Notion's native embeds hurt growth (founder notes revenue −24% over the past year) but the paid customization / access-control layer still pays ~$1.3k MRR at ~89% margin with almost no ongoing work (founder-stated). Perfect micro-acquisition for someone who wants a quiet cash-flow app."
+}

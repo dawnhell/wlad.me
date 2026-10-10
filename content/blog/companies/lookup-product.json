@@ -1,0 +1,26 @@
+{
+  "slug": "lookup-product",
+  "name": "Lookup product",
+  "listingNote": "Stealth / Private Enterprise, UAE",
+  "description": "TrustMRR value proposition is literally \"Lookup product.\" Utilities category, $18/month pricing, solo founder (Alptekin Can), founded Jun 2026, AE. No public domain. Listed for sale at $1,400,000 (3.0x Growth tier; first listed Oct 9, 2026; 1 offer; ~213 recent viewers).",
+  "homepage": null,
+  "image": "/blog/2026-10-10/lookup-product.webp",
+  "imageAlt": "Lookup product product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$25,489 MRR (−70.4% L30 MRR growth snapshot), 2,107 active subscriptions, ~$39,051 L30 (+157.6%; snapshot ~$39,171), ~$61,643 last 3 months, ~$63,761 all-time (L6/L12 = AT), ~95% L30 profit margin. Asking $1,400,000 (3.0x). Revenue synced Oct 10, 2026 ~08:58 Warsaw (06:58 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/private-enterprise-76"
+        }
+      ],
+      "indieAngle": "Build a named EU registry lookup — CEIDG/KRS company cards, UDT certificates, or vehicle history for PL/CZ/SK — sold as $9–$19/mo API + web UI. Same shape as Plate Lookup / 1Lookup, localized."
+    }
+  ],
+  "whyItPrints": "\"Lookup\" businesses (VIN, plate, phone, company registry, certificate status) are pure query-API cash machines — high margin, SEO/ads acquisition, almost no support. This one is only ~4 months old with ~95% L30 margin, ~2,107 subs at $18/mo, and L30 cash up +158%. Caveat: MRR growth snapshot is −70.4% (likely a short history / plan-mix artifact on a young listing — my inference); treat diligence as mandatory before the $1.4M ask."
+}

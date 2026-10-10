@@ -1,0 +1,26 @@
+{
+  "slug": "b2b-workforce-management-saas",
+  "name": "B2B workforce-management SaaS",
+  "listingNote": "Stealth Company",
+  "description": "TrustMRR lists it as \"B2B workforce-management SaaS\" — that is the entire public description. Founded Jan 2021, bootstrapped, founder \"david\" (~256 X followers). Stealth (no public homepage / domain). Stack on the public profile: Stripe backend only. Audience: B2B. Pricing model: \"Try for free\" (founder-stated).",
+  "homepage": null,
+  "image": "/blog/2026-10-10/b2b-workforce-management-saas.webp",
+  "imageAlt": "B2B workforce-management SaaS product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$243,487 MRR (−3.1% L30), 2,505 active subscriptions, ~$75,029 L30 (−71.6%; snapshot ~$76,174), ~$599,951 last 3 months, ~$1,441,053 last 6 months, ~$3,028,974 last 12 months, ~$9,301,725 all-time. Revenue synced Oct 10, 2026 ~07:45 Warsaw (05:45 UTC). Not listed for sale.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kl23iod2mdka"
+        }
+      ],
+      "indieAngle": "Pick one WFM wedge for PL/EU deskless niches that still live in Excel + WhatsApp — cleaning crews, facility maintenance, or restaurant multi-site — and sell schedule + timesheet + simple compliance docs at €8–€15/seat. Don't try to out-build UKG; own one vertical's onboarding and payroll-export formats."
+    }
+  ],
+  "whyItPrints": "Workforce management is the textbook boring vertical — schedules, time tracking, compliance paperwork for deskless teams. ~$243k MRR with 2,505 seats implies a mid-market / SMB seat product that compounds for years (my inference from MRR ÷ subs ≈ $97/mo average — my calculation). L30 cash is lumpy (−71.6%) while MRR is almost flat (−3.1%), which is what multi-year / annual SaaS often looks like on a 30-day cash window."
+}

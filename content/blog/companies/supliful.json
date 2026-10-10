@@ -1,10 +1,10 @@
 {
   "slug": "supliful",
   "name": "Supliful",
-  "listingNote": null,
-  "description": "Private-label CPG + fulfillment for creators.",
+  "listingNote": "Brand On Demand, Inc.",
+  "description": "Private-label CPG dropshipping for creators — supplements, coffee, skincare, pet products — with product selection, e-commerce enablement, and fulfillment in one platform; no inventory to manage (company-stated). Founded Jun 2017, US. Founder Martins Lasmanis. Free to design; selling from $69/mo ($55/mo annual). ~1.6M estimated users (founder-stated). Domain: supliful.com, DR 71.",
   "homepage": "https://supliful.com/",
-  "image": "/blog/2026-09-28/supliful.webp",
+  "image": "/blog/2026-10-10/supliful.webp",
   "imageAlt": "Supliful product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -20,7 +20,23 @@
         }
       ],
       "indieAngle": "Ops-heavy, not an MVP."
+    },
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$179,949 MRR (−1.5% L30), 3,341 active subscriptions, ~$990,628 L30 (−0.7%; snapshot ~$991,205), ~$2,964,734 last 3 months, ~$5,972,387 last 6 months, ~$11,526,994 last 12 months, ~$53,654,567 all-time. Revenue synced Oct 10, 2026 ~05:47 Warsaw (03:47 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/brand-on-demand-inc"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://supliful.com/"
+        }
+      ],
+      "indieAngle": "Don't compete on US supplements. Build a narrow EU private-label lane (PL/DE food supplements or pet treats) with one 3PL, Shopify + Stripe Tax, and a €79/mo \"brand + fulfillment\" seat for indie creators who already have an audience."
     }
   ],
-  "whyItPrints": null
+  "whyItPrints": "This is fulfillment + white-label ops packaged as SaaS. L30 cash (~$991k) ≫ MRR (~$180k) because they also charge when end-customers buy products (platform take / product revenue flowing through Stripe — my inference from founder description \"We charge customers at the time they make the purchase\"). Nine figures all-time on TrustMRR. Boring physical-goods glue with software margins on the SaaS layer."
 }

@@ -1,11 +1,11 @@
 {
   "slug": "fast-corp-ltd",
-  "name": "Fast Corp Ltd",
+  "name": "Fast Corp Ltd.",
   "listingNote": null,
-  "description": "All-in-one Bulgarian EU company launch + ongoing compliance. Online EOOD/OOD formation in ~3–5 business days (formation from ~€1,500–€1,750), then optional bookkeeping/VAT/payroll (accounting from ~€229/mo). EU IBAN/banking support, virtual office, 10% corporate tax pitch. Bootstrapped, Sofia, team 2–5, ~3,000 clients claimed since 2018.",
-  "homepage": "https://fastcorp.eu",
-  "image": "/blog/2026-10-02/fast-corp-ltd.webp",
-  "imageAlt": "Fast Corp Ltd product image",
+  "description": "Fully online Bulgarian company formation + accounting / compliance desk — company ready in 3–5 business days, 10% corporate tax pitch, EU IBAN & banking support (company-stated). Founded (TrustMRR profile), BG. Team 2–5. ~3,000 estimated users. Channels: Facebook, Instagram, Google Ads, Meta Ads, partnerships. Domain fastcorp.eu (DR 4).",
+  "homepage": "https://fastcorp.eu/",
+  "image": "/blog/2026-10-10/fast-corp-ltd.webp",
+  "imageAlt": "Fast Corp Ltd. product image",
   "imageWidth": 1200,
   "imageHeight": 623,
   "mentions": [
@@ -28,7 +28,23 @@
         }
       ],
       "indieAngle": "Pick one low-tax / high-bureaucracy EU (or LatAm) jurisdiction and sell remote incorporation + bookkeeping as a productized firm. Switching costs explode once VAT and payroll live there."
+    },
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$0 MRR, 0 active subscriptions, ~$8,645 L30 (0.0% growth on snapshot), ~$56,373 all-time, ~70% L30 profit margin. Revenue synced Oct 10, 2026 ~07:57 Warsaw (05:57 UTC).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/fast-corp-ltd"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://fastcorp.eu/"
+        }
+      ],
+      "indieAngle": "\"Polish LTD / Estonian OÜ / Bulgarian EOOD in a box\" comparison funnel for indie SaaS founders who want an EU company + VAT + Stripe, sold as a €799 formation package + €99/mo bookkeeping. Partner with one local accountant; own the SEO for \"open EU company as non-resident.\""
     }
   ],
-  "whyItPrints": "Same shape as LegalOne (FR legal notices) and Khosmos (FR trade invoicing): own one country's mandatory admin stack. Formation is a high-ticket front door; monthly accounting is the sticky recurring layer. Entrepreneurs pay to avoid lawyers and tax chaos."
+  "whyItPrints": "Cross-border company formation is bureaucracy glue — same lane as Get Brazil Visa / Easy Moving Permits / P7M.io. $0 MRR with ~$8.6k L30 and ~70% L30 margin means one-time formation packages (+ maybe bookkeeping upsells) rather than seats. Ads-heavy acquisition on a low-DR domain; the product is the process, not the brand."
 }
