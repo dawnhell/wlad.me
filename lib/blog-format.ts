@@ -152,7 +152,8 @@ function processorName(kind: EvidenceKind) {
 }
 
 function moneyToken(raw: string) {
-  return raw.match(/~?\$[\d,.]+[kKmM]?/)?.[0] ?? null
+  const token = raw.match(/~?\$[\d,.]+[kKmM]?/)?.[0] ?? null
+  return token?.replace(/,+$/, '') ?? null
 }
 
 function isZeroMoney(token: string) {
@@ -313,23 +314,54 @@ export function stackClause(company: Company) {
   return null
 }
 
+function stripApprox(token: string) {
+  return token.replace(/^~/, '')
+}
+
+function howMuchAnswer(company: Company) {
+  const latest = latestMention(company)
+  const mrr = headlineMrr(latest.evidence)
+  const count = headlineCount(latest.evidence)
+  const l30 = headlineL30(latest.evidence)
+  const date = formatEditionDate(latest.date)
+  const source =
+    latest.evidenceKind === 'self-reported'
+      ? "That's self-reported."
+      : `That figure comes through ${processorName(latest.evidenceKind)}.`
+
+  let lead = ''
+  if (mrr && count) {
+    lead = `About ${stripApprox(mrr.replace(/\s*MRR$/i, ''))} a month from ${count.count} ${count.label}`
+  } else if (mrr) {
+    lead = `About ${stripApprox(mrr.replace(/\s*MRR$/i, ''))} a month`
+  } else if (l30 && count) {
+    lead = `About ${stripApprox(l30)} in the last 30 days, from ${count.count} ${count.label}`
+  } else if (l30) {
+    lead = `About ${stripApprox(l30)} in the last 30 days`
+  } else if (count) {
+    lead = `${count.count} ${count.label}`
+  } else {
+    return `The ${date} note has the figure. ${source}`
+  }
+  return `${lead}, as of ${date}. ${source}`
+}
+
 function legitAnswer(company: Company) {
   const latest = latestMention(company)
   const home = company.homepage
-    ? 'A public homepage is linked beside the figure.'
-    : 'No public homepage is listed on this page.'
+    ? "There's a public homepage linked next to it."
+    : "There's no public homepage on this page."
   if (latest.evidenceKind === 'self-reported') {
-    return `${company.name} is labeled self-reported. That is the founder's account, not a payment-processor connection. ${home}`
+    return `${company.name} is marked self-reported. So that's the founder's number, not a payment processor. ${home}`
   }
-  return `${company.name} is labeled ${evidenceLabel(latest.evidenceKind)}. That means ${processorName(latest.evidenceKind)} is the connected source of the figure, not an audit of the company. ${home}`
+  return `${company.name} is marked ${evidenceLabel(latest.evidenceKind)}. ${processorName(latest.evidenceKind)} is connected for the figure. That isn't the same as an audit. ${home}`
 }
 
 export function companyFaq(company: Company) {
-  const latest = latestMention(company)
   const items = [
     {
       question: `How much does ${company.name} make?`,
-      answer: `The ${formatEditionDate(latest.date)} note labels the figure ${evidenceLabel(latest.evidenceKind)}. The amount is in that revenue block and is not restated in this answer.`,
+      answer: howMuchAnswer(company),
     },
     {
       question: `Is ${company.name} legit?`,

@@ -43,8 +43,6 @@ function sentences(value) {
     .filter((sentence) => sentence.length >= 40)
 }
 
-const moneyInFaq = /[$€£]|\bMRR\b|\bARR\b/
-
 function proseWords(company, blurb, faq) {
   const latest = company.mentions[company.mentions.length - 1]
   return words(
@@ -109,11 +107,11 @@ for (const company of companies) {
   for (const item of faq) {
     if (questions.has(item.question)) fail(`${company.slug} repeats a FAQ question`)
     questions.add(item.question)
-    if (moneyInFaq.test(item.answer)) {
-      fail(`${company.slug} FAQ answer contains a figure: ${item.question}`)
-    }
     if (item.answer.includes(company.mentions.at(-1).evidence)) {
       fail(`${company.slug} FAQ repeats the evidence block`)
+    }
+    if (/not restated|revenue block/i.test(item.answer)) {
+      fail(`${company.slug} FAQ still points at the revenue block`)
     }
   }
 

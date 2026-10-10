@@ -152,7 +152,7 @@ const CompanyPage: tNextPageWithLayout<{
       {company.whyThisMatters ? (
         <section className="flex w-full max-w-[65ch] flex-col gap-4">
           <h2 className="font-serif text-3xl font-normal tracking-tight">
-            Why this matters
+            What it does
           </h2>
           {company.whyThisMatters.split(/\n\n+/).map((paragraph, index) => (
             <p key={index} className="leading-relaxed text-pretty">
