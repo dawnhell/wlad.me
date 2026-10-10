@@ -378,19 +378,21 @@ export function relatedCompanies(
   const docs = all.map((item) => ({ item, tokens: descriptionTokens(item) }))
   const frequency = new Map<string, number>()
   for (const doc of docs) {
-    for (const token of doc.tokens) {
+    for (const token of Array.from(doc.tokens)) {
       frequency.set(token, (frequency.get(token) ?? 0) + 1)
     }
   }
   const ceiling = Math.ceil(all.length * 0.25)
   const rare = (tokens: Set<string>) =>
-    new Set([...tokens].filter((token) => (frequency.get(token) ?? 0) <= ceiling))
+    new Set(Array.from(tokens).filter((token) => (frequency.get(token) ?? 0) <= ceiling))
   const mine = rare(descriptionTokens(company))
   const scored = docs
     .filter((doc) => doc.item.slug !== company.slug)
     .map((doc) => {
       let score = 0
-      for (const token of rare(doc.tokens)) if (mine.has(token)) score += 1
+      for (const token of Array.from(rare(doc.tokens))) {
+        if (mine.has(token)) score += 1
+      }
       return { slug: doc.item.slug, name: doc.item.name, score }
     })
     .filter((item) => item.score >= 2)
