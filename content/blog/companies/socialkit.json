@@ -1,0 +1,27 @@
+{
+  "slug": "socialkit",
+  "name": "SocialKit",
+  "listingNote": null,
+  "description": "Developers pay for one API that pulls transcripts, comments, and stats from YouTube, TikTok, Instagram, and a few other networks.",
+  "homepage": "https://www.socialkit.dev/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "self-reported",
+      "evidence": "The founder posted on r/microsaas that SocialKit is at about $2,500 MRR, plus roughly $700 to $1,000 a month in one-time purchases, so about $3,300 a month. They also said 140+ paying customers and 18,500+ users, about a year after launch.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/microsaas/comments/1utj4wv/just_hit_3300month_and_18500_users_with_my_social/"
+        }
+      ],
+      "indieAngle": "Social data as an API, not another dashboard."
+    }
+  ],
+  "whyItPrints": "Other products need the transcript or the stats, and they pay so they do not run their own scraper.",
+  "whyThisMatters": "You paste a YouTube, TikTok, or Instagram link and get the transcript, the comments, or the stats back as JSON. SocialKit is that API. You do not keep your own scraper.\n\nThe founder posted the curve on Reddit. Slow for months, then about $2,500 a month in subscriptions, plus a few hundred to about a thousand in one-time sales, so roughly $3,300 a month. They said 140 paying customers and more than 18,000 users, about a year after launch. Most of those customers still come from search.\n\nThe site lists YouTube, TikTok, Instagram, Facebook, X, and LinkedIn. You start free, then pay for more calls.\n\nOther products need the words in the video. They pay so someone else deals with the platforms.\n\nThe Reddit post says the early months were tiny, then search started to compound. He mentions blogs, free tools, and talking to users, including on WhatsApp. The new bet in that post is letting an agent call the API for a transcript or a comment thread.\n\nYou pick a platform, paste a URL, and get JSON. The docs cover YouTube, TikTok, Instagram, Facebook, X, and LinkedIn. Free to start. Paid when the calls add up. About a year old when he wrote the update."
+}

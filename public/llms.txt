@@ -9,7 +9,7 @@
 
 ## Editions
 
-- [Saturday's boring SaaS, 10 October 2026](https://www.wlad.me/blog/2026-10-10): Saturday, 10 October 2026. Eight are Stripe-verified. Web3Forms is Paddle-verified, and Embed Notion Pages is Lemon Squeezy.
+- [Boring SaaS ideas for 10 October 2026](https://www.wlad.me/blog/2026-10-10): Revenue notes on 13 products for 10 October 2026. 8 are Stripe-verified, 1 is Paddle-verified, 1 is Lemon Squeezy-verified and 3 are self-reported. Each figure links to its source.
 - [Friday's boring SaaS, 9 October 2026](https://www.wlad.me/blog/2026-10-09): Friday, 9 October 2026. Nine of these are Stripe-verified. personalisierter-song.de runs on Shopify, €39.90 a song.
 - [Thursday notes, 8 October 2026](https://www.wlad.me/blog/2026-10-08): 8 October 2026. Ten products. Stripe covers eight of them. Lemon Squeezy covers a stealth Shopify scanner, and RevenueCat covers P7M.io.
 - [Wednesday's boring SaaS, 7 October 2026](https://www.wlad.me/blog/2026-10-07): Wednesday, 7 October 2026. Ten products, all Stripe-verified. A stealth food-handler course in Spain did about $39k in the last 30 days, and it has no public site.
@@ -37,6 +37,7 @@
 - [BackPedal](https://www.wlad.me/blog/companies/backpedal): On 5 October 2026 the Stripe-verified figure is ~$25,383 MRR. London theft-recovery subscription for bikes and e-bikes.
 - [bltn](https://www.wlad.me/blog/companies/bltn): On 8 October 2026 the Stripe-verified figure is ~$2,948 L30 (−0.5%). Church bulletin software: one weekly workflow produces print-ready bulletins, digital bulletins, email newsletters, SMS broadcasts, social posts and signup forms (company-stated).
 - [Book The Move](https://www.wlad.me/blog/companies/book-the-move): On 6 October 2026 the Stripe-verified figure is ~$5,125 MRR. Done-for-you outbound for moving & storage companies.
+- [Buttondown](https://www.wlad.me/blog/companies/buttondown): On 10 October 2026 the Self-reported figure is On Indie Hackers the founder says the run rate is over $1M ARR. Writers pay for a markdown newsletter tool.
 - [Calendesk](https://www.wlad.me/blog/companies/calendesk): On 30 September 2026 the Stripe-verified figure is ~$21.5k MRR. B2B booking + payments + client portal for therapists, psychologists, coaches, lawyers, beauty/fitness — white-label, subscription packages, API-first.
 - [Capgo](https://www.wlad.me/blog/companies/capgo): On 10 October 2026 the Stripe-verified figure is ~$32,254 MRR (+6.8% L30). Live updates / OTA for CapacitorJS apps — ship JS/CSS fixes without waiting for App Store review, plus channels, rollback, native builds, and release automation (company-stated).
 - [CartBoss](https://www.wlad.me/blog/companies/cartboss): On 3 October 2026 the Stripe-verified figure is MRR $0 / 0 seat subscriptions (usage-based). Pay-as-you-go SMS abandoned-cart recovery for Shopify/WooCommerce stores.
@@ -121,6 +122,7 @@
 - [SEOBOT](https://www.wlad.me/blog/companies/seobot): On 30 September 2026 the Stripe-verified figure is ~$39.1k MRR. AI agent for SEO — keywords, research, blog, mini apps, pSEO — from John Rush's stable.
 - [Shopify Google Merchant Center compliance scanner](https://www.wlad.me/blog/companies/shopify-google-merchant-center-compliance-scanner): On 8 October 2026 the Lemon Squeezy-verified figure is ~$14,661 MRR (+29.2% L30). "A simple way to scan your Shopify shop for Google Merchant Center compliance issues.
 - [Simple Analytics](https://www.wlad.me/blog/companies/simple-analytics): On 4 October 2026 the Stripe-verified figure is ~$38,296 MRR. Privacy-first / cookieless website analytics for agencies, enterprise teams, and white-label partners.
+- [SocialKit](https://www.wlad.me/blog/companies/socialkit): On 10 October 2026 the Self-reported figure is The founder posted on r/microsaas that SocialKit is at about $2,500 MRR. Developers pay for one API that pulls transcripts, comments, and stats from YouTube, TikTok, Instagram, and a few other networks.
 - [SoldComps](https://www.wlad.me/blog/companies/soldcomps): On 30 September 2026 the Stripe-verified figure is ~$18.8k MRR. eBay sold-comps API for resellers and analysts — one keyword returns up to 200 completed sales with real prices, conditions, and dates.
 - [Stack Influence](https://www.wlad.me/blog/companies/stack-influence): On 6 October 2026 the Stripe-verified figure is ~$28,439 MRR. Micro-creator marketing platform for eCommerce / Amazon brands.
 - [Stan](https://www.wlad.me/blog/companies/stan): On 29 September 2026 the Stripe-verified figure is ~$3.57M MRR. Creator storefront / “make a living online” platform (stan.
@@ -147,3 +149,4 @@
 - [WordPress & WooCommerce maintenance business](https://www.wlad.me/blog/companies/wordpress-and-woocommerce-maintenance-business): On 7 October 2026 the Stripe-verified figure is ~$3,612 MRR (−1.9% L30). A one-person WordPress and WooCommerce maintenance business with 25 recurring US clients (founder-stated), running since 2021.
 - [Yadaphone](https://www.wlad.me/blog/companies/yadaphone): On 8 October 2026 the Stripe-verified figure is MRR ~$1,060. Cheap international calls from the browser, with no app and no phone verification.
 - [Yadulink](https://www.wlad.me/blog/companies/yadulink): On 9 October 2026 the Stripe-verified figure is ~$8,542 MRR (−5.0% L30). French B2B SaaS that turns LinkedIn buying signals (profile visits, post engagement, invitations) into outreach sequences, with lead lists, CRM, unified inbox, API/webhooks/MCP.
+- [Zernio](https://www.wlad.me/blog/companies/zernio): On 10 October 2026 the Self-reported figure is The founder told Indie Hackers the product crossed $1M ARR. Developers pay for one API that posts, schedules, and reads messages across a bunch of social apps, so they do not integrate each network themselves.

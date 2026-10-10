@@ -1,0 +1,31 @@
+{
+  "slug": "buttondown",
+  "name": "Buttondown",
+  "listingNote": null,
+  "description": "Writers pay for a markdown newsletter tool. Justin Duke started it in 2017 because the big email tools felt bloated.",
+  "homepage": "https://buttondown.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "self-reported",
+      "evidence": "On Indie Hackers the founder says the run rate is over $1M ARR. GetLatka's older public estimate is about $392k for 2024, so the two sources do not match. Treat the million as the founder's claim.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/tech/growing-a-side-project-in-a-crowded-market-to-1m-arr-by-playing-the-long-game-eL15KZvm2ax20BtiM5i8"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/buttondown"
+        }
+      ],
+      "indieAngle": "A quiet newsletter product that people switch to from Mailchimp."
+    }
+  ],
+  "whyItPrints": "People already send a newsletter. They pay so the tool stays out of the way.",
+  "whyThisMatters": "You write a newsletter in markdown and send it. Buttondown is that tool. Justin Duke started it in 2017, on the side, because the big email products felt noisy.\n\nHe says it now runs for tens of thousands of writers, from a dozen friends up to big lists, and that the run rate is over a million a year. An older Latka page estimates a much smaller year. Those two numbers do not match, so the million is his claim, not a processor export.\n\nHe also says most growth is people telling a friend, and that a person still answers support. No outside funding. The product is the quiet newsletter, not a marketing suite.\n\nWriters already have the list. They pay so the software stays out of the draft.\n\nHe built it for himself first. The writing box is markdown. The send is the product. Hobby lists and company lists sit on the same tool. He says someone leaves a much bigger email product for this every day, which is his way of saying the switch is the growth.\n\nThere is no funding round in the story. The Latka page is an older estimate, and it is lower, so do not treat the two as the same number. The note here is the founder's post, with that caveat next to it."
+}

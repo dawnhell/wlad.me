@@ -175,6 +175,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/buttondown</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/calendesk</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -679,6 +685,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/socialkit</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/soldcomps</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -831,6 +843,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/yadulink</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/zernio</loc>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

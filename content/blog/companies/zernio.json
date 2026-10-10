@@ -1,0 +1,27 @@
+{
+  "slug": "zernio",
+  "name": "Zernio",
+  "listingNote": null,
+  "description": "Developers pay for one API that posts, schedules, and reads messages across a bunch of social apps, so they do not integrate each network themselves.",
+  "homepage": "https://zernio.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-10",
+      "evidenceKind": "self-reported",
+      "evidence": "The founder told Indie Hackers the product crossed $1M ARR, a bit over $83k a month, on Starter $19, Accelerate $49, and Unlimited $999 plans. Bootstrapped, team of 9 in Spain, founded 2025.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/tech/leaving-his-vc-backed-company-to-bootstrap-a-product-to-1m-arr-in-10-months-42RGhUiSGBTIdX6zLsaD"
+        }
+      ],
+      "indieAngle": "One social API instead of seventeen OAuth setups."
+    }
+  ],
+  "whyItPrints": "Apps that post for their users will pay so someone else keeps the platform logins working.",
+  "whyThisMatters": "You build an app that needs to post somewhere. TikTok wants one login flow. Instagram wants another. LinkedIn does its own thing. Zernio is the one API in the middle, so you connect once.\n\nThe founder, Miquel Palet, says he left a VC-backed company to build this. Plans are Starter, Accelerate, and Unlimited. You start on a free plan and pay when you connect more accounts. There is no demo. You sign up and try it.\n\nNine people in Spain. No outside money. They say the product crossed a million a year about ten months in. The public about page says the team is in Girona and that they also cover comments, DMs, and ads, not only the post button.\n\nThat is the job. Keep the platform logins working so the app can ship the post.\n\nThe about page says you get comments, DMs, analytics, and ads on the same key, not only the publish button. They list a lot of networks, including the usual ones plus a few messaging apps. Unlimited is the plan for a product that connects accounts for its own users. The cheaper plans are for trying it.\n\nThey say you can grab a key and make a call in a few minutes. No sales call. The changelog is public. Nine people, and they say they want to stay that size."
+}

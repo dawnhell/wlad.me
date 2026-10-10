@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
   "title": "Saturday's boring SaaS, 10 October 2026",
-  "dek": "Saturday, 10 October 2026. Eight are Stripe-verified. Web3Forms is Paddle-verified, and Embed Notion Pages is Lemon Squeezy.",
+  "dek": "Saturday, 10 October 2026. Eight are Stripe-verified. Web3Forms is Paddle-verified, Embed Notion Pages is Lemon Squeezy, and Zernio, Buttondown, and SocialKit are self-reported.",
   "heroId": "elephants",
   "companies": [
     {
@@ -180,7 +180,7 @@
           "url": "https://trustmrr.com/startup/indexsy-consulting-ltd"
         },
         {
-          "label": "Services",
+          "label": "Homepage",
           "url": "https://indexsy.com/services"
         }
       ],
@@ -241,7 +241,105 @@
       "imageAlt": "Embed Notion Pages product image",
       "imageWidth": 1200,
       "imageHeight": 628
+    },
+    {
+      "slug": "zernio",
+      "name": "Zernio",
+      "listingNote": null,
+      "description": "Developers pay for one API that posts, schedules, and reads messages across a bunch of social apps, so they do not integrate each network themselves.",
+      "evidenceKind": "self-reported",
+      "evidence": "The founder told Indie Hackers the product crossed $1M ARR, a bit over $83k a month, on Starter $19, Accelerate $49, and Unlimited $999 plans. Bootstrapped, team of 9 in Spain, founded 2025.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/tech/leaving-his-vc-backed-company-to-bootstrap-a-product-to-1m-arr-in-10-months-42RGhUiSGBTIdX6zLsaD"
+        }
+      ],
+      "homepage": "https://zernio.com/",
+      "indieAngle": "One social API instead of seventeen OAuth setups.",
+      "whyItPrints": "Apps that post for their users will pay so someone else keeps the platform logins working.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "buttondown",
+      "name": "Buttondown",
+      "listingNote": null,
+      "description": "Writers pay for a markdown newsletter tool. Justin Duke started it in 2017 because the big email tools felt bloated.",
+      "evidenceKind": "self-reported",
+      "evidence": "On Indie Hackers the founder says the run rate is over $1M ARR. GetLatka's older public estimate is about $392k for 2024, so the two sources do not match. Treat the million as the founder's claim.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/tech/growing-a-side-project-in-a-crowded-market-to-1m-arr-by-playing-the-long-game-eL15KZvm2ax20BtiM5i8"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/buttondown"
+        }
+      ],
+      "homepage": "https://buttondown.com/",
+      "indieAngle": "A quiet newsletter product that people switch to from Mailchimp.",
+      "whyItPrints": "People already send a newsletter. They pay so the tool stays out of the way.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "socialkit",
+      "name": "SocialKit",
+      "listingNote": null,
+      "description": "Developers pay for one API that pulls transcripts, comments, and stats from YouTube, TikTok, Instagram, and a few other networks.",
+      "evidenceKind": "self-reported",
+      "evidence": "The founder posted on r/microsaas that SocialKit is at about $2,500 MRR, plus roughly $700 to $1,000 a month in one-time purchases, so about $3,300 a month. They also said 140+ paying customers and 18,500+ users, about a year after launch.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/microsaas/comments/1utj4wv/just_hit_3300month_and_18500_users_with_my_social/"
+        }
+      ],
+      "homepage": "https://www.socialkit.dev/",
+      "indieAngle": "Social data as an API, not another dashboard.",
+      "whyItPrints": "Other products need the transcript or the stats, and they pay so they do not run their own scraper.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
     }
   ],
-  "honorableMentions": []
+  "honorableMentions": [
+    {
+      "name": "Certified Payroll",
+      "note": "Contractors on US federal jobs pay $79 a month so the weekly WH-347 payroll form fills itself and the wage rates get checked against SAM.gov. No customer count in the post.",
+      "homepage": "https://certifiedpayroll.co/"
+    },
+    {
+      "name": "JobNook",
+      "note": "Electricians, plumbers, and HVAC shops get quotes, jobs, and invoices in one simple app, priced at $19.99 or $49. Still in beta, no revenue posted.",
+      "homepage": null
+    },
+    {
+      "name": "term-in",
+      "note": "Hair salons in Germany book appointments in the app instead of on paper. Plans start at €29 a month. The founder says it just launched and has no revenue yet.",
+      "homepage": "https://term-in.app"
+    },
+    {
+      "name": "Creedn",
+      "note": "Creators get a separate inbox for brand deals, plus a pipeline and invoices, so pitches do not sit in DMs. No revenue posted.",
+      "homepage": "https://www.creedn.com/"
+    },
+    {
+      "name": "Plummerly",
+      "note": "Plumbing companies get scheduling, customers, and billing in one place. Capterra lists a flat $9.95 a month. The Indie Hackers post is a feedback ask, not a revenue update.",
+      "homepage": "https://plummerly.com/"
+    },
+    {
+      "name": "ActualMRR",
+      "note": "Founders connect Stripe or RevenueCat and get a badge that shows the real monthly number, instead of a screenshot. No revenue for the badge product itself.",
+      "homepage": "https://actualmrr.com"
+    }
+  ]
 }
