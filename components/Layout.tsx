@@ -2,6 +2,8 @@ import Head from 'next/head'
 import { useRouter } from 'next/router'
 import { ReactElement } from 'react'
 
+import { GrainMesh } from '@/components/ui/grain-mesh'
+import { cn } from '@/lib/utils'
 import { PERSON_ID } from '../lib/blog-format'
 import { SITE_URL, canonicalPath } from '../lib/site'
 import Header from './Header'
@@ -20,6 +22,7 @@ interface ILayout {
   publishedTime?: string
   rss?: boolean
   extraStructuredData?: object[]
+  atmosphere?: boolean
 }
 
 const Layout = ({
@@ -33,6 +36,7 @@ const Layout = ({
   publishedTime,
   rss = false,
   extraStructuredData = [],
+  atmosphere = false,
 }: ILayout) => {
   const router = useRouter()
   const canonicalUrl = `${SITE_URL}${canonicalPath(router.asPath)}`
@@ -145,14 +149,25 @@ const Layout = ({
         ))}
       </Head>
 
-      <div className="w-full bg-background px-6 py-10 sm:px-10 sm:py-16">
+      <div
+        className={cn(
+          'w-full bg-background px-6 py-10 sm:px-10 sm:py-16',
+          atmosphere && 'relative isolate'
+        )}
+      >
+        {atmosphere ? <GrainMesh variant="landing" /> : null}
         <a
           href="#main"
           className="no-print sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-background focus:px-3 focus:py-2 focus:text-foreground focus:ring-2 focus:ring-ring"
         >
           Skip to content
         </a>
-        <div className="container mx-auto md:max-w-screen-md lg:max-w-screen-lg">
+        <div
+          className={cn(
+            'container mx-auto md:max-w-screen-md lg:max-w-screen-lg',
+            atmosphere && 'relative z-10'
+          )}
+        >
           {withHeader ? <Header /> : null}
 
           <main

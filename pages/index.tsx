@@ -21,6 +21,7 @@ const Home: tNextPageWithLayout = () => (
 Home.getLayout = function getLayout(page: ReactElement) {
   return (
     <Layout
+      atmosphere
       title="Senior UI Engineer Portfolio | Wlad"
       description="Senior UI engineer with 9+ years in React and TypeScript. Creator of Complience.app, NextBento, and EventDash. Building fast, accessible interfaces with clean architecture."
     >

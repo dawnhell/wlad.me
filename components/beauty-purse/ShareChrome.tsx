@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import type { ReactNode } from 'react'
 
+import { GrainMesh } from '@/components/ui/grain-mesh'
 import {
   APP_DISPLAY_NAME,
   LEGAL_BASE_PATH,
@@ -52,6 +53,7 @@ const ShareChrome = ({
         `}</style>
       </Head>
       <div className={styles.page}>
+        <GrainMesh variant="beauty" />
         <header className={styles.top}>
           <span className={styles.wordmark}>{APP_DISPLAY_NAME}</span>
         </header>

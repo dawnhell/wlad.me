@@ -9,6 +9,8 @@
   --plum: #2d1b2e;
   --line: rgba(196, 96, 138, 0.16);
 
+  position: relative;
+  isolation: isolate;
   min-height: 100vh;
   color: var(--ink);
   color-scheme: light;
@@ -16,6 +18,13 @@
   background:
     radial-gradient(1200px 480px at 50% -80px, rgba(255, 255, 255, 0.55), transparent 60%),
     linear-gradient(165deg, var(--rose) 0%, var(--petal) 38%, var(--blush) 72%, var(--cream) 100%);
+}
+
+.top,
+.sheet,
+.foot {
+  position: relative;
+  z-index: 1;
 }
 
 .top {
