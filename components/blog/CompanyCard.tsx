@@ -1,4 +1,4 @@
-import { Link2 } from 'lucide-react'
+import { ExternalLink } from 'lucide-react'
 import Image from 'next/image'
 
 import blurbs from '../../content/blog/blurbs.json'
@@ -27,12 +27,12 @@ const CompanyCard = ({
         <h2 className="font-serif text-3xl font-normal tracking-tight text-balance">
           <a
             href={`/blog/companies/${company.slug}`}
-            className="group transition-colors duration-150 [transition-timing-function:var(--ease-out)] fine-hover:text-primary"
+            className="group inline-flex items-center gap-2 transition-colors duration-150 [transition-timing-function:var(--ease-out)] fine-hover:text-primary"
           >
             {company.name}
-            <Link2
+            <ExternalLink
               aria-hidden
-              className="ml-2 inline size-[0.9em] align-[-0.1em] text-muted-foreground transition-colors duration-150 [transition-timing-function:var(--ease-out)] group-hover:text-primary"
+              className="size-[0.55em] shrink-0 text-muted-foreground transition-colors duration-150 [transition-timing-function:var(--ease-out)] group-hover:text-primary"
             />
             <span className="sr-only"> company note</span>
           </a>
