@@ -38,5 +38,6 @@
       "indieAngle": "If Capacitor is crowded, do the same OTA + channel + rollback story for Expo/React Native shops that refuse full Expo EAS, or sell a \"hotfix channel\" managed service for agencies that ship 10+ client apps and hate store review roulette."
     }
   ],
-  "whyItPrints": "App Store review delay is a permanent tax on mobile teams. Capgo sells the missing \"CodePush for Capacitor\" wedge — devops glue, not a consumer AI app. ~1,167 subs at ~$32k MRR with ~47% L30 margin and ~38k L30 visitors is a real B2B tools business. MRR growing +6.8% even while L30 cash is −10.7%."
+  "whyItPrints": "App Store review delay is a permanent tax on mobile teams. Capgo sells the missing \"CodePush for Capacitor\" wedge — devops glue, not a consumer AI app. ~1,167 subs at ~$32k MRR with ~47% L30 margin and ~38k L30 visitors is a real B2B tools business. MRR growing +6.8% even while L30 cash is −10.7%.",
+  "whyThisMatters": "You ship a JavaScript or CSS fix to a Capacitor app without waiting on the App Store. It goes on a channel, you can roll it out in stages, and you can roll it back. They also build the signed iOS and Android files in the cloud, so you don't need a Mac on the desk.\n\nYou publish from the terminal or from your build pipeline. There's native push, release logs, and more than one hundred fifty open-source plugins. They also offer a way off Ionic's enterprise plugins.\n\nMartin Donadieu started it in Estonia in November 2021. Two to five people, still bootstrapped. He says they hold SOC 2 Type II, SOC 3, and ISO 27001."
 }

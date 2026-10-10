@@ -26,5 +26,6 @@
       "indieAngle": "Same play for PL real-estate CRMs (Asari, Galactica Virgo, EstiCRM, IMO) → WordPress/Webflow, or for car-dealer DMS → dealer website. Charge setup + annual maintenance; each new supported feed is a new SEO landing page."
     }
   ],
-  "whyItPrints": "Pure Conductor-lane legacy glue. Agencies already pay for vertical CRMs that export XML/FTP feeds, and WordPress agencies don't want to rebuild sites. Tiny ACV, but integration maintenance is the recurring fee and switching is near-zero churn."
+  "whyItPrints": "Pure Conductor-lane legacy glue. Agencies already pay for vertical CRMs that export XML/FTP feeds, and WordPress agencies don't want to rebuild sites. Tiny ACV, but integration maintenance is the recurring fee and switching is near-zero churn.",
+  "whyThisMatters": "French agencies already type listings into their own software. ImmoWP copies them onto the agency's WordPress site. Price, photos, the energy label, and a sold flag update several times a day. They say a failed import gets caught.\n\nThey connect the feed in about five working days. You can try it for 10 days before you pay. The first year includes the install. If the site has no property pages yet, a plugin adds the catalog and the map.\n\nHektor, Apimo, Netty, and Immofacile are on the list, and they say more than 75 tools can connect. The site says more than 200 agencies are on it."
 }

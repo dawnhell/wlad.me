@@ -22,5 +22,6 @@
       "indieAngle": "Own one painful workflow inside a trading stack (copy, journal, risk) and charge $19/mo forever."
     }
   ],
-  "whyItPrints": "Retail traders pay monthly for copy/journal tooling. Narrow fintech utility with hundreds of subs and nearly $500k lifetime — not a consumer social app."
+  "whyItPrints": "Retail traders pay monthly for copy/journal tooling. Narrow fintech utility with hundreds of subs and nearly $500k lifetime — not a consumer social app.",
+  "whyThisMatters": "Traders use Heron Copier to copy a position from one account to another. It covers cTrader, MetaTrader 4, MetaTrader 5, TradeLocker, MatchTrader, DXtrade, and Telegram. The cloud version doesn't need a VPS. If you'd rather run it yourself, there's a local copier too.\n\nYou set a master account and the slaves that follow it. Locally, one license can attach as many of those as you want. Each slave can size the trade its own way. Stop-loss and take-profit can copy over, or shift by a few pips. Different broker symbol names can be mapped. There's a reverse mode, a button that closes every trade, and balance or equity limits for prop-firm accounts. If a firm blocks the API, a non-API mode can still copy.\n\nYou watch the accounts on one dashboard, with a map of which account feeds which. Email fires when a trade opens or closes. A journal sits next to the copier. A short wizard sets up the master and the slaves. The company started in Indonesia in June 2023. The charts come from TradingView. Refer someone and you earn a commission on the sale."
 }

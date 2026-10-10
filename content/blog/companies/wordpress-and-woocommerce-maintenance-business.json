@@ -22,5 +22,6 @@
       "indieAngle": "For you specifically: a Next.js/Supabase \"care plan\" for small SaaS and agency-built sites (dependency bumps, Supabase/Stripe key rotation, uptime, backups) at $99–$199/mo. It's the same model with a more modern stack and fewer competitors."
     }
   ],
-  "whyItPrints": "Care plans are the most boring recurring revenue in web work: clients pay monthly so their site never breaks, and the work is mostly automated. 23 subs at ~$157/mo average (my calculation)."
+  "whyItPrints": "Care plans are the most boring recurring revenue in web work: clients pay monthly so their site never breaks, and the work is mostly automated. 23 subs at ~$157/mo average (my calculation).",
+  "whyThisMatters": "There's no public site. The listing calls it a stealth company. It reads like a sale pitch, and it isn't for sale.\n\nOne person looks after WordPress and WooCommerce sites for clients in the US. Updates, backups, security, and the odd extra project. The founder says it takes about twelve hours a month, with no employees, and that most of the work runs on its own. They count twenty-five recurring clients. It's been going since 2021.\n\nThe card processor only shows billing from June 2024. The founder says the lifetime total, once you count the years before that, is higher than what the processor shows."
 }

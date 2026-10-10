@@ -22,5 +22,6 @@
       "indieAngle": "Own one courthouse/public-record niche (probate, tax liens, code violations, liquor licenses) and sell enriched leads on a subscription. Bureaucracy is the data moat."
     }
   ],
-  "whyItPrints": "Court → lead → investor data glue. Zero AI-demo energy: scrape/enrich probate filings, charge subscriptions for inventory. Sticky because lead quality compounds with court relationships."
+  "whyItPrints": "Court → lead → investor data glue. Zero AI-demo energy: scrape/enrich probate filings, charge subscriptions for inventory. Sticky because lead quality compounds with court relationships.",
+  "whyThisMatters": "Real estate investors and agents pay monthly for probate leads. The owner has a legal reason to sell, and that window is about 90 to 120 days.\n\nThe names start as court filings. The company says it works with the courts directly, then enriches the record so it's more than a line on a docket. You start with a small trial, then pick a monthly tier.\n\nThere's no public website, and the listing is stealth. It's a US company going back to March 2010, built with Tailwind, Alpine, Laravel, and Livewire. Investors want the house. Agents want the owner who has to sell. Each month the subscription sends another list of those houses. The feed keeps coming as new cases get filed."
 }

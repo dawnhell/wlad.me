@@ -26,5 +26,6 @@
       "indieAngle": "Don't rebuild Omegle. Take the interest-match + moderation stack and sell it as white-label \"talk to a stranger about X\" for language exchange, study partners, or niche hobbies (chess, PL language tandems) with a clear age gate and paid premium for filters."
     }
   ],
-  "whyItPrints": "Random-chat demand never died when Omegle shut down; whoever owns the replacement URL gets paid users fast. ~2,549 subs at ~$80k MRR in under eight months is brutal scale. Caveat: MRR is down 29.6% in L30, and consumer chat is a moderation / trust-and-safety grind, not a quiet SaaS."
+  "whyItPrints": "Random-chat demand never died when Omegle shut down; whoever owns the replacement URL gets paid users fast. ~2,549 subs at ~$80k MRR in under eight months is brutal scale. Caveat: MRR is down 29.6% in L30, and consumer chat is a moderation / trust-and-safety grind, not a quiet SaaS.",
+  "whyThisMatters": "You pick text or video, confirm you're 18, and you can add a few interests before a stranger shows up. There's no account. You can skip someone, and you can report them. The site says it isn't affiliated with Omegle.com.\n\nThe listing marks the chat as free. It also says Stripe is a separate layer, from premium, ads, or tips the page doesn't describe. The chat runs on a phone, a tablet, or a desktop.\n\nVideo asks for the camera. Short guides cover how to start a chat and what to keep private. You can't begin until the age box is checked. The listing dates the site to February 2026."
 }

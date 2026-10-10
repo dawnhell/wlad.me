@@ -26,5 +26,6 @@
       "indieAngle": "Join KRS + Księgi Wieczyste (land & mortgage registers) + MSiG notices into \"who has a maturing loan / new charge / insolvency signal\" alerts for PL lenders, debt buyers and B2B sales teams. Charge per seat in the hundreds of euros."
     }
   ],
-  "whyItPrints": "Pure public-registry joining. The data is free but scattered across registers in millions of unstructured filings, and finding a borrower at the right moment is worth thousands to a bridging lender. 10 customers at ~$600/mo average (my calculation). The \"AI\" here is just the search layer."
+  "whyItPrints": "Pure public-registry joining. The data is free but scattered across registers in millions of unstructured filings, and finding a borrower at the right moment is worth thousands to a bridging lender. 10 customers at ~$600/mo average (my calculation). The \"AI\" here is just the search layer.",
+  "whyThisMatters": "A UK lender wants the company charge and the land title in one place. Harper joins the Companies House filing to the Land Registry title, the company structure, and the directors. You can search it. You can also get an alert when a borrower is well into a bridging loan and nothing new has been filed.\n\nIt's for specialist lenders, commercial brokers, and developers. They call it the Bloomberg Terminal for unregulated property finance. They show about 898,556 borrowers, about 394,026 active, and about 2,060,023 loans.\n\nIt started in September 2025, in the UK. The founder says it's bootstrapped, and the listing is for sale."
 }

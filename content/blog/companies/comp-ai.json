@@ -26,5 +26,6 @@
       "indieAngle": "Own one compliance framework wedge (SOC 2 Type II evidence, or ISO 27001 for EU SMBs, or HIPAA for clinics) with annual seats + audit-week setup packs. Sell to the person who has to close the security questionnaire."
     }
   ],
-  "whyItPrints": "Security-questionnaire and audit bureaucracy glue. Once policies + evidence live in Comp AI, switching costs explode and renewals are mandatory for B2B sales. High ACV / low logo count (49 subs → ~$12k MRR) with massive L30 (~$700k) from annual / setup billing — pure regulated ops, not a GPT wrapper."
+  "whyItPrints": "Security-questionnaire and audit bureaucracy glue. Once policies + evidence live in Comp AI, switching costs explode and renewals are mandatory for B2B sales. High ACV / low logo count (49 subs → ~$12k MRR) with massive L30 (~$700k) from annual / setup billing — pure regulated ops, not a GPT wrapper.",
+  "whyThisMatters": "Startups use Comp AI when a customer asks for security paperwork. You pick SOC 2, ISO 27001, HIPAA, GDPR, or FedRAMP. It drafts the policies, pulls evidence from tools you already use, and flags gaps. They say there are more than 580 integrations, and that an audit and a pentest come with it.\n\nA person answers in Slack. They say the reply is under three minutes. You can send a prospect a trust page.\n\nDaniel Rascon at Persona AI describes leaving Vanta and starting a SOC 2 observation period in under two weeks. The site links a TechCrunch story about a Series A. The listing dates the company to January 2025."
 }

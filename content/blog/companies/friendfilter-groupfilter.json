@@ -26,5 +26,6 @@
       "indieAngle": "Ship one durable browser extension that fixes a platform hygiene pain (LinkedIn connection rot, Instagram ghost followers, Gmail label chaos) and charge monthly. Maintenance + SEO > feature churn."
     }
   ],
-  "whyItPrints": "Decade-old browser utility that still prints. ~$8.2k MRR, ~$1.8M all-time, ~90% margins. No AI-demo energy — Facebook graph hygiene that creators and marketers quietly renew."
+  "whyItPrints": "Decade-old browser utility that still prints. ~$8.2k MRR, ~$1.8M all-time, ~90% margins. No AI-demo energy — Facebook graph hygiene that creators and marketers quietly renew.",
+  "whyThisMatters": "A Facebook friend list fills up with people who never like or comment, so posts stop reaching the ones who do. FriendFilter is a Chrome extension that sorts the list by who actually engages.\n\nThe scan takes about two minutes. It doesn't scrape, and it isn't tied to Meta. You choose who to remove. A whitelist protects people, and you can archive a removal. You can also friend someone who already reacts to your posts.\n\nGroupFilter is the matching extension, for groups. The pair dates to March 2019, on Rails, Vue, and Postgres. The site says more than 120,000 people use it, and you can start free. The asset is for sale, with a dormant email list of about 100,000 addresses."
 }

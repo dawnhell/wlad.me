@@ -22,5 +22,6 @@
       "indieAngle": "Automate the repetitive guest/host (or clinic/patient) email that already has structured data (calendar + price). Stay in inbox; charge per property/location."
     }
   ],
-  "whyItPrints": "Narrow ops automation for hosts drowning in the same email. Strong all-time (~$353k) with \"no active subscriptions\" on the MRR field — treat L30/all-time as the print signal (usage/mixed billing pattern, like Helios/MedPilot)."
+  "whyItPrints": "Narrow ops automation for hosts drowning in the same email. Strong all-time (~$353k) with \"no active subscriptions\" on the MRR field — treat L30/all-time as the print signal (usage/mixed billing pattern, like Helios/MedPilot).",
+  "whyThisMatters": "Airbnb hosts and property managers get a Chrome extension that drafts the guest reply in Gmail or Outlook. It picks up the host's tone from mail they've already sent. Price and free dates come from the live calendar, so the draft is less likely to quote the wrong rate or offer a night that's already booked.\n\nIt can read Airbnb, Google Calendar, an iCal feed, and Booking.com. A short paid trial comes first. The monthly plan after that covers up to five properties, and you can cancel. The company is in the UK, it's bootstrapped, and it started in April 2025.\n\nGuests ask the same things every day: those dates, that price, the dog, the parking. The host still hits send. The draft is ready when the enquiry lands."
 }

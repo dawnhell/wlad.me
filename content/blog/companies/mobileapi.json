@@ -26,5 +26,6 @@
       "indieAngle": "Pick a dataset devs keep scraping and sell it as a clean API with a $15 tier, for example EU car models/trims with specs (for insurance and leasing quote forms) or EU e-vignette/toll prices per country. The work is the normalisation, and that's also the moat."
     }
   ],
-  "whyItPrints": "It sells a cleaned-up dataset to developers building comparison sites, refurb/trade-in tools and telecom shops. Once it's wired into someone's product, it stays. 120 subs at ~$40/mo average (my calculation), and MRR is up 15.3% in L30."
+  "whyItPrints": "It sells a cleaned-up dataset to developers building comparison sites, refurb/trade-in tools and telecom shops. Once it's wired into someone's product, it stays. 120 subs at ~$40/mo average (my calculation), and MRR is up 15.3% in L30.",
+  "whyThisMatters": "MobileAPI returns phone specs, photos, and a price from one request. The site lists 31,563 devices: phones, tablets, laptops, and watches, from more than 124 brands. People use it for comparison pages, trade-in quotes, and shop catalogs.\n\nEach device comes back in 12 blocks, from the screen through the cameras and the battery. Search still works if the name is misspelled. On a paid plan you can ask in a normal sentence, like phones under a certain weight. The listing's free tier is 200 requests a month, and the key doesn't need a card.\n\nIt started in September 2022 in Britain. The stack on the profile is Django and Postgres."
 }

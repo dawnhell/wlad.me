@@ -26,5 +26,6 @@
       "indieAngle": "Buy it — or clone the \"gated Notion docs for client portals\" wedge for agencies (password + email allowlist + custom domain) and sell Unbound-style seats to consultancies that refuse to migrate off Notion."
     }
   ],
-  "whyItPrints": "Classic CMS-bridge glue. Notion's native embeds hurt growth (founder notes revenue −24% over the past year) but the paid customization / access-control layer still pays ~$1.3k MRR at ~89% margin with almost no ongoing work (founder-stated). Perfect micro-acquisition for someone who wants a quiet cash-flow app."
+  "whyItPrints": "Classic CMS-bridge glue. Notion's native embeds hurt growth (founder notes revenue −24% over the past year) but the paid customization / access-control layer still pays ~$1.3k MRR at ~89% margin with almost no ongoing work (founder-stated). Perfect micro-acquisition for someone who wants a quiet cash-flow app.",
+  "whyThisMatters": "You paste a Notion link and drop the embed into WordPress, Webflow, or any other site. Edit the Notion page and the embed updates. A course, a policy, or a changelog can stay in Notion.\n\nFree is one embed, and it expires after a week. Pay and you get a password, an email limit, custom CSS, bulk import, and an API. Ozan van Oosten-Şener built it in the Netherlands, starting August 2022. They bill through Lemon Squeezy.\n\nThe founder says Notion's own embeds have cut into this. The listing went up for sale on 9 October 2026, and there are no offers yet."
 }

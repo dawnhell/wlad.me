@@ -30,5 +30,6 @@
       "indieAngle": "Booksy is Polish-founded and widely used by PL salons and barbers. A Polish-language \"Booksy → SMS → Google review\" tool is the same product in your home market, priced per salon (SMSAPI/SerwerSMS make sending cheap). Coucou already claims Booksy compatibility, but not in Polish and not for the PL market."
     }
   ],
-  "whyItPrints": "It's glue between a booking platform and Google Maps. Salons live and die by local search, and the booking platform's own review requests keep the reviews on the platform. 50 subs at ~$118/mo average (my calculation), with MRR up 14% in L30."
+  "whyItPrints": "It's glue between a booking platform and Google Maps. Salons live and die by local search, and the booking platform's own review requests keep the reviews on the platform. 50 subs at ~$118/mo average (my calculation), with MRR up 14% in L30.",
+  "whyThisMatters": "A client books on Planity, Treatwell, Booksy, or Kalendes. A few hours later they get a text asking for a Google review.\n\nIt opens a short page in the salon's colors, and it can draft the reply. They say more than fifty salons use it."
 }

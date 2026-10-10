@@ -38,5 +38,6 @@
       "indieAngle": "Own quote presentation + e-sign for one insurance line (life, Medicare, commercial GL) in one market. Sell to agency owners who still paste screenshots into Gmail."
     }
   ],
-  "whyItPrints": "Insurance-agent sales ops glue — Conductor-lane for brokers. Tiny but real Stripe revenue (~$2.1k MRR / ~$3.3k L30) with 85% margins. Agents hate PDF chaos; once quotes + e-sign live in one deck, switching hurts."
+  "whyItPrints": "Insurance-agent sales ops glue — Conductor-lane for brokers. Tiny but real Stripe revenue (~$2.1k MRR / ~$3.3k L30) with 85% margins. Agents hate PDF chaos; once quotes + e-sign live in one deck, switching hurts.",
+  "whyThisMatters": "Health and life agents send a quote the client can open on a phone. The plans cover ACA marketplace, Medicare, dental, vision, life, short-term medical, and supplemental. Type a ZIP code, a date of birth, and household income, and live rates come back side by side. A medical plan, dental, and a life policy can share one document.\n\nThe quote carries the agent's branding. The client compares the options and picks one. QuoteDeck remembers how you usually stack a quote. Once they say yes, the same flow collects the details, the signature, and the compliance steps. The trial runs 14 days.\n\nOne founder runs it. The company started in the US in November 2025, and the listing is for sale."
 }

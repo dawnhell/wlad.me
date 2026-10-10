@@ -26,5 +26,6 @@
       "indieAngle": "Do the same for PL komornicze licytacje (court-bailiff auctions on licytacje.komornik.pl / e-licytacje), or for CZ/SK dražby. Alerts by city/price + document summaries + paid \"we'll inspect / handle paperwork\" add-ons."
     }
   ],
-  "whyItPrints": "Public court notices sitting in a clunky government format. Investors pay to see them first and in English. In under a year it has 126 subs, and the service add-ons + success fee turn a data feed into a transaction business."
+  "whyItPrints": "Public court notices sitting in a clunky government format. Investors pay to see them first and in English. In under a year it has 126 subs, and the service add-ons + success fee turn a data feed into a transaction business.",
+  "whyThisMatters": "People following Malta's court property sales get the list in English. Subbasta pulls the auctions from the eCourts site and translates the official papers from Maltese. You can read a file before the sale, and their lawyer can bid for you on the day.\n\nThe subscription is the platform. A one-time power of attorney lets that lawyer bid, and later bids through them carry no separate per-bid fee. An exterior look is free to arrange. An interior viewing means the lawyer files the court application. Legal research runs from a short summary up to a signed opinion. If they place the winning bid, the listing adds a one percent fee.\n\nThe company started in Malta in December 2025."
 }

@@ -22,5 +22,6 @@
       "indieAngle": "Productize a service niche (IT desk, bookkeeping, SOC monitoring) with flat monthly pricing and a simple intake portal — sell outcomes, not tickets."
     }
   ],
-  "whyItPrints": "Selling outsourced IT ops as a productized MSP with transparent Stripe billing. Tiny sub count (30) × high ACV = real print; classic boring B2B services wrapped as SaaS-ish recurring."
+  "whyItPrints": "Selling outsourced IT ops as a productized MSP with transparent Stripe billing. Tiny sub count (30) × high ACV = real print; classic boring B2B services wrapped as SaaS-ish recurring.",
+  "whyThisMatters": "Startups use uhoh.com when the founder is stuck being IT. A person answers in Slack. You don't open a ticket. They take broken automations, a messy HubSpot, security, integrations, and the daily glitches. An app error nobody can read. Google ads switched off. A teammate locked out of a shared login. You dump it on them.\n\nBasic work is Google and Microsoft admin, adding and removing users, VPN, passwords and two-factor, bad automations, hardware, software that won't open, and video calls. A wider plan adds laptops and phones, Jamf or Intune, printers, network checks, remote desktop, backups, domains, SSL, and payment hooks on the site. Customers talk about a flat fee.\n\nYou price it with them, and you can try it first. It's for teams up to about 50 people. The company started in Canada in mid-2025. You pay a flat month for the desk, rather than a tiny fee for every employee."
 }

@@ -34,5 +34,6 @@
       "indieAngle": "Don't do the tuning. Sell the portal: a white-label \"file service\" SaaS for the many small ECU tuners who still take files over email and WhatsApp. It needs credits, upload, order status, partner pricing and invoices/exports, at a monthly fee per tuner. It's plain Next.js/Supabase/Stripe CRUD, and every tuner with resellers needs one."
     }
   ],
-  "whyItPrints": "It's a B2B digital-file business with no stock. Pro tuners send files every week, and each file is paid for in pre-bought credits. L30 is up 79.5% and the margin is 90%. Caveat: its own terms note that remapping counts as a \"transformation notable\" under the French road code, and some options it lists (EGR/DPF/AdBlue changes) are a regulatory risk area in the EU."
+  "whyItPrints": "It's a B2B digital-file business with no stock. Pro tuners send files every week, and each file is paid for in pre-bought credits. L30 is up 79.5% and the margin is 90%. Caveat: its own terms note that remapping counts as a \"transformation notable\" under the French road code, and some options it lists (EGR/DPF/AdBlue changes) are a regulatory risk area in the EU.",
+  "whyThisMatters": "A garage uploads the engine file, spends credits, and downloads a modified one. Performance and E85 are on the menu. The garage fits the file itself.\n\nThey're in Ners, in France. More than three thousand vehicles, they say, and more than fifty partner garages. Two founders, August 2025."
 }

@@ -26,5 +26,6 @@
       "indieAngle": "Ship one boring verification/enrichment API (phone, VAT ID, IBAN, company registry) with prepaid credits. Own the \"stop paying for bad data\" wedge."
     }
   ],
-  "whyItPrints": "Developer infra plumbing that fraud teams and marketers renew without thinking. Credits > seats: L30 revenue (~$390k) exceeds listed MRR (~$248k) because of overage/usage. Unsexy data quality that invoices itself."
+  "whyItPrints": "Developer infra plumbing that fraud teams and marketers renew without thinking. Credits > seats: L30 revenue (~$390k) exceeds listed MRR (~$248k) because of overage/usage. Unsexy data quality that invoices itself.",
+  "whyThisMatters": "One API checks a phone number, an email, or an IP. You pay in credits from a shared balance. That balance also covers enrichment, company data, SEO lookups, and transcription. They say 44 products sit on the one key, and a seven-day trial comes with it.\n\nA phone check can say if the line is active, which carrier has it, and whether it's on a do-not-call list. Email checks look for addresses that bounce and for throwaway inboxes. IP checks flag VPNs, proxies, and a rough location. Run one lookup, or upload a batch. They say an answer comes back in under a third of a second.\n\nIt connects to Twilio, HubSpot, Shopify, and Salesforce. An agent can call the same products through an MCP server. The company started in the US in January 2022, and the listing is for sale."
 }

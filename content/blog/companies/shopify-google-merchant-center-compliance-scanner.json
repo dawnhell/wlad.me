@@ -22,5 +22,6 @@
       "indieAngle": "Same scanner for the platforms the Shopify app store doesn't serve: WooCommerce, PrestaShop, Shoper/IdoSell in PL, or Allegro listing-policy checks. Read the product feed, flag missing GTINs, prices that don't match the page, and policy-word violations, then email a weekly \"you're still clean\" report."
     }
   ],
-  "whyItPrints": "A Merchant Center suspension switches off a shop's Google Shopping traffic, so owners pay to fix it fast and keep paying to stay clean. It's a pure policy-checklist product with a 90% margin. 239 subs at ~$61/mo average (my calculation). MRR is up 29% in L30."
+  "whyItPrints": "A Merchant Center suspension switches off a shop's Google Shopping traffic, so owners pay to fix it fast and keep paying to stay clean. It's a pure policy-checklist product with a 90% margin. 239 subs at ~$61/mo average (my calculation). MRR is up 29% in L30.",
+  "whyThisMatters": "Google suspends your Merchant Center account and Shopping goes dark. This scans a Shopify shop for what gets a product disapproved, or the account shut off. You leave it running so the next upload doesn't hit the same rule.\n\nThere's no public site. It started in March 2025, in the UAE, on React, Node, and Supabase. People find it through affiliates, influencers, and partnerships. The listing calls it stealth.\n\nIt's for sale. First posted on 15 February 2026, with seven offers."
 }

@@ -26,5 +26,6 @@
       "indieAngle": "Niche a proxy / egress product for one vertical (price monitoring, ad verification, marketplace sellers) with prepaid credits. Meter bandwidth, not seats."
     }
   ],
-  "whyItPrints": "Unsexy infra plumbing — IPs that don't get blocked. Usage / prepaid billing shows $0 seat MRR but ~$320k L30 and ~$11.7M all-time. Once scrapers and sneaker bots are wired to your proxies, churn is painful. Classic \"sell the pickaxes\" print."
+  "whyItPrints": "Unsexy infra plumbing — IPs that don't get blocked. Usage / prepaid billing shows $0 seat MRR but ~$320k L30 and ~$11.7M all-time. Once scrapers and sneaker bots are wired to your proxies, churn is painful. Classic \"sell the pickaxes\" print.",
+  "whyThisMatters": "Scrapers, online stores, and people running social or SEO jobs buy US proxy addresses that keep working. HypeProxies sells static ISP and residential IPs. You connect over HTTP or SOCKS, and bandwidth is unlimited. Pick a small pool, or a private block of addresses on their servers.\n\nThey name sneaker bots, social accounts, search checks, market research, and web scraping as the work those IPs are for. The network is listed at 10 gigabits, with uptime they put at 99.9 percent. Support runs all day on chat, Discord, and tickets. A Dallas datacenter is marked as newly open. You can cancel, and there's a short trial.\n\nThe company started in the US in October 2019. They say more than 20,000 people pay, and that they've sold these addresses for more than seven years."
 }

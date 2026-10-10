@@ -30,5 +30,6 @@
       "indieAngle": "Find two tools that are always used together but don't talk, and charge $50–$150 a year per workspace. For PL teams that could be Slack/Teams ↔ Fakturownia/inFakt (an invoice-paid ping in the channel), or Teams ↔ Google Meet. Each one is a small app, listed in a marketplace, that never needs marketing beyond the directory."
     }
   ],
-  "whyItPrints": "It's glue between two tools every startup already pays for, and it fixes the annoying wrong-account problem. A tiny price nobody questions, 95% margin, and distribution through the Slack App Directory. L30 runs above MRR because annual renewals land in lumps (my inference)."
+  "whyItPrints": "It's glue between two tools every startup already pays for, and it fixes the annoying wrong-account problem. A tiny price nobody questions, 95% margin, and distribution through the Slack App Directory. L30 runs above MRR because annual renewals land in lumps (my inference).",
+  "whyThisMatters": "You type /meet in a Slack channel, a group, or a direct message. You get a Google Meet link, and you can name it. It opens in the right Google account. Your status switches to on a call, then clears after fifteen minutes.\n\nGoogle and Slack have both approved it. They say it only asks for the access it needs. Sixty days free, and it's free for up to three people. After that you pay once a year, and the price steps up with the workspace. They say thousands of teams use it.\n\nIt started in June 2023, in the US. Teams find it in the Slack directory."
 }

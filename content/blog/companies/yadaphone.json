@@ -26,5 +26,6 @@
       "indieAngle": "Make it a diaspora utility: \"call a Polish number from the UK/DE/NL in your browser\" for Poles abroad who need to reach ZUS, banks, clinics or family. Twilio or Telnyx in the back end, Stripe top-ups, and SEO pages per destination and institution."
     }
   ],
-  "whyItPrints": "Telecom arbitrage with a modern UX. People who need to call a bank, a government office or family abroad top up and forget. ~$180k in the last 12 months, and L30 is up 10%. MRR is small because most revenue is credit top-ups rather than subscriptions (my inference from MRR vs L30)."
+  "whyItPrints": "Telecom arbitrage with a modern UX. People who need to call a bank, a government office or family abroad top up and forget. ~$180k in the last 12 months, and L30 is up 10%. MRR is small because most revenue is credit top-ups rather than subscriptions (my inference from MRR vs L30).",
+  "whyThisMatters": "You call another country from the browser. There's no app to install, and nobody asks you to verify a phone number first. You buy credit and spend it as you talk.\n\nThe page says there's no contract, the first call is free, and you can be dialing in about two minutes. After that the rate is per minute, taken from credit you already bought.\n\nIt's for freelancers and small businesses that have to call abroad. A bank, a public office, family. The company started in March 2025. The listing note is Austria. You top up when you need the call, and the credit sits there until the next one."
 }

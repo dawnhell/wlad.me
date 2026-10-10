@@ -26,5 +26,6 @@
       "indieAngle": "Own one recovery channel for a platform (Shopify SMS, WhatsApp, email dunning) with prepaid credits. Charge for messages sent, not seats."
     }
   ],
-  "whyItPrints": "E-com revenue plumbing — SMS \"you left something in your cart.\" Usage billing means no seat MRR, but ~$1.74M all-time proves the meter prints when stores send volume. Classic boring recovery infra."
+  "whyItPrints": "E-com revenue plumbing — SMS \"you left something in your cart.\" Usage billing means no seat MRR, but ~$1.74M all-time proves the meter prints when stores send volume. Classic boring recovery infra.",
+  "whyThisMatters": "Shopify and WooCommerce stores use CartBoss to text a shopper who left a cart. The same setup can send a text after the purchase, or a promo. Fashion, food and drink, beauty, home, and sports nutrition stores are the ones it's built around.\n\nThere's no monthly subscription. The first 25 messages are free, then you pay for texts you send. It's set up for GDPR. Stores also look at Klaviyo, Omnisend, Postscript, Recart, and SMSBump. Against Postscript, the difference is you pay as you go. The same makers run BuzzBlaster for bulk SMS to more than 30 countries. They also publish notes on TCPA and GDPR, which is the paperwork once you text shoppers.\n\nIt started in Slovenia in March 2021. They say more than 70 percent of visitors leave a cart behind. The text asks them to finish the order. You pay when that message goes out, which is why there isn't a seat to count."
 }

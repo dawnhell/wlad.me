@@ -22,5 +22,6 @@
       "indieAngle": "Per-unit pricing + take rate on upsells for one rental vertical (Polish mountain apartments, campsites, boat charters). Hook into the PMS/channel manager they already use."
     }
   ],
-  "whyItPrints": "Short-term-rental ops glue: check-in instructions, guest messaging, upsells (early check-in, late checkout). Per-property pricing scales with portfolio managers, and the upsell take rate adds GMV-linked revenue. 75% L30 margin."
+  "whyItPrints": "Short-term-rental ops glue: check-in instructions, guest messaging, upsells (early check-in, late checkout). Per-property pricing scales with portfolio managers, and the upsell take rate adds GMV-linked revenue. 75% L30 margin.",
+  "whyThisMatters": "Hosts and managers of vacation rentals get a tool for the guest side of the stay. You can automate that work with no monthly platform fee, then pay a monthly charge per property, plus a cut of what guests spend on extras.\n\nThe same jobs come around every stay. Check-in instructions. A message to the guest. An offer for early check-in or late checkout. One property is a small bill. A manager with a bunch of homes pays for each of them. The extra fee only shows up when a guest buys the add-on. Early check-in and late checkout are the paid extras.\n\nThere's no public site. The listing is stealth, the company started in the US in June 2023, and the business is for sale."
 }

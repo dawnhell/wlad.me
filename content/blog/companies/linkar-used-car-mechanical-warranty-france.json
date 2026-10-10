@@ -26,5 +26,6 @@
       "indieAngle": "The real business is the claims ops and an underwriting partner, not the website. In PL, \"gwarancja mechaniczna\" for 8–15-year-old cars bought from Otomoto is a gap: partner with an insurer or a garage network, sell monthly online, and use the car's VIN/history check as the funnel."
     }
   ],
-  "whyItPrints": "Monthly insurance-like subscription on a car people already depend on. Customers hate surprise gearbox bills, and once they're covered they rarely cancel while the car is old. 415 subs at ~$38/mo average (my calculation from MRR ÷ subs)."
+  "whyItPrints": "Monthly insurance-like subscription on a car people already depend on. Customers hate surprise gearbox bills, and once they're covered they rarely cancel while the car is old. 415 subs at ~$38/mo average (my calculation from MRR ÷ subs).",
+  "whyThisMatters": "Used-car owners in France pay each month so a mechanical repair is covered, up to a yearly cap the listing describes. It's sold to the owner of the car. One person runs it, it's bootstrapped, and it started in April 2022.\n\nThe founder puts the user estimate near five thousand. The listing note says stealth. The company is for sale, and there's no public site.\n\nThe bill they have in mind is the one you didn't budget for on an older car. A gearbox is the example. People tend to keep the cover while that car is still old."
 }

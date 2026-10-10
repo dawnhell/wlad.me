@@ -22,5 +22,6 @@
       "indieAngle": "Vertical lifecycle messaging for one sweaty niche (fitness, clinics, tutors) with clear ROI on no-shows and churn."
     }
   ],
-  "whyItPrints": "Gyms and fitness brands already buy \"text/email the members\" software. High Stripe L30 with no tracked seat-MRR suggests usage / mixed billing (same pattern as MedPilot yesterday)."
+  "whyItPrints": "Gyms and fitness brands already buy \"text/email the members\" software. High Stripe L30 with no tracked seat-MRR suggests usage / mixed billing (same pattern as MedPilot yesterday).",
+  "whyThisMatters": "Fitness studios and franchises use Helios to message leads and members. Email, text, and voice follow one playbook, and every location can run that same playbook.\n\nA new lead gets a text if they opted into SMS, or an email if they didn't. The usual offer is a free first class, with a reply that books them in. No visit for 21 days can kick off a win-back. Other flows cover a trial, a first visit, and an upgrade. Booking software, ads, calls, and forms are meant to land on one member profile, with opt-in status and the source. You can text a class that's still got spots. An incoming call can show who's ringing and whether a tour is already booked. They say most brands are live in under two weeks, and their team does the setup. Barre3 West Loop is one of the studios using it.\n\nYou aren't buying a seat for each front-desk employee. The bill behaves like usage. The follow-up is written once, then sent, because the desk is busy running the club."
 }

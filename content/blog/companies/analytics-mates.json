@@ -26,5 +26,6 @@
       "indieAngle": "A PL/EU \"GA4 / GTM cleanup + monthly KPI pack\" for mid-size shops on Shoper / IdoSell / Shopify, sold as a €790 setup + €190/mo retainer. EventDash-adjacent: sell the audit that surfaces \"your purchase event is broken,\" then upsell cookieless analytics."
     }
   ],
-  "whyItPrints": "GA4 broke a lot of in-house reporting; teams pay for someone to make the numbers usable again. L30 (~$27k) ≫ MRR (~$3.1k) strongly suggests audits / implementation packs on top of a few seats — same pattern as Comp AI. L30 revenue is up 50.2%."
+  "whyItPrints": "GA4 broke a lot of in-house reporting; teams pay for someone to make the numbers usable again. L30 (~$27k) ≫ MRR (~$3.1k) strongly suggests audits / implementation packs on top of a few seats — same pattern as Comp AI. L30 revenue is up 50.2%.",
+  "whyThisMatters": "Ad budgets follow bad numbers. A form can count every page view as a lead. A thank-you page can count again on refresh. The click id from the ad never reaches the CRM.\n\nAnalytics Mates repairs GA4 and the tag manager, and checks whether paid conversions are real. Signal Dispatch sends offline results, like a booked job or a call, back to the ad platforms. The Helm is a free monitor for GA4.\n\nThey work with agencies and with teams in legal, home services, and healthcare. The profile calls them a Google Marketing Platform partner, started in 2024. You can run a free GA4 audit. Paid work is priced per website."
 }

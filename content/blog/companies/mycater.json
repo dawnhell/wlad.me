@@ -38,5 +38,6 @@
       "indieAngle": "Warsaw / Kraków office-lunch marketplace with 20 vetted caterers, company invoicing (NIP / Faktura), and a Slack/Teams \"order lunch for Thursday\" bot. Charge caterers 12–15% take-rate; don't build a consumer food app."
     }
   ],
-  "whyItPrints": "Office catering is a weekly recurring ops headache. $0 seat MRR with ~$70.6k L30 (+98%) and ~$2.45M all-time means take-rate / order GMV through Stripe, not SaaS seats — classic marketplace boring. Same lane as MyTraiteur (covered Oct 7) but this is the buyer-side B2B marketplace, not a quote tool."
+  "whyItPrints": "Office catering is a weekly recurring ops headache. $0 seat MRR with ~$70.6k L30 (+98%) and ~$2.45M all-time means take-rate / order GMV through Stripe, not SaaS seats — classic marketplace boring. Same lane as MyTraiteur (covered Oct 7) but this is the buyer-side B2B marketplace, not a quote tool.",
+  "whyThisMatters": "Office managers in France use MyCater for breakfast, lunch trays, buffets, and cocktail receptions. You pick a caterer, see the price, and place the order. They say the quote takes about two minutes, or they'll write it for you.\n\nThe site says 110 caterers, about 1,000 client companies, and about 3,500 deliveries a year. A group can be 5 people or 500. You order the day before for the next day. They show 4.9 from 176 reviews. Le Pain Quotidien and Les Cuistots Migrateurs are among the names on the page.\n\nIt's a team of two to five, bootstrapped, started in November 2020."
 }

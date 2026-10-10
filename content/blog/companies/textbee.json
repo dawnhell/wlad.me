@@ -22,5 +22,6 @@
       "indieAngle": "Open-core + cheap pro tier for a commodity API (SMS, email, WhatsApp) that businesses already budget for."
     }
   ],
-  "whyItPrints": "SMS is still how ops tools notify humans. BYOD gateway undercuts Twilio for indie/dev use cases; Polar-verified recurring."
+  "whyItPrints": "SMS is still how ops tools notify humans. BYOD gateway undercuts Twilio for indie/dev use cases; Polar-verified recurring.",
+  "whyThisMatters": "Developers use textbee when they need SMS from a number they already control. You put an app on an Android phone, scan a QR code, and call one REST API. There's no fee per message, no extra hardware, and no carrier contract. The code is open source under the MIT license, and you can host it yourself. It's pitched as an alternative to Twilio.\n\nFree use covers 300 messages a month, and you don't enter a card. Paid use adds bulk sends, templates with variables, and scheduling up to 72 hours out. You can connect as many as five phones so one device isn't doing all the traffic. Texts that come in arrive by webhook or through the API. That's the path for a login code, a small support inbox, or a thread that goes both ways. n8n, Zapier, Make, and MCP agents can fire the calls. The docs show Node, Python, and a raw HTTP request.\n\nIt's bootstrapped, it started in November 2024, and it's based in Ethiopia. They say more than 30,000 developers use it, and that a normal setup takes a few minutes. The phone in the drawer is the gateway."
 }

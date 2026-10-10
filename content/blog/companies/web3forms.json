@@ -38,5 +38,6 @@
       "indieAngle": "Same product for EU privacy-sensitive static sites (Astro/Hugo on Cloudflare Pages): EU-hosted inbox, GDPR DPA, spam scoring, and a Zapier/Make + Notion/Sheets destination pack sold as \"Form API for EU agencies\" at €19–€49/mo."
     }
   ],
-  "whyItPrints": "Contact forms are the original developer glue. ~3,038 subscriptions at ~$42k MRR with a 95% L30 profit margin is the dream indie shape: tiny infrastructure, SEO/docs-led acquisition, and a free tier that converts when a site gets real traffic. L30 is flat (+0.4%); MRR up +7.2%."
+  "whyItPrints": "Contact forms are the original developer glue. ~3,038 subscriptions at ~$42k MRR with a 95% L30 profit margin is the dream indie shape: tiny infrastructure, SEO/docs-led acquisition, and a free tier that converts when a site gets real traffic. L30 is flat (+0.4%); MRR up +7.2%.",
+  "whyThisMatters": "You put an HTML form on a static site and the message lands in your email. There's no PHP and no server of your own. The form posts to Web3Forms with an access key. That key is an alias for your inbox, so it can sit in the page. You can send people to your own thank-you page.\n\nFree is 250 submissions a month, and you don't need a card. Paid plans add file uploads, auto-replies, webhooks, a Google Sheet, and a team login.\n\nSurjith S M founded it in December 2020, in India. They say the servers run on AWS and they don't sell what the forms collect. Paid plans include a 7-day refund."
 }

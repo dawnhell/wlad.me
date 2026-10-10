@@ -22,5 +22,6 @@
       "indieAngle": "Earliest-stage Conductor-shaped hit of the day — own the \"get invoices to the books\" wedge before building a full ledger."
     }
   ],
-  "whyItPrints": "Tiny today, but pure Conductor-cousin: inbox → bookkeeping glue. SMBs already hate digging receipts for their accountant."
+  "whyItPrints": "Tiny today, but pure Conductor-cousin: inbox → bookkeeping glue. SMBs already hate digging receipts for their accountant.",
+  "whyThisMatters": "Receipts and invoices land in email, and someone has to fish them out. Expensent connects Gmail, Outlook, or another inbox and shows those documents in one place. Send one to your accountant with a click, or make a rule so the next matching mail goes out on its own. Setup is about five minutes, and you can cancel later. It can search as far back as ten years, so the old pile isn't lost.\n\nIt looks for actual bills. Orders, cloud invoices, software subscriptions, shipping receipts, payroll, card statements. A webinar invitation and a product digest get skipped. From there the file can go to the accountant, or into QuickBooks, Xero, or Expensify.\n\nOne person runs it, in Portugal. It's bootstrapped, and it started in December 2025. IMAP is supported, so the mailbox doesn't have to be Gmail or Outlook. You catch up the backlog once, then leave the rule on for new mail. The books stay where they already are. The work is finding the PDF and sending it on."
 }

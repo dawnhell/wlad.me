@@ -26,5 +26,6 @@
       "indieAngle": "Same play for carriers that are underserved in your market: InPost Paczkomaty, DPD Pickup, Orlen Paczka, Poczta Polska → WooCommerce / Shopify / PrestaShop. Free plugin on the official directory as the funnel, paid tier for label generation + returns."
     }
   ],
-  "whyItPrints": "Legacy carrier-API glue. Carriers ship clunky SOAP/web-service APIs and PDF label specs, and small merchants just want \"pickup point + label\" to work. 591 subs at ~$4.85 average (my calculation): tiny ticket, huge install base, and nobody churns off their shipping plugin in peak season."
+  "whyItPrints": "Legacy carrier-API glue. Carriers ship clunky SOAP/web-service APIs and PDF label specs, and small merchants just want \"pickup point + label\" to work. 591 subs at ~$4.85 average (my calculation): tiny ticket, huge install base, and nobody churns off their shipping plugin in peak season.",
+  "whyThisMatters": "On a French WooCommerce shop, the customer picks a Mondial Relay or Chronopost pickup point at checkout. The shop then prints the shipping label and the return label from one screen, and sends the tracking link.\n\nThere's a free version and a paid one. The site says those two carriers are the ones it supports. You can ask for a refund within 7 days. More than 400,000 parcels have gone through the plugin, by their count, and more than 500 businesses use it.\n\nThe profile's install estimate, including free copies, is 25,723. It started in February 2021."
 }

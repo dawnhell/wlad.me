@@ -26,5 +26,6 @@
       "indieAngle": "Every country that rolls out section control or new toll rules gets one of these. In PL, the odcinkowy pomiar prędkości (section speed control) network keeps growing, and e-TOLL rules confuse foreign drivers. A \"rules of the road for this country, live\" app for cross-border drivers and fleets is a narrow but real subscription."
     }
   ],
-  "whyItPrints": "A new government enforcement system (average-speed checks via toll cameras) creates instant fear of fines, and a $4 subscription is cheaper than one ticket. 1,293 subs at ~$3.88 average (my calculation) one year in, with zero B2B sales."
+  "whyItPrints": "A new government enforcement system (average-speed checks via toll cameras) creates instant fear of fines, and a $4 subscription is cheaper than one ticket. 1,293 subs at ~$3.88 average (my calculation) one year in, with zero B2B sales.",
+  "whyThisMatters": "Some cameras don't flash at one spot. They average your speed across a stretch of road. TollTracker is an iOS app for drivers in Bulgaria. It stays on in the background and warns you before that average goes over the limit.\n\nThe download is free. A monthly plan and a yearly plan are sold inside the app. The listing dates it to September 2025. The note on the listing is just the country.\n\nOne fine costs more than the plan, and the buyers are drivers. There's no company account in the description, and there's no public website. The product is the phone, the section of road, and the warning."
 }

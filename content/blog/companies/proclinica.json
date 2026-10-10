@@ -26,5 +26,6 @@
       "indieAngle": "Build clinic/practice software for one EU country with local e-invoice + privacy baked in. Sell in the local language; compliance beats features."
     }
   ],
-  "whyItPrints": "Country clinic OS — Calendesk/Khosmos cousin for private healthcare. Local e-invoicing (VeriFactu) and privacy law are the moat; solo clinics pay to avoid Excel + WhatsApp chaos."
+  "whyItPrints": "Country clinic OS — Calendesk/Khosmos cousin for private healthcare. Local e-invoicing (VeriFactu) and privacy law are the moat; solo clinics pay to avoid Excel + WhatsApp chaos.",
+  "whyThisMatters": "A private clinic in Spain keeps the diary, the patient file, and the invoice in one login. Podiatrists, psychologists, physiotherapists, speech therapists, and nutrition practices are the ones named.\n\nPatients book online. Reminders go by WhatsApp, text, or email. The clinical record, a signed consent, and a patient portal sit on the same file. A prescription can go out from that file by text and email. Invoices are set up for VeriFactu and TicketBAI, and the data stays in Spain. Google Calendar syncs both ways. Cards run through Stripe.\n\nThere's a seven-day trial, and they say they'll move you off the old system for free. Cash, stock, and staff commissions sit in the same login. A helper called Aurora drafts notes from the record. They say the admin is built around five minutes a day, and that more than 350 clinics use it. The company started in Spain in August 2021."
 }

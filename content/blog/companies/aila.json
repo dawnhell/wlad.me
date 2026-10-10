@@ -22,5 +22,6 @@
       "indieAngle": "Own one regulated sales call → system-of-record pipeline (mortgage, insurance, wealth). Charge per producer; integrate the LOS they already live in."
     }
   ],
-  "whyItPrints": "Vertical workflow glue for loan officers (not a general chatbot). Clear ACV per LO, ~99 paying seats, sticky once wired into LOS — Conductor-shaped but for mortgage ops instead of QuickBooks Desktop."
+  "whyItPrints": "Vertical workflow glue for loan officers (not a general chatbot). Clear ACV per LO, ~99 paying seats, sticky once wired into LOS — Conductor-shaped but for mortgage ops instead of QuickBooks Desktop.",
+  "whyThisMatters": "A loan officer hangs up, and the loan file is already started. Aila listens to the discovery call and writes it into the system the team uses. For ARIVE and LendingPad it creates the file there. For another system it exports a MISMO file.\n\nThat call also updates the CRM: a summary, a reminder, a meeting, a stage change. It builds the document list from the lender's own checklist, photo ID, W-2s, bank statements, and emails the borrower an upload link. A second agent scores the call for a recording notice, credit consent, and a rate quoted too early. You can send it a desk phone, Zoom, Meet, Teams, an iPhone recording, or a desktop app.\n\nIt's priced per loan officer, with a seven-day trial on the intake and compliance agents. They say more than a hundred mortgage companies use it. The company is in the US and started in November 2023."
 }
