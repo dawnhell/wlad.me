@@ -5,13 +5,20 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 18:50:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:54:37 GMT</lastBuildDate>
     <item>
-      <title>Boring SaaS ideas for 10 October 2026</title>
+      <title>Monday's boring SaaS, 12 October 2026</title>
+      <link>https://www.wlad.me/blog/2026-10-12</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Monday, 12 October 2026. Nine are Stripe-verified. Heron Copier is Creem-verified, and Dropkiller's Stripe key went stale in August.</description>
+    </item>
+    <item>
+      <title>Saturday's boring SaaS, 10 October 2026</title>
       <link>https://www.wlad.me/blog/2026-10-10</link>
       <guid isPermaLink="true">https://www.wlad.me/blog/2026-10-10</guid>
       <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
-      <description>Revenue notes on 13 products for 10 October 2026. 8 are Stripe-verified, 1 is Paddle-verified, 1 is Lemon Squeezy-verified and 3 are self-reported. Each figure links to its source.</description>
+      <description>Saturday, 10 October 2026. Eight are Stripe-verified. Web3Forms is Paddle-verified, Embed Notion Pages is Lemon Squeezy, and Zernio, Buttondown, and SocialKit are self-reported.</description>
     </item>
     <item>
       <title>Friday's boring SaaS, 9 October 2026</title>

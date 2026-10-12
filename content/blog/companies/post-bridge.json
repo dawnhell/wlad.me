@@ -1,0 +1,31 @@
+{
+  "slug": "post-bridge",
+  "name": "POST BRIDGE",
+  "listingNote": null,
+  "description": "One dashboard to publish the same content to multiple social platforms. Founded Sep 2024, Canada (jack friks). Marketer $39/mo / Operator $99/mo. ~1.9k estimated users. 92% L30 profit margin snapshot; DataFast traffic connected.",
+  "homepage": "https://www.post-bridge.com/",
+  "image": "/blog/2026-10-12/post-bridge.webp",
+  "imageAlt": "POST BRIDGE product image",
+  "imageWidth": 1200,
+  "imageHeight": 600,
+  "mentions": [
+    {
+      "date": "2026-10-12",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$49,117 MRR, 1,689 active subscriptions, ~$51,063 L30 (snapshot ~$51,218), ~$531,501 all-time, ~40,757 L30 visitors / ~$1.26 revenue per visitor. Revenue synced Oct 11, 2026 ~22:02 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/post-bridge"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.post-bridge.com/"
+        }
+      ],
+      "indieAngle": "Buffer/Later alternative at founder-friendly pricing — distribution via the founder's own audience."
+    }
+  ],
+  "whyItPrints": "Creators hate logging into five apps. Simple cross-posting at indie price points scales with seat count and organic X distribution.",
+  "whyThisMatters": "One person marketing a product should not spend an hour copying the same post into five apps. Post Bridge is a single dashboard that publishes and schedules across X, Instagram, LinkedIn, Facebook, TikTok, YouTube, Bluesky, and more. Write once. Send everywhere.\n\nJack Friks built it after living that daily grind on his own apps. The positioning is deliberate: not a team suite with approvals and shared inboxes. Marketer and Operator plans differ by how many social accounts you connect. Unlimited posts sit on the plans. There is an API and an MCP hook for people who want agents in the loop.\n\nUsers talk about carousels, bulk video scheduling, and founder support instead of a ticket queue. Official OAuth means you do not hand over passwords. Cancel at the end of the billing period.\n\nSolo marketers and small brands pay so the posting chore disappears. You stay in one tab. The post still goes out on every network you connected.\n\nScheduling and a calendar view keep upcoming posts honest. You edit before they go live. Analytics are listed as beta. The job is still the same: one place for the marketing you would otherwise do by hand every day."
+}

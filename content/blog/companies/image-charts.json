@@ -2,9 +2,9 @@
   "slug": "image-charts",
   "name": "Image-Charts",
   "listingNote": null,
-  "description": "Chart-as-image API for emails, PDFs, and chatbots (Google Image Charts spiritual successor). Bootstrapped since 2017.",
-  "homepage": "https://image-charts.com",
-  "image": "/blog/2026-09-29/image-charts.webp",
+  "description": "SaaS API that renders charts (static or animated) as images for emails, PDFs, reports, and chatbots — Zapier/Make friendly. Founded 2017, France. Business $89/mo yearly / Enterprise $224/mo yearly (company-stated).",
+  "homepage": "https://www.image-charts.com/",
+  "image": "/blog/2026-10-12/image-charts.webp",
   "imageAlt": "Image-Charts product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -20,8 +20,24 @@
         }
       ],
       "indieAngle": "Longevity proof — a narrow API can compound for a decade without chasing AI hype."
+    },
+    {
+      "date": "2026-10-12",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6,281 MRR, 50 active subscriptions, ~$2,343 L30, ~$541,380 all-time. Revenue synced Oct 12, 2026 ~04:25 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/image-charts"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.image-charts.com/"
+        }
+      ],
+      "indieAngle": "Sell a single developer utility as an image CDN for charts — high all-time, low feature churn, Zapier distribution."
     }
   ],
-  "whyItPrints": "Developers still need charts that render in email. Tiny MRR relative to lifetime — classic durable API micro-SaaS.",
+  "whyItPrints": "Embedding interactive charts in email clients is a nightmare; a URL that returns a PNG/GIF is the boring fix. Nine-year-old API with half a million all-time is quiet glue revenue.",
   "whyThisMatters": "Email clients can't run a live chart. Image-Charts turns the chart into a picture and gives you a URL. That picture can sit in an email, a PDF, a report, or a chat. It's the job Google Image Charts used to do. The company has been bootstrapped since 2017.\n\nIf you don't code, Zapier and Make can build the image from a form, a Google Sheet, Drive, Dropbox, or Pipedrive. If you do code, there's an API. Each chart has its own URL. It's built to answer in under a second. You set it up once and leave it.\n\nLines, bars, pies, donuts, sparklines, and QR codes are included. One QR code is for joining a Wi-Fi network. A free editor adds a small watermark. Paid plans remove it, add your own subdomain, and turn on Zapier and Make. A higher plan draws charts with more than one axis. If the data has to stay on your network, there's an on-premise machine. Microsoft, Spotify, and Dropbox use it.\n\nYou've already got the numbers. This puts them where a live chart won't load.\n\nYou pass a URL and get back a chart image for the report."
 }

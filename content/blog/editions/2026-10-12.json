@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-12",
+  "title": "Monday's boring SaaS, 12 October 2026",
+  "dek": "Monday, 12 October 2026. Nine are Stripe-verified. Heron Copier is Creem-verified, and Dropkiller's Stripe key went stale in August.",
+  "heroId": "dolomite-sunrise",
+  "companies": [
+    {
+      "slug": "downconvert-sketchup-files",
+      "name": "DOWNCONVERT SKETCHUP FILES",
+      "listingNote": null,
+      "description": "Open newer SketchUp files (2026 → 2017) in older versions. Founded Dec 2025, UAE. ~22k signed-in users, ~12k monthly visitors (founder-stated). Listed for sale at $17,900. Pricing: €3.90 per conversion or €24.90 unlimited one-time.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,339 MRR (+8.6% L30 MRR growth), 40 active subscriptions, ~$5,306 L30, ~$35,996 all-time, ~95% L30 profit margin. Asking price $17,900. Revenue synced Oct 11, 2026 ~10:22 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/digital-natives-services-fz-llc"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://downconvert-sketchup-files.com/"
+        }
+      ],
+      "homepage": "https://downconvert-sketchup-files.com/",
+      "indieAngle": "Same Conductor-lane lesson — wrap one painful versioning protocol, own the Google result, sell or keep the cash cow.",
+      "whyItPrints": "Architects and contractors still sit on old SketchUp seats; clients send 2026 files. A one-trick converter ranks for the query and charges only when someone needs more than the free trial — classic format-glue SEO.",
+      "image": "/blog/2026-10-12/downconvert-sketchup-files.webp",
+      "imageAlt": "DOWNCONVERT SKETCHUP FILES product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "mon-atelier",
+      "name": "Mon Atelier",
+      "listingNote": null,
+      "description": "All-in-one ERP for phone / PC / appliance / bike repair shops: tickets, quotes, invoices, stock, POS, online booking, customer SMS. French compliance baked in (NF525, 2026 e-invoicing via Pennylane, second-hand police ledger, FEC, QualiRépar). Founded Mar 2026, France. 48 shops (founder-stated). Listed for sale at $120,000. Solo €19 / Pro €39 per month.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,641 MRR (+16.7% L30), 65 active subscriptions, ~$3,464 L30, ~$17,563 all-time. Asking price $120,000 (~2.9×). Revenue synced Oct 12, 2026 ~07:54 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mon-atelier"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://monatelier.net/"
+        }
+      ],
+      "homepage": "https://monatelier.net/",
+      "indieAngle": "Verticalize one trade + one country's tax/compliance stack — then sell to the next country with the same playbook.",
+      "whyItPrints": "Repair shops live on post-its; generic invoicing ignores repair workflows and FR regulation. Compliance is the moat; a 20-store franchise is said to be onboarding.",
+      "image": "/blog/2026-10-12/mon-atelier.webp",
+      "imageAlt": "Mon Atelier product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "image-charts",
+      "name": "Image-Charts",
+      "listingNote": null,
+      "description": "SaaS API that renders charts (static or animated) as images for emails, PDFs, reports, and chatbots — Zapier/Make friendly. Founded 2017, France. Business $89/mo yearly / Enterprise $224/mo yearly (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$6,281 MRR, 50 active subscriptions, ~$2,343 L30, ~$541,380 all-time. Revenue synced Oct 12, 2026 ~04:25 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/image-charts"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.image-charts.com/"
+        }
+      ],
+      "homepage": "https://www.image-charts.com/",
+      "indieAngle": "Sell a single developer utility as an image CDN for charts — high all-time, low feature churn, Zapier distribution.",
+      "whyItPrints": "Embedding interactive charts in email clients is a nightmare; a URL that returns a PNG/GIF is the boring fix. Nine-year-old API with half a million all-time is quiet glue revenue.",
+      "image": "/blog/2026-10-12/image-charts.webp",
+      "imageAlt": "Image-Charts product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "send-letters-online-uk",
+      "name": "Send Letters Online UK",
+      "listingNote": null,
+      "description": "Type a letter in the browser; they print, fold, frank, and post via Royal Mail from £2.99. Volume discounts from 100 letters/month. Founded May 2026, UK. GDPR / ICO registered (company-stated). Pay-per-letter, not seat SaaS.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Seat MRR shown as $0 (transactional / pay-per-letter). ~$4,283 L30, ~$21,160 all-time. Revenue synced Oct 12, 2026 ~06:53 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/send-letters-online-uk"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://sendlettersonline.co.uk/"
+        }
+      ],
+      "homepage": "https://sendlettersonline.co.uk/",
+      "indieAngle": "Digitise a regulated physical workflow in one country; volume discounts and public-sector RFPs do the sales.",
+      "whyItPrints": "Courts, landlords, SMEs, and public sector still need physical post. Hybrid mail is dull infrastructure with tangible COGS and sticky repeat volume.",
+      "image": "/blog/2026-10-12/send-letters-online-uk.webp",
+      "imageAlt": "Send Letters Online UK product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "plate-lookup",
+      "name": "Plate Lookup",
+      "listingNote": null,
+      "description": "Lookup any vehicle by plate or VIN: specs, auction/sales history, recalls, photos, market value, accidents, odometer, title brands. Founded 2019, US. ~3.8k estimated users (TrustMRR). Mostly one-time / report checkout (low seat MRR).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$32 MRR / 4 active subscriptions (reports dominate over seats). ~$7,643 L30, ~$53,416 all-time. Revenue synced Oct 12, 2026 ~05:28 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/plate-lookup"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://platelookup.app/"
+        }
+      ],
+      "homepage": "https://platelookup.app/",
+      "indieAngle": "Wrap government + auction data behind a simple plate search page; upsell API later.",
+      "whyItPrints": "Car buyers and dealers pay to avoid lemons; plate/VIN APIs are a classic data-wrapper business with SEO front-door and API back-door.",
+      "image": "/blog/2026-10-12/plate-lookup.webp",
+      "imageAlt": "Plate Lookup product image",
+      "imageWidth": 1200,
+      "imageHeight": 653
+    },
+    {
+      "slug": "dropkiller",
+      "name": "Dropkiller",
+      "listingNote": null,
+      "description": "Subscription platform for e-comm entrepreneurs (esp. LatAm): product insights, ad creatives, market analysis. Founded Oct 2024, US. ~10k estimated users. Note: Stripe API key on TrustMRR expired Aug 2026 — figures below are the last verified sync, not live Oct data.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$60,179 MRR (snapshot at last sync), 2,702 active subscriptions, ~$49,511 L30 (as of sync window), ~$452,343 all-time. Last synced ~22:22 Warsaw 15 Aug 2026 (stale Stripe key on TrustMRR).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dropkiller"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.dropkiller.com/"
+        }
+      ],
+      "homepage": "https://www.dropkiller.com/",
+      "indieAngle": "Niche market-intel SaaS for one region's e-comm operators — language + payment rails as moat.",
+      "whyItPrints": "Dropshippers and DTC brands pay monthly for winning-product dashboards. High seat count, checkout + recurring mix.",
+      "image": "/blog/2026-10-12/dropkiller.webp",
+      "imageAlt": "Dropkiller product image",
+      "imageWidth": 1200,
+      "imageHeight": 622
+    },
+    {
+      "slug": "podawaa",
+      "name": "Podawaa",
+      "listingNote": null,
+      "description": "LinkedIn-focused publishing, engagement, and analytics platform. Founded Jun 2024, France (Tom Benattar). Plans: Community free / Scale €59 / Accelerate €89 / Dominate €159 per month. ~10k estimated users. 90% L30 profit margin snapshot.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$66,590 MRR, 619 active subscriptions, ~$57,822 L30, ~$1,204,292 all-time. Revenue synced Oct 12, 2026 ~08:35 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/podawaa"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://podawaa.com/"
+        }
+      ],
+      "homepage": "https://podawaa.com/",
+      "indieAngle": "Own one social network deeply (not all platforms) — higher willingness to pay per seat.",
+      "whyItPrints": "LinkedIn is the B2B distribution channel that still works; a focused scheduler/engagement tool compounds with agency seats.",
+      "image": "/blog/2026-10-12/podawaa.webp",
+      "imageAlt": "Podawaa product image",
+      "imageWidth": 1200,
+      "imageHeight": 756
+    },
+    {
+      "slug": "post-bridge",
+      "name": "POST BRIDGE",
+      "listingNote": null,
+      "description": "One dashboard to publish the same content to multiple social platforms. Founded Sep 2024, Canada (jack friks). Marketer $39/mo / Operator $99/mo. ~1.9k estimated users. 92% L30 profit margin snapshot; DataFast traffic connected.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$49,117 MRR, 1,689 active subscriptions, ~$51,063 L30 (snapshot ~$51,218), ~$531,501 all-time, ~40,757 L30 visitors / ~$1.26 revenue per visitor. Revenue synced Oct 11, 2026 ~22:02 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/post-bridge"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.post-bridge.com/"
+        }
+      ],
+      "homepage": "https://www.post-bridge.com/",
+      "indieAngle": "Buffer/Later alternative at founder-friendly pricing — distribution via the founder's own audience.",
+      "whyItPrints": "Creators hate logging into five apps. Simple cross-posting at indie price points scales with seat count and organic X distribution.",
+      "image": "/blog/2026-10-12/post-bridge.webp",
+      "imageAlt": "POST BRIDGE product image",
+      "imageWidth": 1200,
+      "imageHeight": 600
+    },
+    {
+      "slug": "dataexpert-techcreator",
+      "name": "DataExpert / TechCreator",
+      "listingNote": null,
+      "description": "Structured data-engineering / AI upskilling programs with hands-on cloud access (Databricks, AWS, Snowflake). Founded Mar 2023, US (Zach Wilson). $119/mo (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$56,127 MRR, 877 active subscriptions, ~$44,360 L30, ~$4,729,562 all-time. Revenue synced Oct 12, 2026 ~04:02 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dataexpert-techcreator"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.dataexpert.io/"
+        }
+      ],
+      "homepage": "https://www.dataexpert.io/",
+      "indieAngle": "Expert-led vertical education with cloud lab access — high LTV, content moat, not an AI toy.",
+      "whyItPrints": "Working engineers pay for career acceleration; cohort + subscription education prints for years. Nearly $4.7M Stripe all-time is the proof.",
+      "image": "/blog/2026-10-12/dataexpert-techcreator.webp",
+      "imageAlt": "DataExpert / TechCreator product image",
+      "imageWidth": 1200,
+      "imageHeight": 1200
+    },
+    {
+      "slug": "heron-copier",
+      "name": "Heron Copier",
+      "listingNote": null,
+      "description": "Cloud + local trade copier and journal across MetaTrader, cTrader, DXtrade, and more — unlimited master/slave, live dashboards. Founded Jun 2023, Indonesia. Free 7-day trial / $19/mo / $179/yr. Creem + Polar verified on TrustMRR.",
+      "evidenceKind": "creem-verified",
+      "evidence": "~$7,594 MRR, 456 active subscriptions, ~$7,186 L30, ~$498,420 all-time, ~80% L30 profit margin. Also Polar-connected on TrustMRR. Revenue synced Oct 12, 2026 ~00:09 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/heron-copier"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://heroncopier.com/"
+        }
+      ],
+      "homepage": "https://heroncopier.com/",
+      "indieAngle": "Niche fintech utility for one workflow (copy trading) across many brokers — support is the product.",
+      "whyItPrints": "Prop traders and signal sellers need reliable copy infra; platform sprawl makes a multi-broker copier sticky. Half a million all-time on a $19 seat.",
+      "image": "/blog/2026-10-12/heron-copier.webp",
+      "imageAlt": "Heron Copier product image",
+      "imageWidth": 1200,
+      "imageHeight": 788
+    }
+  ],
+  "honorableMentions": []
+}

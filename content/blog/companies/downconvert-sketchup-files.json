@@ -1,0 +1,31 @@
+{
+  "slug": "downconvert-sketchup-files",
+  "name": "DOWNCONVERT SKETCHUP FILES",
+  "listingNote": null,
+  "description": "Open newer SketchUp files (2026 → 2017) in older versions. Founded Dec 2025, UAE. ~22k signed-in users, ~12k monthly visitors (founder-stated). Listed for sale at $17,900. Pricing: €3.90 per conversion or €24.90 unlimited one-time.",
+  "homepage": "https://downconvert-sketchup-files.com/",
+  "image": "/blog/2026-10-12/downconvert-sketchup-files.webp",
+  "imageAlt": "DOWNCONVERT SKETCHUP FILES product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-12",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$3,339 MRR (+8.6% L30 MRR growth), 40 active subscriptions, ~$5,306 L30, ~$35,996 all-time, ~95% L30 profit margin. Asking price $17,900. Revenue synced Oct 11, 2026 ~10:22 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/digital-natives-services-fz-llc"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://downconvert-sketchup-files.com/"
+        }
+      ],
+      "indieAngle": "Same Conductor-lane lesson — wrap one painful versioning protocol, own the Google result, sell or keep the cash cow."
+    }
+  ],
+  "whyItPrints": "Architects and contractors still sit on old SketchUp seats; clients send 2026 files. A one-trick converter ranks for the query and charges only when someone needs more than the free trial — classic format-glue SEO.",
+  "whyThisMatters": "Architects and contractors get SketchUp files from clients who already upgraded. Their own seat is still on 2020 or 2017. SketchUp does not open a newer file in an older install. DownConvert is the web tool that fixes that gap. You upload the .skp, pick the older version you need, and download a file that opens. No plugin. No install. No SketchUp license on their side.\n\nThe first conversion is free. After that you pay per file, or you buy an unlimited pass that does not expire. Files go up to about 100 MB on the cheap plan, a bit higher on unlimited. They say materials and layers stay intact, and the average conversion is under a minute. The file is deleted when processing finishes.\n\nThe pitch is money and time. Upgrading SketchUp for one awkward file is expensive. Asking the client to re-export is awkward. This sits in the middle: open what you were sent, stay on the seat you already paid for. The site claims thousands of architects have used it, and the TrustMRR listing puts the company in the UAE with a founder-stated user count in the tens of thousands.\n\nThis is format glue. One painful incompatibility, one Google query, a free trial that converts when the next file arrives. You pay so the file opens."
+}

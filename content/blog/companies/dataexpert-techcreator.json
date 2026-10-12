@@ -2,9 +2,9 @@
   "slug": "dataexpert-techcreator",
   "name": "DataExpert / TechCreator",
   "listingNote": null,
-  "description": "Data engineering + AI upskilling education (courses / community) at dataexpert.io — ~$119/mo.",
-  "homepage": "https://dataexpert.io",
-  "image": "/blog/2026-09-29/dataexpert-techcreator.webp",
+  "description": "Structured data-engineering / AI upskilling programs with hands-on cloud access (Databricks, AWS, Snowflake). Founded Mar 2023, US (Zach Wilson). $119/mo (company-stated).",
+  "homepage": "https://www.dataexpert.io/",
+  "image": "/blog/2026-10-12/dataexpert-techcreator.webp",
   "imageAlt": "DataExpert / TechCreator product image",
   "imageWidth": 1200,
   "imageHeight": 1200,
@@ -20,8 +20,24 @@
         }
       ],
       "indieAngle": "Niche technical education with free cloud sandbox access — content → paid cohort, not another chat UI."
+    },
+    {
+      "date": "2026-10-12",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$56,127 MRR, 877 active subscriptions, ~$44,360 L30, ~$4,729,562 all-time. Revenue synced Oct 12, 2026 ~04:02 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dataexpert-techcreator"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.dataexpert.io/"
+        }
+      ],
+      "indieAngle": "Expert-led vertical education with cloud lab access — high LTV, content moat, not an AI toy."
     }
   ],
-  "whyItPrints": "Career education on Stripe is a proven print machine; Zach Wilson’s brand feeds a recurring cohort engine.",
+  "whyItPrints": "Working engineers pay for career acceleration; cohort + subscription education prints for years. Nearly $4.7M Stripe all-time is the proof.",
   "whyThisMatters": "It's an academy for data engineering and AI, for people who already work as engineers. They want interview practice that feels like a big-tech loop, not a learn-to-code site for beginners. Courses, plus drills. SQL on a timer, data modeling, behavioral questions. You hit submit and it gets graded.\n\nSome drills are free. Some you pay for. There are apps on the App Store and Google Play, and a Trustpilot page, so it's not only a browser tab and a Discord. Student comments talk about video lessons, help setting up a coding environment, and support from the instructor's staff. The instructor they name is Zach. One student describes him as someone who has built systems, not only taught them.\n\nYou sign up, you do the courses, you practice interviews, you stay around while you're paying. A membership, not a bootcamp that ends on a Friday. That's why a course business can sit next to software in these notes. You're paying for access that stays open, not for a single workshop.\n\nThe learner count on their site is their own marketing number. The page is still the best place to see the syllabus. Data engineering, AI, and interview practice for people who already have a job."
 }

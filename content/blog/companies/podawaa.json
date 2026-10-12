@@ -1,0 +1,31 @@
+{
+  "slug": "podawaa",
+  "name": "Podawaa",
+  "listingNote": null,
+  "description": "LinkedIn-focused publishing, engagement, and analytics platform. Founded Jun 2024, France (Tom Benattar). Plans: Community free / Scale €59 / Accelerate €89 / Dominate €159 per month. ~10k estimated users. 90% L30 profit margin snapshot.",
+  "homepage": "https://podawaa.com/",
+  "image": "/blog/2026-10-12/podawaa.webp",
+  "imageAlt": "Podawaa product image",
+  "imageWidth": 1200,
+  "imageHeight": 756,
+  "mentions": [
+    {
+      "date": "2026-10-12",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$66,590 MRR, 619 active subscriptions, ~$57,822 L30, ~$1,204,292 all-time. Revenue synced Oct 12, 2026 ~08:35 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/podawaa"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://podawaa.com/"
+        }
+      ],
+      "indieAngle": "Own one social network deeply (not all platforms) — higher willingness to pay per seat."
+    }
+  ],
+  "whyItPrints": "LinkedIn is the B2B distribution channel that still works; a focused scheduler/engagement tool compounds with agency seats.",
+  "whyThisMatters": "LinkedIn posts often die at zero likes. Podawaa is built for that first hour, when the feed decides who sees the post. You publish as usual. Their Growth Autopilot notices the new post and starts a boost of likes and comments from other members, delivered gradually.\n\nThere is a free Community plan that uses a Chrome extension and an engagement exchange. Private plans deliver engagement for you without your account liking other people's posts in return. Paid tiers add more likes and AI comments per post, scheduling, a comment inbox, and studio writing. Agencies can stack several LinkedIn accounts on Private.\n\nThe company is French. Pricing is in euros. They are clear that LinkedIn's terms restrict automated and inauthentic engagement, so they cannot promise an account will never get limited. Comments are written for the post, in the post's language, matched toward English, French, or Spanish markets.\n\nFounders and agencies pay so a post is not silent at the start. You write. They handle the first reactions."
+}

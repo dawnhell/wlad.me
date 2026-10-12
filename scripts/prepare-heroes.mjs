@@ -112,6 +112,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sk%C3%B3gafoss_July_2014.JPG/1920px-Sk%C3%B3gafoss_July_2014.JPG',
   },
+  {
+    id: 'dolomite-sunrise',
+    subject: 'nature',
+    alt: 'Sunrise near Rifugio Mulaz in the Dolomites, Italy',
+    credit: 'Dmitry Djouce',
+    license: 'CC BY 4.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Sunrise_near_Rifugio_Mulaz_-_Dolomites%2C_Italy_-_2025.jpg/1920px-Sunrise_near_Rifugio_Mulaz_-_Dolomites%2C_Italy_-_2025.jpg',
+  },
 ]
 
 function filePage(thumbUrl) {

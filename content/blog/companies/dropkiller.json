@@ -1,0 +1,31 @@
+{
+  "slug": "dropkiller",
+  "name": "Dropkiller",
+  "listingNote": null,
+  "description": "Subscription platform for e-comm entrepreneurs (esp. LatAm): product insights, ad creatives, market analysis. Founded Oct 2024, US. ~10k estimated users. Note: Stripe API key on TrustMRR expired Aug 2026 — figures below are the last verified sync, not live Oct data.",
+  "homepage": "https://www.dropkiller.com/",
+  "image": "/blog/2026-10-12/dropkiller.webp",
+  "imageAlt": "Dropkiller product image",
+  "imageWidth": 1200,
+  "imageHeight": 622,
+  "mentions": [
+    {
+      "date": "2026-10-12",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$60,179 MRR (snapshot at last sync), 2,702 active subscriptions, ~$49,511 L30 (as of sync window), ~$452,343 all-time. Last synced ~22:22 Warsaw 15 Aug 2026 (stale Stripe key on TrustMRR).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dropkiller"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.dropkiller.com/"
+        }
+      ],
+      "indieAngle": "Niche market-intel SaaS for one region's e-comm operators — language + payment rails as moat."
+    }
+  ],
+  "whyItPrints": "Dropshippers and DTC brands pay monthly for winning-product dashboards. High seat count, checkout + recurring mix.",
+  "whyThisMatters": "Dropshippers and DTC brands in Latin America pay for a dashboard that shows which products and ads are working. Dropkiller is that research layer. Product insights, ad creatives, market analysis, and a Chrome extension so you can inspect a product without leaving the store or ad library you already have open.\n\nThe homepage is in Spanish. Creators and e-com educators in the region endorse it. They talk about a large catalog of products and millions of ads. The workflow is find a winner, spy the creative, and move into your own store faster.\n\nTrustMRR still marks the money Stripe-verified, but the connected key expired in August 2026. The numbers you see are the last sync from that window, not a live October pull. Seat count was high then, which fits a monthly research subscription with a big free-to-paid funnel.\n\nYou pay for the radar. Language and local payment rails are part of the moat. The product is market intel for one region's operators, not another global AI toy."
+}

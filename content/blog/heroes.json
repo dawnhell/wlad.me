@@ -1,14 +1,25 @@
 [
   {
-    "id": "misty-forest",
-    "src": "/blog/heroes/misty-forest.webp",
-    "alt": "A misty winter morning among the trees of Stonor Forest",
-    "width": 1120,
-    "height": 747,
-    "credit": "Scott Wylie",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:(Explored)_Misty_Winter_morning_in_Stonor_Forest_-_Flickr_-_scotbot.jpg",
-    "license": "CC BY 2.0",
-    "subject": "nature"
+    "id": "red-fox",
+    "src": "/blog/heroes/red-fox.webp",
+    "alt": "A red fox in snow in a nature reserve in Sweden",
+    "width": 1600,
+    "height": 1067,
+    "credit": "ClaudiaTen",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "animal"
+  },
+  {
+    "id": "red-deer",
+    "src": "/blog/heroes/red-deer.webp",
+    "alt": "A wild red deer standing in the Aletsch Forest",
+    "width": 1440,
+    "height": 961,
+    "credit": "Giles Laurent",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:014_Wild_Red_Deer_Switzerland_Photo_by_Giles_Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "animal"
   },
   {
     "id": "coast-waves",
@@ -33,28 +44,6 @@
     "subject": "nature"
   },
   {
-    "id": "red-fox",
-    "src": "/blog/heroes/red-fox.webp",
-    "alt": "A red fox in snow in a nature reserve in Sweden",
-    "width": 1600,
-    "height": 1067,
-    "credit": "ClaudiaTen",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
-    "license": "CC BY-SA 4.0",
-    "subject": "animal"
-  },
-  {
-    "id": "red-deer",
-    "src": "/blog/heroes/red-deer.webp",
-    "alt": "A wild red deer standing in the Aletsch Forest",
-    "width": 1440,
-    "height": 961,
-    "credit": "Giles Laurent",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:014_Wild_Red_Deer_Switzerland_Photo_by_Giles_Laurent.jpg",
-    "license": "CC BY-SA 4.0",
-    "subject": "animal"
-  },
-  {
     "id": "gull-flight",
     "src": "/blog/heroes/gull-flight.webp",
     "alt": "A gull in flight with its wings spread",
@@ -75,6 +64,17 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:African_bush_elephants_(Loxodonta_africana)_female_with_six-week-old_baby.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "animal"
+  },
+  {
+    "id": "misty-forest",
+    "src": "/blog/heroes/misty-forest.webp",
+    "alt": "A misty winter morning among the trees of Stonor Forest",
+    "width": 1120,
+    "height": 747,
+    "credit": "Scott Wylie",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:(Explored)_Misty_Winter_morning_in_Stonor_Forest_-_Flickr_-_scotbot.jpg",
+    "license": "CC BY 2.0",
+    "subject": "nature"
   },
   {
     "id": "desert-dunes",
@@ -140,6 +140,17 @@
     "credit": "Martin Falbisoner",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Sk%C3%B3gafoss_July_2014.JPG",
     "license": "CC BY-SA 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "dolomite-sunrise",
+    "src": "/blog/heroes/dolomite-sunrise.webp",
+    "alt": "Sunrise near Rifugio Mulaz in the Dolomites, Italy",
+    "width": 1440,
+    "height": 958,
+    "credit": "Dmitry Djouce",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_near_Rifugio_Mulaz_-_Dolomites%2C_Italy_-_2025.jpg",
+    "license": "CC BY 4.0",
     "subject": "nature"
   }
 ]

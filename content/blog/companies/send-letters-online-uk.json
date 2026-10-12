@@ -1,0 +1,31 @@
+{
+  "slug": "send-letters-online-uk",
+  "name": "Send Letters Online UK",
+  "listingNote": null,
+  "description": "Type a letter in the browser; they print, fold, frank, and post via Royal Mail from £2.99. Volume discounts from 100 letters/month. Founded May 2026, UK. GDPR / ICO registered (company-stated). Pay-per-letter, not seat SaaS.",
+  "homepage": "https://sendlettersonline.co.uk/",
+  "image": "/blog/2026-10-12/send-letters-online-uk.webp",
+  "imageAlt": "Send Letters Online UK product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-12",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Seat MRR shown as $0 (transactional / pay-per-letter). ~$4,283 L30, ~$21,160 all-time. Revenue synced Oct 12, 2026 ~06:53 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/send-letters-online-uk"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://sendlettersonline.co.uk/"
+        }
+      ],
+      "indieAngle": "Digitise a regulated physical workflow in one country; volume discounts and public-sector RFPs do the sales."
+    }
+  ],
+  "whyItPrints": "Courts, landlords, SMEs, and public sector still need physical post. Hybrid mail is dull infrastructure with tangible COGS and sticky repeat volume.",
+  "whyThisMatters": "Courts, landlords, and small firms in the UK still need a letter on paper. Send Letters Online UK is the browser workflow for that. You type the letter, pick a Royal Mail service, and they print, fold, frank, and post it. No printer. No stamps. No queue at the post office.\n\nOrders placed before early afternoon on a working day can go out the same day. Pricing starts around a few pounds per letter. Volume discounts kick in when you send a hundred or more in a month. The company says it is GDPR and ICO registered. Founded in May 2026.\n\nThis is hybrid mail, not seat software. Revenue shows up as pay-per-letter volume, so the monthly seat figure can read as zero while cash still moves every month. The product is the physical post plus the web form in front of it.\n\nPeople keep paying because the letter has to arrive as paper. You type once. They handle the rest."
+}

@@ -2,9 +2,9 @@
   "slug": "mon-atelier",
   "name": "Mon Atelier",
   "listingNote": null,
-  "description": "All-in-one ERP for French repair shops (phone, PC, appliance, bike): tickets, NF525 invoices, stock, POS, booking, QualiRépar, police ledger. From €19/mo. Solo founder, 48 shops.",
-  "homepage": "https://monatelier.net",
-  "image": "/blog/2026-09-29/mon-atelier.webp",
+  "description": "All-in-one ERP for phone / PC / appliance / bike repair shops: tickets, quotes, invoices, stock, POS, online booking, customer SMS. French compliance baked in (NF525, 2026 e-invoicing via Pennylane, second-hand police ledger, FEC, QualiRépar). Founded Mar 2026, France. 48 shops (founder-stated). Listed for sale at $120,000. Solo €19 / Pro €39 per month.",
+  "homepage": "https://monatelier.net/",
+  "image": "/blog/2026-10-12/mon-atelier.webp",
   "imageAlt": "Mon Atelier product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -24,8 +24,24 @@
         }
       ],
       "indieAngle": "Closest Conductor cousin today — pick a regulated vertical, bake compliance in, charge €19–39/mo forever."
+    },
+    {
+      "date": "2026-10-12",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,641 MRR (+16.7% L30), 65 active subscriptions, ~$3,464 L30, ~$17,563 all-time. Asking price $120,000 (~2.9×). Revenue synced Oct 12, 2026 ~07:54 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mon-atelier"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://monatelier.net/"
+        }
+      ],
+      "indieAngle": "Verticalize one trade + one country's tax/compliance stack — then sell to the next country with the same playbook."
     }
   ],
-  "whyItPrints": "Conductor-shaped — compliance + repair workflow glue. French e-invoicing / NF525 is the moat, not AI features.",
+  "whyItPrints": "Repair shops live on post-its; generic invoicing ignores repair workflows and FR regulation. Compliance is the moat; a 20-store franchise is said to be onboarding.",
   "whyThisMatters": "Repair shops in France use Mon Atelier to run the bench. A phone, a computer, an appliance, or a bike comes in and you open a ticket. Status moves from received, to diagnosis, to in progress, to ready, to handed back. Quotes and invoices follow NF525. Stock alerts fire when parts run low. Buying a used phone writes the police ledger. QualiRépar bonuses go through EcoSystem and EcoLogic. Customers can book a drop-off or a pickup online. Nothing to install. The trial is 14 days, with no card.\n\nThe customer gets a text or an email when the status changes. Exports include a CSV and the FEC file a French accountant wants. The solo plan is tickets, quotes, invoices, stock, texts, and e-sign. The pro plan adds QualiRépar, the agenda, the register, several technicians, and that FEC file. PC and Mac shops use the same tool.\n\nOne person runs the company. More than 40 shops use it day to day, and the shop count given with the company is 48. They cite a 4.7 average across 14 reviews on Google and Trustpilot. You pay for the ticket, a compliant invoice, and the ledger a French repair shop has to keep."
 }

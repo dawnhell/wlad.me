@@ -1,0 +1,31 @@
+{
+  "slug": "plate-lookup",
+  "name": "Plate Lookup",
+  "listingNote": null,
+  "description": "Lookup any vehicle by plate or VIN: specs, auction/sales history, recalls, photos, market value, accidents, odometer, title brands. Founded 2019, US. ~3.8k estimated users (TrustMRR). Mostly one-time / report checkout (low seat MRR).",
+  "homepage": "https://platelookup.app/",
+  "image": "/blog/2026-10-12/plate-lookup.webp",
+  "imageAlt": "Plate Lookup product image",
+  "imageWidth": 1200,
+  "imageHeight": 653,
+  "mentions": [
+    {
+      "date": "2026-10-12",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$32 MRR / 4 active subscriptions (reports dominate over seats). ~$7,643 L30, ~$53,416 all-time. Revenue synced Oct 12, 2026 ~05:28 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/plate-lookup"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://platelookup.app/"
+        }
+      ],
+      "indieAngle": "Wrap government + auction data behind a simple plate search page; upsell API later."
+    }
+  ],
+  "whyItPrints": "Car buyers and dealers pay to avoid lemons; plate/VIN APIs are a classic data-wrapper business with SEO front-door and API back-door.",
+  "whyThisMatters": "Car buyers and dealers need to know what happened to a vehicle before money changes hands. Plate Lookup turns a license plate or a VIN into a history report. Accidents, auction records, recalls, photos, odometer readings, title brands, market value, and factory specs come back in one place.\n\nYou can type the plate or scan it from a phone. The app is on iOS and Android. They also sell shop tools: work orders, inspections, customer records, and payments for dealers and mobile mechanics. The consumer report is still the front door.\n\nAuction houses like Copart, IAAI, and Manheim show up in the history. NHTSA recalls do too. The point is to spot a lemon, a rollback, or a salvage title before you buy. Most buyers pay once for a report rather than a monthly seat, which is why seat revenue stays tiny next to the last-thirty-days cash.\n\nFounded in 2019 in the US. You look up a plate. You get the story the seller did not volunteer."
+}
