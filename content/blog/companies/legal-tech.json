@@ -1,0 +1,31 @@
+{
+  "slug": "legal-tech",
+  "name": "Legal Tech",
+  "listingNote": null,
+  "description": "Cloud practice management for attorneys and legal depts: case files, deadlines, court/registry lookups (ЕПЕП, Търговски регистър), document generation, billing. Founded Oct 2025, Bulgaria. Pricing: Solo €19/mo, Standard €49/mo, Pro €79/mo (company-stated; yearly −20%).",
+  "homepage": "https://legal-tech.bg/",
+  "image": "/blog/2026-10-13/legal-tech.webp",
+  "imageAlt": "Legal Tech product image",
+  "imageWidth": 1024,
+  "imageHeight": 535,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$16,814 MRR, 98 active subscriptions, ~$2,051 L30, ~$15,742 all-time. L30 cash is far below listed MRR (likely annual prepaid / renewals clustered — treat MRR as Stripe's subscription metric, L30 as cash). Revenue synced Oct 13, 2026 ~03:48 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/legal-tech"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://legal-tech.bg/"
+        }
+      ],
+      "indieAngle": "Pick one country's lawyer bureaucracy stack; integrations beat feature lists."
+    }
+  ],
+  "whyItPrints": "Local court + company-registry integrations are the moat. Generic Notion/CRM does not talk to Bulgarian e-justice.",
+  "whyThisMatters": "Lawyers in Bulgaria use Legal Tech as the office system for clients, cases, and court files. It is cloud software. You can open it from home, the office, or a phone. A 14-day trial does not ask for a card.\n\nThe useful part is the local bureaucracy. It looks up the commercial register and the electronic justice system, watches a filing number for a new case, and reminds you about hearings and deadlines. It drafts contracts, court motions, company-registration packs, and the forms for anti-money-laundering and personal-data rules. You can also upload your own templates.\n\nSolo is capped at a small number of records per module. Standard and Pro lift that cap and add team tasks, calendars that sync with Google, Microsoft, and Apple, invoices, and billing reports. Yearly billing is cheaper than paying month to month. The site is in Bulgarian and talks about solo lawyers, firms, and in-house legal teams.\n\nYou pay so the register check and the deadline reminder happen without a spreadsheet."
+}

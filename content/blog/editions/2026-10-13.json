@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-13",
+  "title": "Tuesday's boring SaaS, 13 October 2026",
+  "dek": "Tuesday, 13 October 2026. Seven are Stripe-verified. IK-Generator runs on Paddle. Francopass and Steady are RevenueCat-verified.",
+  "heroId": "senja-fjord",
+  "companies": [
+    {
+      "slug": "ik-generator",
+      "name": "IK-Generator",
+      "listingNote": null,
+      "description": "Automates French professional mileage allowances: routes, official 2026 scale, Excel export for accounting/tax. Founded Mar 2025, France. Solo. ~80 users (founder-stated). Listed for sale (codebase, domain, SEO site, GA + Paddle). Pricing: €99/year per account via Paddle.",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$689 MRR, 75 active subscriptions, ~$111 L30, ~$12,707 all-time. Founder-stated ~$9k L12 / 94% margin. Revenue synced Oct 13, 2026 ~05:50 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ik-generator"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://ik-generator.com/"
+        }
+      ],
+      "homepage": "https://ik-generator.com/",
+      "indieAngle": "Wrap one country's statutory calculator, sell the PDF/Excel, then flip or expand to the next barème.",
+      "whyItPrints": "Every FR self-employed driver, sales rep, and agent still owes a barème spreadsheet. One annual tax chore × SEO = quiet recurring cash with ~94% margin (founder-stated).",
+      "image": "/blog/2026-10-13/ik-generator.webp",
+      "imageAlt": "IK-Generator product image",
+      "imageWidth": 1200,
+      "imageHeight": 974
+    },
+    {
+      "slug": "legal-tech",
+      "name": "Legal Tech",
+      "listingNote": null,
+      "description": "Cloud practice management for attorneys and legal depts: case files, deadlines, court/registry lookups (ЕПЕП, Търговски регистър), document generation, billing. Founded Oct 2025, Bulgaria. Pricing: Solo €19/mo, Standard €49/mo, Pro €79/mo (company-stated; yearly −20%).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$16,814 MRR, 98 active subscriptions, ~$2,051 L30, ~$15,742 all-time. L30 cash is far below listed MRR (likely annual prepaid / renewals clustered — treat MRR as Stripe's subscription metric, L30 as cash). Revenue synced Oct 13, 2026 ~03:48 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/legal-tech"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://legal-tech.bg/"
+        }
+      ],
+      "homepage": "https://legal-tech.bg/",
+      "indieAngle": "Pick one country's lawyer bureaucracy stack; integrations beat feature lists.",
+      "whyItPrints": "Local court + company-registry integrations are the moat. Generic Notion/CRM does not talk to Bulgarian e-justice.",
+      "image": "/blog/2026-10-13/legal-tech.webp",
+      "imageAlt": "Legal Tech product image",
+      "imageWidth": 1024,
+      "imageHeight": 535
+    },
+    {
+      "slug": "funneled",
+      "name": "Funneled",
+      "listingNote": "Plutocracy",
+      "description": "No-code Shopify landing pages / advertorials for cold paid traffic: cart sync, split tests, Meta/TikTok tracking. Founded Apr 2025, Australia. Pricing: Starter $349/mo, Growth $699/mo, Performance custom (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$18,034 MRR, 21 active subscriptions, ~$19,154 L30, ~$94,651 all-time. Revenue synced Oct 13, 2026 ~04:19 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/plutocracy"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://getfunneled.com/"
+        }
+      ],
+      "homepage": "https://getfunneled.com/",
+      "indieAngle": "Sell the missing page between ad click and Shopify checkout — price for agencies, not hobby stores.",
+      "whyItPrints": "Performance marketers will pay mid-three-figures seats when ad creative needs matching landers. High ARPU, few accounts.",
+      "image": "/blog/2026-10-13/funneled.webp",
+      "imageAlt": "Funneled product image",
+      "imageWidth": 1200,
+      "imageHeight": 508
+    },
+    {
+      "slug": "writestack",
+      "name": "WriteStack",
+      "listingNote": null,
+      "description": "Scheduling, analytics, and publishing helpers for Substack writers/Notes. Founded Jul 2024, US. Solo founder (Orel).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$12,984 MRR, 486 active subscriptions, ~$15,096 L30, ~$175,667 all-time. Revenue synced Oct 13, 2026 ~02:09 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/writestack"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.writestack.io/"
+        }
+      ],
+      "homepage": "https://www.writestack.io/",
+      "indieAngle": "Own one platform's missing workflow (Notes scheduler / analytics) instead of another generic social suite.",
+      "whyItPrints": "Substack's built-in tools leave gaps; a focused layer on a growing creator platform collects hundreds of small monthly seats.",
+      "image": "/blog/2026-10-13/writestack.webp",
+      "imageAlt": "WriteStack product image",
+      "imageWidth": 1200,
+      "imageHeight": 599
+    },
+    {
+      "slug": "francopass",
+      "name": "Francopass",
+      "listingNote": null,
+      "description": "iOS / Android / web prep for the French civic exam and naturalization interview: quiz, flashcards, audio, AI mock interview. Founded Oct 2025, France. ~14k users prepared (company-stated). Listed for sale. Pricing from €4.99 after free demo.",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "~$1,675 MRR, 132 active subscriptions, ~$3,729 L30. Tracked since 6 Mar 2026. Revenue synced Oct 13, 2026 ~04:11 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/francopass"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://francopass.com/"
+        }
+      ],
+      "homepage": "https://francopass.com/",
+      "indieAngle": "Country + one high-stakes exam. Same playbook for DE/IT/ES naturalization or driving theory.",
+      "whyItPrints": "Immigration paperwork is evergreen, localized, and emotional — people pay to not fail the prefecture interview.",
+      "image": "/blog/2026-10-13/francopass.webp",
+      "imageAlt": "Francopass product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "inflatemate",
+      "name": "InflateMate",
+      "listingNote": null,
+      "description": "Booking site, live inventory, deposits, waivers, delivery pricing for inflatable rental operators. Founded Feb 2025, US. Starter $49/mo, Growth $99/mo. Company-stated: 48 rental businesses, $75k+ online rental payments recorded, 458 bookings, 343 waivers.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,480 MRR, 19 active subscriptions, ~$1,486 L30, ~$7,343 all-time. Revenue synced Oct 13, 2026 ~06:11 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/inflatemate"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://inflatemate.co/"
+        }
+      ],
+      "homepage": "https://inflatemate.co/",
+      "indieAngle": "Pick one rental niche (bounce houses, tents, porta-potties) and ship booking + waiver + Stripe deposits.",
+      "whyItPrints": "Weekend double-booking and paper waivers are real money leaks. Vertical PMS for a trade nobody on HN talks about.",
+      "image": "/blog/2026-10-13/inflatemate.webp",
+      "imageAlt": "InflateMate product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "steady-fear-of-flying",
+      "name": "Steady — Fear of Flying",
+      "listingNote": null,
+      "description": "Offline pocket co-pilot for anxious flyers with route turbulence forecast, calming tools, community. Founded Jun 2026. Pricing: Pro weekly $5.99, Bravery Pass 72h $11.99, yearly $39.99, lifetime $49.99. App Store rating 4.7/5 (25 ratings at sync).",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "~$3,447 MRR, 227 active subscriptions, ~$4,919 L30, ~$23,651 all-time. Revenue synced Oct 13, 2026 ~05:00 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/steady-fear-of-flying"
+        },
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/gb/app/steady-fear-of-flying/id6764277758"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Pair a scary real-world anxiety with one measurable data feed (turbulence), then upsell trip packs.",
+      "whyItPrints": "Fear-of-flying is a sticky consumer niche with clear willingness to pay around trip days; turbulence-as-a-feature is concrete.",
+      "image": "/blog/2026-10-13/steady-fear-of-flying.webp",
+      "imageAlt": "Steady — Fear of Flying product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "databuddy",
+      "name": "Databuddy",
+      "listingNote": null,
+      "description": "Cookie-less, no-fingerprint analytics: visits, events, errors, funnels; open source. Founded Jun 2025, US. Free 10k events; Hobby $9.99/mo; Pro $49.99/mo.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,846 MRR, 32 active subscriptions, ~$5,316 L30, ~$10,456 all-time. Revenue synced Oct 13, 2026 ~02:07 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/databuddy-analytics-inc"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://databuddy.cc/"
+        }
+      ],
+      "homepage": "https://databuddy.cc/",
+      "indieAngle": "Differentiate on investigation UX (\"what changed / what to do\") rather than another GA clone.",
+      "whyItPrints": "GDPR-tired sites still need charts. Privacy analytics is crowded but Stripe-verified seats prove buyers keep showing up.",
+      "image": "/blog/2026-10-13/databuddy.webp",
+      "imageAlt": "Databuddy product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "ship-restrict",
+      "name": "Ship Restrict",
+      "listingNote": null,
+      "description": "Blocks regulated SKUs from restricted US states / cities / ZIPs on Shopify & WooCommerce. Founded Apr 2025, US. Solo. Woo $29.99/mo, Shopify $19.99/mo. Founder notes Shopify billing is not in TrustMRR totals (no Shopify Payments sync).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$210 MRR, 8 active subscriptions, ~$150 L30, ~$2,549 all-time. Shopify app revenue excluded from these figures. Revenue synced Oct 13, 2026 ~03:38 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ship-restrict"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://shiprestrict.com/"
+        },
+        {
+          "label": "Shopify app",
+          "url": "https://apps.shopify.com/ship-restrict"
+        }
+      ],
+      "homepage": "https://shiprestrict.com/",
+      "indieAngle": "Encode one messy regulation table as a checkout gate; sell on both Shopify and Woo.",
+      "whyItPrints": "One compliance rule engine saves merchants from illegal shipments. Classic plugin-tax on regulated e-com.",
+      "image": "/blog/2026-10-13/ship-restrict.webp",
+      "imageAlt": "Ship Restrict product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "tifox",
+      "name": "Tifox",
+      "listingNote": null,
+      "description": "Digital pupil progress booklet for French maternelle teachers against the official 2026 curriculum: photos, offline, print-ready PDF for families. Android / iOS / web. Founded Mar 2026, France. Solo. Annual €12–€25 per class; free up to 3 pupils. ~1,432 users (company-stated). Seasonal (peaks Jun–Sep).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$106 MRR, 57 active subscriptions, ~$1,586 L30, ~$4,170 all-time. L30 is well above MRR, which fits annual back-to-school billing. Revenue synced Oct 13, 2026 ~06:12 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tifox"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://tifox-maternelle.fr/"
+        }
+      ],
+      "homepage": "https://tifox-maternelle.fr/",
+      "indieAngle": "Digitize one country's required school form; price per class; sell town halls next.",
+      "whyItPrints": "Mandatory school paperwork + official curriculum versioning = recurring September renewals. Town-hall group licences are the expansion path.",
+      "image": "/blog/2026-10-13/tifox.webp",
+      "imageAlt": "Tifox product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": []
+}

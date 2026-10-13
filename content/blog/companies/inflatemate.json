@@ -1,0 +1,31 @@
+{
+  "slug": "inflatemate",
+  "name": "InflateMate",
+  "listingNote": null,
+  "description": "Booking site, live inventory, deposits, waivers, delivery pricing for inflatable rental operators. Founded Feb 2025, US. Starter $49/mo, Growth $99/mo. Company-stated: 48 rental businesses, $75k+ online rental payments recorded, 458 bookings, 343 waivers.",
+  "homepage": "https://inflatemate.co/",
+  "image": "/blog/2026-10-13/inflatemate.webp",
+  "imageAlt": "InflateMate product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,480 MRR, 19 active subscriptions, ~$1,486 L30, ~$7,343 all-time. Revenue synced Oct 13, 2026 ~06:11 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/inflatemate"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://inflatemate.co/"
+        }
+      ],
+      "indieAngle": "Pick one rental niche (bounce houses, tents, porta-potties) and ship booking + waiver + Stripe deposits."
+    }
+  ],
+  "whyItPrints": "Weekend double-booking and paper waivers are real money leaks. Vertical PMS for a trade nobody on HN talks about.",
+  "whyThisMatters": "People who rent bounce houses lose weekends to double bookings, paper waivers, and delivery quotes written in a text thread. InflateMate is the booking system for that trade. Customers book on a site. Inventory stays live so two parties cannot take the same inflatable. Deposits, waivers, and delivery pricing sit in the same tool.\n\nThe company is in the US and started in 2025. Public plans are a starter tier and a growth tier, billed monthly. They say dozens of rental businesses use it, with hundreds of bookings and waivers already recorded through the product.\n\nYou pay so Saturday morning is a calendar, not a pile of messages.\n\nThe public description is narrow on purpose. It is not a generic calendar. The operator needs the inflatable, the delivery price, the deposit, and the signed waiver on one booking. Company-stated totals on the listing are 48 rental businesses, 458 bookings, and 343 waivers. Online rental payments recorded through the product are a separate company-stated figure, not the Stripe seat number."
+}

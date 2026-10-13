@@ -1,0 +1,31 @@
+{
+  "slug": "tifox",
+  "name": "Tifox",
+  "listingNote": null,
+  "description": "Digital pupil progress booklet for French maternelle teachers against the official 2026 curriculum: photos, offline, print-ready PDF for families. Android / iOS / web. Founded Mar 2026, France. Solo. Annual €12–€25 per class; free up to 3 pupils. ~1,432 users (company-stated). Seasonal (peaks Jun–Sep).",
+  "homepage": "https://tifox-maternelle.fr/",
+  "image": "/blog/2026-10-13/tifox.webp",
+  "imageAlt": "Tifox product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$106 MRR, 57 active subscriptions, ~$1,586 L30, ~$4,170 all-time. L30 is well above MRR, which fits annual back-to-school billing. Revenue synced Oct 13, 2026 ~06:12 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tifox"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://tifox-maternelle.fr/"
+        }
+      ],
+      "indieAngle": "Digitize one country's required school form; price per class; sell town halls next."
+    }
+  ],
+  "whyItPrints": "Mandatory school paperwork + official curriculum versioning = recurring September renewals. Town-hall group licences are the expansion path.",
+  "whyThisMatters": "French kindergarten teachers have to keep a progress booklet that matches the official curriculum, then hand families something they can actually read. Tifox is that booklet as an app. You photograph a child's work, attach a note, and generate a PDF organized by the domains in the cycle 1 program.\n\nA student mode lets a child tap their name and take the photo, and nothing else. A four-digit code brings the teacher back. Tablets keep working with no wifi. Notes and photos sync when the connection returns. Data is hosted in France. Colleagues can be invited to view or edit a class.\n\nThe free tier covers a few pupils. Paid plans are yearly and sized by class, from a small group up to a full class of about 35. The founder built it with his mother, a kindergarten teacher, and his sister, who teaches in specialized classes. About 1,400 users is the company-stated count. Billing peaks when the school year turns over, which is why a quiet monthly seat figure can sit next to a busier last-30-days number.\n\nYou pay so the booklet is a PDF, not an evening of glue and handwriting."
+}

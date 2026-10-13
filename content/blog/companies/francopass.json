@@ -1,0 +1,31 @@
+{
+  "slug": "francopass",
+  "name": "Francopass",
+  "listingNote": null,
+  "description": "iOS / Android / web prep for the French civic exam and naturalization interview: quiz, flashcards, audio, AI mock interview. Founded Oct 2025, France. ~14k users prepared (company-stated). Listed for sale. Pricing from €4.99 after free demo.",
+  "homepage": "https://francopass.com/",
+  "image": "/blog/2026-10-13/francopass.webp",
+  "imageAlt": "Francopass product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "~$1,675 MRR, 132 active subscriptions, ~$3,729 L30. Tracked since 6 Mar 2026. Revenue synced Oct 13, 2026 ~04:11 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/francopass"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://francopass.com/"
+        }
+      ],
+      "indieAngle": "Country + one high-stakes exam. Same playbook for DE/IT/ES naturalization or driving theory."
+    }
+  ],
+  "whyItPrints": "Immigration paperwork is evergreen, localized, and emotional — people pay to not fail the prefecture interview.",
+  "whyThisMatters": "People applying for French citizenship have a civic exam and an interview at the prefecture. Francopass is the study app for both. You set the interview date and it builds a daily plan: quizzes from the citizen booklet, flashcards, audio, and French practice.\n\nThe oral drill is a voice conversation with an examiner character. You speak, then you get a scored review of expression, knowledge, and the values of the Republic. A written tutor corrects French from beginner through intermediate. The national anthem is in the audio pack because the interview can ask for it.\n\nIt runs on iPhone, Android, and the web. A short demo is free. Paid access starts after that. The company says more than 14,000 candidates have prepared with it, and store ratings sit in the high fours. The listing is for sale. Founded in France in 2025.\n\nYou pay so the interview is not the first time you hear the questions.\n\nStudy materials follow the civic booklet: history, geography, institutions, and the values of the Republic, updated when the decree changes. Audio lets you revise away from the screen, including the national anthem. Store reviews talk about flashcards you can do in spare minutes. Web, iPhone, and Android share the same plan."
+}

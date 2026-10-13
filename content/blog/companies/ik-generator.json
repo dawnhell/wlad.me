@@ -1,0 +1,31 @@
+{
+  "slug": "ik-generator",
+  "name": "IK-Generator",
+  "listingNote": null,
+  "description": "Automates French professional mileage allowances: routes, official 2026 scale, Excel export for accounting/tax. Founded Mar 2025, France. Solo. ~80 users (founder-stated). Listed for sale (codebase, domain, SEO site, GA + Paddle). Pricing: €99/year per account via Paddle.",
+  "homepage": "https://ik-generator.com/",
+  "image": "/blog/2026-10-13/ik-generator.webp",
+  "imageAlt": "IK-Generator product image",
+  "imageWidth": 1200,
+  "imageHeight": 974,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$689 MRR, 75 active subscriptions, ~$111 L30, ~$12,707 all-time. Founder-stated ~$9k L12 / 94% margin. Revenue synced Oct 13, 2026 ~05:50 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ik-generator"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://ik-generator.com/"
+        }
+      ],
+      "indieAngle": "Wrap one country's statutory calculator, sell the PDF/Excel, then flip or expand to the next barème."
+    }
+  ],
+  "whyItPrints": "Every FR self-employed driver, sales rep, and agent still owes a barème spreadsheet. One annual tax chore × SEO = quiet recurring cash with ~94% margin (founder-stated).",
+  "whyThisMatters": "Self-employed people in France still have to turn driving into a mileage-allowance table the accountant will accept. IK-Generator does that chore. You enter a starting address, pick the period, and it applies the official 2026 scale and exports Excel.\n\nThere is a generator mode that builds trips from one address, and a manual mode for a return trip or a round. A database of more than 17 million addresses cuts retyping. Recurring destinations can live in an address book. A history keeps the trips, the calculations, and the exports.\n\nThey also offer a free simulator if you only want to test a number. The paid account is an annual plan through Paddle, and the listing is for sale with the codebase, the domain, and the site. The company is a solo shop in France, started in 2025.\n\nYou pay so the barème spreadsheet is already done."
+}

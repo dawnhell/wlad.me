@@ -1,0 +1,31 @@
+{
+  "slug": "databuddy",
+  "name": "Databuddy",
+  "listingNote": null,
+  "description": "Cookie-less, no-fingerprint analytics: visits, events, errors, funnels; open source. Founded Jun 2025, US. Free 10k events; Hobby $9.99/mo; Pro $49.99/mo.",
+  "homepage": "https://databuddy.cc/",
+  "image": "/blog/2026-10-13/databuddy.webp",
+  "imageAlt": "Databuddy product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,846 MRR, 32 active subscriptions, ~$5,316 L30, ~$10,456 all-time. Revenue synced Oct 13, 2026 ~02:07 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/databuddy-analytics-inc"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://databuddy.cc/"
+        }
+      ],
+      "indieAngle": "Differentiate on investigation UX (\"what changed / what to do\") rather than another GA clone."
+    }
+  ],
+  "whyItPrints": "GDPR-tired sites still need charts. Privacy analytics is crowded but Stripe-verified seats prove buyers keep showing up.",
+  "whyThisMatters": "Teams that do not want cookies or fingerprinting still need to see visits, events, and where people drop off. Databuddy is open-source product analytics for that. One script tracks visitors, custom events, funnels, and goals. Error tracking and web vitals are optional. Feature flags, short links, and uptime checks live in the same dashboard.\n\nA free tier covers a modest monthly event count. Paid plans add more volume and turn on extras such as error tracking. An assistant in the product can answer questions about the data and show the query behind the answer. Developers get an API, SDKs, and an MCP connection so an agent can query the same numbers.\n\nThe company is in the US and started in 2025. It is not the Tencent product with a similar name.\n\nYou pay so the charts exist without the cookie banner.\n\nThe same dashboard can hold feature flags, short links, and an uptime check, so a small team is not buying three more tools for the basics. SDKs cover React, Vue, Node, and a plain script tag. Agents can sign in and query the numbers, or use a scoped key. Do not send payment or health data in as event properties."
+}

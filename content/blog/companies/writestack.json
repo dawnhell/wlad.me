@@ -1,0 +1,31 @@
+{
+  "slug": "writestack",
+  "name": "WriteStack",
+  "listingNote": null,
+  "description": "Scheduling, analytics, and publishing helpers for Substack writers/Notes. Founded Jul 2024, US. Solo founder (Orel).",
+  "homepage": "https://www.writestack.io/",
+  "image": "/blog/2026-10-13/writestack.webp",
+  "imageAlt": "WriteStack product image",
+  "imageWidth": 1200,
+  "imageHeight": 599,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$12,984 MRR, 486 active subscriptions, ~$15,096 L30, ~$175,667 all-time. Revenue synced Oct 13, 2026 ~02:09 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/writestack"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.writestack.io/"
+        }
+      ],
+      "indieAngle": "Own one platform's missing workflow (Notes scheduler / analytics) instead of another generic social suite."
+    }
+  ],
+  "whyItPrints": "Substack's built-in tools leave gaps; a focused layer on a growing creator platform collects hundreds of small monthly seats.",
+  "whyThisMatters": "Substack writers hit a point where scheduling Notes takes longer than writing them, and the stats do not say which Note brought a subscriber. WriteStack is the layer on top of that. You batch Notes, queue them for when readers are online, and still approve what goes out. A browser extension does the actual publish.\n\nA coach inside the product drafts Notes in your voice from your past posts. Analytics show which Notes turn readers into free and paid subscribers. An activity view filters the notification pile down to comments and mentions. Agents can draft and queue through an MCP connection, but you still click sync before anything posts.\n\nPlans start with a week-long trial. Hobbyist, Standard, and Enterprise are monthly. The founder is a solo operator in the US, and the product has been around since 2024.\n\nYou pay so Notes go out on a schedule and you can see which ones worked.\n\nThe coach draws on a large library of public Notes and posts, plus your own prompt, so a draft is not a generic caption. You can import drafts and unschedule a Note that should not go out. Keyboard shortcuts clear the activity list. After an agent queues something, the browser extension still waits for your sync click. Cancel anytime during the trial week."
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "ship-restrict",
+  "name": "Ship Restrict",
+  "listingNote": null,
+  "description": "Blocks regulated SKUs from restricted US states / cities / ZIPs on Shopify & WooCommerce. Founded Apr 2025, US. Solo. Woo $29.99/mo, Shopify $19.99/mo. Founder notes Shopify billing is not in TrustMRR totals (no Shopify Payments sync).",
+  "homepage": "https://shiprestrict.com/",
+  "image": "/blog/2026-10-13/ship-restrict.webp",
+  "imageAlt": "Ship Restrict product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$210 MRR, 8 active subscriptions, ~$150 L30, ~$2,549 all-time. Shopify app revenue excluded from these figures. Revenue synced Oct 13, 2026 ~03:38 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ship-restrict"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://shiprestrict.com/"
+        },
+        {
+          "label": "Shopify app",
+          "url": "https://apps.shopify.com/ship-restrict"
+        }
+      ],
+      "indieAngle": "Encode one messy regulation table as a checkout gate; sell on both Shopify and Woo."
+    }
+  ],
+  "whyItPrints": "One compliance rule engine saves merchants from illegal shipments. Classic plugin-tax on regulated e-com.",
+  "whyThisMatters": "Stores that sell alcohol, vape, firearms, CBD, or other regulated goods cannot ship to every ZIP. Ship Restrict is the checkout rule for that. You set a product, a category, or a variant, then block states, cities, or ZIP codes. WooCommerce and Shopify both get a version. On Shopify the block happens in checkout before payment, including researched state presets. On WooCommerce you can write the error the customer sees.\n\nRules can be created in bulk, scheduled to start or expire, and moved between stores as a file. The company says it is a solo shop in the US, started in 2025. The public site lists a monthly price and a yearly option, plus a short trial. Stripe on TrustMRR only sees the WooCommerce side. Shopify app billing is separate and is not in that figure.\n\nYou pay so the illegal shipment never gets a label.\n\nCategories they name include firearms, alcohol, CBD, tobacco, pharmaceuticals, hazardous materials, plants, fireworks, knives, age-restricted goods, and some auto parts. Customers see the block before they pay, with a message you write, instead of a cancellation email later. Rules can expire on a date when a temporary law ends. A coming feed would push jurisdiction updates. Shopify does not need a Plus plan for the checkout block."
+}

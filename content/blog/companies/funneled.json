@@ -1,0 +1,31 @@
+{
+  "slug": "funneled",
+  "name": "Funneled",
+  "listingNote": "Plutocracy",
+  "description": "No-code Shopify landing pages / advertorials for cold paid traffic: cart sync, split tests, Meta/TikTok tracking. Founded Apr 2025, Australia. Pricing: Starter $349/mo, Growth $699/mo, Performance custom (company-stated).",
+  "homepage": "https://getfunneled.com/",
+  "image": "/blog/2026-10-13/funneled.webp",
+  "imageAlt": "Funneled product image",
+  "imageWidth": 1200,
+  "imageHeight": 508,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$18,034 MRR, 21 active subscriptions, ~$19,154 L30, ~$94,651 all-time. Revenue synced Oct 13, 2026 ~04:19 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/plutocracy"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://getfunneled.com/"
+        }
+      ],
+      "indieAngle": "Sell the missing page between ad click and Shopify checkout — price for agencies, not hobby stores."
+    }
+  ],
+  "whyItPrints": "Performance marketers will pay mid-three-figures seats when ad creative needs matching landers. High ARPU, few accounts.",
+  "whyThisMatters": "Paid ads for a Shopify store often land on a generic product page. Funneled builds the page that should sit in between: an advertorial or a pre-sell page that matches the ad, then a cart that still belongs to the store.\n\nYou drag blocks, or you drop in an image or a video and it drafts the lander. Split tests cover headlines, layouts, and whole pages. Product and cart data come from Shopify. Tracking hooks cover Meta and TikTok. Klaviyo can collect emails. You publish on your own domain with SSL. They say most teams ship a first funnel in a few minutes, with no developer.\n\nThe company is in Australia and sells to performance marketers, not hobby stores. Plans are priced like an agency seat, with a custom tier above the two public ones. A demo call will build a funnel on your store live.\n\nYou pay so the click and the checkout tell the same story.\n\nThey compare themselves with a plain landing-page tool by owning the rest of the path: the Shopify product, the cart, the test, and the funnel stats. Hiring pages mention TypeScript and Svelte in the builder. A partner page highlights a Melbourne performance agency. The public pitch is cold traffic, not retargeting the people who already know the brand."
+}

@@ -152,5 +152,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_near_Rifugio_Mulaz_-_Dolomites%2C_Italy_-_2025.jpg",
     "license": "CC BY 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "senja-fjord",
+    "src": "/blog/heroes/senja-fjord.webp",
+    "alt": "A wide view across Bergsbotn on Senja, Norway",
+    "width": 1280,
+    "height": 623,
+    "credit": "Ximonic (Simo Räsänen)",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Wide_view_to_Bergsbotn%2C_Senja%2C_Troms%2C_Norway%2C_2015_September.jpg",
+    "license": "CC BY-SA 3.0",
+    "subject": "nature"
   }
 ]

@@ -120,6 +120,14 @@ const picks = [
     license: 'CC BY 4.0',
     url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Sunrise_near_Rifugio_Mulaz_-_Dolomites%2C_Italy_-_2025.jpg/1920px-Sunrise_near_Rifugio_Mulaz_-_Dolomites%2C_Italy_-_2025.jpg',
   },
+  {
+    id: 'senja-fjord',
+    subject: 'nature',
+    alt: 'A wide view across Bergsbotn on Senja, Norway',
+    credit: 'Ximonic (Simo Räsänen)',
+    license: 'CC BY-SA 3.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wide_view_to_Bergsbotn%2C_Senja%2C_Troms%2C_Norway%2C_2015_September.jpg/1920px-Wide_view_to_Bergsbotn%2C_Senja%2C_Troms%2C_Norway%2C_2015_September.jpg',
+  },
 ]
 
 function filePage(thumbUrl) {

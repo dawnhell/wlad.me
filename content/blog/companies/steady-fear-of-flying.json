@@ -1,0 +1,31 @@
+{
+  "slug": "steady-fear-of-flying",
+  "name": "Steady — Fear of Flying",
+  "listingNote": null,
+  "description": "Offline pocket co-pilot for anxious flyers with route turbulence forecast, calming tools, community. Founded Jun 2026. Pricing: Pro weekly $5.99, Bravery Pass 72h $11.99, yearly $39.99, lifetime $49.99. App Store rating 4.7/5 (25 ratings at sync).",
+  "homepage": null,
+  "image": "/blog/2026-10-13/steady-fear-of-flying.webp",
+  "imageAlt": "Steady — Fear of Flying product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-13",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "~$3,447 MRR, 227 active subscriptions, ~$4,919 L30, ~$23,651 all-time. Revenue synced Oct 13, 2026 ~05:00 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/steady-fear-of-flying"
+        },
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/gb/app/steady-fear-of-flying/id6764277758"
+        }
+      ],
+      "indieAngle": "Pair a scary real-world anxiety with one measurable data feed (turbulence), then upsell trip packs."
+    }
+  ],
+  "whyItPrints": "Fear-of-flying is a sticky consumer niche with clear willingness to pay around trip days; turbulence-as-a-feature is concrete.",
+  "whyThisMatters": "Anxious flyers want to know if the route will be bumpy before they board, and they want something that still works when the phone is in airplane mode. Steady is that pocket app. You type a flight number or a route and a date. It builds a smoothness preview from live pilot reports and weather advisories near the path, plus the usual shape of climb, cruise, and descent.\n\nCalm tools are stored on the device. A breathing exercise, a grounding count, explanations of cabin noises, and a short visual of why a plane stays up. A community feature lets other nervous flyers watch a flight and leave notes. After landing, the app makes a keepsake boarding pass.\n\nThere is no public marketing site on this page. The product lives on the App Store, from a Swedish developer, with weekly, yearly, a 72-hour trip pass, and a lifetime purchase. Founded in 2026.\n\nYou pay so the forecast and the calm tools are already on the phone."
+}
