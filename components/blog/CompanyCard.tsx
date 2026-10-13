@@ -3,6 +3,7 @@ import Image from 'next/image'
 
 import blurbs from '../../content/blog/blurbs.json'
 import { evidenceLabel, linkedSources, type EditionCompany } from '../../lib/blog-format'
+import CompanyVote from './CompanyVote'
 import OutboundLink from './OutboundLink'
 import TrustMrrChart from './TrustMrrChart'
 
@@ -81,6 +82,7 @@ const CompanyCard = ({
             </OutboundLink>
           ))}
         </p>
+        <CompanyVote slug={company.slug} name={company.name} />
       </div>
     </section>
   )

@@ -2,6 +2,7 @@ import Image from 'next/image'
 import type { ReactElement } from 'react'
 
 import Breadcrumbs from '../../../components/blog/Breadcrumbs'
+import CompanyVote from '../../../components/blog/CompanyVote'
 import OutboundLink from '../../../components/blog/OutboundLink'
 import TrustMrrChart from '../../../components/blog/TrustMrrChart'
 import Layout from '../../../components/Layout'
@@ -115,6 +116,7 @@ const CompanyPage: tNextPageWithLayout<{
               </OutboundLink>
             ))}
           </p>
+          <CompanyVote slug={company.slug} name={company.name} />
         </div>
 
         {company.image ? (
