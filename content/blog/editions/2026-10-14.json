@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-14",
+  "title": "Wednesday's boring SaaS, 14 October 2026",
+  "dek": "Wednesday, 14 October 2026. Eight are Stripe-verified. SyncSignature and SendToDrive run on Paddle. Guidanz's Stripe key expired in August.",
+  "heroId": "plitvice-lakes",
+  "companies": [
+    {
+      "slug": "guidanz",
+      "name": "Guidanz",
+      "listingNote": null,
+      "description": "Two old-school B2B products from a US company founded in 2019 (TrustMRR). BI Connector links Oracle Fusion (ERP, HCM, SCM, CX), OTBI analyses and BI Publisher models straight into Power BI, Tableau or a warehouse, with no code. Skedler schedules and emails PDF, Excel, CSV and PNG reports from Grafana, Kibana, Wazuh and LogRhythm. Customers pay an annual subscription licence (company-stated). The site says \"Profitable since day one\" and \"Trusted by Fortune 1000 companies\" (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last 12 months ~$255,093, last 6 months ~$90,166, last 3 months ~$15,998, all-time ~$1,447,862. MRR snapshot ~$1,291, 3 active subscriptions, 65% L30 profit margin (snapshot). Annual licences make monthly cash lumpy. L30 shows $0 only because syncing stopped. Last synced 27 Aug 2026 ~07:24 Warsaw; the Stripe API key expired that day, so figures are stale.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/guidanz-inc"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.guidanz.com/"
+        },
+        {
+          "label": "BI Connector",
+          "url": "https://www.biconnector.com/"
+        }
+      ],
+      "homepage": "https://www.guidanz.com/",
+      "indieAngle": "Pick one legacy enterprise system with a weak reporting layer (Oracle Fusion, SAP B1, Sage X3, NetSuite) and sell the pipe into Power BI. Charge annually.",
+      "whyItPrints": "Oracle Fusion shops are stuck with OTBI, and their analysts live in Power BI. A connector that removes an IT ticket queue sells to enterprises on annual contracts with little churn.",
+      "image": "/blog/2026-10-14/guidanz.webp",
+      "imageAlt": "Guidanz product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "astonish-email",
+      "name": "Astonish Email",
+      "listingNote": null,
+      "description": "Plain newsletter and email-marketing tool for UK organisations: build from a template, schedule the send, pay for what you send, and talk to a person when you need one (company-stated). Plans start at £25/month (company-stated). ~2,000 users (founder-stated). TrustMRR lists it as founded Jul 2013 and the site says since 2012.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,904 MRR, 16 active subscriptions, ~$2,620 L30, ~$31,526 last 12 months, ~$413,550 all-time. Only 16 subs against ~$2.6k/mo cash suggests a lot of pay-as-you-send credit revenue outside subscriptions. Revenue synced Oct 14, 2026 ~04:15 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/astonish-email-limited"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.astonishemail.com/"
+        }
+      ],
+      "homepage": "https://www.astonishemail.com/",
+      "indieAngle": "Choose one country and one boring audience (charities, councils, schools), add human support, and charge for sends instead of seats.",
+      "whyItPrints": "A Mailchimp alternative for organisations that hate Mailchimp. The edge is UK billing, a human on support, and pay-per-send pricing. Thirteen years of quiet compounding.",
+      "image": "/blog/2026-10-14/astonish-email.webp",
+      "imageAlt": "Astonish Email product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "paso-robles-wineries",
+      "name": "Paso Robles Wineries",
+      "listingNote": null,
+      "description": "A WordPress guide to Paso Robles (California) wineries, tasting rooms, tours, lodging and dining. Running since at least 2017, one person (founder-stated). The founder describes a dominant SEO position, recurring revenue with annual contracts, and 90k+ social followers. Target: wine enthusiasts and local business owners. The profile does not spell out the product; the inference is that local businesses pay for listings or promotion.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,695 MRR, 33 active subscriptions, ~$6,718 L30 (+37%), ~$55,880 last 12 months, ~$111,019 all-time. 9,049 visitors L30 (TrustMRR snapshot), about $0.74 revenue/visitor. Revenue synced Oct 14, 2026 ~08:16 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/paso-robles-wineries"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.pasorobleswineries.net/"
+        }
+      ],
+      "homepage": "https://www.pasorobleswineries.net/",
+      "indieAngle": "One region, one tourism vertical, and an SEO moat. Sell annual listings to local businesses. Replicate it per region.",
+      "whyItPrints": "A local directory. Own the Google results for one tourist region and sell annual visibility to the wineries that need visitors.",
+      "image": "/blog/2026-10-14/paso-robles-wineries.webp",
+      "imageAlt": "Paso Robles Wineries product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "syncsignature",
+      "name": "SyncSignature",
+      "listingNote": null,
+      "description": "Free email-signature generator plus central management for Gmail, Outlook and Apple Mail. Founded Nov 2023 in India, team of 2–5. Pricing (company-stated): Free, Solo $6/mo, Teams $2/user/mo (5-seat minimum), custom agency pricing. 40,000+ professionals (company-stated). Growth from SEO, content and the blog. DR 46.",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$2,556 MRR, 134 active subscriptions, ~$3,789 L30 (+108%), ~$33,739 last 12 months, ~$39,088 all-time. Revenue synced Oct 14, 2026 ~06:17 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/syncsignature"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://syncsignature.com/"
+        }
+      ],
+      "homepage": "https://syncsignature.com/",
+      "indieAngle": "Give away a free generator for SEO and charge for the per-seat admin panel. Same play as Exclaimer and WiseStamp, at indie prices.",
+      "whyItPrints": "Every company wants consistent signatures and nobody wants to build it in-house. The free generator pulls in SEO traffic, and per-seat team plans turn that into revenue.",
+      "image": "/blog/2026-10-14/syncsignature.webp",
+      "imageAlt": "SyncSignature product image",
+      "imageWidth": 1200,
+      "imageHeight": 466
+    },
+    {
+      "slug": "check-position",
+      "name": "Check Position",
+      "listingNote": null,
+      "description": "Simple daily Google position tracking across multiple datacenters. Pricing (company-stated): 7 keywords free, €15/month or €162/year. Listed for sale at $20,000 (2.8×), with 18 offers and 2,145 interested-buyer views (TrustMRR).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,807 MRR, 235 active subscriptions, 60% L30 margin (snapshot), ~$601 L30 (−46%; annual renewals are lumpy), ~$38,277 last 12 months, ~$209,829 all-time. The trend is downward (L6M $13.5k vs L12M $38.3k), which is probably why it is for sale. Revenue synced Oct 14, 2026 ~04:43 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/check-position"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://check-position.com/"
+        }
+      ],
+      "homepage": "https://check-position.com/",
+      "indieAngle": "A cheap acquisition target. About $38k a year verified against a $20k ask, if the decline can be stopped with SERP-API cost control and annual-plan pushes.",
+      "whyItPrints": "Rank tracking is a commodity and SEO people still pay for a cheap one. 235 subscribers on cheap plans add up to a long tail.",
+      "image": "/blog/2026-10-14/check-position.webp",
+      "imageAlt": "Check Position product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "autoprintemail",
+      "name": "AutoPrintEmail",
+      "listingNote": null,
+      "description": "Standalone desktop app (Windows/Mac/Linux) that connects to Gmail, Outlook or IMAP and automatically prints new emails and attachments. No plugins. Founded Dec 2025 (AE). Pricing (company-stated): 3-day trial, then $29/month or $499 one-time per computer. Target (founder-stated): pharmacies, retailers, restaurants, warehouses, trades. They also promote a Shopify order-printing version.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,739 L30 (+19%), last 12 months / all-time ~$24,299 (about 10 months old). MRR ~$425, 29 active subscriptions. Most revenue appears to be the $499 one-time licences. Revenue synced Oct 14, 2026 ~04:30 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/autoprintemail"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://autoprint.email/"
+        }
+      ],
+      "homepage": "https://autoprint.email/",
+      "indieAngle": "Sell the bridge from cloud inbox to physical printer to unglamorous SMBs. Add one-time licences to pull cash forward.",
+      "whyItPrints": "Back offices still run on paper: order tickets, prescriptions, pick lists. Paying monthly per printer PC is an easy yes, and lifetime licences bring in cash up front.",
+      "image": "/blog/2026-10-14/autoprintemail.webp",
+      "imageAlt": "AutoPrintEmail product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "sendtodrive",
+      "name": "SendToDrive",
+      "listingNote": null,
+      "description": "A public upload page that drops files straight into a chosen Google Drive folder. Uploaders do not need a Google login, and you do not share Drive access. Used for client docs, assignments, event photos. Pricing (company-stated): 24h trial, Premium €3.96 billed annually, Business $9.99/workspace/month. Founded Jul 2023 (US).",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$1,518 MRR, 314 active subscriptions, ~$1,871 L30, ~$9,529 last 12 months, ~$9,854 all-time. 4,668 visitors L30, about $0.40/visitor (snapshot). Revenue synced Oct 14, 2026 ~06:50 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/sendtodrive"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://sendtodrive.com/"
+        }
+      ],
+      "homepage": "https://sendtodrive.com/",
+      "indieAngle": "Find a missing feature in Google Workspace, Dropbox or OneDrive and ship it as a tiny paid wrapper with SEO landing pages.",
+      "whyItPrints": "Google never shipped a proper file request for consumer Drive. A thin wrapper fills that gap and claims 95% profit margin (TrustMRR snapshot).",
+      "image": "/blog/2026-10-14/sendtodrive.webp",
+      "imageAlt": "SendToDrive product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "whois-json-api",
+      "name": "Whois JSON API",
+      "listingNote": null,
+      "description": "REST API for structured WHOIS and RDAP, live DNS, bulk lookups, domain availability and change monitoring. Founded Nov 2021. Pricing (company-stated): Basic $49/mo, Premium $129/mo, Enterprise $299/mo.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,196 MRR, 23 active subscriptions, ~$2,308 L30 (+53%), ~$17,501 last 12 months, ~$46,854 all-time. Revenue synced Oct 14, 2026 ~05:02 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/whois-json-api"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://whoisjsonapi.com/"
+        }
+      ],
+      "homepage": "https://whoisjsonapi.com/",
+      "indieAngle": "Take one messy public data source, normalise it into JSON and charge a monthly plan. Feeds that need monitoring keep customers subscribed.",
+      "whyItPrints": "Security, brand-protection and domain-investor tools all need WHOIS, and the raw data is messy. Normalising it once and reselling it is plumbing.",
+      "image": "/blog/2026-10-14/whois-json-api.webp",
+      "imageAlt": "Whois JSON API product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "mon-rdv-prefecture",
+      "name": "MON RDV PREFECTURE",
+      "listingNote": null,
+      "description": "Watches French prefecture booking systems and sends real-time alerts when slots open (residence permits, naturalisation, and similar). €19.99/month (company-stated). ~12,207 users (founder-stated). Founded Aug 2022. Listed for sale at $65,000 (7.7×), 1 offer (TrustMRR).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$672 MRR, 30 active subscriptions, ~$703 L30, ~$10,140 last 12 months, ~$21,324 all-time. The asking multiple is steep for about $10k a year. Revenue synced Oct 14, 2026 ~04:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mon-rdv-prefecture"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.monrdvprefecture.fr/"
+        }
+      ],
+      "homepage": "https://www.monrdvprefecture.fr/",
+      "indieAngle": "Build a slot-alert service for a government booking system that is always full (consulates, driving tests, visa centres).",
+      "whyItPrints": "French bureaucracy keeps slots scarce, and people pay monthly to avoid refreshing a page at dawn. Very cheap to run: 98% L30 margin (snapshot).",
+      "image": "/blog/2026-10-14/mon-rdv-prefecture.webp",
+      "imageAlt": "MON RDV PREFECTURE product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "country-specific-job-board",
+      "name": "Country-specific job board",
+      "listingNote": "Stealth Company, UK founder",
+      "description": "A 15-year-old job board for one country (country not disclosed). Solo founder, bootstrapped, SEO-only acquisition (TrustMRR profile). Employers pay to post.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$14,251 L30 (+145%), ~$78,799 last 12 months, ~$4,460 MRR, 17 active subscriptions, 70% L30 margin (snapshot), all-time on TrustMRR ~$79,346 (only since Stripe was connected; the business is older). Revenue synced Oct 14, 2026 ~08:50 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/confidential-startup-71"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Niche or country job boards are still a cash business. Buy an aged one, or pick a country or profession that LinkedIn underserves.",
+      "whyItPrints": "An old domain with SEO equity brings in 309,636 visitors in 30 days (TrustMRR snapshot) without paid ads.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Factura",
+      "note": "Swiss QR-invoice, expenses and time tracking for freelancers, 9 CHF/mo (company-stated). Stripe-verified ~$268 MRR, 25 subs, L30 ~$600, all-time ~$2,683.",
+      "homepage": "https://www.factura.ch/en"
+    },
+    {
+      "name": "Ton-piston",
+      "note": "French internship and apprenticeship search with a Pro plan at €9.99/mo (company-stated). Stripe-verified ~$9,787 MRR, 933 subs, L30 ~$10,488 within about 2 months. AI-CV heavy.",
+      "homepage": "https://ton-piston.com/"
+    }
+  ]
+}

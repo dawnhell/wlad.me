@@ -1,0 +1,31 @@
+{
+  "slug": "astonish-email",
+  "name": "Astonish Email",
+  "listingNote": null,
+  "description": "Plain newsletter and email-marketing tool for UK organisations: build from a template, schedule the send, pay for what you send, and talk to a person when you need one (company-stated). Plans start at £25/month (company-stated). ~2,000 users (founder-stated). TrustMRR lists it as founded Jul 2013 and the site says since 2012.",
+  "homepage": "https://www.astonishemail.com/",
+  "image": "/blog/2026-10-14/astonish-email.webp",
+  "imageAlt": "Astonish Email product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,904 MRR, 16 active subscriptions, ~$2,620 L30, ~$31,526 last 12 months, ~$413,550 all-time. Only 16 subs against ~$2.6k/mo cash suggests a lot of pay-as-you-send credit revenue outside subscriptions. Revenue synced Oct 14, 2026 ~04:15 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/astonish-email-limited"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.astonishemail.com/"
+        }
+      ],
+      "indieAngle": "Choose one country and one boring audience (charities, councils, schools), add human support, and charge for sends instead of seats."
+    }
+  ],
+  "whyItPrints": "A Mailchimp alternative for organisations that hate Mailchimp. The edge is UK billing, a human on support, and pay-per-send pricing. Thirteen years of quiet compounding.",
+  "whyThisMatters": "UK organisations with a real list still send a weekly mailshot. Tour operators, dealer groups, training providers, membership bodies, franchise head offices. Astonish is the plain version of that job. Pick a template that already works on a phone, copy last week's email, change what is new, set a time, and it goes to the whole list. Opens, clicks, bounces, and unsubscribes come back with the send. People who bounce or unsubscribe are left off the next one.\n\nYou pay when you send. Pay as you go starts around a penny an email and drops once a single send is large. A monthly plan covers a fixed volume, and a bigger list gets a quoted price. Signing up is free. They also walk you through the three DNS records mailbox providers check, SPF, DKIM, and DMARC, and tell you in plain English if one is wrong. The founder runs it from Hampshire. The site says some customers have stayed more than ten years, and a support reply comes from someone who can see the account.\n\nSixteen subscriptions understate the business. A lot of the cash is charged per send, not as a seat.\n\nYou pay so a big list goes out without a marketing suite, and a person answers when it does not."
+}

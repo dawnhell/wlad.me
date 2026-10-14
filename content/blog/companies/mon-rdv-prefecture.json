@@ -1,0 +1,31 @@
+{
+  "slug": "mon-rdv-prefecture",
+  "name": "MON RDV PREFECTURE",
+  "listingNote": null,
+  "description": "Watches French prefecture booking systems and sends real-time alerts when slots open (residence permits, naturalisation, and similar). €19.99/month (company-stated). ~12,207 users (founder-stated). Founded Aug 2022. Listed for sale at $65,000 (7.7×), 1 offer (TrustMRR).",
+  "homepage": "https://www.monrdvprefecture.fr/",
+  "image": "/blog/2026-10-14/mon-rdv-prefecture.webp",
+  "imageAlt": "MON RDV PREFECTURE product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$672 MRR, 30 active subscriptions, ~$703 L30, ~$10,140 last 12 months, ~$21,324 all-time. The asking multiple is steep for about $10k a year. Revenue synced Oct 14, 2026 ~04:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mon-rdv-prefecture"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.monrdvprefecture.fr/"
+        }
+      ],
+      "indieAngle": "Build a slot-alert service for a government booking system that is always full (consulates, driving tests, visa centres)."
+    }
+  ],
+  "whyItPrints": "French bureaucracy keeps slots scarce, and people pay monthly to avoid refreshing a page at dawn. Very cheap to run: 98% L30 margin (snapshot).",
+  "whyThisMatters": "French prefecture sites release appointment slots for residence permits, naturalisation, and similar procedures, and the slots go quickly. MON RDV PREFECTURE watches those booking pages and sends an alert when something opens. The company-stated price is a low monthly fee. The founder-stated user count is in the tens of thousands, far above the thirty paid subscriptions on the Stripe record, so most people are not on a paid seat. The company was founded in 2022.\n\nThe listing is for sale. The asking multiple is high for a year of revenue in the low five figures. The last-30-days margin on the snapshot is very high, which fits a notifier that has almost nothing to deliver except the alert. The public site did not return a page that could be read, so this note stays with the listing and does not invent a feature from a screenshot.\n\nYou pay so you can stop refreshing a prefecture page before work."
+}

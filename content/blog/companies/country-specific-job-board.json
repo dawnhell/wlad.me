@@ -1,0 +1,27 @@
+{
+  "slug": "country-specific-job-board",
+  "name": "Country-specific job board",
+  "listingNote": "Stealth Company, UK founder",
+  "description": "A 15-year-old job board for one country (country not disclosed). Solo founder, bootstrapped, SEO-only acquisition (TrustMRR profile). Employers pay to post.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$14,251 L30 (+145%), ~$78,799 last 12 months, ~$4,460 MRR, 17 active subscriptions, 70% L30 margin (snapshot), all-time on TrustMRR ~$79,346 (only since Stripe was connected; the business is older). Revenue synced Oct 14, 2026 ~08:50 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/confidential-startup-71"
+        }
+      ],
+      "indieAngle": "Niche or country job boards are still a cash business. Buy an aged one, or pick a country or profession that LinkedIn underserves."
+    }
+  ],
+  "whyItPrints": "An old domain with SEO equity brings in 309,636 visitors in 30 days (TrustMRR snapshot) without paid ads.",
+  "whyThisMatters": "A solo founder in the UK runs a job board for one country. The country is not on the listing, and there is no public homepage to link. The profile says the board is about fifteen years old, bootstrapped, and found through search rather than ads. Employers pay to post a job.\n\nA recent 30-day snapshot shows a few hundred thousand visitors. That is a lot of unpaid traffic for seventeen subscriptions. Cash in those 30 days sits well above the monthly subscription figure, so a chunk of the money is probably a fee per post rather than a seat. The all-time Stripe total only covers the period since the account was connected. The business is older than that connection. The margin on the snapshot is high, which fits a board that already ranks and does not buy traffic.\n\nNothing on the profile names the board, the domain, or the city it serves. The country shows up only as one country, and the founder shows up only as a UK-based solo operator.\n\nYou pay to put a job in front of people who already search this board."
+}

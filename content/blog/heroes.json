@@ -163,5 +163,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Wide_view_to_Bergsbotn%2C_Senja%2C_Troms%2C_Norway%2C_2015_September.jpg",
     "license": "CC BY-SA 3.0",
     "subject": "nature"
+  },
+  {
+    "id": "plitvice-lakes",
+    "src": "/blog/heroes/plitvice-lakes.webp",
+    "alt": "A lake and autumn forest in Plitvice Lakes National Park",
+    "width": 960,
+    "height": 640,
+    "credit": "Lovro Rumiha",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Plitvice_Lakes_National_Park_-_Lake_and_forest.jpg",
+    "license": "CC BY 2.0",
+    "subject": "nature"
   }
 ]

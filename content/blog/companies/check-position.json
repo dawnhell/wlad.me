@@ -1,0 +1,31 @@
+{
+  "slug": "check-position",
+  "name": "Check Position",
+  "listingNote": null,
+  "description": "Simple daily Google position tracking across multiple datacenters. Pricing (company-stated): 7 keywords free, €15/month or €162/year. Listed for sale at $20,000 (2.8×), with 18 offers and 2,145 interested-buyer views (TrustMRR).",
+  "homepage": "https://check-position.com/",
+  "image": "/blog/2026-10-14/check-position.webp",
+  "imageAlt": "Check Position product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,807 MRR, 235 active subscriptions, 60% L30 margin (snapshot), ~$601 L30 (−46%; annual renewals are lumpy), ~$38,277 last 12 months, ~$209,829 all-time. The trend is downward (L6M $13.5k vs L12M $38.3k), which is probably why it is for sale. Revenue synced Oct 14, 2026 ~04:43 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/check-position"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://check-position.com/"
+        }
+      ],
+      "indieAngle": "A cheap acquisition target. About $38k a year verified against a $20k ask, if the decline can be stopped with SERP-API cost control and annual-plan pushes."
+    }
+  ],
+  "whyItPrints": "Rank tracking is a commodity and SEO people still pay for a cheap one. 235 subscribers on cheap plans add up to a long tail.",
+  "whyThisMatters": "It checks where a site ranks on Google, across several datacenters, and keeps the history. You can import keywords, open the results page, compare two dates, and watch whether specific URLs are indexed. A paid plan unlocks an API that can create and delete those checks from your own tools, with Slack help for the integration. A handful of keywords is free. The pack on the site is a few hundred keywords for a low monthly price, or a cheaper annual payment, with a daily refresh and a limited number of instant seven-datacenter checks.\n\nThe listing is for sale. The last 30 days are much quieter than the last year. That can be annual renewals landing in a lump, and it can also be a product that has been shrinking, which is the note on the listing. The ask is a low multiple of the trailing year. Two thousand people have looked at the sale page.\n\nYou pay so a daily rank check does not require a bigger SEO suite."
+}

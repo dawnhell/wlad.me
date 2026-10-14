@@ -128,6 +128,14 @@ const picks = [
     license: 'CC BY-SA 3.0',
     url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wide_view_to_Bergsbotn%2C_Senja%2C_Troms%2C_Norway%2C_2015_September.jpg/1920px-Wide_view_to_Bergsbotn%2C_Senja%2C_Troms%2C_Norway%2C_2015_September.jpg',
   },
+  {
+    id: 'plitvice-lakes',
+    subject: 'nature',
+    alt: 'A lake and autumn forest in Plitvice Lakes National Park',
+    credit: 'Lovro Rumiha',
+    license: 'CC BY 2.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Plitvice_Lakes_National_Park_-_Lake_and_forest.jpg/1920px-Plitvice_Lakes_National_Park_-_Lake_and_forest.jpg',
+  },
 ]
 
 function filePage(thumbUrl) {

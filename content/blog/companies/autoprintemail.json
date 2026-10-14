@@ -1,0 +1,31 @@
+{
+  "slug": "autoprintemail",
+  "name": "AutoPrintEmail",
+  "listingNote": null,
+  "description": "Standalone desktop app (Windows/Mac/Linux) that connects to Gmail, Outlook or IMAP and automatically prints new emails and attachments. No plugins. Founded Dec 2025 (AE). Pricing (company-stated): 3-day trial, then $29/month or $499 one-time per computer. Target (founder-stated): pharmacies, retailers, restaurants, warehouses, trades. They also promote a Shopify order-printing version.",
+  "homepage": "https://autoprint.email/",
+  "image": "/blog/2026-10-14/autoprintemail.webp",
+  "imageAlt": "AutoPrintEmail product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,739 L30 (+19%), last 12 months / all-time ~$24,299 (about 10 months old). MRR ~$425, 29 active subscriptions. Most revenue appears to be the $499 one-time licences. Revenue synced Oct 14, 2026 ~04:30 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/autoprintemail"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://autoprint.email/"
+        }
+      ],
+      "indieAngle": "Sell the bridge from cloud inbox to physical printer to unglamorous SMBs. Add one-time licences to pull cash forward."
+    }
+  ],
+  "whyItPrints": "Back offices still run on paper: order tickets, prescriptions, pick lists. Paying monthly per printer PC is an easy yes, and lifetime licences bring in cash up front.",
+  "whyThisMatters": "A desktop app for Windows, Mac, and Linux signs into Gmail, Outlook, or IMAP and prints new mail and attachments on a printer you already own. There is no Outlook add-in and no browser extension. A short wizard picks the printer, then you decide whether to print the body, the attachments, or only the mail that matches a filter. The connection uses OAuth, so the app does not keep the mailbox password. The company says the mail goes to the printer and is not stored on their servers. Office documents are converted on their side before they print.\n\nThe buyers named on the site are pharmacies, retailers, restaurants, warehouses, and trades. Lab results, supplier invoices, kitchen tickets, packing slips. A Shopify version prints orders as they come in. A three-day trial needs no card. After that you pay per computer, monthly or once. The monthly subscription count is small next to cash in the last 30 days, which fits the one-time licence. The site says nearly ninety thousand emails have been printed, and a large share of those in the last month. The company was founded in late 2025.\n\nYou pay so the front desk never has to open the inbox to get a piece of paper."
+}

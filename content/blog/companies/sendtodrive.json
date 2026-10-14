@@ -1,0 +1,31 @@
+{
+  "slug": "sendtodrive",
+  "name": "SendToDrive",
+  "listingNote": null,
+  "description": "A public upload page that drops files straight into a chosen Google Drive folder. Uploaders do not need a Google login, and you do not share Drive access. Used for client docs, assignments, event photos. Pricing (company-stated): 24h trial, Premium €3.96 billed annually, Business $9.99/workspace/month. Founded Jul 2023 (US).",
+  "homepage": "https://sendtodrive.com/",
+  "image": "/blog/2026-10-14/sendtodrive.webp",
+  "imageAlt": "SendToDrive product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$1,518 MRR, 314 active subscriptions, ~$1,871 L30, ~$9,529 last 12 months, ~$9,854 all-time. 4,668 visitors L30, about $0.40/visitor (snapshot). Revenue synced Oct 14, 2026 ~06:50 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/sendtodrive"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://sendtodrive.com/"
+        }
+      ],
+      "indieAngle": "Find a missing feature in Google Workspace, Dropbox or OneDrive and ship it as a tiny paid wrapper with SEO landing pages."
+    }
+  ],
+  "whyItPrints": "Google never shipped a proper file request for consumer Drive. A thin wrapper fills that gap and claims 95% profit margin (TrustMRR snapshot).",
+  "whyThisMatters": "Google Drive still has no simple file request for a normal account. SendToDrive is that page. You connect Google, pick a folder, and share a link or a QR code. The other person uploads in a browser. They do not need a Google login, and they cannot browse the folder. The files land where you pointed. A paid page can add a password, an email whitelist, separate fields for each document, your own branding, an expiry date, and subfolders chosen from the form answers. A workspace plan adds teammates and a short review status. Paddle is the merchant of record, and tax is calculated at checkout.\n\nThe free try is one page for a day. Premium is a low annual price for one person. Business is a monthly workspace with two seats included, and extra seats cost more. The founder, Ari, built it after his mother had to collect student work over a chat app during COVID and the phone filled up. The examples on the site run from wedding photos and class assignments to client briefs, job applications, and artwork for a print shop.\n\nYou pay so a client can drop a file in your Drive without you handing over the folder."
+}

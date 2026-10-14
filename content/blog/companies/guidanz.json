@@ -1,0 +1,35 @@
+{
+  "slug": "guidanz",
+  "name": "Guidanz",
+  "listingNote": null,
+  "description": "Two old-school B2B products from a US company founded in 2019 (TrustMRR). BI Connector links Oracle Fusion (ERP, HCM, SCM, CX), OTBI analyses and BI Publisher models straight into Power BI, Tableau or a warehouse, with no code. Skedler schedules and emails PDF, Excel, CSV and PNG reports from Grafana, Kibana, Wazuh and LogRhythm. Customers pay an annual subscription licence (company-stated). The site says \"Profitable since day one\" and \"Trusted by Fortune 1000 companies\" (company-stated).",
+  "homepage": "https://www.guidanz.com/",
+  "image": "/blog/2026-10-14/guidanz.webp",
+  "imageAlt": "Guidanz product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last 12 months ~$255,093, last 6 months ~$90,166, last 3 months ~$15,998, all-time ~$1,447,862. MRR snapshot ~$1,291, 3 active subscriptions, 65% L30 profit margin (snapshot). Annual licences make monthly cash lumpy. L30 shows $0 only because syncing stopped. Last synced 27 Aug 2026 ~07:24 Warsaw; the Stripe API key expired that day, so figures are stale.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/guidanz-inc"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.guidanz.com/"
+        },
+        {
+          "label": "BI Connector",
+          "url": "https://www.biconnector.com/"
+        }
+      ],
+      "indieAngle": "Pick one legacy enterprise system with a weak reporting layer (Oracle Fusion, SAP B1, Sage X3, NetSuite) and sell the pipe into Power BI. Charge annually."
+    }
+  ],
+  "whyItPrints": "Oracle Fusion shops are stuck with OTBI, and their analysts live in Power BI. A connector that removes an IT ticket queue sells to enterprises on annual contracts with little churn.",
+  "whyThisMatters": "Oracle Fusion teams live in OTBI and BI Publisher. The analysts who need the numbers live in Power BI or Tableau. Guidanz sells that bridge. BI Connector queries the reports and models a company already has, or the base tables, and lands the result in Power BI, Tableau, or a warehouse. It does not keep a copy of the data. You install it on a desktop or a gateway, then schedule a full or incremental refresh. The licence is annual and sized by Oracle module, not by the number of people who open a dashboard. A guided trial of a couple of weeks runs on the customer's own Fusion data.\n\nSkedler is the other product. It turns Grafana, Kibana, Wazuh, and LogRhythm views into a PDF, an Excel file, a CSV, or a PNG, and emails that file on a schedule. The template can carry the company's own branding. There is no code to write.\n\nThe site says the company has been building since 2010, self-funded, and profitable from the start. TrustMRR dates the listing to 2019. Annual licences make a single month a poor picture of the year, and the Stripe key stopped syncing in late August, so the latest numbers are frozen there.\n\nYou pay so an analyst can refresh a Fusion dashboard without opening another IT ticket."
+}

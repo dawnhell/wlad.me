@@ -1,0 +1,31 @@
+{
+  "slug": "syncsignature",
+  "name": "SyncSignature",
+  "listingNote": null,
+  "description": "Free email-signature generator plus central management for Gmail, Outlook and Apple Mail. Founded Nov 2023 in India, team of 2–5. Pricing (company-stated): Free, Solo $6/mo, Teams $2/user/mo (5-seat minimum), custom agency pricing. 40,000+ professionals (company-stated). Growth from SEO, content and the blog. DR 46.",
+  "homepage": "https://syncsignature.com/",
+  "image": "/blog/2026-10-14/syncsignature.webp",
+  "imageAlt": "SyncSignature product image",
+  "imageWidth": 1200,
+  "imageHeight": 466,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "paddle-verified",
+      "evidence": "~$2,556 MRR, 134 active subscriptions, ~$3,789 L30 (+108%), ~$33,739 last 12 months, ~$39,088 all-time. Revenue synced Oct 14, 2026 ~06:17 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/syncsignature"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://syncsignature.com/"
+        }
+      ],
+      "indieAngle": "Give away a free generator for SEO and charge for the per-seat admin panel. Same play as Exclaimer and WiseStamp, at indie prices."
+    }
+  ],
+  "whyItPrints": "Every company wants consistent signatures and nobody wants to build it in-house. The free generator pulls in SEO traffic, and per-seat team plans turn that into revenue.",
+  "whyThisMatters": "The free generator builds an email signature from a template. You add a logo, a headshot, and a couple of links, then paste it into Gmail, Outlook, or Apple Mail. The paid product is the admin panel. Someone designs one template, assigns it by team, and pushes it through Google Workspace or Microsoft 365. New hires pick up a signature on day one from the company directory. People who leave lose theirs. Marketing can schedule a banner and see which links get clicked. The email itself never passes through SyncSignature. On Google the signature is written into the send-as profile. On Microsoft an Outlook add-in stamps it at compose time.\n\nA free plan covers one person who is happy to copy and paste. Solo is a small monthly fee for that same one person. Teams is a flat monthly price for up to five people, then a per-user price in bands of five, billed annually, with a short trial and no card. Agency pricing is quoted. The company is a small team in India, founded in 2023. The site says tens of thousands of professionals use it, across more than a thousand companies.\n\nYou pay so the whole company stops pasting a different signature into every new laptop."
+}

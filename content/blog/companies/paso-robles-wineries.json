@@ -1,0 +1,31 @@
+{
+  "slug": "paso-robles-wineries",
+  "name": "Paso Robles Wineries",
+  "listingNote": null,
+  "description": "A WordPress guide to Paso Robles (California) wineries, tasting rooms, tours, lodging and dining. Running since at least 2017, one person (founder-stated). The founder describes a dominant SEO position, recurring revenue with annual contracts, and 90k+ social followers. Target: wine enthusiasts and local business owners. The profile does not spell out the product; the inference is that local businesses pay for listings or promotion.",
+  "homepage": "https://www.pasorobleswineries.net/",
+  "image": "/blog/2026-10-14/paso-robles-wineries.webp",
+  "imageAlt": "Paso Robles Wineries product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,695 MRR, 33 active subscriptions, ~$6,718 L30 (+37%), ~$55,880 last 12 months, ~$111,019 all-time. 9,049 visitors L30 (TrustMRR snapshot), about $0.74 revenue/visitor. Revenue synced Oct 14, 2026 ~08:16 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/paso-robles-wineries"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.pasorobleswineries.net/"
+        }
+      ],
+      "indieAngle": "One region, one tourism vertical, and an SEO moat. Sell annual listings to local businesses. Replicate it per region."
+    }
+  ],
+  "whyItPrints": "A local directory. Own the Google results for one tourist region and sell annual visibility to the wineries that need visitors.",
+  "whyThisMatters": "Paso Robles sits between Los Angeles and San Francisco, with a couple of hundred wineries across a large vineyard area. This site is a visitor guide to those tasting rooms, plus restaurants, lodging, and a plan for the day. One person runs it. The pages name specific wineries, build tasting itineraries, and point at vineyard stays and the two dozen or so winery restaurants in the area.\n\nThe paid product is not a tasting fee. The founder describes annual contracts and a strong place in search. The reasonable reading is that wineries and nearby businesses pay to be found by people who are already planning the trip. There is also a visitor guide for sale, with a weekend itinerary and a restaurant list, plus a large social following in the pitch. A few dozen Stripe subscriptions fit annual listing fees better than a consumer app.\n\nYou pay because the Google result for a weekend in Paso Robles already belongs to this guide."
+}

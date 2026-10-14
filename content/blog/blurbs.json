@@ -139,5 +139,15 @@
   "steady-fear-of-flying": "Anxious flyers pay $5.99 a week, $39.99 a year, or $49.99 once for a turbulence forecast that works offline. 227 subscriptions add up to about $3,400 a month, and there is no public site beyond the App Store.",
   "databuddy": "Sites pay $9.99 or $49.99 a month for cookieless analytics after 10,000 free events. 32 subscriptions add up to about $2,800 a month.",
   "ship-restrict": "Stores pay $19.99 or $29.99 a month so regulated products cannot ship to the wrong state or ZIP. Stripe shows 8 subscriptions, about $210 a month, and Shopify billing is not in that figure.",
-  "tifox": "French kindergarten teachers pay €12 to €25 a year per class for a progress booklet that matches the official curriculum. 57 subscriptions are the seat figure, about $106 a month, and the last 30 days show about $1,600."
+  "tifox": "French kindergarten teachers pay €12 to €25 a year per class for a progress booklet that matches the official curriculum. 57 subscriptions are the seat figure, about $106 a month, and the last 30 days show about $1,600.",
+  "guidanz": "Oracle Fusion teams pay an annual licence so Power BI and Tableau can query OTBI without a warehouse project. The last 12 months show about $255,000, and the Stripe key expired in August, so the monthly snapshot is stale.",
+  "astonish-email": "UK organisations pay per email they send, or take a monthly plan. Sixteen subscriptions are about $2,900 a month, and the all-time total is about $414,000.",
+  "paso-robles-wineries": "Wineries pay for a listing on a guide that already ranks for Paso Robles. 33 subscriptions add up to about $4,700 a month.",
+  "syncsignature": "Teams pay $6 a month for one person, or $15 a month for five seats and then $2 a user, so every signature stays on brand. 134 subscriptions add up to about $2,600 a month.",
+  "check-position": "SEO people pay €15 a month to watch a pack of keywords across Google datacenters. 235 subscriptions add up to about $1,800 a month, and the listing is for sale at $20,000.",
+  "autoprintemail": "Pharmacies, shops, and restaurants pay $29 a month or $499 once per computer so new emails hit the printer. The monthly seat figure is about $425, and the last 30 days show about $1,700.",
+  "sendtodrive": "People who already pay for Google Drive pay about €4 a year, or $10 a month for a workspace, so clients can upload without a Google login. 314 subscriptions add up to about $1,500 a month.",
+  "whois-json-api": "Developers pay $49, $129, or $299 a month for structured WHOIS, RDAP, and DNS. 23 subscriptions add up to about $1,200 a month.",
+  "mon-rdv-prefecture": "People waiting on a French prefecture pay €19.99 a month for an alert when a slot opens. 30 subscriptions add up to about $670 a month, and the listing is for sale at $65,000.",
+  "country-specific-job-board": "Employers pay to post on a 15-year-old job board for one country. 17 subscriptions are about $4,500 a month, and the last 30 days show about $14,000. There is no public site on the listing."
 }

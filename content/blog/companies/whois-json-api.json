@@ -1,0 +1,31 @@
+{
+  "slug": "whois-json-api",
+  "name": "Whois JSON API",
+  "listingNote": null,
+  "description": "REST API for structured WHOIS and RDAP, live DNS, bulk lookups, domain availability and change monitoring. Founded Nov 2021. Pricing (company-stated): Basic $49/mo, Premium $129/mo, Enterprise $299/mo.",
+  "homepage": "https://whoisjsonapi.com/",
+  "image": "/blog/2026-10-14/whois-json-api.webp",
+  "imageAlt": "Whois JSON API product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-14",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,196 MRR, 23 active subscriptions, ~$2,308 L30 (+53%), ~$17,501 last 12 months, ~$46,854 all-time. Revenue synced Oct 14, 2026 ~05:02 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/whois-json-api"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://whoisjsonapi.com/"
+        }
+      ],
+      "indieAngle": "Take one messy public data source, normalise it into JSON and charge a monthly plan. Feeds that need monitoring keep customers subscribed."
+    }
+  ],
+  "whyItPrints": "Security, brand-protection and domain-investor tools all need WHOIS, and the raw data is messy. Normalising it once and reselling it is plumbing.",
+  "whyThisMatters": "Security tools, brand monitors, and people who buy domains all need WHOIS. The raw record is a mess of an old port, RDAP, and a different layout for every registry. This API returns that record as JSON. It also returns live DNS, a short bulk lookup, and a yes or no on whether a name is free to register. A signed-in dashboard can watch a domain and send an email, or fire a webhook, when a nameserver or a status changes. DNS lookups spend the same credits as a WHOIS call. The cheaper plan watches a short list once a day and does not include the DNS API. The next plan watches a much longer list, checks hourly, and includes DNS and bulk lookup.\n\nThe site says the data has been offered since 2018. TrustMRR dates the company to late 2021. There are three monthly tiers, a two-week trial, and no card to start. The first tier is sized for a small product. The one above it is sized for something that looks up names all day.\n\nYou pay so a product can ask who owns a domain and get a stable JSON answer."
+}
