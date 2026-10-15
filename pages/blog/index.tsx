@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import type { ReactElement } from 'react'
 
+import OutboundLink from '../../components/blog/OutboundLink'
 import Layout from '../../components/Layout'
 import { formatEditionDate, type Hero } from '../../lib/blog-format'
 import type { tNextPageWithLayout } from '../_app'
@@ -79,10 +80,12 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
           Boring SaaS
         </h1>
         <p className="max-w-[65ch] leading-relaxed text-muted-foreground">
-          Dated notes on software products that already make money. A figure is
-          labeled Stripe-verified, Creem, Polar, Paddle, Lemon Squeezy,
-          RevenueCat, or Shopify when that processor is connected, and
-          self-reported when it is not. Each one links to its source.
+          Boring SaaS is my notebook of software that already makes money doing
+          something dull. I date every note. If a number says Stripe-verified,
+          the listing is connected to Stripe. Same idea for Creem, Polar,
+          Paddle, Lemon Squeezy, RevenueCat, and Shopify. Self-reported means
+          the company said it. I don&apos;t log in and check the number myself.
+          The link sits next to it.
         </p>
         <p className="flex flex-wrap gap-4 text-sm">
           <a href="/blog/about" className="text-link">
@@ -93,6 +96,58 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
           </a>
         </p>
       </header>
+
+      <section className="flex max-w-[65ch] flex-col gap-3">
+        <h2 className="font-serif text-2xl font-normal">
+          What I mean by boring
+        </h2>
+        <p className="leading-relaxed text-muted-foreground">
+          Invoices. Listing photos. Email signatures. Rank checks. Purchase
+          orders. Somebody is already paying for the job.{' '}
+          <OutboundLink href="https://fromscratch.dev/blog/boring-saas-ideas">
+            Fromscratch
+          </OutboundLink>{' '}
+          and{' '}
+          <OutboundLink href="https://redwerk.com/blog/micro-saas-ideas-that-print-money/">
+            Redwerk
+          </OutboundLink>{' '}
+          write about the same kind of thing, then guess what it might make.
+        </p>
+      </section>
+
+      <section className="flex max-w-[65ch] flex-col gap-3">
+        <h2 className="font-serif text-2xl font-normal">
+          I don&apos;t publish guesses
+        </h2>
+        <p className="leading-relaxed text-muted-foreground">
+          Fromscratch&apos;s headline says those ideas make $5–50k a month.
+          Redwerk&apos;s heating-and-cooling example says maybe $8,000 to
+          $20,000 a month. I only write a number down when it has a date and a
+          link.{' '}
+          <a href="/blog/about" className="text-link">
+            Here&apos;s how I label them
+          </a>
+          .
+        </p>
+      </section>
+
+      <section className="flex max-w-[65ch] flex-col gap-3">
+        <h2 className="font-serif text-2xl font-normal">
+          If you want to look around
+        </h2>
+        <p className="leading-relaxed text-muted-foreground">
+          Today&apos;s note is the big card. Open{' '}
+          <a href="/blog/companies/tailride" className="text-link">
+            Tailride
+          </a>{' '}
+          if you want to see an older number stay put when I write about a
+          company again.{' '}
+          <a href="/blog/2026-10-15" className="text-link">
+            15 October
+          </a>{' '}
+          is a fine place to start.
+        </p>
+      </section>
 
       <article className="w-full">
         <EditionCard
@@ -121,7 +176,10 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
       ) : null}
 
       <section id="companies" className="flex w-full scroll-mt-8 flex-col gap-4">
-        <h2 className="font-serif text-2xl font-normal">Companies</h2>
+        <h2 className="font-serif text-2xl font-normal">The companies</h2>
+        <p className="max-w-[65ch] text-sm leading-relaxed text-muted-foreground">
+          Click a name. The line under it is what they sell.
+        </p>
         <ul className="grid gap-2 sm:grid-cols-2">
           {companies.map((company) => (
             <li key={company.slug}>
@@ -148,8 +206,8 @@ BlogIndex.getLayout = function getLayout(
 ) {
   return (
     <Layout
-      title="Boring SaaS revenue notes | Wlad"
-      description="Dated revenue notes on software products. Figures are labeled Stripe, Creem, Polar, Paddle, Lemon Squeezy, RevenueCat, Shopify, or self-reported."
+      title="Boring SaaS | Wlad"
+      description="I keep a notebook of boring software that already makes money. Every number has a date, and I say whether it came from Stripe or from the company."
       image={pageProps.hero.src}
       mainAlign="start"
       rss

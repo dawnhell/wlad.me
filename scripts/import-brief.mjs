@@ -491,7 +491,7 @@ ${rssItems}
 
 ## Boring SaaS
 
-- [Boring SaaS](${siteUrl}/blog): Index of editions and companies.
+- [Boring SaaS](${siteUrl}/blog): Wlad's notebook of boring software that already makes money. Every number has a date, and he says whether it came from a payment company or from the company itself.
 - [About these notes](${siteUrl}/blog/about): How Stripe-verified and self-reported labels work.
 
 ## Editions
