@@ -1,0 +1,31 @@
+{
+  "slug": "local-seo-bot",
+  "name": "Local SEO Bot",
+  "listingNote": null,
+  "description": "Dashboard to help small and medium local businesses show up on Google Maps: automate listings, track rankings, get more calls (company-stated). Pricing from $99 a month, cancel anytime, 30-day money-back (company-stated). ~535 users (founder-stated). Founded Apr 2025, US.",
+  "homepage": "https://www.localseobot.com/",
+  "image": "/blog/2026-10-15/local-seo-bot.webp",
+  "imageAlt": "Local SEO Bot product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$11,666 MRR, 82 active subscriptions, ~$12,417 L30 (+5.3%), ~$33,987 last 3 months, ~$54,332 last 6 months, ~$92,497 last 12 months, ~$102,812 all-time. Revenue synced Oct 15, 2026 ~04:18 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/local-seo-bot"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.localseobot.com/"
+        }
+      ],
+      "indieAngle": "One local vertical (dentists, roofers, HVAC) plus Maps ranking and review ops. Charge a monthly fee and skip the AI pitch."
+    }
+  ],
+  "whyItPrints": "Local owners pay monthly to show up on Maps. Same play as directories and rank trackers, sold as done-for-you work.",
+  "whyThisMatters": "A local business lives or dies by the Google Maps pack. Local SEO Bot is hired to keep that listing busy. It posts on the Google profile a few times a week, replies to reviews, builds citations on other directories, and scans dozens of spots on the map each week so the owner can see the rank move. A person, described as an account manager, looks over the automated work. Access is manager rights on the Google profile, sent through Google's own invite. They say they never take the password.\n\nPlans are priced per location. The cheaper one is the automated weekly work plus a handful of citations placed by hand. The next one adds more of those hand-placed citations, review-request emails, and listing cleanup across maps apps. There is no contract. If the map rank does not climb in 30 days, the site says the money comes back. The company is in the US and was founded in 2025. The site's customer count matches the founder-stated figure of a few hundred businesses.\n\nYou pay so the Google listing keeps getting posts and replies after the owner goes back to the job."
+}

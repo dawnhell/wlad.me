@@ -149,5 +149,15 @@
   "sendtodrive": "People who already pay for Google Drive pay about €4 a year, or $10 a month for a workspace, so clients can upload without a Google login. 314 subscriptions add up to about $1,500 a month.",
   "whois-json-api": "Developers pay $49, $129, or $299 a month for structured WHOIS, RDAP, and DNS. 23 subscriptions add up to about $1,200 a month.",
   "mon-rdv-prefecture": "People waiting on a French prefecture pay €19.99 a month for an alert when a slot opens. 30 subscriptions add up to about $670 a month, and the listing is for sale at $65,000.",
-  "country-specific-job-board": "Employers pay to post on a 15-year-old job board for one country. 17 subscriptions are about $4,500 a month, and the last 30 days show about $14,000. There is no public site on the listing."
+  "country-specific-job-board": "Employers pay to post on a 15-year-old job board for one country. 17 subscriptions are about $4,500 a month, and the last 30 days show about $14,000. There is no public site on the listing.",
+  "tailride": "Spanish accountants pay $19 a month for 75 invoices pulled out of the inbox. The last 12 months show about $87,000, but the current monthly snapshot is $34 and the last 30 days are $0.",
+  "local-seo-bot": "Local businesses pay $99 or $199 a month per location so a person and a bot keep the Google listing active. 82 subscriptions add up to about $11,700 a month.",
+  "email-hackers": "Brazilian companies pay an ActiveCampaign reseller for email marketing with local support. 122 subscriptions were about $7,200 a month in the May 2026 snapshot, and the Stripe key has since expired.",
+  "zebrasnap": "Athletes pay for their own race photos, and photographers pay $16.99 or $29.99 a month to keep more of each sale. The last 30 days show about $31,000. The 24 subscriptions are only about $770 a month.",
+  "refined-listings": "Agents pay for download credits that do not expire. Packs on the site run from $80 to $300. The last 30 days show about $29,000, and the listing is for sale at $495,000.",
+  "studyscout": "People pay a monthly fee for a list of paid studies and focus groups. 694 subscriptions add up to about $5,200 a month, and the listing is for sale at $70,000.",
+  "christian-tech-jobs": "Employers pay to post tech jobs at Christian companies, nonprofits, and churches. 284 subscriptions add up to about $2,200 a month.",
+  "quizwhizzer": "Teachers pay once a year for Pro. The listing says $39. The site now shows $59. 206 subscriptions add up to about $740 a month, and the listing is for sale at $30,000.",
+  "wawp": "WooCommerce stores pay for a Pro plan so WhatsApp confirms cash-on-delivery orders and chases abandoned carts. Stripe and Dodo together show 28 subscriptions, about $324 a month, and about $1,100 in the last 30 days.",
+  "mittral": "Small teams pay $39, $128, $227, or $550 a month so a purchase request becomes a PDF the supplier actually receives. Three subscriptions add up to about $150 a month."
 }

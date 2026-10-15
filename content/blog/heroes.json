@@ -174,5 +174,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Plitvice_Lakes_National_Park_-_Lake_and_forest.jpg",
     "license": "CC BY 2.0",
     "subject": "nature"
+  },
+  {
+    "id": "hochschwab",
+    "src": "/blog/heroes/hochschwab.webp",
+    "alt": "The Hochschwab massif above Turnau, Austria",
+    "width": 960,
+    "height": 805,
+    "credit": "Uoaei1",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Turnau_Hochanger_-_Hochschwab_20171014_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

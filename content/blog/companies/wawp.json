@@ -1,0 +1,31 @@
+{
+  "slug": "wawp",
+  "name": "Wawp",
+  "listingNote": null,
+  "description": "WhatsApp automation for WooCommerce: cart recovery, cash-on-delivery anti-fraud OTP, multi-agent support, and a developer REST API (company-stated). Aimed at high cash-on-delivery merchants and stores that hate Meta setup friction and per-message fees (company-stated). Free to start, Pro for the paid tier (company-stated). ~12,560 users (founder-stated). Founded May 2022, Egypt. L30 profit margin 82% (TrustMRR snapshot).",
+  "homepage": "https://wawp.net/",
+  "image": "/blog/2026-10-15/wawp.webp",
+  "imageAlt": "Wawp product image",
+  "imageWidth": 1200,
+  "imageHeight": 389,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Stripe and Dodo. ~$324 MRR, 28 active subscriptions, ~$1,087 L30 (−28.9%), ~$2,615 last 3 months, ~$8,490 last 6 months, ~$23,628 last 12 months, ~$58,672 all-time. Last 30 days are soft against the last year. Revenue synced Oct 15, 2026 ~04:33 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/wawp"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://wawp.net/"
+        }
+      ],
+      "indieAngle": "One commerce platform, one chat channel, one regional pain (cash-on-delivery fraud, cart recovery, a one-time code). Sell a plugin."
+    }
+  ],
+  "whyItPrints": "WooCommerce stores in cash-on-delivery markets lose money to fake orders and abandoned carts. WhatsApp is the channel. This is the glue.",
+  "whyThisMatters": "Stores on WooCommerce, especially where cash on delivery is normal, lose orders to fake checkouts and carts that never finish. Wawp is the WordPress plugin that sends WhatsApp, email, and SMS around those moments. A one-time code can be required before a cash-on-delivery order is accepted. Abandoned carts get a sequence. Shipping updates, review requests, and payment reminders go out without a person typing them. A store can also block regions, phone numbers, and domains.\n\nYou can connect a WhatsApp number by scanning a QR code, without the official Meta API. The paid tier can use Meta's cloud API instead. The site says the free tier needs no card, and it claims customers across a long list of countries, with the company founded in Egypt in 2022. The founder-stated user count is in the tens of thousands. The Stripe record is much smaller than that, and the listing says the figure also includes Dodo, so the seat count is not Stripe alone. Cash in the last 30 days is softer than the last year.\n\nYou pay so a fake cash-on-delivery order is stopped before it is packed."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "studyscout",
+  "name": "StudyScout",
+  "listingNote": null,
+  "description": "Aggregates high-paying online studies and focus groups. The founder claims no paid ads, fully organic, viral short-video growth (founder-stated). Founded Jan 2026, US. Listed for sale at $70,000, about 1.1× (TrustMRR). L30 profit margin 69% (TrustMRR snapshot).",
+  "homepage": "https://www.joinstudyscout.com/",
+  "image": "/blog/2026-10-15/studyscout.webp",
+  "imageAlt": "StudyScout product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,174 MRR, 694 active subscriptions, ~$5,274 L30 (−9.8%), ~$18,348 last 3 months, ~$53,887 last 6 months, last 12 months and all-time ~$87,381. Asking price $70,000. Revenue synced Oct 15, 2026 ~06:22 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/studyscout"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.joinstudyscout.com/"
+        }
+      ],
+      "indieAngle": "Aggregate one high-intent paid opportunity stream (studies, grants, RFPs, clinical trials) and charge a monthly filter fee."
+    }
+  ],
+  "whyItPrints": "People pay for a cleaner list of paid research gigs. A directory with a subscription, which still works when finding the gigs is painful.",
+  "whyThisMatters": "Paid studies and focus groups are scattered across research companies, and the listings that pay well are tedious to find. StudyScout puts them in one list. You compare the pay, then apply through the company running the study. The homepage is a filter for topic, online-only, location, and highest paying. The founder says growth has been organic, including short videos, with no paid ads.\n\nThe company is in the US and the listing dates it to January 2026. Hundreds of subscriptions are the seat figure. The last 30 days are a little quieter than the month before. A profit-margin snapshot on the listing is high, which fits a directory that does not deliver the study itself. The product is for sale at a price close to one year of Stripe cash.\n\nThe public page did not spell out a plan price, so this note does not invent one.\n\nYou pay for a cleaner list of gigs that pay you."
+}

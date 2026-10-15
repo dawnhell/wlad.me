@@ -1,0 +1,31 @@
+{
+  "slug": "tailride",
+  "name": "Tailride",
+  "listingNote": null,
+  "description": "Finds invoices in an accountant's inbox in seconds (company-stated). TrustMRR positions it as AI accounting automation for tax filings and invoice management, aimed at accountants managing multiple clients. Pricing (company-stated): free for 10 invoices a month, then $19 for 75 invoices a month. Founded Oct 2024 in Spain.",
+  "homepage": "https://tailride.so/",
+  "image": "/blog/2026-10-15/tailride.webp",
+  "imageAlt": "Tailride product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time ~$119,345, last 12 months ~$87,263, last 6 months ~$628, last 3 months $0, last 30 days $0. MRR snapshot ~$34, 1 active subscription. Revenue cliff after a strong last 12 months. Do not read all-time as the current run-rate. Revenue synced Oct 15, 2026 ~10:04 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tailride"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://tailride.so/"
+        }
+      ],
+      "indieAngle": "Pick one painful accountant workflow (inbox invoices, bank PDF to ledger, VAT pack) in one country and charge per client or per document pack."
+    }
+  ],
+  "whyItPrints": "Accountants live in email. A tool that pulls invoices out of the inbox and into the tax workflow is legacy process glue. The all-time Stripe total shows the niche can pay. The collapsed current monthly figure is the cautionary half of the story.",
+  "whyThisMatters": "Accountants spend the end of the month hunting invoices that arrived as a PDF, a photo, a link, or a line in the email itself. Tailride connects to the inbox and pulls those out. You can scan the past as well as what arrives tomorrow. A browser extension grabs invoices that never get emailed, using the session already open in the browser, so the product does not need the portal password. A desktop app for Mac and Windows can do the same check on a schedule and keep those passwords on the computer.\n\nPaper receipts can go in through a photo sent to a Telegram or WhatsApp bot. Rules tell it what is not an invoice, which tax rate to use, and which project a vendor belongs to. The result can land in QuickBooks, Xero, DATEV, Google Drive, Google Sheets, OneDrive, or Business Central. The free tier covers a small number of invoices a month. A paid tier covers a larger pack, and extra credits do not expire. Refunds are offered for a few days after payment. The company is in Spain and was founded in 2024. The site says the inbox connection passed a Google security review, and that customer documents are processed in the EEA.\n\nThe last year of Stripe cash is large. The last few months are not. One subscription is left, and the last 30 days show nothing. Read the older total as proof the niche paid, not as the pace today.\n\nYou pay so the accountant stops asking everyone to forward the same PDF."
+}

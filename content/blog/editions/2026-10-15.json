@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-15",
+  "title": "Thursday's boring SaaS, 15 October 2026",
+  "dek": "Thursday, 15 October 2026. Ten are Stripe-verified. Wawp's number also includes Dodo. Email Hackers' Stripe key expired in May.",
+  "heroId": "hochschwab",
+  "companies": [
+    {
+      "slug": "tailride",
+      "name": "Tailride",
+      "listingNote": null,
+      "description": "Finds invoices in an accountant's inbox in seconds (company-stated). TrustMRR positions it as AI accounting automation for tax filings and invoice management, aimed at accountants managing multiple clients. Pricing (company-stated): free for 10 invoices a month, then $19 for 75 invoices a month. Founded Oct 2024 in Spain.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time ~$119,345, last 12 months ~$87,263, last 6 months ~$628, last 3 months $0, last 30 days $0. MRR snapshot ~$34, 1 active subscription. Revenue cliff after a strong last 12 months. Do not read all-time as the current run-rate. Revenue synced Oct 15, 2026 ~10:04 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tailride"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://tailride.so/"
+        }
+      ],
+      "homepage": "https://tailride.so/",
+      "indieAngle": "Pick one painful accountant workflow (inbox invoices, bank PDF to ledger, VAT pack) in one country and charge per client or per document pack.",
+      "whyItPrints": "Accountants live in email. A tool that pulls invoices out of the inbox and into the tax workflow is legacy process glue. The all-time Stripe total shows the niche can pay. The collapsed current monthly figure is the cautionary half of the story.",
+      "image": "/blog/2026-10-15/tailride.webp",
+      "imageAlt": "Tailride product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "local-seo-bot",
+      "name": "Local SEO Bot",
+      "listingNote": null,
+      "description": "Dashboard to help small and medium local businesses show up on Google Maps: automate listings, track rankings, get more calls (company-stated). Pricing from $99 a month, cancel anytime, 30-day money-back (company-stated). ~535 users (founder-stated). Founded Apr 2025, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$11,666 MRR, 82 active subscriptions, ~$12,417 L30 (+5.3%), ~$33,987 last 3 months, ~$54,332 last 6 months, ~$92,497 last 12 months, ~$102,812 all-time. Revenue synced Oct 15, 2026 ~04:18 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/local-seo-bot"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.localseobot.com/"
+        }
+      ],
+      "homepage": "https://www.localseobot.com/",
+      "indieAngle": "One local vertical (dentists, roofers, HVAC) plus Maps ranking and review ops. Charge a monthly fee and skip the AI pitch.",
+      "whyItPrints": "Local owners pay monthly to show up on Maps. Same play as directories and rank trackers, sold as done-for-you work.",
+      "image": "/blog/2026-10-15/local-seo-bot.webp",
+      "imageAlt": "Local SEO Bot product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "email-hackers",
+      "name": "Email Hackers",
+      "listingNote": "GL Estratégias Digitais",
+      "description": "Brazilian company that sells email-marketing management software to the local market as an ActiveCampaign reseller (founder-stated description on TrustMRR). Founded Oct 2023, Brazil.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR snapshot ~$7,241, 122 active subscriptions, ~$6,841 L30, ~$6,782 last 6 months, ~$45,264 last 12 months, ~$418,952 all-time. Last synced 15 May 2026 ~14:40 Warsaw. The Stripe API key expired, so these figures are a May 2026 snapshot, not live October data.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/gl-estrat-gias-digitais-ltda"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.emailhackers.com.br/"
+        }
+      ],
+      "homepage": "https://www.emailhackers.com.br/",
+      "indieAngle": "Become the local reseller and onboarding partner for one proven product in one country that hates US billing and English support.",
+      "whyItPrints": "A country-specific reseller and implementation layer on a global email platform. Package it, bill locally, and support Brazilian small businesses.",
+      "image": "/blog/2026-10-15/email-hackers.webp",
+      "imageAlt": "Email Hackers product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "zebrasnap",
+      "name": "ZebraSnap",
+      "listingNote": null,
+      "description": "Marketplace where sports photographers sell photos to the athletes in them. Buyers find themselves with a selfie, a bib number, or a shirt-color search (company-stated). Commission runs from 16% down to 5% by plan, plus photographer subscriptions at Lite $16.99 a month and Pro $29.99 a month (company-stated). Founded Jul 2024, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$31,347 L30 (+34.9%), ~$73,900 last 3 months, ~$117,136 last 6 months, last 12 months and all-time ~$144,753. MRR snapshot ~$766, 24 active subscriptions. Most cash is marketplace take-rate, not seats. L30 profit margin 75% (TrustMRR snapshot). Revenue synced Oct 15, 2026 ~07:11 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/zebrasnap"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.zebrasnap.com/"
+        }
+      ],
+      "homepage": "https://www.zebrasnap.com/",
+      "indieAngle": "One sport and one region. Sell the photos, not the seats.",
+      "whyItPrints": "A two-sided event-media take-rate business. Photographers upload, athletes pay for their shots, the platform skims. No enterprise sales cycle.",
+      "image": "/blog/2026-10-15/zebrasnap.webp",
+      "imageAlt": "ZebraSnap product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "refined-listings",
+      "name": "Refined Listings",
+      "listingNote": null,
+      "description": "Virtual staging and marketing toolkit for real estate agents and property managers: MLS import, multi-angle staging, a style catalog, object removal, and photo-to-video (company-stated). The founder says they did $800k+ lifetime as an agency, then moved to software in Oct 2025. Pricing is pay-as-you-go credit packs from $128 to $750, with about an 18% repeat purchase rate (company-stated). ~3,500 users (founder-stated). Listed for sale at $495,000, about 1.4× (TrustMRR).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$29,357 L30 (−23.5%), ~$94,669 last 3 months, ~$149,539 last 6 months, ~$232,667 last 12 months, ~$266,829 all-time. MRR snapshot ~$752, 8 active subscriptions. Credit packs dominate over a classic monthly seat figure. L30 profit margin 68% (TrustMRR snapshot). Asking price $495,000. Revenue synced Oct 15, 2026 ~07:17 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/refined-listings"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.refinedlistings.com/"
+        }
+      ],
+      "homepage": "https://www.refinedlistings.com/",
+      "indieAngle": "Credits, not seats, for one realtor workflow (staging, floor plans, listing video). Sell packs.",
+      "whyItPrints": "Agents need listing photos that sell. Credits beat seats when usage is bursty. A clear buyer and a sale listing.",
+      "image": "/blog/2026-10-15/refined-listings.webp",
+      "imageAlt": "Refined Listings product image",
+      "imageWidth": 1200,
+      "imageHeight": 672
+    },
+    {
+      "slug": "studyscout",
+      "name": "StudyScout",
+      "listingNote": null,
+      "description": "Aggregates high-paying online studies and focus groups. The founder claims no paid ads, fully organic, viral short-video growth (founder-stated). Founded Jan 2026, US. Listed for sale at $70,000, about 1.1× (TrustMRR). L30 profit margin 69% (TrustMRR snapshot).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,174 MRR, 694 active subscriptions, ~$5,274 L30 (−9.8%), ~$18,348 last 3 months, ~$53,887 last 6 months, last 12 months and all-time ~$87,381. Asking price $70,000. Revenue synced Oct 15, 2026 ~06:22 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/studyscout"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.joinstudyscout.com/"
+        }
+      ],
+      "homepage": "https://www.joinstudyscout.com/",
+      "indieAngle": "Aggregate one high-intent paid opportunity stream (studies, grants, RFPs, clinical trials) and charge a monthly filter fee.",
+      "whyItPrints": "People pay for a cleaner list of paid research gigs. A directory with a subscription, which still works when finding the gigs is painful.",
+      "image": "/blog/2026-10-15/studyscout.webp",
+      "imageAlt": "StudyScout product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "christian-tech-jobs",
+      "name": "Christian Tech Jobs",
+      "listingNote": null,
+      "description": "Job board for curated tech roles at Christian companies, nonprofits, startups, and churches (the value proposition on TrustMRR). ~45,600 users (founder-stated). Founded Oct 2023, US. The short TrustMRR description field still says blockchain/DeFi. That looks like a stale blurb. The insights text describes the Christian-organisation board, which matches the domain.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,211 MRR, 284 active subscriptions, ~$3,939 L30 (+3.5%), ~$11,925 last 3 months, ~$21,622 last 6 months, ~$33,150 last 12 months, ~$39,597 all-time. Revenue synced Oct 15, 2026 ~06:07 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/christian-tech-jobs"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.christiantechjobs.io/"
+        }
+      ],
+      "homepage": "https://www.christiantechjobs.io/",
+      "indieAngle": "One identity, industry, or geography job board. Sell employer seats and featured listings.",
+      "whyItPrints": "Niche job boards are a forever business. Employers pay to post. Candidates show up for a filter that matches who they are. Low product surface.",
+      "image": "/blog/2026-10-15/christian-tech-jobs.webp",
+      "imageAlt": "Christian Tech Jobs product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "quizwhizzer",
+      "name": "QuizWhizzer",
+      "listingNote": null,
+      "description": "Game-based quizzes for classrooms. The founder says it has mostly been in maintenance mode, still gets 300 to 700 organic signups a day, and about 450,000 users (founder-stated). Pricing (company-stated): free forever, Pro $39 a year. Founded Oct 2019, UK. Listed for sale at $30,000, about 1.6× (TrustMRR). L30 profit margin 40% (TrustMRR snapshot).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$739 MRR, 206 active subscriptions, ~$1,597 L30 (+27.7%), ~$3,488 last 3 months, ~$5,474 last 6 months, ~$12,261 last 12 months, ~$123,200 all-time. Asking price $30,000. Revenue synced Oct 15, 2026 ~04:33 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quizwhizzer"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://quizwhizzer.com/"
+        }
+      ],
+      "homepage": "https://quizwhizzer.com/",
+      "indieAngle": "Ship a simple teacher tool, ride search for a decade, sell when you are bored. An annual Pro keeps renewals calm.",
+      "whyItPrints": "A classroom quiz tool that kept collecting annual Pro plans without a growth team. Maintenance mode plus search traffic is the quiet exit.",
+      "image": "/blog/2026-10-15/quizwhizzer.webp",
+      "imageAlt": "QuizWhizzer product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "wawp",
+      "name": "Wawp",
+      "listingNote": null,
+      "description": "WhatsApp automation for WooCommerce: cart recovery, cash-on-delivery anti-fraud OTP, multi-agent support, and a developer REST API (company-stated). Aimed at high cash-on-delivery merchants and stores that hate Meta setup friction and per-message fees (company-stated). Free to start, Pro for the paid tier (company-stated). ~12,560 users (founder-stated). Founded May 2022, Egypt. L30 profit margin 82% (TrustMRR snapshot).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Stripe and Dodo. ~$324 MRR, 28 active subscriptions, ~$1,087 L30 (−28.9%), ~$2,615 last 3 months, ~$8,490 last 6 months, ~$23,628 last 12 months, ~$58,672 all-time. Last 30 days are soft against the last year. Revenue synced Oct 15, 2026 ~04:33 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/wawp"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://wawp.net/"
+        }
+      ],
+      "homepage": "https://wawp.net/",
+      "indieAngle": "One commerce platform, one chat channel, one regional pain (cash-on-delivery fraud, cart recovery, a one-time code). Sell a plugin.",
+      "whyItPrints": "WooCommerce stores in cash-on-delivery markets lose money to fake orders and abandoned carts. WhatsApp is the channel. This is the glue.",
+      "image": "/blog/2026-10-15/wawp.webp",
+      "imageAlt": "Wawp product image",
+      "imageWidth": 1200,
+      "imageHeight": 389
+    },
+    {
+      "slug": "mittral",
+      "name": "Mittral",
+      "listingNote": null,
+      "description": "Purchase request, approval chain, and purchase-order PDF software for small businesses (company-stated). Replaces asking in email, a manager saying fine from their phone, and a purchase order typed later. Pricing (company-stated): free forever for small teams, then roughly $39, $128, $227, or $550 a month as seats grow. Founded Nov 2023, UK.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$151 MRR, 3 active subscriptions, ~$152 L30, ~$512 last 3 months, ~$1,026 last 6 months, ~$2,595 last 12 months, ~$25,246 all-time. Early traction. Included for the lane, not the headline. Revenue synced Oct 15, 2026 ~08:27 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mittral"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://mittral.com/"
+        }
+      ],
+      "homepage": "https://mittral.com/",
+      "indieAngle": "One approval workflow small businesses still run in Gmail. Charge per seat. Export PDFs an accountant will trust.",
+      "whyItPrints": "Procurement is painful and full of audit trails. Small today. The category is not going away.",
+      "image": "/blog/2026-10-15/mittral.webp",
+      "imageAlt": "Mittral product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": []
+}

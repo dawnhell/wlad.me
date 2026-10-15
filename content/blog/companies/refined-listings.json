@@ -1,0 +1,31 @@
+{
+  "slug": "refined-listings",
+  "name": "Refined Listings",
+  "listingNote": null,
+  "description": "Virtual staging and marketing toolkit for real estate agents and property managers: MLS import, multi-angle staging, a style catalog, object removal, and photo-to-video (company-stated). The founder says they did $800k+ lifetime as an agency, then moved to software in Oct 2025. Pricing is pay-as-you-go credit packs from $128 to $750, with about an 18% repeat purchase rate (company-stated). ~3,500 users (founder-stated). Listed for sale at $495,000, about 1.4× (TrustMRR).",
+  "homepage": "https://www.refinedlistings.com/",
+  "image": "/blog/2026-10-15/refined-listings.webp",
+  "imageAlt": "Refined Listings product image",
+  "imageWidth": 1200,
+  "imageHeight": 672,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$29,357 L30 (−23.5%), ~$94,669 last 3 months, ~$149,539 last 6 months, ~$232,667 last 12 months, ~$266,829 all-time. MRR snapshot ~$752, 8 active subscriptions. Credit packs dominate over a classic monthly seat figure. L30 profit margin 68% (TrustMRR snapshot). Asking price $495,000. Revenue synced Oct 15, 2026 ~07:17 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/refined-listings"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.refinedlistings.com/"
+        }
+      ],
+      "indieAngle": "Credits, not seats, for one realtor workflow (staging, floor plans, listing video). Sell packs."
+    }
+  ],
+  "whyItPrints": "Agents need listing photos that sell. Credits beat seats when usage is bursty. A clear buyer and a sale listing.",
+  "whyThisMatters": "Listing photos sell houses, and an empty room sells worse than a furnished one. Refined Listings stages the photo. An agent uploads images or imports a listing, tries styles, removes objects, and restages the same room from more than one angle. Staging itself is free. A credit is spent when the full-resolution file is downloaded for the MLS. Credits do not expire, and unused ones can be refunded for a week. The site also sells a short listing film, a walkthrough made from stills, and a one-listing website.\n\nThe live packs are one-time downloads, not a monthly seat. That matches the Stripe record, where a handful of subscriptions sit far below cash in the last 30 days. The founder says the business was an agency first, with a large lifetime total, and became software in late 2025. The founder-stated user count is a few thousand. The listing is for sale at a price a bit above the last year of Stripe cash. Teams and brokerages can get volume pricing and a co-branded login.\n\nYou pay when a staged photo is good enough to put on the listing, not on the first day of the month."
+}

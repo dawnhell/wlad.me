@@ -1,0 +1,31 @@
+{
+  "slug": "christian-tech-jobs",
+  "name": "Christian Tech Jobs",
+  "listingNote": null,
+  "description": "Job board for curated tech roles at Christian companies, nonprofits, startups, and churches (the value proposition on TrustMRR). ~45,600 users (founder-stated). Founded Oct 2023, US. The short TrustMRR description field still says blockchain/DeFi. That looks like a stale blurb. The insights text describes the Christian-organisation board, which matches the domain.",
+  "homepage": "https://www.christiantechjobs.io/",
+  "image": "/blog/2026-10-15/christian-tech-jobs.webp",
+  "imageAlt": "Christian Tech Jobs product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$2,211 MRR, 284 active subscriptions, ~$3,939 L30 (+3.5%), ~$11,925 last 3 months, ~$21,622 last 6 months, ~$33,150 last 12 months, ~$39,597 all-time. Revenue synced Oct 15, 2026 ~06:07 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/christian-tech-jobs"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.christiantechjobs.io/"
+        }
+      ],
+      "indieAngle": "One identity, industry, or geography job board. Sell employer seats and featured listings."
+    }
+  ],
+  "whyItPrints": "Niche job boards are a forever business. Employers pay to post. Candidates show up for a filter that matches who they are. Low product surface.",
+  "whyThisMatters": "Christian Tech Jobs is a board for software, IT, and design roles at Christian companies, nonprofits, startups, and churches. The homepage describes the listings as curated. It shows a monthly visitor count in the tens of thousands, a few hundred companies, and a majority of the roles marked remote. The founder-stated user count is higher than that visitor figure, so they are not the same number.\n\nTrustMRR's short description still says blockchain and DeFi. The domain, the homepage, and the longer text on the listing describe the faith-aligned board. Treat the blockchain line as a stale blurb. The company is in the US and was founded in 2023. Employers are the ones paying. A few hundred subscriptions is a lot of seats for a narrow board, and cash in the last 30 days sits above the monthly subscription figure, which can happen when a post is a one-time fee as well as a seat.\n\nYou pay to put a role in front of people who already filtered for this niche."
+}

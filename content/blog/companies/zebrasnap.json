@@ -1,0 +1,31 @@
+{
+  "slug": "zebrasnap",
+  "name": "ZebraSnap",
+  "listingNote": null,
+  "description": "Marketplace where sports photographers sell photos to the athletes in them. Buyers find themselves with a selfie, a bib number, or a shirt-color search (company-stated). Commission runs from 16% down to 5% by plan, plus photographer subscriptions at Lite $16.99 a month and Pro $29.99 a month (company-stated). Founded Jul 2024, US.",
+  "homepage": "https://www.zebrasnap.com/",
+  "image": "/blog/2026-10-15/zebrasnap.webp",
+  "imageAlt": "ZebraSnap product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$31,347 L30 (+34.9%), ~$73,900 last 3 months, ~$117,136 last 6 months, last 12 months and all-time ~$144,753. MRR snapshot ~$766, 24 active subscriptions. Most cash is marketplace take-rate, not seats. L30 profit margin 75% (TrustMRR snapshot). Revenue synced Oct 15, 2026 ~07:11 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/zebrasnap"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.zebrasnap.com/"
+        }
+      ],
+      "indieAngle": "One sport and one region. Sell the photos, not the seats."
+    }
+  ],
+  "whyItPrints": "A two-sided event-media take-rate business. Photographers upload, athletes pay for their shots, the platform skims. No enterprise sales cycle.",
+  "whyThisMatters": "A race ends and hundreds of photos exist of people who will never find themselves in a photographer's gallery. ZebraSnap is the marketplace in the middle. An athlete searches with a selfie, a bib number, or a shirt color, without making an account, and buys the full-resolution file. A photographer uploads from Lightroom, a desktop app, or the web. Payouts are weekly.\n\nThe cut depends on the plan. A free photographer seat keeps a larger share for the platform. Paid seats, including a higher enterprise tier, keep more of each sale for the photographer. The subscription count is small next to cash in the last 30 days, which fits a business that makes its money on the photo, not the seat. The company is in the US and was founded in 2024. The events named on the site are running, cycling, triathlon, and trail. There is also an HTTP API for event and catalogue data.\n\nYou pay, as the athlete, for the photo of you. The photographer pays so the platform takes less of it."
+}

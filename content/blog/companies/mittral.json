@@ -1,0 +1,31 @@
+{
+  "slug": "mittral",
+  "name": "Mittral",
+  "listingNote": null,
+  "description": "Purchase request, approval chain, and purchase-order PDF software for small businesses (company-stated). Replaces asking in email, a manager saying fine from their phone, and a purchase order typed later. Pricing (company-stated): free forever for small teams, then roughly $39, $128, $227, or $550 a month as seats grow. Founded Nov 2023, UK.",
+  "homepage": "https://mittral.com/",
+  "image": "/blog/2026-10-15/mittral.webp",
+  "imageAlt": "Mittral product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$151 MRR, 3 active subscriptions, ~$152 L30, ~$512 last 3 months, ~$1,026 last 6 months, ~$2,595 last 12 months, ~$25,246 all-time. Early traction. Included for the lane, not the headline. Revenue synced Oct 15, 2026 ~08:27 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/mittral"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://mittral.com/"
+        }
+      ],
+      "indieAngle": "One approval workflow small businesses still run in Gmail. Charge per seat. Export PDFs an accountant will trust."
+    }
+  ],
+  "whyItPrints": "Procurement is painful and full of audit trails. Small today. The category is not going away.",
+  "whyThisMatters": "A small company still buys things by email. Someone asks, a manager says yes from their phone, and a purchase order gets typed later, if it gets typed at all. Mittral is the path from the request to the PDF. The requester adds the supplier, the lines, and the quote. An approval path sends it to the right person for the amount. Nobody can approve their own request, including an admin. The final yes becomes a PDF that names the company as the buyer and emails the supplier. Approval, the PDF, and the email each have their own status. Sent means the email left, not that the supplier accepted it.\n\nThe free tier covers a few users and a small number of orders a month, with no card. Paid tiers add users, more orders, export, and webhooks. Higher tiers put the company's logo on the PDF and can send from the company's own email. There is no automatic overage charge. If the month's allowance is used up, a newly approved order waits instead of being blocked. The company is in the UK and was founded in 2023. It works without an accounting system. A phone app with an offline mode is described as coming soon. The browser works on a phone until then. Three paid subscriptions is a small start. The all-time total is larger than the last year, so some earlier cash is not in the current pace.\n\nYou pay so the supplier gets a purchase order, and the invoice later has a name attached to the yes."
+}

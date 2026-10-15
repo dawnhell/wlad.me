@@ -1,0 +1,31 @@
+{
+  "slug": "quizwhizzer",
+  "name": "QuizWhizzer",
+  "listingNote": null,
+  "description": "Game-based quizzes for classrooms. The founder says it has mostly been in maintenance mode, still gets 300 to 700 organic signups a day, and about 450,000 users (founder-stated). Pricing (company-stated): free forever, Pro $39 a year. Founded Oct 2019, UK. Listed for sale at $30,000, about 1.6× (TrustMRR). L30 profit margin 40% (TrustMRR snapshot).",
+  "homepage": "https://quizwhizzer.com/",
+  "image": "/blog/2026-10-15/quizwhizzer.webp",
+  "imageAlt": "QuizWhizzer product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$739 MRR, 206 active subscriptions, ~$1,597 L30 (+27.7%), ~$3,488 last 3 months, ~$5,474 last 6 months, ~$12,261 last 12 months, ~$123,200 all-time. Asking price $30,000. Revenue synced Oct 15, 2026 ~04:33 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quizwhizzer"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://quizwhizzer.com/"
+        }
+      ],
+      "indieAngle": "Ship a simple teacher tool, ride search for a decade, sell when you are bored. An annual Pro keeps renewals calm."
+    }
+  ],
+  "whyItPrints": "A classroom quiz tool that kept collecting annual Pro plans without a growth team. Maintenance mode plus search traffic is the quiet exit.",
+  "whyThisMatters": "QuizWhizzer turns a classroom review into a race. The teacher hosts, students join with a username and no account, and up to about a hundred people can play. There is no app to install. Question types include multiple choice, true or false, ordering, short text, and audio. Power-ups and a shared board are the game layer. A quiz can be generated from a topic, with an explanation on each question. Students' names are just a username.\n\nThe company is in the UK and was founded in 2019. The founder says it has mostly sat in maintenance mode and still gets a few hundred organic signups a day. The site puts the teacher count above 450,000. Pricing on the listing is a free tier and a yearly Pro. The homepage now shows a free tier and a higher yearly price than the listing recorded, so the two figures should not be collapsed into one. The product is for sale. The last year of Stripe cash is modest next to the all-time total, which fits a long-running annual plan that is no longer being pushed.\n\nYou pay once a year so the review session is a game instead of a worksheet."
+}

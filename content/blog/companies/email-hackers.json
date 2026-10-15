@@ -1,0 +1,31 @@
+{
+  "slug": "email-hackers",
+  "name": "Email Hackers",
+  "listingNote": "GL Estratégias Digitais",
+  "description": "Brazilian company that sells email-marketing management software to the local market as an ActiveCampaign reseller (founder-stated description on TrustMRR). Founded Oct 2023, Brazil.",
+  "homepage": "https://www.emailhackers.com.br/",
+  "image": "/blog/2026-10-15/email-hackers.webp",
+  "imageAlt": "Email Hackers product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR snapshot ~$7,241, 122 active subscriptions, ~$6,841 L30, ~$6,782 last 6 months, ~$45,264 last 12 months, ~$418,952 all-time. Last synced 15 May 2026 ~14:40 Warsaw. The Stripe API key expired, so these figures are a May 2026 snapshot, not live October data.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/gl-estrat-gias-digitais-ltda"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.emailhackers.com.br/"
+        }
+      ],
+      "indieAngle": "Become the local reseller and onboarding partner for one proven product in one country that hates US billing and English support."
+    }
+  ],
+  "whyItPrints": "A country-specific reseller and implementation layer on a global email platform. Package it, bill locally, and support Brazilian small businesses.",
+  "whyThisMatters": "Email Hackers is a Brazilian company selling email-marketing software to local businesses as a reseller of ActiveCampaign. TrustMRR dates it to late 2023. The pitch is the unglamorous one. You do not build another mail tool. You bill in the local market, onboard people who do not want a US checkout, and answer support from Brazil.\n\nThe name on the card is the product. The name in parentheses is the Brazilian company behind the reseller relationship. ActiveCampaign stays the software. Email Hackers is the local layer in front of it. The public site blocked the fetch, so nothing here comes from the homepage. The key expired in May 2026, and the seat count is frozen on that sync. The Warsaw clock on that last sync reads mid-afternoon on 15 May 2026, and nothing after that date is in the file. A reader should not turn that frozen month into this month's cash.\n\nYou pay a local partner so the email tool is someone else's problem."
+}
