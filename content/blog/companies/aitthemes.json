@@ -1,0 +1,31 @@
+{
+  "slug": "aitthemes",
+  "name": "AitThemes",
+  "listingNote": null,
+  "description": "WordPress themes, plugins, and directory tools for multilingual and WooCommerce sites (company-stated). The founder says about 18,000 sites use the products and the email list is about 33,000 people. AIT Blocks is $89 to $297 a year (company-stated). Founded Aug 2009, UK. About 45,000 estimated users (founder-stated). Listed for sale at $13,800, about 1.1× (TrustMRR). L30 profit margin 94% (TrustMRR snapshot).",
+  "homepage": "https://www.ait-themes.club/",
+  "image": "/blog/2026-10-16/aitthemes.webp",
+  "imageAlt": "AitThemes product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-16",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$45 MRR, 1 active subscription, ~$1,040 L30 (+55.2%), ~$1,981 last 3 months, ~$6,052 last 6 months, ~$16,695 last 12 months, ~$25,561 all-time. L30 profit margin 94% (TrustMRR snapshot). Asking price $13,800. Current monthly subscriptions are residual. The last year, the all-time total, and the email list are the asset. Revenue synced Oct 16, 2026 ~08:25 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ait"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.ait-themes.club/"
+        }
+      ],
+      "indieAngle": "Buy an old WordPress product that still has an email list and a support history. Or build one narrow theme and sell it before year 17."
+    }
+  ],
+  "whyItPrints": "A 17-year WordPress catalog with a long Stripe trail, listed near one year of recent cash. The monthly seat is tiny. The list and the old products are the thing for sale.",
+  "whyThisMatters": "AitThemes has been making WordPress themes since 2009. The site says they are a European shop, with dozens of themes and plugins, and a long run of directory tools. The current product is CitadelaWP, a block theme on Gutenberg, with starter layouts for a hotel, a restaurant, a directory, a church, a driving school, and plenty of other dull businesses. You click a layout, the plugins install, and you edit in WordPress. They offer a refund window if you change your mind. Support comes with a membership.\n\nThe founder says about eighteen thousand sites use the products and the email list is about thirty-three thousand people. Yearly blocks are the paid product on the listing. The Stripe monthly count is one subscription. Cash in the last year is much bigger than that, which fits people paying once a year, not a monthly seat. The shop is for sale at a price close to that last year. You would be buying the catalog and the list, not a busy subscription.\n\nYou pay once a year so a directory site is a theme, not a custom build."
+}

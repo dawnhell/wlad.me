@@ -1,0 +1,31 @@
+{
+  "slug": "gosimless",
+  "name": "gosimless",
+  "listingNote": null,
+  "description": "A virtual phone number for WhatsApp Business and other chat apps, without a physical SIM (company-stated). A small business can keep a second number on the phone they already have (company-stated). Founded in the UK.",
+  "homepage": "https://www.gosimless.com/",
+  "image": "/blog/2026-10-16/gosimless.webp",
+  "imageAlt": "gosimless product image",
+  "imageWidth": 1080,
+  "imageHeight": 1080,
+  "mentions": [
+    {
+      "date": "2026-10-16",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,109 MRR, 429 active subscriptions, ~$4,006 L30 (−8.9%), ~$12,655 last 3 months, ~$28,370 last 6 months, ~$51,097 last 12 months, ~$79,191 all-time. Revenue synced Oct 16, 2026 ~04:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/gosimless"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.gosimless.com/"
+        }
+      ],
+      "indieAngle": "One chat app and one country's phone numbers. Sell a WhatsApp Business number, not a platform."
+    }
+  ],
+  "whyItPrints": "A second number for sales or support is a dull, repeating need. Hundreds of subscriptions say people keep paying for it.",
+  "whyThisMatters": "WhatsApp Business wants a phone number, and a lot of small shops do not want a second SIM or a second phone. gosimless sells a virtual number for that. You get the number, you verify the chat app, and texts to that number land in your email. Regular calls are off unless you turn on forwarding, which costs a little per minute. The site says the same number can verify other chat apps too, and that it is not an eSIM.\n\nThe price on the site is a small monthly fee, the kind they compare to a coffee. You can cancel. The company is IO Microservices Ltd, in the UK, and the site says they launched in 2022 and sell numbers to people outside the UK and the US as well. Hundreds of subscriptions match a cheap number people keep. Cash in the last 30 days sits close to the monthly subscription figure, which is what you would expect when the product is the subscription.\n\nYou pay so the work chat is not your personal number."
+}

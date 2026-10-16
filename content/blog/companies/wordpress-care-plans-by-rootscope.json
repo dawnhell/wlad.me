@@ -1,0 +1,31 @@
+{
+  "slug": "wordpress-care-plans-by-rootscope",
+  "name": "WordPress Care Plans by Rootscope",
+  "listingNote": null,
+  "description": "Monthly care for WordPress and WooCommerce sites: updates, backups, security, and speed, done by people (company-stated). Plans from $34 a month (company-stated). ~70 users (founder-stated). Founded in the UK.",
+  "homepage": "https://wp-maintenance.pro/",
+  "image": "/blog/2026-10-16/wordpress-care-plans-by-rootscope.webp",
+  "imageAlt": "WordPress Care Plans by Rootscope product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-16",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$159 MRR, 6 active subscriptions, ~$1,175 L30 (+534.5%), ~$1,360 last 3 months, ~$1,909 last 6 months, ~$2,426 last 12 months, ~$26,448 all-time. Revenue synced Oct 16, 2026 ~05:33 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/wordpress-care-plans-by-rootscope"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://wp-maintenance.pro/"
+        }
+      ],
+      "indieAngle": "Cap the number of sites. Charge a monthly fee per site. Sell it to agencies who hate maintenance."
+    }
+  ],
+  "whyItPrints": "A retainer so the site owner stops breaking the live site. Same lane as emergency WordPress help, sold as a monthly plan instead of a panic call.",
+  "whyThisMatters": "WordPress updates break shops. Rootscope sells a monthly plan so a person does the updates, the backups, and the watching. Backups go somewhere other than the same server. Security patches go on when they come out, not on a lazy schedule. WooCommerce gets extra eyes: payments, renewals, and the background jobs that fail quietly. The site says more than seventy sites are on the plans, and the person doing the work has been in WordPress for more than fourteen years.\n\nPlans start in the mid-thirties a month. The homepage shows two nearby starting prices, so I am not pretending there is one number. No contract, no setup fee, updates on a weekly rhythm. The listing says the UK. Six Stripe subscriptions is a small count next to seventy sites and a jumpy last 30 days, so some of the cash is not a neat seat. The all-time total is older than the last year.\n\nYou pay so a plugin update is not your Friday night."
+}

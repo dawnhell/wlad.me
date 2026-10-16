@@ -1,0 +1,31 @@
+{
+  "slug": "jobboardsearch",
+  "name": "JobBoardSearch",
+  "listingNote": null,
+  "description": "A directory of job boards. Job seekers look for boards, recruiters look for candidates, and the boards pay to be found (company-stated). It also runs a marketplace to buy and sell job boards (company-stated). ~1.3 million estimated users (founder-stated). Founded in Spain.",
+  "homepage": "https://jobboardsearch.com/",
+  "image": "/blog/2026-10-16/jobboardsearch.webp",
+  "imageAlt": "JobBoardSearch product image",
+  "imageWidth": 1200,
+  "imageHeight": 800,
+  "mentions": [
+    {
+      "date": "2026-10-16",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$499 MRR, 1 active subscription, ~$2,910 L30 (−2.2%), ~$9,103 last 3 months, ~$17,720 last 6 months, ~$28,709 last 12 months, ~$101,739 all-time. Revenue synced Oct 16, 2026 ~04:05 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/jobboardsearch"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://jobboardsearch.com/"
+        }
+      ],
+      "indieAngle": "A directory of one kind of job board. Charge for a featured listing, and take a cut when a board is sold."
+    }
+  ],
+  "whyItPrints": "A directory of directories. Job boards need to be found. The Stripe history is long, and almost none of the cash is a monthly seat.",
+  "whyThisMatters": "There are hundreds of little job boards, and nobody can remember them. JobBoardSearch is a list of those lists. The site says you can browse about 870 niche boards: remote, entry-level, a trade, a country. Job seekers use it to find a board. Recruiters use it to find where a certain kind of person already looks. The listing also says there is a marketplace for buying and selling a board. I did not see that shop spelled out on the homepage, so I am not describing how a sale works.\n\nThe Stripe picture is one subscription and a much larger pile of cash over the years. That fits a directory that charges for a listing or a feature, not a monthly seat for every visitor. The founder-stated user count is enormous. The listing says the company is in Spain. One subscription is not the business. The last 30 days of cash are.\n\nYou pay so your job board shows up where people are already looking for a board."
+}

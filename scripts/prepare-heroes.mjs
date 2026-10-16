@@ -144,6 +144,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Turnau_Hochanger_-_Hochschwab_20171014_01.jpg/1920px-Turnau_Hochanger_-_Hochschwab_20171014_01.jpg',
   },
+  {
+    id: 'fassa-valley',
+    subject: 'nature',
+    alt: 'The Fassa valley',
+    credit: 'Martin Kunz',
+    license: 'CC BY-SA 4.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Fassa_valley.jpg/1920px-Fassa_valley.jpg',
+  },
 ]
 
 function filePage(thumbUrl) {

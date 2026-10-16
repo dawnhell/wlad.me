@@ -1,0 +1,31 @@
+{
+  "slug": "wp-critique",
+  "name": "WP Critique",
+  "listingNote": null,
+  "description": "French WordPress help: assistance, migration, speed, malware removal, and hosting (company-stated). On-demand support from €39 (company-stated). Founded Aug 2019, France. Listed for sale at $60,000, about 1.8× (TrustMRR). L30 profit margin 90% (TrustMRR snapshot).",
+  "homepage": "https://wpcritique.com/",
+  "image": "/blog/2026-10-16/wp-critique.webp",
+  "imageAlt": "WP Critique product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-16",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$240 MRR, 6 active subscriptions, ~$2,712 L30 (+946.7%), ~$4,415 last 3 months, ~$7,630 last 6 months, ~$13,909 last 12 months, ~$119,067 all-time. L30 profit margin 90% (TrustMRR snapshot). Asking price $60,000. Revenue synced Oct 16, 2026 ~04:39 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/wp-critique"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://wpcritique.com/"
+        }
+      ],
+      "indieAngle": "One website tool and one language. Sell emergency help and a care plan."
+    }
+  ],
+  "whyItPrints": "Site owners panic-pay when WordPress breaks or gets infected. French-language support is the moat. The margin on the snapshot is very high.",
+  "whyThisMatters": "Your WordPress site is down, or it got weird, or you need it moved to a new host. WP Critique is the French shop you call. Help, repairs, and moves start at a small fixed price. Making the site faster costs more. Cleaning malware costs more than that. They also sell hosting and a maintenance plan so the next update is not a Friday surprise. The address on the site is in La Wantzenau. The page shows a top rating from about seventy reviews.\n\nThe company dates to 2019. Six subscriptions is a small seat count next to a busy last 30 days, which fits panic jobs billed once, not a monthly login. The listing is for sale at a price that is not wild next to a year of cash, and the all-time total is much older than that year. The margin on the snapshot is very high. That fits a person fixing a site, not a product with servers to feed.\n\nYou pay so the site is back before the weekend."
+}

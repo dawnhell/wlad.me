@@ -1,0 +1,31 @@
+{
+  "slug": "magnetic-funnels",
+  "name": "Magnetic Funnels",
+  "listingNote": null,
+  "description": "Marketing tool that captures, nurtures, and closes leads over SMS, WhatsApp, email, live chat, phone, and social (company-stated). Aimed at small businesses that miss calls and lose appointments. Founded Jan 2024, US. L30 profit margin 70% (TrustMRR snapshot).",
+  "homepage": "https://go.magneticfunnels.io/",
+  "image": "/blog/2026-10-16/magnetic-funnels.webp",
+  "imageAlt": "Magnetic Funnels product image",
+  "imageWidth": 1200,
+  "imageHeight": 670,
+  "mentions": [
+    {
+      "date": "2026-10-16",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$9,623 MRR, 204 active subscriptions, ~$13,567 L30 (+13.1%), ~$34,229 last 3 months, ~$60,662 last 6 months, ~$112,425 last 12 months, ~$169,386 all-time. L30 profit margin 70% (TrustMRR snapshot). Revenue synced Oct 16, 2026 ~08:12 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/magnetic-funnels"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://go.magneticfunnels.io/"
+        }
+      ],
+      "indieAngle": "Pick one channel and one local trade in one city. Charge so a missed call still becomes a booking."
+    }
+  ],
+  "whyItPrints": "Missed-call recovery is a dull job local shops already pay for. They pay monthly so a lead does not disappear when nobody picks up.",
+  "whyThisMatters": "A roofer is on a roof. The phone rings. Nobody picks up, and the caller dials the next name. Magnetic Funnels is the thing that answers. It texts back in the shop's name, asks what they need, offers real times from the calendar, and books the job. You keep your old phone number. If the caller asks something it does not know, it takes a name and texts you.\n\nThe team is in Bettendorf, Iowa. They set this up for heating, plumbing, roofing, remodeling, med spas, restaurants, and similar shops across the US. The same system can send review requests after a job, and email or text old customers. There is no long contract. The site says more than 270 accounts are active. The Stripe count of subscriptions is a bit lower than that, so I am not treating those as the same number.\n\nYou pay so a missed call still becomes a job on the calendar."
+}

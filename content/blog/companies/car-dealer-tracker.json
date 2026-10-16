@@ -1,0 +1,31 @@
+{
+  "slug": "car-dealer-tracker",
+  "name": "Car Dealer Tracker",
+  "listingNote": null,
+  "description": "A phone app for small and used-car dealers: inventory, expenses, and sales, on iPhone, iPad, and Android (company-stated). Free for up to 2 vehicles. Dealer Pro is $14.99 a month or $119.99 a year (company-stated). ~369 users (founder-stated). Founded in the UAE. L30 profit margin 94% (TrustMRR snapshot).",
+  "homepage": "https://cardealertracker.app/",
+  "image": "/blog/2026-10-16/car-dealer-tracker.webp",
+  "imageAlt": "Car Dealer Tracker product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-16",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "~$967 MRR, 65 active subscriptions, ~$1,355 L30 (−10.6%), ~$3,291 last 3 months, ~$4,236 last 6 months, last 12 months and all-time ~$5,688. L30 profit margin 94% (TrustMRR snapshot). Revenue synced Oct 16, 2026 ~06:42 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/car-dealer-tracker"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://cardealertracker.app/"
+        }
+      ],
+      "indieAngle": "One dealer job on a phone: the cars on the lot, what they cost, and what they sold for."
+    }
+  ],
+  "whyItPrints": "Independent dealers will not buy a full dealership system. A phone that tracks the cars and the costs is enough. The margin on the snapshot is very high.",
+  "whyThisMatters": "A used-car dealer is standing at the car. A repair just cost money. If that receipt stays in the glovebox, the profit on the car is a guess. Car Dealer Tracker is the phone app for that moment. You say the cost, or you tap it, you confirm the card, and it lands on that car. Inventory, photos, buyers, and a real profit number sit on the same record. Manual notes work offline. The voice part needs a connection. It speaks several languages and handles a long list of currencies.\n\nThe free tier covers a couple of cars. Paid plans add more cars, a team, and more voice time. Sales staff can be kept away from the purchase price. The listing's money label is RevenueCat. The website checkout names Paddle. I am not folding those into one processor. The company is in the UAE. The founder-stated user count is a few hundred. The subscription count is smaller than that, which fits a free tier plus a paid plan. The margin on the snapshot is very high.\n\nYou pay so the profit on a car includes the repair you just paid for."
+}

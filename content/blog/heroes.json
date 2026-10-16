@@ -185,5 +185,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Turnau_Hochanger_-_Hochschwab_20171014_01.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "fassa-valley",
+    "src": "/blog/heroes/fassa-valley.webp",
+    "alt": "The Fassa valley",
+    "width": 1600,
+    "height": 1156,
+    "credit": "Martin Kunz",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Fassa_valley.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

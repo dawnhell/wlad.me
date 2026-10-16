@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-16",
+  "title": "Friday's boring SaaS, 16 October 2026",
+  "dek": "Friday, 16 October 2026. Nine are Stripe-verified. Car Dealer Tracker is RevenueCat-verified.",
+  "heroId": "fassa-valley",
+  "companies": [
+    {
+      "slug": "magnetic-funnels",
+      "name": "Magnetic Funnels",
+      "listingNote": null,
+      "description": "Marketing tool that captures, nurtures, and closes leads over SMS, WhatsApp, email, live chat, phone, and social (company-stated). Aimed at small businesses that miss calls and lose appointments. Founded Jan 2024, US. L30 profit margin 70% (TrustMRR snapshot).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$9,623 MRR, 204 active subscriptions, ~$13,567 L30 (+13.1%), ~$34,229 last 3 months, ~$60,662 last 6 months, ~$112,425 last 12 months, ~$169,386 all-time. L30 profit margin 70% (TrustMRR snapshot). Revenue synced Oct 16, 2026 ~08:12 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/magnetic-funnels"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://go.magneticfunnels.io/"
+        }
+      ],
+      "homepage": "https://go.magneticfunnels.io/",
+      "indieAngle": "Pick one channel and one local trade in one city. Charge so a missed call still becomes a booking.",
+      "whyItPrints": "Missed-call recovery is a dull job local shops already pay for. They pay monthly so a lead does not disappear when nobody picks up.",
+      "image": "/blog/2026-10-16/magnetic-funnels.webp",
+      "imageAlt": "Magnetic Funnels product image",
+      "imageWidth": 1200,
+      "imageHeight": 670
+    },
+    {
+      "slug": "buildledger",
+      "name": "BuildLedger",
+      "listingNote": null,
+      "description": "Software for Australian builders: less admin, supplier invoices captured, and a portal the client can see (company-stated). Pricing from $150 a month after a 14-day free trial (company-stated). Founded Nov 2025, Australia.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$1,659 MRR, 11 active subscriptions, ~$858 L30 (−19.4%), ~$2,405 last 3 months, ~$3,653 last 6 months, last 12 months and all-time ~$3,688. Revenue synced Oct 16, 2026 ~05:15 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/buildledger"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.buildledger.com.au/"
+        }
+      ],
+      "homepage": "https://www.buildledger.com.au/",
+      "indieAngle": "One trade and one country's paperwork. Charge a monthly fee and talk like a builder.",
+      "whyItPrints": "Builders already hate paperwork. Supplier invoices and a client portal are the dull job. The country is specific, which is the point.",
+      "image": "/blog/2026-10-16/buildledger.webp",
+      "imageAlt": "BuildLedger product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "kraft-agency-limited",
+      "name": "Kraft Agency Limited",
+      "listingNote": null,
+      "description": "Irish agency that sells mostly websites and SEO packages (founder-stated). Productised services with recurring retainers, not seat software. Founded Oct 2020, Ireland. Listed for sale at $425,000, about 3.2× (TrustMRR). L30 profit margin 80% (TrustMRR snapshot).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,978 MRR, 10 active subscriptions, ~$10,953 L30 (+12.1%), ~$27,990 last 3 months, last 6 months, and last 12 months, ~$1,464,625 all-time. L30 profit margin 80% (TrustMRR snapshot). Asking price $425,000. This is agency revenue for websites and SEO, not a seat subscription. Revenue synced Oct 16, 2026 ~07:34 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kraft-agency-limited"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://kraftagency.ie/"
+        }
+      ],
+      "homepage": "https://kraftagency.ie/",
+      "indieAngle": "One offer in one country: a starter site plus a local SEO retainer. Or buy a book that already bills.",
+      "whyItPrints": "A local website and SEO retainer that has been billing for years. The all-time Stripe total is the long story. The sale listing is a cash-flow book, not a startup pitch.",
+      "image": "/blog/2026-10-16/kraft-agency-limited.webp",
+      "imageAlt": "Kraft Agency Limited product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "maynuu",
+      "name": "Maynuu",
+      "listingNote": null,
+      "description": "Online orders and reservations for small food businesses, with payment at checkout and delivery hooked up (company-stated). Aimed at restaurants, cafes, hotels, food trucks, and chains (company-stated). ~12,500 users (founder-stated). Founded Dec 2020, Singapore.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR snapshot $0, 0 active subscriptions, ~$935 L30 (+115.1%), ~$1,830 last 3 months, ~$2,683 last 6 months, ~$73,781 last 12 months, ~$977,533 all-time. Revenue dropped after months around $19–20k in late 2025 and January 2026. Do not read all-time as the current pace. Revenue synced Oct 16, 2026 ~04:10 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/maynuu"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://maynuu.com/"
+        }
+      ],
+      "homepage": "https://maynuu.com/",
+      "indieAngle": "One city's restaurant ordering, billed locally. The cliff is the interesting part: what happened to the monthly money after those bigger months.",
+      "whyItPrints": "Ordering and delivery glue for restaurants. The all-time Stripe total shows the niche paid for years. The live monthly figure has collapsed, so the old total is not today's pace.",
+      "image": "/blog/2026-10-16/maynuu.webp",
+      "imageAlt": "Maynuu product image",
+      "imageWidth": 1200,
+      "imageHeight": 1200
+    },
+    {
+      "slug": "wp-critique",
+      "name": "WP Critique",
+      "listingNote": null,
+      "description": "French WordPress help: assistance, migration, speed, malware removal, and hosting (company-stated). On-demand support from €39 (company-stated). Founded Aug 2019, France. Listed for sale at $60,000, about 1.8× (TrustMRR). L30 profit margin 90% (TrustMRR snapshot).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$240 MRR, 6 active subscriptions, ~$2,712 L30 (+946.7%), ~$4,415 last 3 months, ~$7,630 last 6 months, ~$13,909 last 12 months, ~$119,067 all-time. L30 profit margin 90% (TrustMRR snapshot). Asking price $60,000. Revenue synced Oct 16, 2026 ~04:39 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/wp-critique"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://wpcritique.com/"
+        }
+      ],
+      "homepage": "https://wpcritique.com/",
+      "indieAngle": "One website tool and one language. Sell emergency help and a care plan.",
+      "whyItPrints": "Site owners panic-pay when WordPress breaks or gets infected. French-language support is the moat. The margin on the snapshot is very high.",
+      "image": "/blog/2026-10-16/wp-critique.webp",
+      "imageAlt": "WP Critique product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "jobboardsearch",
+      "name": "JobBoardSearch",
+      "listingNote": null,
+      "description": "A directory of job boards. Job seekers look for boards, recruiters look for candidates, and the boards pay to be found (company-stated). It also runs a marketplace to buy and sell job boards (company-stated). ~1.3 million estimated users (founder-stated). Founded in Spain.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$499 MRR, 1 active subscription, ~$2,910 L30 (−2.2%), ~$9,103 last 3 months, ~$17,720 last 6 months, ~$28,709 last 12 months, ~$101,739 all-time. Revenue synced Oct 16, 2026 ~04:05 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/jobboardsearch"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://jobboardsearch.com/"
+        }
+      ],
+      "homepage": "https://jobboardsearch.com/",
+      "indieAngle": "A directory of one kind of job board. Charge for a featured listing, and take a cut when a board is sold.",
+      "whyItPrints": "A directory of directories. Job boards need to be found. The Stripe history is long, and almost none of the cash is a monthly seat.",
+      "image": "/blog/2026-10-16/jobboardsearch.webp",
+      "imageAlt": "JobBoardSearch product image",
+      "imageWidth": 1200,
+      "imageHeight": 800
+    },
+    {
+      "slug": "gosimless",
+      "name": "gosimless",
+      "listingNote": null,
+      "description": "A virtual phone number for WhatsApp Business and other chat apps, without a physical SIM (company-stated). A small business can keep a second number on the phone they already have (company-stated). Founded in the UK.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$4,109 MRR, 429 active subscriptions, ~$4,006 L30 (−8.9%), ~$12,655 last 3 months, ~$28,370 last 6 months, ~$51,097 last 12 months, ~$79,191 all-time. Revenue synced Oct 16, 2026 ~04:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/gosimless"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.gosimless.com/"
+        }
+      ],
+      "homepage": "https://www.gosimless.com/",
+      "indieAngle": "One chat app and one country's phone numbers. Sell a WhatsApp Business number, not a platform.",
+      "whyItPrints": "A second number for sales or support is a dull, repeating need. Hundreds of subscriptions say people keep paying for it.",
+      "image": "/blog/2026-10-16/gosimless.webp",
+      "imageAlt": "gosimless product image",
+      "imageWidth": 1080,
+      "imageHeight": 1080
+    },
+    {
+      "slug": "car-dealer-tracker",
+      "name": "Car Dealer Tracker",
+      "listingNote": null,
+      "description": "A phone app for small and used-car dealers: inventory, expenses, and sales, on iPhone, iPad, and Android (company-stated). Free for up to 2 vehicles. Dealer Pro is $14.99 a month or $119.99 a year (company-stated). ~369 users (founder-stated). Founded in the UAE. L30 profit margin 94% (TrustMRR snapshot).",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "~$967 MRR, 65 active subscriptions, ~$1,355 L30 (−10.6%), ~$3,291 last 3 months, ~$4,236 last 6 months, last 12 months and all-time ~$5,688. L30 profit margin 94% (TrustMRR snapshot). Revenue synced Oct 16, 2026 ~06:42 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/car-dealer-tracker"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://cardealertracker.app/"
+        }
+      ],
+      "homepage": "https://cardealertracker.app/",
+      "indieAngle": "One dealer job on a phone: the cars on the lot, what they cost, and what they sold for.",
+      "whyItPrints": "Independent dealers will not buy a full dealership system. A phone that tracks the cars and the costs is enough. The margin on the snapshot is very high.",
+      "image": "/blog/2026-10-16/car-dealer-tracker.webp",
+      "imageAlt": "Car Dealer Tracker product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "wordpress-care-plans-by-rootscope",
+      "name": "WordPress Care Plans by Rootscope",
+      "listingNote": null,
+      "description": "Monthly care for WordPress and WooCommerce sites: updates, backups, security, and speed, done by people (company-stated). Plans from $34 a month (company-stated). ~70 users (founder-stated). Founded in the UK.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$159 MRR, 6 active subscriptions, ~$1,175 L30 (+534.5%), ~$1,360 last 3 months, ~$1,909 last 6 months, ~$2,426 last 12 months, ~$26,448 all-time. Revenue synced Oct 16, 2026 ~05:33 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/wordpress-care-plans-by-rootscope"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://wp-maintenance.pro/"
+        }
+      ],
+      "homepage": "https://wp-maintenance.pro/",
+      "indieAngle": "Cap the number of sites. Charge a monthly fee per site. Sell it to agencies who hate maintenance.",
+      "whyItPrints": "A retainer so the site owner stops breaking the live site. Same lane as emergency WordPress help, sold as a monthly plan instead of a panic call.",
+      "image": "/blog/2026-10-16/wordpress-care-plans-by-rootscope.webp",
+      "imageAlt": "WordPress Care Plans by Rootscope product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "aitthemes",
+      "name": "AitThemes",
+      "listingNote": null,
+      "description": "WordPress themes, plugins, and directory tools for multilingual and WooCommerce sites (company-stated). The founder says about 18,000 sites use the products and the email list is about 33,000 people. AIT Blocks is $89 to $297 a year (company-stated). Founded Aug 2009, UK. About 45,000 estimated users (founder-stated). Listed for sale at $13,800, about 1.1× (TrustMRR). L30 profit margin 94% (TrustMRR snapshot).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$45 MRR, 1 active subscription, ~$1,040 L30 (+55.2%), ~$1,981 last 3 months, ~$6,052 last 6 months, ~$16,695 last 12 months, ~$25,561 all-time. L30 profit margin 94% (TrustMRR snapshot). Asking price $13,800. Current monthly subscriptions are residual. The last year, the all-time total, and the email list are the asset. Revenue synced Oct 16, 2026 ~08:25 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/ait"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://www.ait-themes.club/"
+        }
+      ],
+      "homepage": "https://www.ait-themes.club/",
+      "indieAngle": "Buy an old WordPress product that still has an email list and a support history. Or build one narrow theme and sell it before year 17.",
+      "whyItPrints": "A 17-year WordPress catalog with a long Stripe trail, listed near one year of recent cash. The monthly seat is tiny. The list and the old products are the thing for sale.",
+      "image": "/blog/2026-10-16/aitthemes.webp",
+      "imageAlt": "AitThemes product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": []
+}

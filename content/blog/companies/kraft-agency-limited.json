@@ -1,0 +1,31 @@
+{
+  "slug": "kraft-agency-limited",
+  "name": "Kraft Agency Limited",
+  "listingNote": null,
+  "description": "Irish agency that sells mostly websites and SEO packages (founder-stated). Productised services with recurring retainers, not seat software. Founded Oct 2020, Ireland. Listed for sale at $425,000, about 3.2× (TrustMRR). L30 profit margin 80% (TrustMRR snapshot).",
+  "homepage": "https://kraftagency.ie/",
+  "image": "/blog/2026-10-16/kraft-agency-limited.webp",
+  "imageAlt": "Kraft Agency Limited product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-16",
+      "evidenceKind": "stripe-verified",
+      "evidence": "~$5,978 MRR, 10 active subscriptions, ~$10,953 L30 (+12.1%), ~$27,990 last 3 months, last 6 months, and last 12 months, ~$1,464,625 all-time. L30 profit margin 80% (TrustMRR snapshot). Asking price $425,000. This is agency revenue for websites and SEO, not a seat subscription. Revenue synced Oct 16, 2026 ~07:34 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kraft-agency-limited"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://kraftagency.ie/"
+        }
+      ],
+      "indieAngle": "One offer in one country: a starter site plus a local SEO retainer. Or buy a book that already bills."
+    }
+  ],
+  "whyItPrints": "A local website and SEO retainer that has been billing for years. The all-time Stripe total is the long story. The sale listing is a cash-flow book, not a startup pitch.",
+  "whyThisMatters": "Kraft is an Irish shop that sells websites and search work, mostly as retainers. The founder says so on the listing. It is not a seat you log into. It is a packaged service that bills every month. The company dates to 2020. Ten subscriptions sit on the Stripe record, and the cash in a recent month is higher than that monthly figure, which fits project work landing next to the retainers.\n\nThe all-time total is the long part of the story. Years of websites and local search, paid through Stripe. The listing is for sale. The asking price is a few times one year of recent cash, not a startup multiple. The public site did not load when I looked, so this note stays with the listing. I am not inventing a client list or a town.\n\nYou pay a local shop so the website and the Google listing are someone else's Tuesday."
+}

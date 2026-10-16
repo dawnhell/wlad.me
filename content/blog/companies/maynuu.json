@@ -1,0 +1,31 @@
+{
+  "slug": "maynuu",
+  "name": "Maynuu",
+  "listingNote": null,
+  "description": "Online orders and reservations for small food businesses, with payment at checkout and delivery hooked up (company-stated). Aimed at restaurants, cafes, hotels, food trucks, and chains (company-stated). ~12,500 users (founder-stated). Founded Dec 2020, Singapore.",
+  "homepage": "https://maynuu.com/",
+  "image": "/blog/2026-10-16/maynuu.webp",
+  "imageAlt": "Maynuu product image",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "mentions": [
+    {
+      "date": "2026-10-16",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR snapshot $0, 0 active subscriptions, ~$935 L30 (+115.1%), ~$1,830 last 3 months, ~$2,683 last 6 months, ~$73,781 last 12 months, ~$977,533 all-time. Revenue dropped after months around $19–20k in late 2025 and January 2026. Do not read all-time as the current pace. Revenue synced Oct 16, 2026 ~04:10 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/maynuu"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://maynuu.com/"
+        }
+      ],
+      "indieAngle": "One city's restaurant ordering, billed locally. The cliff is the interesting part: what happened to the monthly money after those bigger months."
+    }
+  ],
+  "whyItPrints": "Ordering and delivery glue for restaurants. The all-time Stripe total shows the niche paid for years. The live monthly figure has collapsed, so the old total is not today's pace.",
+  "whyThisMatters": "A cafe wants its own order page, not a cut of every meal going to a delivery app. Maynuu is that page. You get a menu, payment at checkout, and a button that calls a delivery fleet. Dine-in customers can scan a code at the table, order, and pay. You can use their web address or your own. Coupons and a simple sales view are in there too.\n\nThe site says it powers more than twelve thousand food businesses, which matches the founder's user count. The company on the site is Maynuu Sdn. Bhd., with an address in Petaling Jaya. The listing says Singapore. I am leaving both, because I did not pick one. The Stripe story is the caution. The all-time total is huge. The monthly subscription count is now zero. Last year still shows real cash, and the months before that were much busier. Read the old total as proof restaurants paid, not as this month's pace.\n\nYou paid so the order did not have to live inside someone else's delivery app."
+}
