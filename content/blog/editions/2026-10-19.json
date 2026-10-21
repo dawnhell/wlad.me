@@ -1,0 +1,304 @@
+{
+  "date": "2026-10-19",
+  "title": "Monday's boring SaaS, 19 October 2026",
+  "dek": "Monday, 19 October 2026. Seven are Stripe-verified. Speedster is RevenueCat-verified. Effortless Backlinks is Creem-verified. meinMPP is self-reported.",
+  "heroId": "torres-del-paine",
+  "companies": [
+    {
+      "slug": "glossa-live",
+      "name": "Glossa.live",
+      "listingNote": null,
+      "description": "Live voice translation for churches, conferences and events into 100+ languages; listeners hear or read the translation on their own phones, \"no headsets required\", \"no equipment needed\" (company-stated). Homepage claims it is \"used by hundreds of churches all over the world\" and shows SBC, Hillsong, PCA, CCA, UMC logos (company-stated). Pricing: Pay As You Go $5/hour/language, Standard $99/mo, Advanced $299/mo, Premium $499/mo (founder-stated). ~2,000 estimated users (founder-stated). Founded Jun 2025, Cyprus, founder Anton K. 100 active subscriptions; L30 profit margin 65%. Yes, it's AI under the hood, but the buyer is a church tech volunteer and the job is \"make Sunday work in Spanish and Ukrainian\".",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $14,404 · 100 active subscriptions Last 30 days $31,012 (+2.5%) · last 3 months $82,168 · last 6 months $138,428 Last 12 months $188,093 · all-time $196,358 L30 profit margin 65% (TrustMRR snapshot) Monthly: $7,040 (Nov 2025) → $6,048 (Jan) → $11,214 (Mar) → $20,676 (Apr) → $21,970 (Jul) → $22,783 (Aug) → $31,765 (Sep 2026); Oct MTD $20,029. No cliff. Revenue synced 19 October 2026 ~04:53 Warsaw.",
+      "sources": [
+        {
+          "label": "glossa.live",
+          "url": "https://glossa.live/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/glossa-live"
+        }
+      ],
+      "homepage": "https://glossa.live/",
+      "indieAngle": "Same \"live captions/translation to phones\" product for another weekly gathering with a budget: Polish parishes with Ukrainian congregants, city council sessions, trade fairs, university lectures. Sell per hour, then move them onto a monthly plan.",
+      "whyItPrints": "It replaces interpreter booths and headset rentals, a real line item for churches. Churches run every week, so usage repeats. It sells by word of mouth inside denominations, and once the Sunday workflow is set up nobody switches.",
+      "image": "/blog/2026-10-19/glossa-live.webp",
+      "imageAlt": "Glossa.live product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "besttime-app",
+      "name": "BestTime.app",
+      "listingNote": null,
+      "description": "Global foot-traffic data platform that forecasts hourly busyness for millions of public venues from anonymized GPS data. It has venue search and filters by country/city/neighbourhood, venue type, rating, visit duration and popularity, plus an API for third-party apps (founder-stated). Homepage: \"Know When Places Are Busy\" and a Venue Filter API for restaurants, shops and attractions (company-stated). Pricing: free test API key; subscriptions $29/mo to $2,999/mo plus usage-based plans (founder-stated). Founded May 2025 (profile), Singapore. Maker \"Mick.net\", also behind Document.Bot. 142 active subscriptions; L30 profit margin 93%.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $9,085 · 142 active subscriptions Last 30 days $12,046 (-14.5%) · last 3 months $40,635 · last 6 months $75,007 Last 12 months $119,728 · all-time $136,510 L30 profit margin 93% (TrustMRR snapshot) For sale: asking $449,000 (3.1x), first listed 18 Feb 2026, 17 offers received. Seller says the sale includes \"a high-intent database of 10k+ registered users\" (seller-stated). Monthly: $4,447 (Nov 2025) → $9,184 (Feb) → ~$10.8k–11.6k (Mar–Jun) → $12,911 (Jul) → $17,094 (Aug) → $11,335 (Sep); Oct MTD $7,228. Peak was August. Revenue synced 19 October 2026 ~05:29 Warsaw.",
+      "sources": [
+        {
+          "label": "besttime.app",
+          "url": "https://besttime.app/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/private-location-intelligence-api-platform"
+        }
+      ],
+      "homepage": "https://besttime.app/",
+      "indieAngle": "\"When is it busy\" for one boring venue type where queues cost money: Polish government offices (urząd queues), EV chargers, car washes, ski lifts, border crossings. Wrap the data in a widget the venue can embed, and charge per location.",
+      "whyItPrints": "Data resale with a clean API, used by city guides, travel apps, retail site analysts and researchers. Developers pay monthly and rarely rip out a working data feed. Revenue roughly tripled in a year.",
+      "image": "/blog/2026-10-19/besttime-app.webp",
+      "imageAlt": "BestTime.app product image",
+      "imageWidth": 1200,
+      "imageHeight": 759
+    },
+    {
+      "slug": "dataford",
+      "name": "Dataford",
+      "listingNote": null,
+      "description": "\"#1 Platform for Tech Interview Preparation\": interview questions, guides, real interview experiences and coaching. You pick the role and company (e.g. ML Engineer at Amazon) and get a personalized plan (company-stated). Pricing: $29/mo and $89/year (founder-stated). ~50,000 estimated users (founder-stated); homepage says \"48,000+ professionals already prepping\" (company-stated). Founded Apr 2023, US. 1,794 active subscriptions.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $36,584 · 1,794 active subscriptions Last 30 days $44,998 (+9.1%) · last 3 months $117,295 · last 6 months $156,252 Last 12 months $172,325 · all-time $206,124 Monthly: ~$1.1k–4.9k (Nov 2025 → May 2026) → $16,815 (Jun) → $26,391 (Jul) → $35,734 (Aug) → $45,622 (Sep 2026); Oct MTD $26,309. Note: the profile doesn't explain the step-change from June 2026, so it's recent and unproven. Revenue synced 19 October 2026 ~08:25 Warsaw.",
+      "sources": [
+        {
+          "label": "dataford.io",
+          "url": "https://www.dataford.io/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dataford-inc"
+        }
+      ],
+      "homepage": "https://www.dataford.io/",
+      "indieAngle": "Same per-company question bank for interviews that aren't in tech: Big 4 audit/accounting assessments, Polish civil-service exams, nursing/NCLEX, pharma sales. Programmatic SEO pages per employer plus a cheap annual plan.",
+      "whyItPrints": "Like Writing9 for IELTS: an evergreen gate (the tech interview) with a fresh cohort every hiring cycle, sold on SEO for \"<company> <role> interview questions\". After two flat years it went vertical from June 2026.",
+      "image": "/blog/2026-10-19/dataford.webp",
+      "imageAlt": "Dataford product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "tribe-social",
+      "name": "Tribe Social",
+      "listingNote": null,
+      "description": "Platform for custom community apps with courses, live calls, conversations and payments, so creators, coaches and operators \"refuse to rent their audience from a social network\" (company-stated). Profile says it powers \"communities that reach 500,000+ people every month\" (founder-stated). No public pricing on the profile. Founded Nov 2024, US, founder Bruce van Zyl. Only 8 active subscriptions, so this is high-ticket B2B: L30 ÷ 8 subs ≈ $1.9k per subscription per month (my arithmetic).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $28,271 · 8 active subscriptions Last 30 days $14,980 (0.0%) · last 3 months $44,940 · last 6 months $97,225 Last 12 months $204,070 · all-time $387,308 Monthly range Nov 2025 → Oct 2026: $14,980 – $21,980 (Oct already $14,980). MRR snapshot sits well above L30, and with 8 customers, losing one is a big hit. Revenue synced 19 October 2026 ~04:44 Warsaw.",
+      "sources": [
+        {
+          "label": "tribesocial.io",
+          "url": "https://tribesocial.io/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tribe-social"
+        }
+      ],
+      "homepage": "https://tribesocial.io/",
+      "indieAngle": "White-label \"your own app\" for one trade association type: Polish chambers of commerce, dance-school networks, franchise operators. A few clients at €500–2,000/month, onboarded by hand.",
+      "whyItPrints": "A few big creators paying four figures a month each for their own branded app. That's the Kajabi/Mighty Networks white-label tier, sold to a handful of accounts. Monthly revenue has held at $15k–22k for a full year.",
+      "image": "/blog/2026-10-19/tribe-social.webp",
+      "imageAlt": "Tribe Social product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "speedster",
+      "name": "Speedster",
+      "listingNote": null,
+      "description": "iPhone/CarPlay app with a map of speed cameras, early radar alerts, speed-limit warnings, and turn-by-turn directions on the car's instrument cluster/HUD (company-stated, App Store). Tagline \"Fine trips without fines\". Free with in-app purchases. Developer Kirill Konovalov (App Store). 4.2★ from 44 ratings on the App Store page fetched today. Founded May 2020. 2,451 active subscriptions; L30 profit margin 70%. speedster.app is a video-only splash page with no og:image.",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR $6,827 · 2,451 active subscriptions Last 30 days $7,659 (-5.0%) · last 3 months $22,677 · last 6 months $41,383 Last 12 months $79,110 · all-time $295,581 L30 profit margin 70% (TrustMRR snapshot) Monthly range Nov 2025 → Sep 2026: $5,609 – $8,075 (Sep highest); Oct MTD $4,810. No cliff. Revenue synced 19 October 2026 ~07:10 Warsaw.",
+      "sources": [
+        {
+          "label": "speedster.app",
+          "url": "https://speedster.app/"
+        },
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/app/id1504476115"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/speedster"
+        }
+      ],
+      "homepage": "https://speedster.app/",
+      "indieAngle": "CarPlay/Android Auto utilities for one local pain: Polish paid-parking zones (SPP) and odcinkowy pomiar prędkości (average-speed sections), toll-road e-TOLL reminders, or truck-legal routing. Sell it as a fines-avoided subscription.",
+      "whyItPrints": "Avoiding speeding fines is a habit purchase. Drivers keep the subscription for years, and the camera database is the moat. Very flat ~$6–8k every month for a year, and almost $300k lifetime from one utility app.",
+      "image": "/blog/2026-10-19/speedster.webp",
+      "imageAlt": "Speedster product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "lvi",
+      "name": "LVI",
+      "listingNote": "Five Media Lab",
+      "description": "LinkedIn prospecting run from the customer's own profile: profile visits, connection requests and personalized follow-ups, with replies from directors and decision makers \"hand-delivered to you\" (company-stated). Homepage now pitches it as a \"managed service, not another tool to learn\" with a 15-day free trial, no card (company-stated). Pricing: $149.99 per user/month, with discounts for extra users and prepayment (founder-stated). ~500 estimated users (founder-stated). Five Media Lab LTD, Cyprus; bilingual Spanish/English site. 22 active subscriptions; L30 profit margin 65%.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,079 · 22 active subscriptions Last 30 days $5,068 (+11.6%) · last 3 months $13,870 · last 6 months $31,738 Last 12 months $65,400 · all-time $104,076 L30 profit margin 65% (TrustMRR snapshot) For sale: asking $135,000 (2.2x), first listed 6 Sep 2026, 0 offers so far, 1,137 interested buyers viewed. Seller: \"I've been with Five Media Lab for 11 years, and it's time to let it go\" (seller-stated). Monthly range Nov 2025 → Sep 2026: $4,884 – $6,115; Oct MTD $2,726. Risk: LinkedIn automation lives at the mercy of LinkedIn's ToS and account limits. Revenue synced 19 October 2026 ~08:08 Warsaw.",
+      "sources": [
+        {
+          "label": "fivemedialab.com",
+          "url": "https://fivemedialab.com/en"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/fiveml-ltd"
+        }
+      ],
+      "homepage": "https://fivemedialab.com/en",
+      "indieAngle": "Managed outreach for one vertical where you know the buyer list (Polish software houses selling to DACH, or accounting offices). \"We run it from your profile, you only answer replies\" at a flat per-seat price.",
+      "whyItPrints": "Outbound-as-a-service for founders and sales reps at a flat monthly price per seat. Revenue has sat at ~$5–6k almost every month for a year, with ~22 seats at $150 each.",
+      "image": "/blog/2026-10-19/lvi.webp",
+      "imageAlt": "LVI product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "pro-coach",
+      "name": "PRO COACH",
+      "listingNote": null,
+      "description": "Customizable coaching platform to manage clients, build training plans, track progress and run a PT business \"without another monthly software subscription\" (company-stated). Sold by Harrison Wallace, a \"Certified Notion Creator\" (homepage), so this looks like a Notion-based system rather than custom software (my read of the homepage). Pricing: $129 one-time, lifetime access (founder-stated). Homepage: \"Trusted by 1,500+ coaches\"; ~1,500 estimated users (founder-stated). Founded Nov 2024, UK. MRR shows $0 because it's all one-time sales. Image is the page's og:image (WebP, converted to PNG).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-time product) · 0 subscriptions Last 30 days $3,095 (-15.6%) · last 3 months $11,776 · last 6 months $26,183 Last 12 months $61,711 · all-time $61,711 Monthly: $2,188 (Nov 2025) → $8,684 (Jan 2026) → ~$6.4–6.6k (Feb–Apr) → ~$4.5–4.8k (May–Aug) → $3,892 (Sep); Oct MTD $1,885. Slow decline after the New-Year spike. Revenue synced 19 October 2026 ~08:51 Warsaw.",
+      "sources": [
+        {
+          "label": "harrisonwallace.co",
+          "url": "https://harrisonwallace.co/subscription-free-personal-trainer-software"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/harrisonwallace-co"
+        }
+      ],
+      "homepage": "https://harrisonwallace.co/subscription-free-personal-trainer-software",
+      "indieAngle": "\"Anti-subscription\" one-time Notion/Sheets back-office for another small trade that resents SaaS fees: physiotherapists, driving instructors, tattoo studios, tutors. $99–149 once, sold on SEO for \"<trade> software no subscription\".",
+      "whyItPrints": "It's positioned against Trainerize/TrueCoach subscriptions: \"pay once, own it\". It's a template business for a trade with tight margins. But it's sliding off a January peak.",
+      "image": "/blog/2026-10-19/pro-coach.webp",
+      "imageAlt": "PRO COACH product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "safeonward",
+      "name": "Safeonward",
+      "listingNote": null,
+      "description": "Book a real, airline-verifiable onward flight reservation (PNR) in under 2 minutes as proof of onward travel for visa applications, airline check-in and border checks, without buying a full ticket (company-stated). From €9.90 (founder-stated). The homepage also has an agency account, an onward ticket API, an affiliate program and entry-requirement/destination guides (company-stated). Founded Jun 2026, founder \"John\". Profit margin 100% (TrustMRR snapshot).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-off purchases) · 0 subscriptions Last 30 days $3,097 (+100.2%) · last 3 months $5,429 · last 6 months $6,691 Last 12 months $6,691 · all-time $6,691 Monthly: $132 (May 2026) → $661 (Jun) → $643 (Jul) → $1,094 (Aug) → $1,985 (Sep) → $2,176 Oct MTD (already above September). Revenue synced 19 October 2026 ~07:09 Warsaw.",
+      "sources": [
+        {
+          "label": "safeonward.com",
+          "url": "https://safeonward.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/safeonward-onward-flight-ticket"
+        }
+      ],
+      "homepage": "https://safeonward.com/",
+      "indieAngle": "Other \"document you need once for a bureaucrat\": Polish meldunek/registration proof templates, sworn-translation ordering, travel-insurance certificates for Schengen visas, EHIC/A1 forms. Sell via SEO per country, and offer a B2B API for visa agencies.",
+      "whyItPrints": "A pure compliance-paperwork product: border and airline rules force the purchase, and the buyer needs it today. SEO-driven (\"onward ticket for Thailand/Philippines\"), one-off payments, and it has grown every month since launch. It's tiny for now.",
+      "image": "/blog/2026-10-19/safeonward.webp",
+      "imageAlt": "Safeonward product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "effortless-backlinks",
+      "name": "Effortless Backlinks",
+      "listingNote": null,
+      "description": "Done-for-you directory submissions: they match your product to up to 200 vetted directories (up to DR 98), write and submit each listing by hand, and send proof of every submission (company-stated). Pricing on the profile: Starter €79, Growth €119, Premium €179, all one-time (founder-stated). The homepage now also shows a Scale plan, 200 directories for €299 and a white-label offer for agencies (company-stated). ~160 estimated users (founder-stated). Founded Dec 2024, founder Janu Lingeswaran (7.6k X followers per profile).",
+      "evidenceKind": "creem-verified",
+      "evidence": "MRR $0 (one-time packages) Last 30 days $12,458 (+140.6%) · last 3 months $20,597 · last 6 months $23,279 Last 12 months $31,093 · all-time $39,253 Monthly: ~$0.3k–2.0k (Nov 2025 → Jun 2026) → $2,319 (Jul) → $3,210 (Aug) → $6,647 (Sep) → $9,165 Oct MTD. Revenue synced 19 October 2026 ~08:36 Warsaw.",
+      "sources": [
+        {
+          "label": "effortlessbacklinks.com",
+          "url": "https://www.effortlessbacklinks.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/effortlessbacklinks"
+        }
+      ],
+      "homepage": "https://www.effortlessbacklinks.com/",
+      "indieAngle": "Same \"submitted by hand, with proof\" service for local business listings: Polish directories (Panorama Firm, pkt.pl, Google Business, Oferteo, ZnanyLekarz for clinics). Sell it as a fixed €99–299 package to accountants, dentists and tradespeople, with white-label for local agencies.",
+      "whyItPrints": "Productized grunt work: 60+ hours of form-filling that every new SaaS needs, sold at a fixed price. Paid one-time, so MRR shows $0, but monthly cash has quadrupled since July.",
+      "image": "/blog/2026-10-19/effortless-backlinks.webp",
+      "imageAlt": "Effortless Backlinks product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "meinmpp",
+      "name": "meinMPP",
+      "listingNote": null,
+      "description": "The German company-bike scheme (Dienstrad) applied to iPhones, tablets and laptops. The employer signs a master leasing agreement and sets budgets, and staff order hardware and pay through gross-salary conversion, saving up to ~30% depending on tax bracket (founder-stated). Converting €250/month of gross salary buys roughly €4,000–5,000 of hardware (founder-stated). Homepage: \"Private Wunschtechnik ~30 % günstiger per Gehaltsumwandlung\", \"Über 250+ Unternehmen vertrauen bereits auf meinMPP\", free for employers (company-stated). Managing director Dominik Albers is the only employee; the platform is built in-house on Laravel + Filament (founder-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "Order volume has doubled on average every year since the January 2022 launch (founder-stated) Planning at least €2.1–2.4 million for 2026, the first year the company turns a profit (founder-stated forecast) Apple is 75–80% of order volume (founder-stated) Note: not Stripe-verified; it's a forecast, and the write-up doesn't say whether the figure is revenue or order volume.",
+      "sources": [
+        {
+          "label": "meinmpp.de",
+          "url": "https://www.meinmpp.de/"
+        },
+        {
+          "label": "Happy Bootstrapping write-up (28 Sep 2026)",
+          "url": "https://happybootstrapping.com/p/meinmpp-how-dominik-albers-brings"
+        }
+      ],
+      "homepage": "https://www.meinmpp.de/",
+      "indieAngle": "Poland has no Dienstrad-style tax break, but the plumbing pattern carries over: a white-label benefits/leasing portal sold through leasing companies and payroll providers, where you own the HR workflow and the partner owns the balance sheet. Alternatively, build the payroll-export/HR glue that German MPP/Dienstrad providers all need.",
+      "whyItPrints": "Payroll and tax-benefit plumbing. Employers configure the payroll export once, then only approve joiners and remove leavers (\"one customer with 200 contracts budgets half an hour a month\", founder-stated). The margin comes at the end: ~1% on iPhones up front, but after 24 months almost 90% of staff buy the device at residual value and ~70% reorder right away (founder-stated). More than half of enquiries come from a partner network of benefits platforms, leasing firms and distributors (founder-stated).",
+      "image": "/blog/2026-10-19/meinmpp.webp",
+      "imageAlt": "meinMPP product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Cosmo",
+      "note": "() — Discord-native commerce (sell products, subscriptions, license keys, gated roles; built on Stripe Connect), $0/$9/$30 plans (founder-stated). Stripe MRR $17,778 · 44 subs · L30 $16,269 · AT $120,174. Peaked at $44,514 in Jun 2026, has declined every month since (Oct MTD $9,692).",
+      "homepage": null
+    },
+    {
+      "name": "Road to Offer",
+      "note": "consulting case-interview prep (McKinsey/BCG/Bain), $49/mo, $120 90-day sprint, $249/yr (founder-stated), France. Stripe MRR $3,591 · 81 subs · L30 $5,077 · AT $17,206 · margin 90% · asking $100,000 (1.6x), 12 offers.",
+      "homepage": null
+    },
+    {
+      "name": "Leadbomb",
+      "note": "lead lists from Google Maps, LinkedIn, Instagram, Shopify, Yelp; $17–97/mo (founder-stated). Stripe MRR $3,086 · 103 subs · L30 $3,085 · AT $21,916 · margin 90% · asking $50,000 (1.3x), 59 offers.",
+      "homepage": null
+    },
+    {
+      "name": "StoreRadar",
+      "note": "\"every Shopify store in one CSV\", $149 once or $399/yr (founder-stated), France. Stripe MRR $166 · L30 $2,438 · AT $7,881 · margin 87%. Boring data product, tiny but rising.",
+      "homepage": null
+    },
+    {
+      "name": "WilderTrips",
+      "note": "multi-stop road-trip planner for motorcyclists/travellers, UK. Stripe MRR $4,818 · 1,366 subs · L30 $2,800 (-30.8%) · AT $112,337. Seasonal, so it's in its autumn dip.",
+      "homepage": null
+    },
+    {
+      "name": "Social Fetch",
+      "note": "scraper API for 25 social platforms, credit packs (founder-stated), UK. Stripe MRR $3,833 · 86 subs · L30 $7,253 · AT $17,895 · margin 70%.",
+      "homepage": null
+    },
+    {
+      "name": "PostPeer",
+      "note": "one API to post/schedule across X, Instagram, YouTube, TikTok, Facebook, Threads, Pinterest. Polar MRR $4,962 · 135 subs · L30 $7,981 · AT $23,277 (since Apr 2026).",
+      "homepage": null
+    },
+    {
+      "name": "From Host",
+      "note": "game-server hosting with DDoS protection, $1.99–27.99 plans (founder-stated), US. Stripe MRR $3,128 · 272 subs · L30 $3,144 · AT $33,707. It has grown every month in 2026 (Oct MTD lower).",
+      "homepage": null
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "glossa-live",
+  "name": "Glossa.live",
+  "listingNote": null,
+  "description": "Live voice translation for churches, conferences and events into 100+ languages; listeners hear or read the translation on their own phones, \"no headsets required\", \"no equipment needed\" (company-stated). Homepage claims it is \"used by hundreds of churches all over the world\" and shows SBC, Hillsong, PCA, CCA, UMC logos (company-stated). Pricing: Pay As You Go $5/hour/language, Standard $99/mo, Advanced $299/mo, Premium $499/mo (founder-stated). ~2,000 estimated users (founder-stated). Founded Jun 2025, Cyprus, founder Anton K. 100 active subscriptions; L30 profit margin 65%. Yes, it's AI under the hood, but the buyer is a church tech volunteer and the job is \"make Sunday work in Spanish and Ukrainian\".",
+  "homepage": "https://glossa.live/",
+  "image": "/blog/2026-10-19/glossa-live.webp",
+  "imageAlt": "Glossa.live product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-19",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $14,404 · 100 active subscriptions Last 30 days $31,012 (+2.5%) · last 3 months $82,168 · last 6 months $138,428 Last 12 months $188,093 · all-time $196,358 L30 profit margin 65% (TrustMRR snapshot) Monthly: $7,040 (Nov 2025) → $6,048 (Jan) → $11,214 (Mar) → $20,676 (Apr) → $21,970 (Jul) → $22,783 (Aug) → $31,765 (Sep 2026); Oct MTD $20,029. No cliff. Revenue synced 19 October 2026 ~04:53 Warsaw.",
+      "sources": [
+        {
+          "label": "glossa.live",
+          "url": "https://glossa.live/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/glossa-live"
+        }
+      ],
+      "indieAngle": "Same \"live captions/translation to phones\" product for another weekly gathering with a budget: Polish parishes with Ukrainian congregants, city council sessions, trade fairs, university lectures. Sell per hour, then move them onto a monthly plan."
+    }
+  ],
+  "whyItPrints": "It replaces interpreter booths and headset rentals, a real line item for churches. Churches run every week, so usage repeats. It sells by word of mouth inside denominations, and once the Sunday workflow is set up nobody switches.",
+  "whyThisMatters": "Live voice translation for churches, conferences and events into 100+ languages; listeners hear or read the translation on their own phones, \"no headsets required\", \"no equipment needed\". Homepage claims it is \"used by hundreds of churches all over the world\" and shows SBC, Hillsong, PCA, CCA, UMC logos. Pricing: Pay As You Go 5 dollars/hour/language, Standard 99 dollars a month, Advanced 299 dollars a month, Premium 499 dollars a month. ~2,000 estimated users. Founded Jun 2025, Cyprus, founder Anton K. 100 active subscriptions; the last 30 days profit margin 65%. Yes, it's AI under the hood, but the buyer is a church tech volunteer and the job is \"make Sunday work in Spanish and Ukrainian\".\n\nIt replaces interpreter booths and headset rentals, a real line item for churches. Churches run every week, so usage repeats. It sells by word of mouth inside denominations, and once the Sunday workflow is set up nobody switches."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "orshot",
+  "name": "Orshot",
+  "listingNote": null,
+  "description": "API and automation service that generates images, PDFs and videos from templates (company-stated: \"Automate Image, PDF & Video Generation via API\"). Aimed at agencies, brands, startups, developers and marketing teams. Pricing: Free $0, Launch $39/mo, Grow $160/mo, Scale $349/mo, Social Publishing $12/mo per social account, Enterprise on request (company-stated). ~140 estimated users (founder-stated). Founded Mar 2025, UK. 170 active subscriptions. Domain rating 60 (TrustMRR SEO data).",
+  "homepage": "https://orshot.com/",
+  "image": "/blog/2026-10-18/orshot.webp",
+  "imageAlt": "Orshot product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $9,406 · 170 active subscriptions · L30 MRR growth +13.5% Last 30 days $9,926 (+19.7%) · last 3 months $24,780 · last 6 months $44,939 Last 12 months $66,347 · all-time $70,912 Monthly: $2,311 (Nov 2025) → $3,999 (Jan) → $5,988 (Mar) → $7,356 (Jun) → $7,987 (Aug) → $8,080 (Sep 2026); Oct MTD $6,058. No cliff. Revenue synced 18 October 2026 ~04:01 Warsaw.",
+      "sources": [
+        {
+          "label": "orshot.com",
+          "url": "https://orshot.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/orshot-com"
+        }
+      ],
+      "indieAngle": "Same engine for one boring output: Polish invoice/receipt PDFs, real-estate listing cards, or event badges/certificates — sold per render volume. Very NextBento-shaped (Next.js + Stripe metered billing)."
+    }
+  ],
+  "whyItPrints": "It's the Bannerbear / Placid category — \"put this product name and price into that template 5,000 times\". Nobody gets excited about it, but every e-commerce and social team has the job, and once templates are wired into a workflow nobody switches. The monthly chart is the kind you want: up almost every month.",
+  "whyThisMatters": "API and automation service that generates images, PDFs and videos from templates. Aimed at agencies, brands, startups, developers and marketing teams. Pricing: Free 0, dollars Launch 39 dollars a month, Grow 160 dollars a month, Scale 349 dollars a month, Social Publishing 12 dollars a month per social account, Enterprise on request. ~140 estimated users. Founded Mar 2025, UK. 170 active subscriptions. Domain rating 60.\n\nIt's the Bannerbear / Placid category — \"put this product name and price into that template 5,000 times\". Nobody gets excited about it, but every e-commerce and social team has the job, and once templates are wired into a workflow nobody switches. The monthly chart is the kind you want: up almost every month."
+}

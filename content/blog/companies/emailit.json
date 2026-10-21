@@ -1,0 +1,31 @@
+{
+  "slug": "emailit",
+  "name": "Emailit",
+  "listingNote": null,
+  "description": "Transactional email by REST API or SMTP relay, plus inbound email, logs, signed webhooks, templates, campaigns, audiences, DMARC reports, email verification and a hosted MCP server. It runs \"in our own data center in Prague, EU\" (company-stated). Pricing: $1 per 10,000 emails, ~2,150 estimated users, margin 90% (founder-stated). Founded Dec 2021.",
+  "homepage": "https://emailit.com/",
+  "image": "/blog/2026-10-21/emailit.webp",
+  "imageAlt": "Emailit product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $920 · 28 active subscriptions Last 30 days $1,528 (-16.3%) · last 3 months $4,278 · last 12 months $20,508 · all-time $36,643 Monthly: $1,850 (Nov 2025) → $2,520 (Jan) → $3,266 (Mar) → $591 (May) → $1,402 (Jul) → $1,716 (Sep) → $857 (Oct MTD). It peaked in spring and is rebuilding. Revenue synced 21 October 2026 ~05:09 Warsaw.",
+      "sources": [
+        {
+          "label": "emailit.com",
+          "url": "https://emailit.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/emailit"
+        }
+      ],
+      "indieAngle": "Don't build another ESP. The underserved bit is the boring add-on: DMARC report monitoring plus \"is my domain on a blocklist\" alerts for Polish SMBs and accounting offices after the Gmail/Yahoo sender rules. 29–49 zł/mo per domain."
+    }
+  ],
+  "whyItPrints": "Every app sends password resets and invoices, and the plumbing never goes away once it's integrated. The EU data-residency angle (\"GDPR, EU hosting\") is a real procurement checkbox for European SMBs moving off US providers.",
+  "whyThisMatters": "Transactional email by REST API or SMTP relay, plus inbound email, logs, signed webhooks, templates, campaigns, audiences, DMARC reports, email verification and a hosted MCP server. It runs \"in our own data center in Prague, EU\". Pricing: 1 dollars per 10,000 emails, ~2,150 estimated users, margin 90%. Founded Dec 2021.\n\nEvery app sends password resets and invoices, and the plumbing never goes away once it's integrated. The EU data-residency angle (\"GDPR, EU hosting\") is a real procurement checkbox for European SMBs moving off US providers.\n\nAn app needs to send a password reset or an invoice, and then keep a log of whether it arrived. Emailit does that from a data center in Prague, over an API or the older mail relay. The price is a small charge per block of emails, not a seat for every user. The founder puts the user count well above the Stripe subscriptions. The company dates to 2021."
+}

@@ -88,6 +88,7 @@ function evidenceKindFromLabel(label) {
   if (/lemon\s*squeezy/i.test(label)) return 'lemon-squeezy-verified'
   if (/revenuecat/i.test(label)) return 'revenuecat-verified'
   if (/shopify/i.test(label)) return 'shopify-verified'
+  if (/dodo/i.test(label)) return 'dodo-verified'
   if (/creem/i.test(label)) return 'creem-verified'
   if (/polar/i.test(label)) return 'polar-verified'
   if (/paddle/i.test(label)) return 'paddle-verified'
@@ -279,6 +280,7 @@ function editionDek(companies, formatted) {
     ['lemon-squeezy-verified', 'Lemon Squeezy-verified'],
     ['revenuecat-verified', 'RevenueCat-verified'],
     ['shopify-verified', 'Shopify-verified'],
+    ['dodo-verified', 'Dodo-verified'],
     ['self-reported', 'self-reported'],
   ]
   const parts = labels
@@ -304,6 +306,7 @@ function evidenceLabel(kind) {
   if (kind === 'lemon-squeezy-verified') return 'Lemon Squeezy-verified'
   if (kind === 'revenuecat-verified') return 'RevenueCat-verified'
   if (kind === 'shopify-verified') return 'Shopify-verified'
+  if (kind === 'dodo-verified') return 'Dodo-verified'
   return 'Self-reported'
 }
 

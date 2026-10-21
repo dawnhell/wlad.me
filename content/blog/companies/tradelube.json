@@ -1,0 +1,31 @@
+{
+  "slug": "tradelube",
+  "name": "TRADElube",
+  "listingNote": null,
+  "description": "Integration platform + PIM that connects three ERP systems with Shopware, WooCommerce and Shopify and handles the whole product-data flow from backend to shop (founder-stated). Core niche: e-bike/bike retail (battery size, frame size, gearing etc.), expanding to electronics and tool retail. Solo founder Florian Feilmeier, Upper Austria, running it next to a 12-hour/week developer job; \"in production since 2020\" (homepage). Pricing: €79/mo (ERP → Shopware), €99/mo (WooCommerce), €149/mo (Shopify) (founder-stated). Built on .NET/Blazor + MariaDB Galera on Kubernetes (founder-stated).",
+  "homepage": "https://www.tradelube.com/",
+  "image": "/blog/2026-10-18/tradelube.webp",
+  "imageAlt": "TRADElube product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "self-reported",
+      "evidence": "€4,700 MRR from ~60 customers (founder-stated) No meaningful marketing in five years; first push is 20 handwritten letters/week to tool retailers (founder-stated) Note: not Stripe-verified.",
+      "sources": [
+        {
+          "label": "tradelube.com",
+          "url": "https://www.tradelube.com/"
+        },
+        {
+          "label": "Happy Bootstrapping write-up (27 Apr 2026)",
+          "url": "https://happybootstrapping.com/p/4700-euro-mrr-without-marketing-building"
+        }
+      ],
+      "indieAngle": "Pick one ERP popular with Polish SMB retailers (Subiekt GT / Comarch Optima / enova) and sell a traced, flat-price sync to WooCommerce/Shopify/Allegro. Ask the ERP resellers for referrals — they want their product to look better."
+    }
+  ],
+  "whyItPrints": "Peak Conductor energy — glue between an old ERP and a web shop. Growth for five years came only from ERP vendors referring their own customers (no commission, no marketing). Support is 1–2 hours/week thanks to per-product end-to-end tracing (founder-stated).",
+  "whyThisMatters": "Integration platform + PIM that connects three ERP systems with Shopware, WooCommerce and Shopify and handles the whole product-data flow from backend to shop. Core niche: e-bike/bike retail (battery size, frame size, gearing etc.), expanding to electronics and tool retail. Solo founder Florian Feilmeier, Upper Austria, running it next to a 12-hour/week developer job; \"in production since 2020\". Pricing: 79 euros a month (ERP → Shopware), 99 euros a month (WooCommerce), 149 euros a month (Shopify). Built on.NET/Blazor + MariaDB Galera on Kubernetes.\n\nPeak Conductor energy — glue between an old ERP and a web shop. Growth for five years came only from ERP vendors referring their own customers (no commission, no marketing). Support is 1–2 hours/week thanks to per-product end-to-end tracing."
+}

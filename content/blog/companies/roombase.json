@@ -1,0 +1,31 @@
+{
+  "slug": "roombase",
+  "name": "RoomBase",
+  "listingNote": null,
+  "description": "Send 10–15 smartphone photos of a flat (no site visit). They return an isometric 3D floor plan in 48–72h as PNG/PDF/JPG for Airbnb, Booking or your own site, with one free revision and commercial rights included. They use \"AI + expert manual retouching\" (company-stated). Homepage claims \"+40% clicks\" and \"+16% bookings\" from customer feedback (company-stated). The first flat is free for conciergeries (company-stated). Pricing on TrustMRR: individuals from $149, property managers from $119/property, high volume custom (founder-stated). Founded Dec 2025.",
+  "homepage": "https://roombase.fr/",
+  "image": "/blog/2026-10-21/roombase.webp",
+  "imageAlt": "RoomBase product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (per-plan purchases) · 0 subscriptions Last 30 days $2,395 · last 3 months $5,152 · last 6 months $8,430 · all-time $10,501 Monthly: $219 (Feb 2026) → $872 (Mar) → $980 (Apr) → $3,222 (May) → $56 (Jun) → $2,757 (Jul) → $80 (Sep) → $2,315 (Oct MTD). Lumpy, conciergerie-batch shaped (my read). Revenue synced 21 October 2026 ~07:35 Warsaw.",
+      "sources": [
+        {
+          "label": "roombase.fr",
+          "url": "https://roombase.fr/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/roombase"
+        }
+      ],
+      "indieAngle": "Sell the same thing to Polish property managers in Kraków, Gdańsk and Zakopane, and to developers' sales offices (deweloperzy) who need rzuty for listings on Otodom. Sell per-property packs of 20, not one-offs."
+    }
+  ],
+  "whyItPrints": "Short-term-rental managers compete on listing photos and will pay a fixed fee per property for anything that lifts bookings. It's a per-unit B2B service sold to conciergeries that manage dozens of flats.",
+  "whyThisMatters": "Send 10–15 smartphone photos of a flat (no site visit). They return an isometric 3D floor plan in 48–72h as PNG/PDF/JPG for Airbnb, Booking or your own site, with one free revision and commercial rights included. They use \"AI + expert manual retouching\". Homepage claims \"+40% clicks\" and \"+16% bookings\" from customer feedback. The first flat is free for conciergeries. Pricing on TrustMRR: individuals from 149, dollars property managers from 119 dollars/property, high volume custom. Founded Dec 2025.\n\nShort-term-rental managers compete on listing photos and will pay a fixed fee per property for anything that lifts bookings. It's a per-unit B2B service sold to conciergeries that manage dozens of flats."
+}

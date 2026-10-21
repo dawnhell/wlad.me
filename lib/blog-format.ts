@@ -12,6 +12,7 @@ export type EvidenceKind =
   | 'lemon-squeezy-verified'
   | 'revenuecat-verified'
   | 'shopify-verified'
+  | 'dodo-verified'
   | 'self-reported'
 
 export type BlogSource = {
@@ -103,6 +104,7 @@ export function evidenceLabel(kind: EvidenceKind) {
   if (kind === 'lemon-squeezy-verified') return 'Lemon Squeezy-verified'
   if (kind === 'revenuecat-verified') return 'RevenueCat-verified'
   if (kind === 'shopify-verified') return 'Shopify-verified'
+  if (kind === 'dodo-verified') return 'Dodo-verified'
   return 'Self-reported'
 }
 
@@ -148,6 +150,7 @@ function processorName(kind: EvidenceKind) {
   if (kind === 'lemon-squeezy-verified') return 'Lemon Squeezy'
   if (kind === 'revenuecat-verified') return 'RevenueCat'
   if (kind === 'shopify-verified') return 'Shopify'
+  if (kind === 'dodo-verified') return 'Dodo'
   return null
 }
 

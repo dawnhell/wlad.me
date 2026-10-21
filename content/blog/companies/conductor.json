@@ -2,9 +2,9 @@
   "slug": "conductor",
   "name": "Conductor",
   "listingNote": null,
-  "description": "The QuickBooks Desktop & Enterprise API — real-time access to every QBD object via Python, Node/TypeScript, and REST. Abstracts Web Connector, qbXML, SOAP, and the rest of Intuit's legacy mess.",
-  "homepage": "https://conductor.is",
-  "image": "/blog/2026-09-30/conductor.webp",
+  "description": "Still the reference Conductor-lane business: $49 per company file per month to read and write QuickBooks Desktop/Enterprise over REST/Python/Node instead of Web Connector + qbXML (founder-stated). Founder Danny Nemer, US, founded Jul 2022. Seller message: \"Completely runs itself… Enterprise customers include Ramp\" (seller-stated). Image: conductor.is og:image.",
+  "homepage": "https://conductor.is/",
+  "image": "/blog/2026-10-20/conductor.webp",
   "imageAlt": "Conductor product image",
   "imageWidth": 1200,
   "imageHeight": 610,
@@ -32,8 +32,24 @@
         }
       ],
       "indieAngle": "Pick a painful legacy system (QBD, on-prem ERP, country e-invoicing) and sell the API glue forever."
+    },
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $43,330 (+3.2%) Active subscriptions 284 Last 30 days $41,769 (L30 growth +9.4%) All-time $486,329 L30 profit margin 95%; last 12 months $339,274 Monthly: $18,734 (Nov 2025) → $24,073 (Feb) → $28,548 (May) → $34,415 (Jul) → $38,814 (Sep 2026). That's more than double in 10 months, up every single month. Still for sale at $1,250,000, now 2.5x (2.7x on 6 Oct as revenue grew), 26 offers, 8,806 interested buyers viewed. --- Revenue synced 20 October 2026 ~04:25 Warsaw.",
+      "sources": [
+        {
+          "label": "conductor.is",
+          "url": "https://conductor.is/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe numbers moved up."
     }
   ],
-  "whyItPrints": "Developers integrating with QBD still need a reliable bridge. Conductor sells $49/company-file/mo infrastructure that \"completely runs itself\" — classic Conductor-lane accounting glue, not another AI wrapper.",
+  "whyItPrints": "QuickBooks Desktop still wants the old connector. People pay monthly per company file so an app can read and write it.",
   "whyThisMatters": "Developers use Conductor to read and write QuickBooks Desktop and Enterprise from their own app. You get Python, Node or TypeScript, and a REST API. They count 256 typed endpoints. Create an invoice, fetch a customer, update a line. QuickBooks itself still wants the Web Connector, qbXML, and SOAP. Conductor hides that.\n\nYour user connects their own company file. Guides cover the usual Windows and QuickBooks errors. A cryptic failure comes back as one error, with a plain fix. A dashboard is where you add connections and debug them. The end user does the hookup, so you aren't on that ticket. Testing is free for one connection. Production is a monthly price per company file. A lot of files moves you to enterprise pricing.\n\nConductor Labs is in San Francisco. They say it's syncing more than 1,600 businesses. Ramp shows up in a customer quote. Others mention leaving DBSync or Commercient, or retiring an XML bridge they had built themselves. You pay so the accounting file behaves like a normal API."
 }

@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-caribbean-fleet-tracking-company",
+  "name": "Anonymous Caribbean fleet-tracking company",
+  "listingNote": null,
+  "description": "The founder has run a fleet-tracking company for ~12 years, selling GPS tracking and AI dashcams to commercial fleets across the Caribbean, with a smaller operation in Colombia (founder-stated).",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "self-reported",
+      "evidence": "~370 clients, roughly $1.6M ARR, \"on track for about 30% growth in the Caribbean this year\" (founder-stated) Revenue per client ≈ $4.3k/year (my arithmetic from the two stated numbers) Not verified; no company name or website given.",
+      "sources": [
+        {
+          "label": "Reddit r/Entrepreneur post by u/imjp (5 Oct 2026, ~20:09 Warsaw)",
+          "url": "https://www.reddit.com/r/Entrepreneur/comments/1wyfq2m/"
+        }
+      ],
+      "indieAngle": "Two ways in. (1) Fleet telematics for an underserved region where you speak the language and know the buyers, e.g. Polish/Ukrainian transport SMEs with 5–50 trucks, bundling the tachograph/e-TOLL/SENT paperwork. (2) Build the dunning glue he lacks: wire-transfer reconciliation + auto-suspend + late-fee invoicing for B2B hardware-subscription companies in multi-country markets."
+    }
+  ],
+  "whyItPrints": "Hardware + monthly SaaS sold to trucking, logistics and government fleets in small island markets that big US/EU players ignore. Billing runs across 20+ territories by wire transfer. The founder's own problem is the boring part: \"almost half our clients, about 170 of 370, pay late\", and \"some of our gov clients are pretty much always 90+ days late\". The fix he's planning is automatic account disconnects, annual billing for bad payers and late fees (founder-stated, in comments).",
+  "whyThisMatters": "The founder has run a fleet-tracking company for ~12 years, selling GPS tracking and AI dashcams to commercial fleets across the Caribbean, with a smaller operation in Colombia.\n\nHardware + monthly SaaS sold to trucking, logistics and government fleets in small island markets that big US/EU players ignore. Billing runs across 20+ territories by wire transfer. The founder's own problem is the boring part: \"almost half our clients, about 170 of 370, pay late\", and \"some of our gov clients are pretty much always 90+ days late\". The fix he's planning is automatic account disconnects, annual billing for bad payers and late fees."
+}

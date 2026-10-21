@@ -152,11 +152,52 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Fassa_valley.jpg/1920px-Fassa_valley.jpg',
   },
+  {
+    id: 'sexten-valley',
+    subject: 'nature',
+    alt: 'A meadow and peaks above Sexten in the Dolomites',
+    credit: 'Friedrich Haag',
+    license: 'CC BY-SA 4.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Sexten_Au%C3%9Fergesell_001_2019_09_27.jpg/1920px-Sexten_Au%C3%9Fergesell_001_2019_09_27.jpg',
+  },
+  {
+    id: 'geirangerfjord',
+    subject: 'nature',
+    alt: 'The Geirangerfjord in Norway',
+    credit: 'FataMorgana',
+    license: 'CC BY-SA 3.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Geirangerfjord.jpg/1920px-Geirangerfjord.jpg',
+  },
+  {
+    id: 'torres-del-paine',
+    subject: 'nature',
+    alt: 'Torres del Paine in Chile',
+    credit: 'Corto Maltese 1999',
+    license: 'CC BY 2.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/0/09/Torres_del_Paine%2C_Chile.jpg',
+  },
+  {
+    id: 'inle-lake',
+    subject: 'nature',
+    alt: 'Inle Lake in Myanmar',
+    credit: 'Siestecita',
+    license: 'CC BY-SA 4.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Inle_Lake%2C_Myanmar.jpg/1920px-Inle_Lake%2C_Myanmar.jpg',
+  },
+  {
+    id: 'pragser-wildsee',
+    subject: 'nature',
+    alt: 'Pragser Wildsee in the Dolomites',
+    credit: 'Marek Heise',
+    license: 'CC BY 2.0',
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Pragser_Wildsee_-_Flickr_-_Marek_Heise_Photography.jpg/1920px-Pragser_Wildsee_-_Flickr_-_Marek_Heise_Photography.jpg',
+  },
 ]
 
-function filePage(thumbUrl) {
-  const parts = new URL(thumbUrl).pathname.split('/')
-  const filename = decodeURIComponent(parts[6])
+function filePage(imageUrl) {
+  const parts = new URL(imageUrl).pathname.split('/')
+  const thumb = parts.indexOf('thumb')
+  const filename = decodeURIComponent(thumb === -1 ? parts.at(-1) : parts[thumb + 3])
   return `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(filename)}`
 }
 

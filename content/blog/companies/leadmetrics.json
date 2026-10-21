@@ -1,0 +1,31 @@
+{
+  "slug": "leadmetrics",
+  "name": "LeadMetrics",
+  "listingNote": null,
+  "description": "Ad and lead tracking / attribution software for B2C and B2B performance marketers and agencies — traces each lead from ad click to closed deal, integrates with 20+ tools incl. HubSpot and Close (company-stated). From €49/mo, 10-day free trial, DSGVO/GDPR positioning (company-stated). ~150 estimated users (founder-stated). Founded Jul 2024, Austria. L30 profit margin 80%.",
+  "homepage": "https://www.lead-metrics.com/en",
+  "image": "/blog/2026-10-17/leadmetrics.webp",
+  "imageAlt": "LeadMetrics product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,600 · 35 active subscriptions Last 30 days $5,352 (-1.6%) · last 3 months $16,300 · last 6 months $32,846 Last 12 months $76,490 · all-time $95,423 L30 profit margin 80% (TrustMRR snapshot) Revenue synced 17 October 2026 ~08:45 Warsaw.",
+      "sources": [
+        {
+          "label": "lead-metrics.com",
+          "url": "https://www.lead-metrics.com/en"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/leadmetrics"
+        }
+      ],
+      "indieAngle": "Attribution for one stack (Meta ads → Calendly → Stripe) and one country's privacy rules, sold to small agencies."
+    }
+  ],
+  "whyItPrints": "\"Which ad actually produced revenue?\" is the oldest agency question there is. DACH agencies pay for a GDPR-safe answer. Stable ~$5–6k months since spring.",
+  "whyThisMatters": "Ad and lead tracking / attribution software for B2C and B2B performance marketers and agencies — traces each lead from ad click to closed deal, integrates with 20+ tools incl. HubSpot and Close. From 49 euros a month, 10-day free trial, DSGVO/GDPR positioning. ~150 estimated users. Founded Jul 2024, Austria. profit margin on the recent snapshot 80%.\n\n\"Which ad actually produced revenue?\" is the oldest agency question there is. DACH agencies pay for a GDPR-safe answer. The months have sat in a narrow band since spring.\n\nAn agency wants to know which ad made the phone ring. This follows the lead from the click to the closed deal, and it talks to tools those agencies already use, including HubSpot and Close. The pitch is for Austria and the rest of that market, with the privacy rules written for the region. There is a short trial before you pay."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "safeonward",
+  "name": "Safeonward",
+  "listingNote": null,
+  "description": "Book a real, airline-verifiable onward flight reservation (PNR) in under 2 minutes as proof of onward travel for visa applications, airline check-in and border checks, without buying a full ticket (company-stated). From €9.90 (founder-stated). The homepage also has an agency account, an onward ticket API, an affiliate program and entry-requirement/destination guides (company-stated). Founded Jun 2026, founder \"John\". Profit margin 100% (TrustMRR snapshot).",
+  "homepage": "https://safeonward.com/",
+  "image": "/blog/2026-10-19/safeonward.webp",
+  "imageAlt": "Safeonward product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-19",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-off purchases) · 0 subscriptions Last 30 days $3,097 (+100.2%) · last 3 months $5,429 · last 6 months $6,691 Last 12 months $6,691 · all-time $6,691 Monthly: $132 (May 2026) → $661 (Jun) → $643 (Jul) → $1,094 (Aug) → $1,985 (Sep) → $2,176 Oct MTD (already above September). Revenue synced 19 October 2026 ~07:09 Warsaw.",
+      "sources": [
+        {
+          "label": "safeonward.com",
+          "url": "https://safeonward.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/safeonward-onward-flight-ticket"
+        }
+      ],
+      "indieAngle": "Other \"document you need once for a bureaucrat\": Polish meldunek/registration proof templates, sworn-translation ordering, travel-insurance certificates for Schengen visas, EHIC/A1 forms. Sell via SEO per country, and offer a B2B API for visa agencies."
+    }
+  ],
+  "whyItPrints": "A pure compliance-paperwork product: border and airline rules force the purchase, and the buyer needs it today. SEO-driven (\"onward ticket for Thailand/Philippines\"), one-off payments, and it has grown every month since launch. It's tiny for now.",
+  "whyThisMatters": "Book a real, airline-verifiable onward flight reservation (PNR) in under 2 minutes as proof of onward travel for visa applications, airline check-in and border checks, without buying a full ticket. From 9.90. euros The homepage also has an agency account, an onward ticket API, an affiliate program and entry-requirement/destination guides. Founded Jun 2026, founder \"John\". Profit margin 100%.\n\nA pure compliance-paperwork product: border and airline rules force the purchase, and the buyer needs it today. SEO-driven (\"onward ticket for Thailand/Philippines\"), one-off payments, and it has grown every month since launch. It's tiny for now.\n\nSome airlines and borders want to see that you are flying onward, and buying a real ticket you will not use is a bad trade. Safeonward sells a real reservation you can show, made in a couple of minutes, without the full fare. You pay once per trip. The company is young, and the months have been climbing from a small start."
+}

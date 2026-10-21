@@ -1,0 +1,31 @@
+{
+  "slug": "dataford",
+  "name": "Dataford",
+  "listingNote": null,
+  "description": "\"#1 Platform for Tech Interview Preparation\": interview questions, guides, real interview experiences and coaching. You pick the role and company (e.g. ML Engineer at Amazon) and get a personalized plan (company-stated). Pricing: $29/mo and $89/year (founder-stated). ~50,000 estimated users (founder-stated); homepage says \"48,000+ professionals already prepping\" (company-stated). Founded Apr 2023, US. 1,794 active subscriptions.",
+  "homepage": "https://www.dataford.io/",
+  "image": "/blog/2026-10-19/dataford.webp",
+  "imageAlt": "Dataford product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-19",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $36,584 · 1,794 active subscriptions Last 30 days $44,998 (+9.1%) · last 3 months $117,295 · last 6 months $156,252 Last 12 months $172,325 · all-time $206,124 Monthly: ~$1.1k–4.9k (Nov 2025 → May 2026) → $16,815 (Jun) → $26,391 (Jul) → $35,734 (Aug) → $45,622 (Sep 2026); Oct MTD $26,309. Note: the profile doesn't explain the step-change from June 2026, so it's recent and unproven. Revenue synced 19 October 2026 ~08:25 Warsaw.",
+      "sources": [
+        {
+          "label": "dataford.io",
+          "url": "https://www.dataford.io/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dataford-inc"
+        }
+      ],
+      "indieAngle": "Same per-company question bank for interviews that aren't in tech: Big 4 audit/accounting assessments, Polish civil-service exams, nursing/NCLEX, pharma sales. Programmatic SEO pages per employer plus a cheap annual plan."
+    }
+  ],
+  "whyItPrints": "Like Writing9 for IELTS: an evergreen gate (the tech interview) with a fresh cohort every hiring cycle, sold on SEO for \"<company> <role> interview questions\". After two flat years it went vertical from June 2026.",
+  "whyThisMatters": "\"#1 Platform for Tech Interview Preparation\": interview questions, guides, real interview experiences and coaching. You pick the role and company (e.g. ML Engineer at Amazon) and get a personalized plan. Pricing: 29 dollars a month and 89 dollars/year. ~50,000 estimated users; homepage says \"48,000+ professionals already prepping\". Founded Apr 2023, US. 1,794 active subscriptions.\n\nLike Writing9 for IELTS: an evergreen gate (the tech interview) with a fresh cohort every hiring cycle, sold on SEO for \"<company> <role> interview questions\". After two flat years it went vertical from June 2026.\n\nYou practice the interview before you sit in it. Questions, write-ups, and notes from people who already did the round. The subscription count is large next to a lot of the other notes this week. I am not grading whether the “number one” line on the listing is true. The Stripe number is the part with a date."
+}

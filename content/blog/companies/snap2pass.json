@@ -1,0 +1,35 @@
+{
+  "slug": "snap2pass",
+  "name": "Snap2Pass",
+  "listingNote": null,
+  "description": "Upload a selfie and it gets resized, background-fixed and checked against your country's exact document spec. It covers passport, visa and ID photos (founder-stated). Homepage: \"500K+ photos processed\", \"166 countries supported\", \"99.8% acceptance rate\", \"ICAO 9303 compliant\", \"14-day money-back guarantee\", free reshoots if rejected. It also offers same-day printing at Walgreens/CVS (~$0.39) or mailed prints ($7.47) (company-stated). There's a B2B tier for travel agencies and photo studios: a branded client photo link or upload at the counter, plus an API. Pricing: $20 for 4 clients, volume packs down to $2 a client, no subscription (company-stated). The app lists in-app purchases \"starting at $4.99\" (company-stated). ~20,000 estimated users (founder-stated). Founded Jan 2023, US, founder \"oalpay\". There's an AI headshot upsell too, but the core job is a government form requirement.",
+  "homepage": "https://www.snap2pass.com/",
+  "image": "/blog/2026-10-20/snap2pass.webp",
+  "imageAlt": "Snap2Pass product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-off purchases) · 0 subscriptions Last 30 days $6,131 (-8.9%) · last 3 months $18,978 · last 6 months $33,624 Last 12 months $74,924 · all-time $191,674 · last 7 days $1,224 Monthly: $5,004 (Nov 2025) → $7,735 (Jan) → $8,176 (Mar) → $4,743 (May) → $5,291 (Jul) → $6,066 (Aug) → $7,321 (Sep); Oct MTD $3,775. Steady $4.7–8.2k band, no cliff. Revenue synced 20 October 2026 ~06:37 Warsaw.",
+      "sources": [
+        {
+          "label": "snap2pass.com",
+          "url": "https://www.snap2pass.com/"
+        },
+        {
+          "label": "Snap2Pass Business (agencies & studios)",
+          "url": "https://www.snap2pass.com/pricing"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/snap2pass"
+        }
+      ],
+      "indieAngle": "Do the EU/PL version. Polish passport and ID photos (zdjęcie do dowodu/paszportu) have a strict spec, and so do Schengen/US/UK/Chinese visa photos for Poles and Ukrainians in Poland. Sell to consumers at ~20 zł, and give fotograf studios and visa agencies a white-label link on credits."
+    }
+  ],
+  "whyItPrints": "Consulates and passport offices reject bad photos, so people pay a few dollars to not get rejected. Demand comes from passport renewals, visa season and Google searches for \"<country> visa photo size\". The B2B side (agencies, studios) turns one-off buyers into repeat accounts.",
+  "whyThisMatters": "Upload a selfie and it gets resized, background-fixed and checked against your country's exact document spec. It covers passport, visa and ID photos. Homepage: \"500K+ photos processed\", \"166 countries supported\", \"99.8% acceptance rate\", \"ICAO 9303 compliant\", \"14-day money-back guarantee\", free reshoots if rejected. It also offers same-day printing at Walgreens/CVS (0.39 dollars) or mailed prints (7.47 dollars). There's a B2B tier for travel agencies and photo studios: a branded client photo link or upload at the counter, plus an API. Pricing: 20 dollars for 4 clients, volume packs down to 2 dollars a client, no subscription. The app lists in-app purchases \"starting at 4.99 dollars\". ~20,000 estimated users. Founded Jan 2023, US, founder \"oalpay\". There's an AI headshot upsell too, but the core job is a government form requirement.\n\nConsulates and passport offices reject bad photos, so people pay a few dollars to not get rejected. Demand comes from passport renewals, visa season and Google searches for \"<country> visa photo size\". The B2B side (agencies, studios) turns one-off buyers into repeat accounts."
+}

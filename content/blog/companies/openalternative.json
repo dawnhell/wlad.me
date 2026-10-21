@@ -1,0 +1,31 @@
+{
+  "slug": "openalternative",
+  "name": "OpenAlternative",
+  "listingNote": null,
+  "description": "Directory that lists open-source alternatives to popular proprietary software (company-stated). ~12,000 estimated users (founder-stated). Founded Feb 2024, Poland (TrustMRR). Sells ad placements: Silver $147/mo (~90k impressions), Gold $297/mo (~350k), Platinum $597/mo (~650k) (company-stated, /advertise page). 24 active subscriptions.",
+  "homepage": "https://openalternative.co/",
+  "image": "/blog/2026-10-17/openalternative.webp",
+  "imageAlt": "OpenAlternative product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,183 · 24 active subscriptions Last 30 days $7,606 (+42.3%) · last 3 months $19,699 · last 6 months $37,648 Last 12 months $76,021 · all-time $123,480 Monthly range Nov 2025 → Sep 2026: $4,101 – $7,851 (no cliff) Revenue synced 17 October 2026 ~10:04 Warsaw.",
+      "sources": [
+        {
+          "label": "openalternative.co",
+          "url": "https://openalternative.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/openalternative"
+        }
+      ],
+      "indieAngle": "Pick a narrower \"alternatives to X\" niche (EU-hosted / GDPR-safe SaaS, Polish-language tools, self-hosted analytics) and sell sponsor slots from day one. Pure Next.js + Supabase + Stripe subscriptions."
+    }
+  ],
+  "whyItPrints": "A list of software, monetised with old-school sponsor slots. No product to support, no churn drama — just SEO traffic and dev-tool companies paying monthly to be seen. Revenue has been flat-to-up every month for a year, which is exactly what \"boring\" should look like.",
+  "whyThisMatters": "Directory that lists open-source alternatives to popular proprietary software. ~12,000 estimated users. Founded Feb 2024, Poland. Sells ad placements: Silver 147 dollars a month (~90k impressions), Gold 297 dollars a month (~350k), Platinum 597 dollars a month (~650k). 24 active subscriptions.\n\nA list of software, monetised with old-school sponsor slots. No product to support, no churn drama — just SEO traffic and dev-tool companies paying monthly to be seen. Revenue has been flat-to-up every month for a year, which is exactly what \"boring\" should look like.\n\nThe ads are the product. A company pays to sit next to the list, in three sizes. The subscription count is those slots, not the number of people reading. The founder puts the reader count much higher. The company is in Poland. The monthly cash has stayed in a band for a year, which is the part worth keeping."
+}

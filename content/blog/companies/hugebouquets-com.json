@@ -1,0 +1,31 @@
+{
+  "slug": "hugebouquets-com",
+  "name": "Hugebouquets.com",
+  "listingNote": null,
+  "description": "A Shopify store selling oversized bouquets (100 roses wrapped, $279; 200 white roses, $536; \"from $95\") with same-day delivery in LA (homepage). Seller: \"All orders come through Google organic search. The site's average position on Google is 7.2. Dropshipping-style fulfillment: orders are forwarded to florists who assemble and deliver bouquets. ~30 minutes/week to manage\" (seller-stated). Founded Dec 2024, US.",
+  "homepage": "https://hugebouquets.com/",
+  "image": "/blog/2026-10-20/hugebouquets-com.webp",
+  "imageAlt": "Hugebouquets.com product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-off orders) · 0 subscriptions Last 30 days $2,172 (+58.5%) · last 3 months $3,976 · last 6 months $9,939 Last 12 months $31,650 · all-time $50,595 L30 profit margin 65% (TrustMRR snapshot) For sale: asking $42,000 (1.6x), first listed 5 Jan 2026, 6 offers, 1,393 interested buyers viewed. Monthly: $2,592 (Nov 2025) → $4,320 (Jan) → $5,835 (Feb, Valentine's) → $966 (Mar) → $4,484 (Apr) → $3,512 (May, Mother's Day) → ~$0.7–1.4k (Jun–Sep); Oct MTD $1,863. Very seasonal. Revenue synced 20 October 2026 ~04:15 Warsaw.",
+      "sources": [
+        {
+          "label": "hugebouquets.com",
+          "url": "https://hugebouquets.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hugebouquets-com"
+        }
+      ],
+      "indieAngle": "Same lead-router model for any city + premium-gift search in PL: \"duże bukiety Warszawa/Kraków\", \"100 róż z dostawą\", balloon or cake delivery. Build one SEO site per city, forward orders to local kwiaciarnie (florists) on commission, and invoice from one entity."
+    }
+  ],
+  "whyItPrints": "Flowers are a pure \"intent\" search that peaks around holidays. There's no inventory, the florist does the work, and the site is a lead router with a margin. L30 profit margin is 65%, and the seller says it takes 30 minutes a week.",
+  "whyThisMatters": "A Shopify store selling oversized bouquets (100 roses wrapped, 279 dollars; 200 white roses, 536 dollars; \"from 95 dollars\") with same-day delivery in LA. Seller: \"All orders come through Google organic search. The site's average position on Google is 7.2. Dropshipping-style fulfillment: orders are forwarded to florists who assemble and deliver bouquets. ~30 minutes/week to manage\". Founded Dec 2024, US.\n\nFlowers are a pure \"intent\" search that peaks around holidays. There's no inventory, the florist does the work, and the site is a lead router with a margin. the last 30 days profit margin is 65%, and the seller says it takes 30 minutes a week."
+}

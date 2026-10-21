@@ -1,0 +1,31 @@
+{
+  "slug": "formflow",
+  "name": "Formflow",
+  "listingNote": null,
+  "description": "No-code lead funnel builder: branching qualification on a visual canvas with scoring, verification, analytics and CRM handoff, pitched at marketers, agencies and service businesses (HVAC, solar, med spa templates) (company-stated). Starter $49/mo, Pro $99/mo, Scale $199/mo (company-stated). Founded Jul 2025, US. 142 active subscriptions.",
+  "homepage": "https://getformflow.io/",
+  "image": "/blog/2026-10-17/formflow.webp",
+  "imageAlt": "Formflow product image",
+  "imageWidth": 1000,
+  "imageHeight": 600,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,059 · 142 active subscriptions Last 30 days $3,316 (-23.6%) · last 3 months $13,498 · last 6 months $18,279 Last 12 months $125,726 · all-time $157,483 Note: cliff after launch spike — $32.9k (Nov 2025), $21.2k (Dec), $19.8k (Jan) → $1.2k–$5.6k/mo since Feb 2026. MRR snapshot sits above the L30 figure. Revenue synced 17 October 2026 ~04:35 Warsaw.",
+      "sources": [
+        {
+          "label": "getformflow.io",
+          "url": "https://getformflow.io/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/formflow"
+        }
+      ],
+      "indieAngle": "One vertical funnel template pack (e.g. Polish solar/heat-pump installers) with CRM push to whatever they already use. Charge $49–$99 and skip the \"AI form\" copy."
+    }
+  ],
+  "whyItPrints": "Forms that qualify leads for home-service businesses. 142 paying subs at $49+ is a real base. But the history has a lifetime-deal-shaped spike.",
+  "whyThisMatters": "No-code lead funnel builder: branching qualification on a visual canvas with scoring, verification, analytics and CRM handoff, pitched at marketers, agencies and service businesses (HVAC, solar, med spa templates). Starter 49 dollars a month, Pro 99 dollars a month, Scale 199 dollars a month. Founded Jul 2025, US. 142 active subscriptions.\n\nForms that qualify leads for home-service businesses. 142 paying subs at 49 dollars+ is a real base. But the history has a lifetime-deal-shaped spike.\n\nYou draw the questions. The form scores the lead and hands it to the system you already use. The templates are for home trades and clinics. The company is in the US and is young. The subscription count is a real base. The cash right after launch was much higher than the months since, which fits a launch spike more than a steady seat.\n\nOne trade, one country, and a form that pushes the lead into the tool they already pay for, is the smaller version of this."
+}

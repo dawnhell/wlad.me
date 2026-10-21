@@ -1,0 +1,31 @@
+{
+  "slug": "verm-lab-tipzr",
+  "name": "VERM LAB / Tipzr",
+  "listingNote": null,
+  "description": "\"Providing tips machines for restaurants\" (founder-stated; that's the whole profile description). Founded Oct 2023, France, margin 85% (founder-stated). I couldn't verify the product beyond that. The category (card-tip terminals and QR tipping for French restaurants) is crowded with Tipsi, Tipgo, TiPJAR and Tiply, so treat it as a lane signal.",
+  "homepage": "https://tipzr.fr/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 · 0 subscriptions Last 30 days $2,523 (+815.8%) · last 3 months $12,424 · last 6 months $25,265 · last 12 months $25,382 · all-time $25,385 Monthly: $8,396 (Apr 2026) → $436 (May) → $224 (Jun) → $9,645 (Jul) → $4,057 (Aug) → $280 (Sep) → $2,344 (Oct MTD). Nearly all of the revenue arrived in 2026. Revenue synced 21 October 2026 ~08:22 Warsaw.",
+      "sources": [
+        {
+          "label": "tipzr.fr",
+          "url": "https://tipzr.fr/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/verm-lab"
+        }
+      ],
+      "indieAngle": "Poland just got used to card tips (\"napiwek kartą\" is still clumsy on most terminals). A QR tip page with a split-the-pool calculator and a monthly payroll export for the restaurant's accountant is the software-only version. No hardware."
+    }
+  ],
+  "whyItPrints": "Restaurant tipping by card is a physical-plus-payments problem. Each venue buys or rents a device once, and the vendor can take a cut of tip flow. The revenue shape suggests hardware batches (my read, not stated).",
+  "whyThisMatters": "\"Providing tips machines for restaurants\". Founded Oct 2023, France, margin 85%. I couldn't verify the product beyond that. The category (card-tip terminals and QR tipping for French restaurants) is crowded with Tipsi, Tipgo, TiPJAR and Tiply, so treat it as a lane signal.\n\nRestaurant tipping by card is a physical-plus-payments problem. Each venue buys or rents a device once, and the vendor can take a cut of tip flow. The revenue shape suggests hardware batches.\n\nThe whole public description is that they provide tip machines for restaurants. The company is in France and dates to 2023. The homepage is tipzr.fr. I opened the listing and that is still all I can say about the product. The Stripe months jump, which can fit hardware going out in batches. That part is my read, not something they wrote."
+}

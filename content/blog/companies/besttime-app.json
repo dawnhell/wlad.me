@@ -1,0 +1,31 @@
+{
+  "slug": "besttime-app",
+  "name": "BestTime.app",
+  "listingNote": null,
+  "description": "Global foot-traffic data platform that forecasts hourly busyness for millions of public venues from anonymized GPS data. It has venue search and filters by country/city/neighbourhood, venue type, rating, visit duration and popularity, plus an API for third-party apps (founder-stated). Homepage: \"Know When Places Are Busy\" and a Venue Filter API for restaurants, shops and attractions (company-stated). Pricing: free test API key; subscriptions $29/mo to $2,999/mo plus usage-based plans (founder-stated). Founded May 2025 (profile), Singapore. Maker \"Mick.net\", also behind Document.Bot. 142 active subscriptions; L30 profit margin 93%.",
+  "homepage": "https://besttime.app/",
+  "image": "/blog/2026-10-19/besttime-app.webp",
+  "imageAlt": "BestTime.app product image",
+  "imageWidth": 1200,
+  "imageHeight": 759,
+  "mentions": [
+    {
+      "date": "2026-10-19",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $9,085 · 142 active subscriptions Last 30 days $12,046 (-14.5%) · last 3 months $40,635 · last 6 months $75,007 Last 12 months $119,728 · all-time $136,510 L30 profit margin 93% (TrustMRR snapshot) For sale: asking $449,000 (3.1x), first listed 18 Feb 2026, 17 offers received. Seller says the sale includes \"a high-intent database of 10k+ registered users\" (seller-stated). Monthly: $4,447 (Nov 2025) → $9,184 (Feb) → ~$10.8k–11.6k (Mar–Jun) → $12,911 (Jul) → $17,094 (Aug) → $11,335 (Sep); Oct MTD $7,228. Peak was August. Revenue synced 19 October 2026 ~05:29 Warsaw.",
+      "sources": [
+        {
+          "label": "besttime.app",
+          "url": "https://besttime.app/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/private-location-intelligence-api-platform"
+        }
+      ],
+      "indieAngle": "\"When is it busy\" for one boring venue type where queues cost money: Polish government offices (urząd queues), EV chargers, car washes, ski lifts, border crossings. Wrap the data in a widget the venue can embed, and charge per location."
+    }
+  ],
+  "whyItPrints": "Data resale with a clean API, used by city guides, travel apps, retail site analysts and researchers. Developers pay monthly and rarely rip out a working data feed. Revenue roughly tripled in a year.",
+  "whyThisMatters": "Global foot-traffic data platform that forecasts hourly busyness for millions of public venues from anonymized GPS data. It has venue search and filters by country/city/neighbourhood, venue type, rating, visit duration and popularity, plus an API for third-party apps. Homepage: \"Know When Places Are Busy\" and a Venue Filter API for restaurants, shops and attractions. Pricing: free test API key; subscriptions 29 dollars a month to 2,999 dollars a month plus usage-based plans. Founded May 2025 (profile), Singapore. Maker \"Mick.net\", also behind Document.Bot. 142 active subscriptions; the last 30 days profit margin 93%.\n\nData resale with a clean API, used by city guides, travel apps, retail site analysts and researchers. Developers pay monthly and rarely rip out a working data feed. Revenue roughly tripled in a year."
+}

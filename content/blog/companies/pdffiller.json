@@ -1,0 +1,35 @@
+{
+  "slug": "pdffiller",
+  "name": "pdfFiller",
+  "listingNote": "airSlate",
+  "description": "You open the PDF form you need (a tax form, lease, NDA or government application), fill it in, sign it and send it from the browser. airSlate is the parent company and also owns signNow (e-signature), DocHub, US Legal Forms and AltaFlow. CEO Vadim Yasinovsky says their customer is the SMB: \"the guy who fixes your plumbing, who bakes your bread\". They \"want to answer 10 questions and get this done\" (company-stated, Latka transcript).",
+  "homepage": "https://www.pdffiller.com/",
+  "image": "/blog/2026-10-21/pdffiller.webp",
+  "imageAlt": "pdfFiller product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "self-reported",
+      "evidence": "pdfFiller: ~$106M revenue (2026), ~860,000 paying customers. The episode title says 866,000; the Latka breakdown says ~860,000. airSlate total: ~$200M revenue, 1.1M paying customers, ~650 staff (~120 per product) signNow: ~$3M/yr when acquired → ~$35M now · DocHub $20–22M · US Legal Forms ~$6M · AltaFlow ~$5M $18.5M revenue around 2013 before the first outside investment · ~$150M raised in total \"if you count all the loans\" · $100M revenue at the last priced round (2022)",
+      "sources": [
+        {
+          "label": "pdffiller.com",
+          "url": "https://www.pdffiller.com/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded 14 Jul, published 14 Oct 2026)",
+          "url": "https://getlatka.com/companies/airslate/interviews/airslate-vadim-yasinovsky-2026"
+        },
+        {
+          "label": "Latka podcast list",
+          "url": "https://getlatka.com/podcast"
+        }
+      ],
+      "indieAngle": "Don't copy pdfFiller. Copy the long-tail move: one page per official Polish form (PIT-37, ZAP-3, VAT-R, ZUS forms, umowa najmu okazjonalnego). Each page fills the form online, checks it and gives you a PDF for 9–19 zł. Thousands of form-name searches nobody serves well."
+    }
+  ],
+  "whyItPrints": "Everyone has to fill in forms. People search the form's name, land on the page, fill it in and pay. airSlate says it has \"4.8 billion keywords\" and 35 million pages under management. It now sees search's share of acquisition falling from ~80% to ~30% as AI changes search, and is pruning those pages (company-stated).",
+  "whyThisMatters": "You open the PDF form you need (a tax form, lease, NDA or government application), fill it in, sign it and send it from the browser. airSlate is the parent company and also owns signNow (e-signature), DocHub, US Legal Forms and AltaFlow. CEO Vadim Yasinovsky says their customer is the SMB: \"the guy who fixes your plumbing, who bakes your bread\". They \"want to answer 10 questions and get this done\".\n\nEveryone has to fill in forms. People search the form's name, land on the page, fill it in and pay. airSlate says it has \"4.8 billion keywords\" and 35 million pages under management. It now sees search's share of acquisition falling from ~80% to ~30% as AI changes search, and is pruning those pages."
+}

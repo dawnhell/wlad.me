@@ -1,0 +1,31 @@
+{
+  "slug": "writing9",
+  "name": "Writing9",
+  "listingNote": null,
+  "description": "Checks IELTS writing essays in a couple of minutes and returns a detailed report on weak areas, aimed at reaching Band 7+ (company-stated). Pricing: $7.99/week, $14.99/month, $29.99/year (company-stated). ~47,911 estimated users (founder-stated). Founded Jul 2018, US. 591 active subscriptions; L30 profit margin 99%.",
+  "homepage": "https://writing9.com/",
+  "image": "/blog/2026-10-18/writing9.webp",
+  "imageAlt": "Writing9 product image",
+  "imageWidth": 1050,
+  "imageHeight": 600,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,315 · 591 active subscriptions Last 30 days $5,642 (-0.8%) · last 3 months $17,000 · last 6 months $33,159 Last 12 months $64,866 · all-time $95,511 L30 profit margin 99% (TrustMRR snapshot) For sale: asking $200,000 (2.9x), first listed 9 Mar 2026, 10 offers received Monthly range Nov 2025 → Sep 2026: $4,586 – $6,402 (no cliff; Oct MTD $3,218) Revenue synced 18 October 2026 ~05:47 Warsaw.",
+      "sources": [
+        {
+          "label": "writing9.com",
+          "url": "https://writing9.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/writing9"
+        }
+      ],
+      "indieAngle": "Same weekly-pass model for another gatekeeping exam: Polish B1 citizenship exam, Goethe/TestDaF German, or Cambridge B2/C1 — one checker, priced weekly for the cram period."
+    }
+  ],
+  "whyItPrints": "Exam prep is evergreen: every year a new cohort of students needs the same score to emigrate or study abroad. One narrow job (grade an IELTS essay), SEO-driven, and a near-zero cost base. Monthly revenue has sat at ~$5–6k for a full year.",
+  "whyThisMatters": "Checks IELTS writing essays in a couple of minutes and returns a detailed report on weak areas, aimed at reaching Band 7+. Pricing: 7.99 dollars/week, 14.99 dollars/month, 29.99 dollars/year. ~47,911 estimated users. Founded Jul 2018, US. 591 active subscriptions; profit margin on the recent snapshot 99%.\n\nExam prep is evergreen: every year a new cohort of students needs the same score to emigrate or study abroad. One narrow job (grade an IELTS essay), SEO-driven, and a near-zero cost base. Monthly revenue has sat at 5 dollars–6k for a full year.\n\nYou paste an essay. A couple of minutes later you get a report on the weak spots, aimed at the score people need for a visa or a place at a university. You can pay for a week, a month, or a year. The company dates to 2018. The founder’s user count sits far above the paying subscriptions. The margin on the snapshot is very high, which fits a checker with almost no staff cost."
+}

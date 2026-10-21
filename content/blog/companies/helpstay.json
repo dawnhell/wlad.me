@@ -1,0 +1,31 @@
+{
+  "slug": "helpstay",
+  "name": "HelpStay",
+  "listingNote": null,
+  "description": "Work-exchange platform connecting hosts with travellers who help in exchange for food and accommodation — \"Give a little help, stay for free\", 2500+ volunteer stays in 100+ countries (company-stated). Founded Apr 2014, Ireland. 625 active subscriptions; ~2,500 estimated users (founder-stated).",
+  "homepage": "https://helpstay.com/",
+  "image": "/blog/2026-10-18/helpstay.webp",
+  "imageAlt": "HelpStay product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,594 · 625 active subscriptions Last 30 days $2,726 (+7.2%) · last 3 months $7,632 · last 6 months $18,445 Last 12 months $35,674 · all-time $439,748 Note: all-time far above current run-rate — ~$440k AT vs ~$36k last 12 months, so the bigger years are behind it. Monthly range Nov 2025 → Sep 2026: $2,013 – $4,680 (Oct MTD $1,233). Revenue synced 18 October 2026 ~04:40 Warsaw.",
+      "sources": [
+        {
+          "label": "helpstay.com",
+          "url": "https://helpstay.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/helpstay-com"
+        }
+      ],
+      "indieAngle": "Membership directories in two-sided \"barter\" niches still print slowly: house-sitting in Poland/CEE, farm stays for students, au-pair matching. Charge the side with more demand."
+    }
+  ],
+  "whyItPrints": "A 12-year-old membership directory in the Workaway/WWOOF lane. Listings are user-generated, travellers pay to contact hosts. Not growing, but still paying ~$2–4k every month after a decade.",
+  "whyThisMatters": "Work-exchange platform connecting hosts with travellers who help in exchange for food and accommodation — \"Give a little help, stay for free\", 2500+ volunteer stays in 100+ countries. Founded Apr 2014, Ireland. 625 active subscriptions; ~2,500 estimated users.\n\nA 12-year-old membership directory in the Workaway/WWOOF lane. Listings are user-generated, travellers pay to contact hosts. Not growing, but still paying 2 dollars–4k every month after a decade.\n\nA host needs an extra pair of hands. A traveller needs a bed. HelpStay has been matching them since 2014, and the company is in Ireland. The stay is food and a room in exchange for the help. The membership is what people pay for. The all-time Stripe total is from many years. The current subscriptions are the recent pace, not that older pile.\n\nPeople keep paying because the next trip needs another host, and the host needs the next pair of hands."
+}

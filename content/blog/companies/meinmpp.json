@@ -1,0 +1,31 @@
+{
+  "slug": "meinmpp",
+  "name": "meinMPP",
+  "listingNote": null,
+  "description": "The German company-bike scheme (Dienstrad) applied to iPhones, tablets and laptops. The employer signs a master leasing agreement and sets budgets, and staff order hardware and pay through gross-salary conversion, saving up to ~30% depending on tax bracket (founder-stated). Converting €250/month of gross salary buys roughly €4,000–5,000 of hardware (founder-stated). Homepage: \"Private Wunschtechnik ~30 % günstiger per Gehaltsumwandlung\", \"Über 250+ Unternehmen vertrauen bereits auf meinMPP\", free for employers (company-stated). Managing director Dominik Albers is the only employee; the platform is built in-house on Laravel + Filament (founder-stated).",
+  "homepage": "https://www.meinmpp.de/",
+  "image": "/blog/2026-10-19/meinmpp.webp",
+  "imageAlt": "meinMPP product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-19",
+      "evidenceKind": "self-reported",
+      "evidence": "Order volume has doubled on average every year since the January 2022 launch (founder-stated) Planning at least €2.1–2.4 million for 2026, the first year the company turns a profit (founder-stated forecast) Apple is 75–80% of order volume (founder-stated) Note: not Stripe-verified; it's a forecast, and the write-up doesn't say whether the figure is revenue or order volume.",
+      "sources": [
+        {
+          "label": "meinmpp.de",
+          "url": "https://www.meinmpp.de/"
+        },
+        {
+          "label": "Happy Bootstrapping write-up (28 Sep 2026)",
+          "url": "https://happybootstrapping.com/p/meinmpp-how-dominik-albers-brings"
+        }
+      ],
+      "indieAngle": "Poland has no Dienstrad-style tax break, but the plumbing pattern carries over: a white-label benefits/leasing portal sold through leasing companies and payroll providers, where you own the HR workflow and the partner owns the balance sheet. Alternatively, build the payroll-export/HR glue that German MPP/Dienstrad providers all need."
+    }
+  ],
+  "whyItPrints": "Payroll and tax-benefit plumbing. Employers configure the payroll export once, then only approve joiners and remove leavers (\"one customer with 200 contracts budgets half an hour a month\", founder-stated). The margin comes at the end: ~1% on iPhones up front, but after 24 months almost 90% of staff buy the device at residual value and ~70% reorder right away (founder-stated). More than half of enquiries come from a partner network of benefits platforms, leasing firms and distributors (founder-stated).",
+  "whyThisMatters": "The German company-bike scheme (Dienstrad) applied to iPhones, tablets and laptops. The employer signs a master leasing agreement and sets budgets, and staff order hardware and pay through gross-salary conversion, saving up to ~30% depending on tax bracket. Converting 250 euros/month of gross salary buys roughly 4,000 euros–5,000 of hardware. Homepage: \"Private Wunschtechnik ~30 % günstiger per Gehaltsumwandlung\", \"Über 250+ Unternehmen vertrauen bereits auf meinMPP\", free for employers. Managing director Dominik Albers is the only employee; the platform is built in-house on Laravel + Filament.\n\nPayroll and tax-benefit plumbing. Employers configure the payroll export once, then only approve joiners and remove leavers (\"one customer with 200 contracts budgets half an hour a month\", founder-stated). The margin comes at the end: ~1% on iPhones up front, but after 24 months almost 90% of staff buy the device at residual value and ~70% reorder right away. More than half of enquiries come from a partner network of benefits platforms, leasing firms and distributors."
+}

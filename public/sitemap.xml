@@ -14,15 +14,45 @@
   </url>
   <url>
     <loc>https://www.wlad.me/blog</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/about</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/2026-10-21</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/2026-10-20</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/2026-10-19</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/2026-10-18</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/2026-10-17</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/2026-10-16</loc>
@@ -139,6 +169,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/abstract27</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/acsperf</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -175,6 +211,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/anonymous-caribbean-fleet-tracking-company</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/anonymous-lawn-care-business</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/apogee</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/applyall</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -207,6 +261,24 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/backpedal</loc>
     <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/bali-villa-hub</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/bank-statement-converter</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/besttime-app</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -314,7 +386,7 @@
   </url>
   <url>
     <loc>https://www.wlad.me/blog/companies/conductor</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -361,6 +433,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/dataford</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/defined-chase</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/dotmarket-eu</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -385,8 +469,26 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/effortless-backlinks</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/elyx-ai</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/email-hackers</loc>
     <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/emailit</loc>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -457,6 +559,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/formflow</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/francopass</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -483,6 +591,18 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/get-brazil-visa</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/getlead</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/glossa-live</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -517,6 +637,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/helpstay</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/heron-copier</loc>
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -525,6 +651,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/hirevire</loc>
     <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/hugebouquets-com</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -549,6 +681,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/immowp</loc>
     <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/indexbolt</loc>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -619,6 +757,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/leadmetrics</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/legal-tech</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -627,6 +771,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/legalone</loc>
     <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/lemmilink</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -655,6 +805,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/lvi</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/magnetic-funnels</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -663,6 +819,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/maidsnblack</loc>
     <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/main-street-wealth</loc>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -681,6 +843,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/meet-for-slack</loc>
     <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/meinmpp</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -739,14 +907,38 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/nettify</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/omegleweb</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/one-care-portal</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/online-language-learning-platform</loc>
     <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/openalternative</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/orshot</loc>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -769,6 +961,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/pckgr</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/pdffiller</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/personalisierter-song-de</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -777,6 +981,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/plate-lookup</loc>
     <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/play-designer-pro</loc>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -799,8 +1009,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/practice-by-numbers</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/presscart</loc>
     <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/pro-coach</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -835,6 +1057,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/quantt</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/quizwhizzer</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -843,6 +1071,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/quotedeck</loc>
     <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/realtor-studio</loc>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -865,8 +1099,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/roombase</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/rtmp-in</loc>
     <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/safeonward</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -925,6 +1171,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/snap2pass</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/socialkit</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -933,6 +1185,24 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/soldcomps</loc>
     <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/sonar</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/speedster</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/sportsapi-pro</loc>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -991,6 +1261,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/tactical-football-analysis</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/tailride</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -1003,8 +1279,26 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/testmyapps</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/textbee</loc>
     <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/textwork</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/the-blizzard-wizard</loc>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1021,14 +1315,32 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/trackly-changeflow</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/trackssl</loc>
     <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/tradelube</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/tree-nerd-academy</loc>
     <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/tribe-social</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1063,8 +1375,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/verm-lab-tipzr</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/vignette-id</loc>
     <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/visible-privacy</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1131,6 +1455,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/writestack</loc>
     <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/writing9</loc>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

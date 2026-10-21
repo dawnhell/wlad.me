@@ -1,0 +1,31 @@
+{
+  "slug": "lemmilink",
+  "name": "LemmiLink",
+  "listingNote": null,
+  "description": "A marketplace that connects advertisers with publishers. You browse 175,000+ websites filtered by topic, metrics and price, then buy guest posts, homepage links or links inserted into pages that already rank. Writing and indexing are included, with an \"indexed or replaced\" guarantee. There are also express link packs, forum links, done-for-you SEO, a public API and an MCP server (founder-stated). Pricing: from €5 per link, pay-as-you-go wallet, packs and monthly plans (founder-stated). ~2,700 estimated users (founder-stated). Homepage: \"Des liens sur 175 000 sites vérifiés\", \"Utilisé par +70 agences SEO et 3 200 entreprises\", and an unpublished order is refunded to your wallet (company-stated). Founded Oct 2023, France, founder Sofiane.",
+  "homepage": "https://lemmilink.fr/",
+  "image": "/blog/2026-10-20/lemmilink.webp",
+  "imageAlt": "LemmiLink product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $225 · 1 active subscription (pay-per-link marketplace) Last 30 days $4,213 (-49.8%) · last 3 months $18,204 · last 6 months $34,510 Last 12 months $84,612 · all-time $134,128 · last 24 h $662 Monthly: $8,953 (Nov 2025) → $9,527 (Dec) → $9,770 (Feb) → $8,642 (Mar) → ~$5.2–6.2k (Apr–Aug) → $7,587 (Sep); Oct MTD $2,480. Down from ~$9k winter months to ~$6k, so softening. Revenue synced 20 October 2026 ~08:56 Warsaw.",
+      "sources": [
+        {
+          "label": "lemmilink.fr",
+          "url": "https://lemmilink.fr/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/lemmilink-seo-geo-with-backlink-and-ai"
+        }
+      ],
+      "indieAngle": "Poland has the same SEO market, with link sellers like WhitePress and the old SEO-marketplace crowd. A smaller wedge works: a vetted marketplace for one vertical, such as legal/finance/medical Polish publishers, with an indexing guarantee. Or sell the publisher side as SaaS: a \"list your site, get orders\" inventory tool for Polish bloggers."
+    }
+  ],
+  "whyItPrints": "Link-building is the dullest SEO chore, and agencies buy links every month. A marketplace takes a cut on every order and holds the prepaid wallet. MRR is tiny because almost everything is per-order.",
+  "whyThisMatters": "A marketplace that connects advertisers with publishers. You browse 175,000+ websites filtered by topic, metrics and price, then buy guest posts, homepage links or links inserted into pages that already rank. Writing and indexing are included, with an \"indexed or replaced\" guarantee. There are also express link packs, forum links, done-for-you SEO, a public API and an MCP server. Pricing: from 5 euros per link, pay-as-you-go wallet, packs and monthly plans. ~2,700 estimated users. Homepage: \"Des liens sur 175 000 sites vérifiés\", \"Utilisé par +70 agences SEO et 3 200 entreprises\", and an unpublished order is refunded to your wallet. Founded Oct 2023, France, founder Sofiane.\n\nLink-building is the dullest SEO chore, and agencies buy links every month. A marketplace takes a cut on every order and holds the prepaid wallet. is tiny because almost everything is per-order."
+}

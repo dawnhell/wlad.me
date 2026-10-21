@@ -196,5 +196,60 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Fassa_valley.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "sexten-valley",
+    "src": "/blog/heroes/sexten-valley.webp",
+    "alt": "A meadow and peaks above Sexten in the Dolomites",
+    "width": 1600,
+    "height": 1037,
+    "credit": "Friedrich Haag",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sexten_Au%C3%9Fergesell_001_2019_09_27.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "geirangerfjord",
+    "src": "/blog/heroes/geirangerfjord.webp",
+    "alt": "The Geirangerfjord in Norway",
+    "width": 1280,
+    "height": 958,
+    "credit": "FataMorgana",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Geirangerfjord.jpg",
+    "license": "CC BY-SA 3.0",
+    "subject": "nature"
+  },
+  {
+    "id": "torres-del-paine",
+    "src": "/blog/heroes/torres-del-paine.webp",
+    "alt": "Torres del Paine in Chile",
+    "width": 1024,
+    "height": 681,
+    "credit": "Corto Maltese 1999",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Torres_del_Paine%2C_Chile.jpg",
+    "license": "CC BY 2.0",
+    "subject": "nature"
+  },
+  {
+    "id": "inle-lake",
+    "src": "/blog/heroes/inle-lake.webp",
+    "alt": "Inle Lake in Myanmar",
+    "width": 1600,
+    "height": 1200,
+    "credit": "Siestecita",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Inle_Lake%2C_Myanmar.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "pragser-wildsee",
+    "src": "/blog/heroes/pragser-wildsee.webp",
+    "alt": "Pragser Wildsee in the Dolomites",
+    "width": 1440,
+    "height": 810,
+    "credit": "Marek Heise",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pragser_Wildsee_-_Flickr_-_Marek_Heise_Photography.jpg",
+    "license": "CC BY 2.0",
+    "subject": "nature"
   }
 ]

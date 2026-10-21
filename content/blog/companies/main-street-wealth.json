@@ -1,0 +1,31 @@
+{
+  "slug": "main-street-wealth",
+  "name": "Main Street Wealth",
+  "listingNote": null,
+  "description": "M&A advisory and valuations for home-services businesses — HVAC, plumbing, roofing, landscaping, pool, pest control (company-stated). Pitch: retiring owners whose kids don't want the family business (founder-stated). Founded 2017, US. 14 active subscriptions; L30 profit margin 80%.",
+  "homepage": "https://mainstreetwealth.ai/",
+  "image": "/blog/2026-10-17/main-street-wealth.webp",
+  "imageAlt": "Main Street Wealth product image",
+  "imageWidth": 1200,
+  "imageHeight": 800,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,029 · 14 active subscriptions Last 30 days $1,027 (-20.9%) · last 3 months $3,340 · last 6 months $6,327 Last 12 months $12,627 · all-time $75,274 L30 profit margin 80% (TrustMRR snapshot) Note: Oct 2026 MTD only $34.66 so far — recurring charges may land later in the month. Revenue synced 17 October 2026 ~06:16 Warsaw.",
+      "sources": [
+        {
+          "label": "mainstreetwealth.ai",
+          "url": "https://mainstreetwealth.ai/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/main-street-wealth"
+        }
+      ],
+      "indieAngle": "Build the valuation calculator / deal-room tool brokers in this niche use (SDE multiples for trades businesses), sold per broker seat."
+    }
+  ],
+  "whyItPrints": "Boomer-business succession is the most boring megatrend going. The Stripe slice is a small, very steady ~$1k/month recurring layer (likely not the success fees, which aren't visible here).",
+  "whyThisMatters": "M&A advisory and valuations for home-services businesses — HVAC, plumbing, roofing, landscaping, pool, pest control. Pitch: retiring owners whose kids don't want the family business. Founded 2017, US. 14 active subscriptions; profit margin on the recent snapshot 80%.\n\nBoomer-business succession is the most boring megatrend going. The Stripe slice is a small, very steady 1k dollars/month recurring layer (likely not the success fees, which aren't visible here).\n\nThe buyer is an owner who wants to retire, and whose kids do not want the trucks. The work is a valuation and a sale for a heating, plumbing, roofing, or similar shop. The company dates to 2017. The Stripe subscriptions are a small monthly layer. A success fee, if there is one, is not in this listing. I am not treating the monthly number as the whole business.\n\nThe boring megatrend is just a lot of owners reaching retirement at the same time."
+}

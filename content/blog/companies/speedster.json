@@ -1,0 +1,35 @@
+{
+  "slug": "speedster",
+  "name": "Speedster",
+  "listingNote": null,
+  "description": "iPhone/CarPlay app with a map of speed cameras, early radar alerts, speed-limit warnings, and turn-by-turn directions on the car's instrument cluster/HUD (company-stated, App Store). Tagline \"Fine trips without fines\". Free with in-app purchases. Developer Kirill Konovalov (App Store). 4.2★ from 44 ratings on the App Store page fetched today. Founded May 2020. 2,451 active subscriptions; L30 profit margin 70%. speedster.app is a video-only splash page with no og:image.",
+  "homepage": "https://speedster.app/",
+  "image": "/blog/2026-10-19/speedster.webp",
+  "imageAlt": "Speedster product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-19",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR $6,827 · 2,451 active subscriptions Last 30 days $7,659 (-5.0%) · last 3 months $22,677 · last 6 months $41,383 Last 12 months $79,110 · all-time $295,581 L30 profit margin 70% (TrustMRR snapshot) Monthly range Nov 2025 → Sep 2026: $5,609 – $8,075 (Sep highest); Oct MTD $4,810. No cliff. Revenue synced 19 October 2026 ~07:10 Warsaw.",
+      "sources": [
+        {
+          "label": "speedster.app",
+          "url": "https://speedster.app/"
+        },
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/app/id1504476115"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/speedster"
+        }
+      ],
+      "indieAngle": "CarPlay/Android Auto utilities for one local pain: Polish paid-parking zones (SPP) and odcinkowy pomiar prędkości (average-speed sections), toll-road e-TOLL reminders, or truck-legal routing. Sell it as a fines-avoided subscription."
+    }
+  ],
+  "whyItPrints": "Avoiding speeding fines is a habit purchase. Drivers keep the subscription for years, and the camera database is the moat. Very flat ~$6–8k every month for a year, and almost $300k lifetime from one utility app.",
+  "whyThisMatters": "iPhone/CarPlay app with a map of speed cameras, early radar alerts, speed-limit warnings, and turn-by-turn directions on the car's instrument cluster/HUD. Tagline \"Fine trips without fines\". Free with in-app purchases. Developer Kirill Konovalov (App Store). 4.2★ from 44 ratings on the App Store page fetched today. Founded May 2020. 2,451 active subscriptions; the last 30 days profit margin 70%. speedster.app is a video-only splash page with no og:image.\n\nAvoiding speeding fines is a habit purchase. Drivers keep the subscription for years, and the camera database is the moat. Very flat 6 dollars–8k every month for a year, and almost 300k dollars lifetime from one utility app."
+}

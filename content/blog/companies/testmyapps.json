@@ -1,0 +1,31 @@
+{
+  "slug": "testmyapps",
+  "name": "TestMyApps",
+  "listingNote": null,
+  "description": "New personal Google Play developer accounts must have 12 testers opted in for 14 continuous days before they get production access. TestMyApps supplies \"14 real testers for 16 days\", two testers and two days above the minimum. It coordinates the official opt-ins, monitors participation daily, replaces dropouts and writes a closeout report for your production-access application (company-stated). Pricing: Standard $15 / $29, Functionality $50 / $99. Free retest, then a full refund if still not approved. Claims a \"99.9% approval rate\" and notes that \"Google makes the final production-access decision\" (company-stated). The site is translated into 16 languages and cross-sells \"StoreShots AI\".",
+  "homepage": "https://testmyapps.app/",
+  "image": "/blog/2026-10-21/testmyapps.webp",
+  "imageAlt": "TestMyApps product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "dodo-verified",
+      "evidence": "MRR $0 (one-off packages) · 0 subscriptions Last 30 days $2,167 (+164.4%) · last 3 months $2,987 · all-time $2,987 Monthly: $137 (Aug 2026) → $1,205 (Sep) → $1,644 (Oct MTD). Three months old and accelerating. Revenue synced 21 October 2026 ~08:10 Warsaw.",
+      "sources": [
+        {
+          "label": "testmyapps.app",
+          "url": "https://testmyapps.app/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/testmyapps"
+        }
+      ],
+      "indieAngle": "Hunt for other platform hoops with a deadline: Apple/Google account verification, the EU DSA \"trader status\" for app sellers, Amazon Brand Registry, Meta business verification. Sell \"done for you, refund if rejected\" at $15–99. Small tickets, high intent, SEO on the exact rule name."
+    }
+  ],
+  "whyItPrints": "It's pure platform-rule compliance. Every first-time Android publisher hits this wall, searches for it and pays a small sum to get past it. Nothing to integrate, no churn problem (one-off per app), and demand grows with every new indie app.",
+  "whyThisMatters": "New personal Google Play developer accounts must have 12 testers opted in for 14 continuous days before they get production access. TestMyApps supplies \"14 real testers for 16 days\", two testers and two days above the minimum. It coordinates the official opt-ins, monitors participation daily, replaces dropouts and writes a closeout report for your production-access application. Pricing: Standard 15 dollars / 29, dollars Functionality 50 dollars / 99. dollars Free retest, then a full refund if still not approved. Claims a \"99.9% approval rate\" and notes that \"Google makes the final production-access decision\". The site is translated into 16 languages and cross-sells \"StoreShots AI\".\n\nIt's pure platform-rule compliance. Every first-time Android publisher hits this wall, searches for it and pays a small sum to get past it. Nothing to integrate, no churn problem (one-off per app), and demand grows with every new indie app."
+}

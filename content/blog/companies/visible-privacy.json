@@ -1,0 +1,31 @@
+{
+  "slug": "visible-privacy",
+  "name": "Visible Privacy",
+  "listingNote": null,
+  "description": "Cookie-consent management platform: banners, automated GDPR & CCPA consent tracking, Google Consent Mode v2 compatibility, and an open-source enterprise edition (company-stated). Pricing: Essential €7/mo (1 domain, 1,000 consent interactions), Pro €15/mo (3 domains, 10,000 interactions), Max €33, Elite €55, Enterprise contact sales. It's priced per interaction rather than per page view, plus an agency partner and reseller program (founder-stated + homepage). Founded Aug 2024, Spain. 77 subscriptions.",
+  "homepage": "https://www.visibleprivacy.com/",
+  "image": "/blog/2026-10-20/visible-privacy.webp",
+  "imageAlt": "Visible Privacy product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,792 · 77 active subscriptions Last 30 days $1,494 (+4.4%) · last 3 months $10,488 · last 6 months $15,650 Last 12 months $24,176 · all-time $33,394 Monthly: ~$0.8–2.6k (Nov 2025 → Jul 2026) → $6,755 (Aug, one-off spike, probably annual/enterprise deals; not stated) → $1,437 (Sep); Oct MTD $769. Revenue synced 20 October 2026 ~04:19 Warsaw.",
+      "sources": [
+        {
+          "label": "visibleprivacy.com",
+          "url": "https://www.visibleprivacy.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/visible-privacy"
+        }
+      ],
+      "indieAngle": "The CMP market is crowded (Cookiebot, CookieYes), so the angle is distribution. Sell a Polish-language \"RODO pakiet\" (consent banner + privacy policy + cookie scan) to web agencies and WordPress freelancers as white-label, priced per client site."
+    }
+  ],
+  "whyItPrints": "It's legally required on every EU website, and Google Consent Mode v2 made it a hard dependency for anyone running Google Ads. Small sites pay €7–15 a month forever and never think about it again, and agencies resell it.",
+  "whyThisMatters": "Cookie-consent management platform: banners, automated GDPR & CCPA consent tracking, Google Consent Mode v2 compatibility, and an open-source enterprise edition. Pricing: Essential 7 euros a month (1 domain, 1,000 consent interactions), Pro 15 euros a month (3 domains, 10,000 interactions), Max 33, euros Elite 55, euros Enterprise contact sales. It's priced per interaction rather than per page view, plus an agency partner and reseller program. Founded Aug 2024, Spain. 77 subscriptions.\n\nIt's legally required on every EU website, and Google Consent Mode v2 made it a hard dependency for anyone running Google Ads. Small sites pay 7 euros–15 a month forever and never think about it again, and agencies resell it."
+}

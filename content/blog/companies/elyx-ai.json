@@ -1,0 +1,31 @@
+{
+  "slug": "elyx-ai",
+  "name": "Elyx AI",
+  "listingNote": null,
+  "description": "B2B Excel add-in with an AI agent that runs finance workflows (consolidation, reporting, variance analysis) directly in Excel, \"every formula verifiable, every cell traceable\" (company-stated). Targets accounting firms, industrial SMEs, freelance controllers, SME CFOs and chartered accountants in France. Pricing: Starter €29/mo, Pro €59/mo, Team €119/mo (company-stated). Founded Jun 2023, France. 128 active subscriptions; L30 profit margin 65%. It has \"AI\" in the name, but the buyer and the job are pure accounting glue.",
+  "homepage": "https://getelyxai.com/",
+  "image": "/blog/2026-10-18/elyx-ai.webp",
+  "imageAlt": "Elyx AI product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,744 · 128 active subscriptions Last 30 days $6,513 (+667.1%) · last 3 months $9,429 · last 6 months $19,359 Last 12 months $53,020 · all-time $74,011 For sale: asking $79,000 (1.0x), first listed 27 May 2026, 8 offers received Note: spike-then-cliff, now bouncing — $18,819 (Feb 2026) → $7,306 (Apr) → ~$1.1k (Aug–Sep) → $5,910 Oct MTD. Revenue synced 18 October 2026 ~00:41 Warsaw.",
+      "sources": [
+        {
+          "label": "getelyxai.com",
+          "url": "https://getelyxai.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/elyx-ai"
+        }
+      ],
+      "indieAngle": "Excel/Google Sheets add-in for one local accounting chore: Polish JPK/KSeF reconciliation, VAT split-payment checks, or bank-statement matching. Per-seat, sold to biura rachunkowe (accounting offices)."
+    }
+  ],
+  "whyItPrints": "Finance teams live in Excel and won't leave. An add-in that sits inside the spreadsheet (not another web app) is the Conductor pattern: meet the legacy tool where it already is. Seller says the recent dip is because he stepped back to do consulting, \"not a product issue\" (seller-stated).",
+  "whyThisMatters": "B2B Excel add-in with an AI agent that runs finance workflows (consolidation, reporting, variance analysis) directly in Excel, \"every formula verifiable, every cell traceable\". Targets accounting firms, industrial SMEs, freelance controllers, SME CFOs and chartered accountants in France. Pricing: Starter 29 euros a month, Pro 59 euros a month, Team 119 euros a month. Founded Jun 2023, France. 128 active subscriptions; the last 30 days profit margin 65%. It has \"AI\" in the name, but the buyer and the job are pure accounting glue.\n\nFinance teams live in Excel and won't leave. An add-in that sits inside the spreadsheet (not another web app) is the Conductor pattern: meet the legacy tool where it already is. Seller says the recent dip is because he stepped back to do consulting, \"not a product issue\"."
+}

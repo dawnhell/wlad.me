@@ -1,0 +1,39 @@
+{
+  "slug": "pckgr",
+  "name": "Pckgr",
+  "listingNote": "Packager",
+  "description": "Browser-based tool that packages, deploys and auto-updates apps into Microsoft Intune with one click, for IT admins and MSPs (company-stated). Founder Thomas (ex-MSP/Intune consultant). Started at $25/mo; current tiers $49/mo (≤100 devices), $99/mo (MSP multi-tenant), $149/mo (larger fleets + custom apps) (company-stated). Built on Bubble + GitHub Actions + Azure (founder-stated).",
+  "homepage": "https://www.intunepckgr.com/",
+  "image": "/blog/2026-10-17/pckgr.webp",
+  "imageAlt": "Pckgr product image",
+  "imageWidth": 1024,
+  "imageHeight": 1024,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "self-reported",
+      "evidence": "~$60,000/month (founder-stated) Annual revenue $447k → $910k year over year (founder-stated, shown on screen) \"Thousands of paying customers\", 100% bootstrapped (Starter Story narration) Note: not Stripe-verified. A third-party write-up (small-start.com) cites $83k/month — unconfirmed, not used above.",
+      "sources": [
+        {
+          "label": "intunepckgr.com",
+          "url": "https://www.intunepckgr.com/"
+        },
+        {
+          "label": "Starter Story video (16 Mar 2026)",
+          "url": "https://www.starterstory.com/tom"
+        },
+        {
+          "label": "Pckgr pricing docs",
+          "url": "https://docs.intunepckgr.com/about-pckgr/pckgr-pricing-model"
+        },
+        {
+          "label": "small-start.com",
+          "url": "https://small-start.com/en/cases/global-carving-out-a-1m-yr-niche-out-of-the-microsoft-e/"
+        }
+      ],
+      "indieAngle": "Find the \"one tedious admin step\" in another legacy admin console (Google Workspace, Jamf, Entra ID, Polish e-invoicing KSeF) and sell the one-click version to MSPs at $49–$149/mo."
+    }
+  ],
+  "whyItPrints": "Packaging one Windows app for Intune can take an hour by hand (founder-stated). This is legacy-enterprise glue for IT admins — the Conductor pattern exactly: small, deep, compliance-minded buyers with very low churn.",
+  "whyThisMatters": "Browser-based tool that packages, deploys and auto-updates apps into Microsoft Intune with one click, for IT admins and MSPs. Founder Thomas (ex-MSP/Intune consultant). Started at 25 dollars a month; current tiers 49 dollars a month (≤100 devices), 99 dollars a month (MSP multi-tenant), 149 dollars a month (larger fleets + custom apps). Built on Bubble + GitHub Actions + Azure.\n\nPackaging one Windows app for Intune can take an hour by hand. This is legacy-enterprise glue for IT admins — the Conductor pattern exactly: small, deep, compliance-minded buyers with very low churn.\n\nAn IT admin has to wrap a Windows app so Intune will install it and keep it updated. By hand, that can take an hour. This does the wrap in the browser. The plans step up with the number of devices, and there is one for a shop that manages many clients. The founder used to do this work as a consultant. The monthly number is his, from a 2026 interview, not a Stripe connection."
+}

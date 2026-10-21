@@ -1,0 +1,31 @@
+{
+  "slug": "pro-coach",
+  "name": "PRO COACH",
+  "listingNote": null,
+  "description": "Customizable coaching platform to manage clients, build training plans, track progress and run a PT business \"without another monthly software subscription\" (company-stated). Sold by Harrison Wallace, a \"Certified Notion Creator\" (homepage), so this looks like a Notion-based system rather than custom software (my read of the homepage). Pricing: $129 one-time, lifetime access (founder-stated). Homepage: \"Trusted by 1,500+ coaches\"; ~1,500 estimated users (founder-stated). Founded Nov 2024, UK. MRR shows $0 because it's all one-time sales. Image is the page's og:image (WebP, converted to PNG).",
+  "homepage": "https://harrisonwallace.co/subscription-free-personal-trainer-software",
+  "image": "/blog/2026-10-19/pro-coach.webp",
+  "imageAlt": "PRO COACH product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-19",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-time product) · 0 subscriptions Last 30 days $3,095 (-15.6%) · last 3 months $11,776 · last 6 months $26,183 Last 12 months $61,711 · all-time $61,711 Monthly: $2,188 (Nov 2025) → $8,684 (Jan 2026) → ~$6.4–6.6k (Feb–Apr) → ~$4.5–4.8k (May–Aug) → $3,892 (Sep); Oct MTD $1,885. Slow decline after the New-Year spike. Revenue synced 19 October 2026 ~08:51 Warsaw.",
+      "sources": [
+        {
+          "label": "harrisonwallace.co",
+          "url": "https://harrisonwallace.co/subscription-free-personal-trainer-software"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/harrisonwallace-co"
+        }
+      ],
+      "indieAngle": "\"Anti-subscription\" one-time Notion/Sheets back-office for another small trade that resents SaaS fees: physiotherapists, driving instructors, tattoo studios, tutors. $99–149 once, sold on SEO for \"<trade> software no subscription\"."
+    }
+  ],
+  "whyItPrints": "It's positioned against Trainerize/TrueCoach subscriptions: \"pay once, own it\". It's a template business for a trade with tight margins. But it's sliding off a January peak.",
+  "whyThisMatters": "Customizable coaching platform to manage clients, build training plans, track progress and run a PT business \"without another monthly software subscription\". Sold by Harrison Wallace, a \"Certified Notion Creator\", so this looks like a Notion-based system rather than custom software. Pricing: 129 dollars one-time, lifetime access. Homepage: \"Trusted by 1,500+ coaches\"; ~1,500 estimated users. Founded Nov 2024, UK. shows 0 dollars because it's all one-time sales. Image is the page's og:image (WebP, converted to PNG).\n\nIt's positioned against Trainerize/TrueCoach subscriptions: \"pay once, own it\". It's a template business for a trade with tight margins. But it's sliding off a January peak."
+}

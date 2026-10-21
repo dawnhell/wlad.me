@@ -1,0 +1,31 @@
+{
+  "slug": "indexbolt",
+  "name": "IndexBolt",
+  "listingNote": null,
+  "description": "Submit URLs or backlinks and it pushes them into Google's crawl queue. Standard indexing costs 1 credit/URL (\"<6 hours for most links\"); Instant costs 10 credits/URL (\"<1 hour\"). 100 free credits to start, no subscription, plus an API and a pile of free SEO tools (index checker, robots.txt tester, etc.) as SEO bait (company-stated). One-time packs: Starter $25, Growth $90, Pro $210, Enterprise $1,000 (founder-stated). Founded Aug 2023, India.",
+  "homepage": "https://www.indexbolt.com/",
+  "image": "/blog/2026-10-21/indexbolt.webp",
+  "imageAlt": "IndexBolt product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (credit packs) · 0 subscriptions Last 30 days $4,098 (+732%) · last 12 months $17,902 · all-time $129,941 Monthly: $3,660 (Dec 2025) → $30 (Jan) → $350 (Mar) → $1,605 (May) → $5,940 (Jun) → $480 (Jul) → $3,993 (Sep) → $458 (Oct MTD) Caveat: the last 12 months are only ~14% of all-time, so most of the $130k came before Oct 2025. It's lumpy agency bulk buys, not a steady run-rate. Revenue synced 21 October 2026 ~06:38 Warsaw.",
+      "sources": [
+        {
+          "label": "indexbolt.com",
+          "url": "https://www.indexbolt.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/indexbolt-com-index-you-links-in-google"
+        }
+      ],
+      "indieAngle": "Consumable credits sold to agencies are a great model. Pair it with the link marketplaces from earlier briefs (LemmiLink, Effortless Backlinks). A Polish \"zaindeksuj linki\" API with an index-status checker for SEO agencies could be a small, sticky side product."
+    }
+  ],
+  "whyItPrints": "Every link builder and agency has the same chore: links don't count until Google crawls them. Credits are consumable, so agencies come back every month without a \"subscription\".",
+  "whyThisMatters": "Submit URLs or backlinks and it pushes them into Google's crawl queue. Standard indexing costs 1 credit/URL (\"<6 hours for most links\"); Instant costs 10 credits/URL (\"<1 hour\"). 100 free credits to start, no subscription, plus an API and a pile of free SEO tools (index checker, robots.txt tester, etc.) as SEO bait. One-time packs: Starter 25, dollars Growth 90, dollars Pro 210, dollars Enterprise 1,000. dollars Founded Aug 2023, India.\n\nEvery link builder and agency has the same chore: links don't count until Google crawls them. Credits are consumable, so agencies come back every month without a \"subscription\".\n\nA new link does not help until Google has fetched it. You spend a credit to ask for that fetch, and a bigger pile of credits if you want it sooner. There is a free starter pile, then one-time packs. No subscription. The company is in India and dates to 2023. The all-time total is much older than the last month, and the months jump around."
+}

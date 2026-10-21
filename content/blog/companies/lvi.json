@@ -1,0 +1,31 @@
+{
+  "slug": "lvi",
+  "name": "LVI",
+  "listingNote": "Five Media Lab",
+  "description": "LinkedIn prospecting run from the customer's own profile: profile visits, connection requests and personalized follow-ups, with replies from directors and decision makers \"hand-delivered to you\" (company-stated). Homepage now pitches it as a \"managed service, not another tool to learn\" with a 15-day free trial, no card (company-stated). Pricing: $149.99 per user/month, with discounts for extra users and prepayment (founder-stated). ~500 estimated users (founder-stated). Five Media Lab LTD, Cyprus; bilingual Spanish/English site. 22 active subscriptions; L30 profit margin 65%.",
+  "homepage": "https://fivemedialab.com/en",
+  "image": "/blog/2026-10-19/lvi.webp",
+  "imageAlt": "LVI product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-19",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,079 · 22 active subscriptions Last 30 days $5,068 (+11.6%) · last 3 months $13,870 · last 6 months $31,738 Last 12 months $65,400 · all-time $104,076 L30 profit margin 65% (TrustMRR snapshot) For sale: asking $135,000 (2.2x), first listed 6 Sep 2026, 0 offers so far, 1,137 interested buyers viewed. Seller: \"I've been with Five Media Lab for 11 years, and it's time to let it go\" (seller-stated). Monthly range Nov 2025 → Sep 2026: $4,884 – $6,115; Oct MTD $2,726. Risk: LinkedIn automation lives at the mercy of LinkedIn's ToS and account limits. Revenue synced 19 October 2026 ~08:08 Warsaw.",
+      "sources": [
+        {
+          "label": "fivemedialab.com",
+          "url": "https://fivemedialab.com/en"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/fiveml-ltd"
+        }
+      ],
+      "indieAngle": "Managed outreach for one vertical where you know the buyer list (Polish software houses selling to DACH, or accounting offices). \"We run it from your profile, you only answer replies\" at a flat per-seat price."
+    }
+  ],
+  "whyItPrints": "Outbound-as-a-service for founders and sales reps at a flat monthly price per seat. Revenue has sat at ~$5–6k almost every month for a year, with ~22 seats at $150 each.",
+  "whyThisMatters": "LinkedIn prospecting run from the customer's own profile: profile visits, connection requests and personalized follow-ups, with replies from directors and decision makers \"hand-delivered to you\". Homepage now pitches it as a \"managed service, not another tool to learn\" with a 15-day free trial, no card. Pricing: 149.99 dollars per user/month, with discounts for extra users and prepayment. ~500 estimated users. Five Media Lab LTD, Cyprus; bilingual Spanish/English site. 22 active subscriptions; the last 30 days profit margin 65%.\n\nOutbound-as-a-service for founders and sales reps at a flat monthly price per seat. Revenue has sat at 5 dollars–6k almost every month for a year, with ~22 seats at 150 dollars each."
+}

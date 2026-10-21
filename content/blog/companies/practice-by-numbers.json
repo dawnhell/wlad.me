@@ -1,0 +1,31 @@
+{
+  "slug": "practice-by-numbers",
+  "name": "Practice by Numbers",
+  "listingNote": null,
+  "description": "Dental practice software that sits on top of the practice-management system (Dentrix, Open Dental and the other big five) rather than replacing it. It started as analytics. Co-founder Rohit Garg was \"running SQL queries for [his dentist wife] in the database, in the back end\". It then added online booking, intake forms, VoIP phones, payments (via Adyen / Stripe) and websites. It pulls data from the PMS, QuickBooks, phones and Google Analytics. Five integrations cover the PMS systems used by \"70,000 to 80,000 dental offices\" (company-stated).",
+  "homepage": "https://practicenumbers.com/",
+  "image": "/blog/2026-10-21/practice-by-numbers.webp",
+  "imageAlt": "Practice by Numbers product image",
+  "imageWidth": 780,
+  "imageHeight": 623,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR $12.5M (end-2025) · target ~$16.5M by end-2026 · $0 outside funding EBITDA ~24% (2025) · free cash flow ~$1.5M (2025) ARR ladder: $1M (2018) → $2M (2021, relaunch after COVID) → ~$4M (2023) → ~$8M (2024) → $12.5M (2025) 1,300–1,400 top-level customers · ~2,000 locations · 5,000–6,000 providers ~$12–13k per location per year on average, $18–19k fully loaded · largest customer ~$250k/yr (40 locations) · 80 staff, 17–18 engineers",
+      "sources": [
+        {
+          "label": "practicenumbers.com",
+          "url": "https://practicenumbers.com/"
+        },
+        {
+          "label": "Latka interview breakdown + transcript (recorded 21 Apr, published 11 Aug 2026)",
+          "url": "https://getlatka.com/interviews/practice-by-numbers-rohit-garg-2026"
+        }
+      ],
+      "indieAngle": "Same play for a Polish vertical that runs on old desktop software. Gabinety stomatologiczne on Mediporta/KS-SOMED-style systems, or biura rachunkowe on Symfonia / Optima / Subiekt. Read the local database and sell the owner dashboards and reminders the vendor never built, at 200–500 zł/mo per location."
+    }
+  ],
+  "whyItPrints": "This is Conductor's pattern one level up: legacy desktop systems dentists will never leave, with a modern layer bolted on top. All sales are inbound and word-of-mouth (company-stated). Payments are the hidden upsell: ~$190M GMV in year one, with \"~$2B\" more processable inside the existing base (company-stated).",
+  "whyThisMatters": "Dental practice software that sits on top of the practice-management system (Dentrix, Open Dental and the other big five) rather than replacing it. It started as analytics. Co-founder Rohit Garg was \"running SQL queries for [his dentist wife] in the database, in the back end\". It then added online booking, intake forms, VoIP phones, payments (via Adyen / Stripe) and websites. It pulls data from the PMS, QuickBooks, phones and Google Analytics. Five integrations cover the PMS systems used by \"70,000 to 80,000 dental offices\".\n\nThis is Conductor's pattern one level up: legacy desktop systems dentists will never leave, with a modern layer bolted on top. All sales are inbound and word-of-mouth. Payments are the hidden upsell: 190M dollars GMV in year one, with \"2 dollarsB\" more processable inside the existing base."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "quantt",
+  "name": "Quantt",
+  "listingNote": null,
+  "description": "Interactive courses in quant finance, maths and tech. Every lesson is code you write and tests you pass, e.g. a momentum backtest with a kill-switch on drawdown (company-stated). Meta description: \"60+ interactive courses\" covering Python for finance, derivatives pricing, portfolio theory, risk management (company-stated). Pricing: £39.95/month, £249.95/year, enterprise custom, 30-day money-back (founder-stated). Target: CS grads, career changers, juniors breaking into quant (founder-stated). Founded Dec 2025, UK. 154 active subscriptions.",
+  "homepage": "https://www.quantt.co.uk/",
+  "image": "/blog/2026-10-20/quantt.webp",
+  "imageAlt": "Quantt product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,058 · 154 active subscriptions Last 30 days $7,908 (+32.4%) · last 3 months $17,875 · last 6 months $30,279 Last 12 months / all-time $34,596 Monthly: $232 (Feb 2026) → $1,623 (Mar) → $4,037 (Apr) → $3,117 (May) → ~$4.4–4.7k (Jun–Aug) → $7,376 (Sep); Oct MTD $4,531. Revenue synced 20 October 2026 ~06:00 Warsaw.",
+      "sources": [
+        {
+          "label": "quantt.co.uk",
+          "url": "https://www.quantt.co.uk/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quantt"
+        }
+      ],
+      "indieAngle": "\"Learn by passing tests\" for another paid career gate: Excel/VBA for Big 4 audit juniors, SQL for analysts, actuarial exam prep, or Polish CFA/ACCA candidates. Use auto-graded exercises in the browser and an annual plan priced for students."
+    }
+  ],
+  "whyItPrints": "Like Dataford (19 Oct) and Writing9 (18 Oct): an evergreen career gate, with high-income buyers who pay £40/month without blinking. Interactive coding with auto-graded tests is hard to copy with a YouTube playlist. It went from zero to ~$6k MRR in ten months.",
+  "whyThisMatters": "Interactive courses in quant finance, maths and tech. Every lesson is code you write and tests you pass, e.g. a momentum backtest with a kill-switch on drawdown. Meta description: \"60+ interactive courses\" covering Python for finance, derivatives pricing, portfolio theory, risk management. Pricing: 39.95 pounds/month, 249.95 pounds/year, enterprise custom, 30-day money-back. Target: CS grads, career changers, juniors breaking into quant. Founded Dec 2025, UK. 154 active subscriptions.\n\nLike Dataford (19 Oct) and Writing9 (18 Oct): an evergreen career gate, with high-income buyers who pay 40 pounds/month without blinking. Interactive coding with auto-graded tests is hard to copy with a YouTube playlist. It went from zero to 6k dollars in ten months."
+}

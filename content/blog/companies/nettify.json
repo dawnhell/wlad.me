@@ -1,0 +1,31 @@
+{
+  "slug": "nettify",
+  "name": "NETTIFY",
+  "listingNote": null,
+  "description": "Website builder for SMBs: describe the business (or edit manually), start from Norwegian templates, connect a domain, with built-in analytics, lead capture and booking (founder-stated). Homepage: \"500+ nettsider laget med Nettify\", .no domains from 99 kr/year, a done-for-you site \"fra 800 kr/mnd, ingen binding\", an SEO service \"fra 3 200 kr/mnd\", plus a Vipps-checkout webshop and a \"Shopify headless\" offer (company-stated). Founded Jan 2026, Norway. 51 subscriptions; L30 margin 85%.",
+  "homepage": "https://nettify.no/",
+  "image": "/blog/2026-10-20/nettify.webp",
+  "imageAlt": "NETTIFY product image",
+  "imageWidth": 1200,
+  "imageHeight": 629,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,915 · 51 active subscriptions Last 30 days $4,193 (+26.4%) · last 3 months $9,585 · last 6 months $15,534 Last 12 months / all-time $17,942 L30 profit margin 85% (TrustMRR snapshot) For sale: asking $199,000 (4.0x), first listed 29 May 2026, 8 offers, 1,852 interested buyers viewed. Seller: \"Selling to focus on other projects… a fully-built website builder for SMBs… modern, well-documented codebase\" (seller-stated). Monthly: $942 (Feb 2026) → $341 (Mar) → ~$1.96–2.18k (Apr–Jun) → $1,222 (Jul) → $3,312 (Aug) → $2,727 (Sep) → $3,148 Oct MTD (already above September). Note: 4.0x on under a year of history is rich. Revenue synced 20 October 2026 ~06:42 Warsaw.",
+      "sources": [
+        {
+          "label": "nettify.no",
+          "url": "https://nettify.no/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/nettify"
+        }
+      ],
+      "indieAngle": "The Polish version: \"strona + domena .pl + Google Business + SEO\" bundle for local trades, with a done-for-you tier at ~199 zł/mo and SEO at ~1,500 zł/mo. Sell through accounting offices and the CEIDG new-company registrations list."
+    }
+  ],
+  "whyItPrints": "The AI editor is the hook, but the money is boring: domain + hosting + monthly SEO retainers for local Norwegian firms in a high-price market, sold in the local language.",
+  "whyThisMatters": "Website builder for SMBs: describe the business (or edit manually), start from Norwegian templates, connect a domain, with built-in analytics, lead capture and booking. Homepage: \"500+ nettsider laget med Nettify\",.no domains from 99 kr/year, a done-for-you site \"fra 800 kr/mnd, ingen binding\", an SEO service \"fra 3 200 kr/mnd\", plus a Vipps-checkout webshop and a \"Shopify headless\" offer. Founded Jan 2026, Norway. 51 subscriptions; the last 30 days margin 85%.\n\nThe AI editor is the hook, but the money is boring: domain + hosting + monthly SEO retainers for local Norwegian firms in a high-price market, sold in the local language."
+}

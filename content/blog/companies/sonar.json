@@ -1,0 +1,31 @@
+{
+  "slug": "sonar",
+  "name": "Sonar",
+  "listingNote": null,
+  "description": "ASO dashboard for iOS App Store and Google Play: keyword research (popularity and difficulty), daily rank tracking, competitor and keyword-gap analysis, review monitoring, app revenue estimates (company-stated). From $25/mo for up to 10 apps, both stores, full history (company-stated). ~202 estimated users (founder-stated). Founded Mar 2026, Slovakia. 184 active subscriptions.",
+  "homepage": "https://trysonar.app/",
+  "image": "/blog/2026-10-18/sonar.webp",
+  "imageAlt": "Sonar product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $3,976 · 184 active subscriptions Last 30 days $4,565 (+25.6%) · last 3 months $11,169 · last 6 months $14,604 Last 12 months $14,689 · all-time $14,689 Monthly: $115 (Apr 2026) → $1,389 (Jun) → $3,048 (Aug) → $4,325 (Sep); Oct MTD $2,314. No cliff. Revenue synced 18 October 2026 ~05:54 Warsaw.",
+      "sources": [
+        {
+          "label": "trysonar.app",
+          "url": "https://trysonar.app/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/sonar-aso-tool"
+        }
+      ],
+      "indieAngle": "Rank tracker for a different store: Shopify App Store, Chrome Web Store, WordPress.org plugins, or Google Maps local rank for a Polish city. Same daily-check habit, $25/mo."
+    }
+  ],
+  "whyItPrints": "Rank tracking is a habit product — devs check it daily and keep paying. Cheap entry price for indies, priced under the AppTweak/Sensor Tower tier. Went from $0 to ~$4k MRR in about six months.",
+  "whyThisMatters": "ASO dashboard for iOS App Store and Google Play: keyword research (popularity and difficulty), daily rank tracking, competitor and keyword-gap analysis, review monitoring, app revenue estimates. From 25 dollars a month for up to 10 apps, both stores, full history. ~202 estimated users. Founded Mar 2026, Slovakia. 184 active subscriptions.\n\nRank tracking is a habit product — devs check it daily and keep paying. Cheap entry price for indies, priced under the AppTweak/Sensor Tower tier. Went from 0 dollars to 4k dollars in about six months.\n\nYou add the apps you ship. It watches the keywords, the rank, the reviews, and the competing apps, on both phone stores. The entry plan covers a small set of apps and the history. The company is in Slovakia and only started in 2026. The subscription count is already larger than the founder’s user estimate, so I am not treating those as the same number."
+}

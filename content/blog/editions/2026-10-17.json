@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-17",
+  "title": "Saturday's boring SaaS, 17 October 2026",
+  "dek": "Saturday, 17 October 2026. Eight are Stripe-verified. Bank Statement Converter and Pckgr said their own numbers, so those two are self-reported.",
+  "heroId": "sexten-valley",
+  "companies": [
+    {
+      "slug": "openalternative",
+      "name": "OpenAlternative",
+      "listingNote": null,
+      "description": "Directory that lists open-source alternatives to popular proprietary software (company-stated). ~12,000 estimated users (founder-stated). Founded Feb 2024, Poland (TrustMRR). Sells ad placements: Silver $147/mo (~90k impressions), Gold $297/mo (~350k), Platinum $597/mo (~650k) (company-stated, /advertise page). 24 active subscriptions.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,183 · 24 active subscriptions Last 30 days $7,606 (+42.3%) · last 3 months $19,699 · last 6 months $37,648 Last 12 months $76,021 · all-time $123,480 Monthly range Nov 2025 → Sep 2026: $4,101 – $7,851 (no cliff) Revenue synced 17 October 2026 ~10:04 Warsaw.",
+      "sources": [
+        {
+          "label": "openalternative.co",
+          "url": "https://openalternative.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/openalternative"
+        }
+      ],
+      "homepage": "https://openalternative.co/",
+      "indieAngle": "Pick a narrower \"alternatives to X\" niche (EU-hosted / GDPR-safe SaaS, Polish-language tools, self-hosted analytics) and sell sponsor slots from day one. Pure Next.js + Supabase + Stripe subscriptions.",
+      "whyItPrints": "A list of software, monetised with old-school sponsor slots. No product to support, no churn drama — just SEO traffic and dev-tool companies paying monthly to be seen. Revenue has been flat-to-up every month for a year, which is exactly what \"boring\" should look like.",
+      "image": "/blog/2026-10-17/openalternative.webp",
+      "imageAlt": "OpenAlternative product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "play-designer-pro",
+      "name": "Play Designer Pro",
+      "listingNote": null,
+      "description": "Play design tool for (American) football offenses that auto-generates quizzes so players learn the playbook before game day (company-stated). Aimed at football coaches and teams. Founded Jun 2025, UK. 260 active subscriptions.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,018 · 260 active subscriptions Last 30 days $6,835 (-8.7%) · last 3 months $19,146 · last 6 months $25,528 Last 12 months $29,368 · all-time $29,915 Note: strongly seasonal (Aug–Sep 2026 = $6.4k / $6.8k months; Jan–Mar 2026 = $540–$900). Revenue synced 17 October 2026 ~04:12 Warsaw.",
+      "sources": [
+        {
+          "label": "playdesignerpro.com",
+          "url": "https://www.playdesignerpro.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/play-designer-pro"
+        }
+      ],
+      "homepage": "https://www.playdesignerpro.com/",
+      "indieAngle": "Same playbook-plus-quiz pattern for a sport Europe actually plays (football/soccer set pieces, handball, volleyball rotations). Sell to coaches per team per season.",
+      "whyItPrints": "Vertical tool for a stubborn, spreadsheet-and-whiteboard audience (high-school coaches) with a seasonal buying moment. The quiz angle is what competitors don't do (founder-stated). Revenue went from ~$500/mo to ~$6.8k/mo in about six months as the season started.",
+      "image": "/blog/2026-10-17/play-designer-pro.webp",
+      "imageAlt": "Play Designer Pro product image",
+      "imageWidth": 1200,
+      "imageHeight": 627
+    },
+    {
+      "slug": "leadmetrics",
+      "name": "LeadMetrics",
+      "listingNote": null,
+      "description": "Ad and lead tracking / attribution software for B2C and B2B performance marketers and agencies — traces each lead from ad click to closed deal, integrates with 20+ tools incl. HubSpot and Close (company-stated). From €49/mo, 10-day free trial, DSGVO/GDPR positioning (company-stated). ~150 estimated users (founder-stated). Founded Jul 2024, Austria. L30 profit margin 80%.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,600 · 35 active subscriptions Last 30 days $5,352 (-1.6%) · last 3 months $16,300 · last 6 months $32,846 Last 12 months $76,490 · all-time $95,423 L30 profit margin 80% (TrustMRR snapshot) Revenue synced 17 October 2026 ~08:45 Warsaw.",
+      "sources": [
+        {
+          "label": "lead-metrics.com",
+          "url": "https://www.lead-metrics.com/en"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/leadmetrics"
+        }
+      ],
+      "homepage": "https://www.lead-metrics.com/en",
+      "indieAngle": "Attribution for one stack (Meta ads → Calendly → Stripe) and one country's privacy rules, sold to small agencies.",
+      "whyItPrints": "\"Which ad actually produced revenue?\" is the oldest agency question there is. DACH agencies pay for a GDPR-safe answer. Stable ~$5–6k months since spring.",
+      "image": "/blog/2026-10-17/leadmetrics.webp",
+      "imageAlt": "LeadMetrics product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "the-blizzard-wizard",
+      "name": "The Blizzard Wizard",
+      "listingNote": null,
+      "description": "Residential-only snow removal across Toronto, North York, Markham, Vaughan, Richmond Hill and Scarborough: driveway clearing, sidewalk shovelling, 24/7 emergency plowing; \"unlimited visits\" seasonal service (company-stated). Founded Oct 2025, Canada. Not software — a local service business that runs on Stripe.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR snapshot $0 (one-off seasonal payments, no subscriptions) Last 30 days $25,356 (+221.2%) · last 3 months $33,103 · last 6 months $33,103 Last 12 months $47,979 · all-time $47,979 Note: seasonal — Sep 2026 $20,760, Oct 2026 MTD $12,343; summer months ~$0. Revenue synced 17 October 2026 ~10:02 Warsaw.",
+      "sources": [
+        {
+          "label": "theblizzardwizard.ca",
+          "url": "https://theblizzardwizard.ca/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/the-blizzard-wizard-snow-removal-company"
+        }
+      ],
+      "homepage": "https://theblizzardwizard.ca/",
+      "indieAngle": "The software play is the booking/route/prepay layer for seasonal crews (snow, lawn, gutter, pool). Or simply: seasonal-prepay pricing is a cash-flow trick worth stealing for any service SaaS.",
+      "whyItPrints": "Homeowners prepay for the whole winter in September/October, so the cash lands before a single snowflake. The L30 number is basically the pre-sale season.",
+      "image": "/blog/2026-10-17/the-blizzard-wizard.webp",
+      "imageAlt": "The Blizzard Wizard product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "defined-chase",
+      "name": "Defined Chase",
+      "listingNote": null,
+      "description": "Digital marketing / paid-ads agency targeting teams spending $100K–$10M+/month on ads; clients pay at checkout for a chosen service package (founder-stated). ~200 estimated clients/users (founder-stated). Founded Oct 2023, Lithuania. Not SaaS — productised agency revenue.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,299 · 11 active subscriptions Last 30 days $47,098 (-31.6%) · last 3 months $171,878 · last 6 months $462,579 Last 12 months $1,421,936 · all-time $2,416,455 Note: revenue cliff — monthly $194k (Jan 2026) → ~$101k (Apr–Jun) → $47k (Aug) → $64k (Sep) → $35k (Oct MTD). Read AT as niche proof, not current run-rate. Revenue synced 17 October 2026 ~04:21 Warsaw.",
+      "sources": [
+        {
+          "label": "definedchase.com",
+          "url": "https://www.definedchase.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/defined-chase"
+        }
+      ],
+      "homepage": "https://www.definedchase.com/",
+      "indieAngle": "Don't run the agency — build the boring reporting/ROAS dashboard agencies like this hand to clients (\"no fluffy reports\" is literally their pitch).",
+      "whyItPrints": "Classic \"we manage your ad spend\" business with a $2.4M Stripe trail in three years. Boring, sales-led, and big — but the run-rate has been sliding hard.",
+      "image": "/blog/2026-10-17/defined-chase.webp",
+      "imageAlt": "Defined Chase product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "formflow",
+      "name": "Formflow",
+      "listingNote": null,
+      "description": "No-code lead funnel builder: branching qualification on a visual canvas with scoring, verification, analytics and CRM handoff, pitched at marketers, agencies and service businesses (HVAC, solar, med spa templates) (company-stated). Starter $49/mo, Pro $99/mo, Scale $199/mo (company-stated). Founded Jul 2025, US. 142 active subscriptions.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,059 · 142 active subscriptions Last 30 days $3,316 (-23.6%) · last 3 months $13,498 · last 6 months $18,279 Last 12 months $125,726 · all-time $157,483 Note: cliff after launch spike — $32.9k (Nov 2025), $21.2k (Dec), $19.8k (Jan) → $1.2k–$5.6k/mo since Feb 2026. MRR snapshot sits above the L30 figure. Revenue synced 17 October 2026 ~04:35 Warsaw.",
+      "sources": [
+        {
+          "label": "getformflow.io",
+          "url": "https://getformflow.io/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/formflow"
+        }
+      ],
+      "homepage": "https://getformflow.io/",
+      "indieAngle": "One vertical funnel template pack (e.g. Polish solar/heat-pump installers) with CRM push to whatever they already use. Charge $49–$99 and skip the \"AI form\" copy.",
+      "whyItPrints": "Forms that qualify leads for home-service businesses. 142 paying subs at $49+ is a real base. But the history has a lifetime-deal-shaped spike.",
+      "image": "/blog/2026-10-17/formflow.webp",
+      "imageAlt": "Formflow product image",
+      "imageWidth": 1000,
+      "imageHeight": 600
+    },
+    {
+      "slug": "main-street-wealth",
+      "name": "Main Street Wealth",
+      "listingNote": null,
+      "description": "M&A advisory and valuations for home-services businesses — HVAC, plumbing, roofing, landscaping, pool, pest control (company-stated). Pitch: retiring owners whose kids don't want the family business (founder-stated). Founded 2017, US. 14 active subscriptions; L30 profit margin 80%.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,029 · 14 active subscriptions Last 30 days $1,027 (-20.9%) · last 3 months $3,340 · last 6 months $6,327 Last 12 months $12,627 · all-time $75,274 L30 profit margin 80% (TrustMRR snapshot) Note: Oct 2026 MTD only $34.66 so far — recurring charges may land later in the month. Revenue synced 17 October 2026 ~06:16 Warsaw.",
+      "sources": [
+        {
+          "label": "mainstreetwealth.ai",
+          "url": "https://mainstreetwealth.ai/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/main-street-wealth"
+        }
+      ],
+      "homepage": "https://mainstreetwealth.ai/",
+      "indieAngle": "Build the valuation calculator / deal-room tool brokers in this niche use (SDE multiples for trades businesses), sold per broker seat.",
+      "whyItPrints": "Boomer-business succession is the most boring megatrend going. The Stripe slice is a small, very steady ~$1k/month recurring layer (likely not the success fees, which aren't visible here).",
+      "image": "/blog/2026-10-17/main-street-wealth.webp",
+      "imageAlt": "Main Street Wealth product image",
+      "imageWidth": 1200,
+      "imageHeight": 800
+    },
+    {
+      "slug": "one-care-portal",
+      "name": "One Care Portal",
+      "listingNote": null,
+      "description": "All-in-one platform helping US adult day care centers and HCBS (Medicaid waiver) agencies pass audits, halve documentation time, and get claims paid faster (company-stated). Pricing: $299/mo platform fee + $7.99 per active participant; ERA module $99/mo + $0.10 per claim; billing module $1.50 per submitted claim; BAA available (company-stated). ~50 estimated users (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,000 · 2 active subscriptions Last 30 days $1,300 (-27.7%) · last 6 months $1,000 (as of last sync) Last 12 months $9,099 · all-time $14,109 Note: revenue sync stale since 28 Apr 2026 — monthly $1.5k (Nov 2025–Feb 2026), $1.8k (Mar), $1.3k (Apr); nothing visible after. Treat MRR as a stale snapshot. Revenue synced 28 April 2026 ~20:32 Warsaw. The sync is stale.",
+      "sources": [
+        {
+          "label": "onecareportal.com",
+          "url": "https://onecareportal.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/one-care-portal"
+        }
+      ],
+      "homepage": "https://onecareportal.com/",
+      "indieAngle": "Pick one state's Medicaid waiver program and own the documentation + claims export for small providers. Boring, regulated, sticky — the opposite of an AI toy.",
+      "whyItPrints": "Peak Conductor energy — Medicaid paperwork, audits, ERA files and claims. Replaces spreadsheets and paper forms (founder-stated). Customers can't skip compliance, and per-participant pricing scales with the center.",
+      "image": "/blog/2026-10-17/one-care-portal.webp",
+      "imageAlt": "One Care Portal product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "bank-statement-converter",
+      "name": "Bank Statement Converter",
+      "listingNote": null,
+      "description": "Single-feature tool that pulls transactions out of PDF bank statements into clean Excel, used by accountants, bookkeepers and small businesses (founder-stated). Solo founder Angus Cheng, Hong Kong; launched March 2021 (founder-stated). Pricing at the 2023 write-up: $30/mo for 400 pages, $99/mo for 4,000 pages, custom above that (founder-stated, 2023).",
+      "evidenceKind": "self-reported",
+      "evidence": "MRR ~$40,000 (founder-stated); claims ~$39k of that is profit MRR trajectory: $6k (2022) → $14k (2023) → $27k (2024) → $40k (2025) (founder-stated) ~75,000 total users, ~1,000 paying customers, ~40k visits/month (founder-stated) Note: not Stripe-verified. For contrast, TrustMRR-verified clone Bankstatemently (PDF → CSV/XLSX/QBO) shows only $375 MRR / 14 subs / $1.4k all-time, sync stale since 4 Aug 2026.",
+      "sources": [
+        {
+          "label": "bankstatementconverter.com",
+          "url": "https://bankstatementconverter.com/"
+        },
+        {
+          "label": "Starter Story video (Jul 2025)",
+          "url": "https://www.starterstory.com/angus"
+        },
+        {
+          "label": "Starter Story write-up (Nov 2023)",
+          "url": "https://www.starterstory.com/stories/bankstatementconverter"
+        }
+      ],
+      "homepage": "https://bankstatementconverter.com/",
+      "indieAngle": "Same playbook for a narrower format: Polish bank statements → JPK/KSeF-friendly CSV, or PDF invoices → QuickBooks/Xero import files. Pure conversion, priced by pages.",
+      "whyItPrints": "Banks still hand out PDFs; accountants still need CSVs. One job, done well, found via organic search. Paid ads never worked for him (~$1k spent for ~$300 in sales, founder-stated).",
+      "image": "/blog/2026-10-17/bank-statement-converter.webp",
+      "imageAlt": "Bank Statement Converter product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "pckgr",
+      "name": "Pckgr",
+      "listingNote": "Packager",
+      "description": "Browser-based tool that packages, deploys and auto-updates apps into Microsoft Intune with one click, for IT admins and MSPs (company-stated). Founder Thomas (ex-MSP/Intune consultant). Started at $25/mo; current tiers $49/mo (≤100 devices), $99/mo (MSP multi-tenant), $149/mo (larger fleets + custom apps) (company-stated). Built on Bubble + GitHub Actions + Azure (founder-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "~$60,000/month (founder-stated) Annual revenue $447k → $910k year over year (founder-stated, shown on screen) \"Thousands of paying customers\", 100% bootstrapped (Starter Story narration) Note: not Stripe-verified. A third-party write-up (small-start.com) cites $83k/month — unconfirmed, not used above.",
+      "sources": [
+        {
+          "label": "intunepckgr.com",
+          "url": "https://www.intunepckgr.com/"
+        },
+        {
+          "label": "Starter Story video (16 Mar 2026)",
+          "url": "https://www.starterstory.com/tom"
+        },
+        {
+          "label": "Pckgr pricing docs",
+          "url": "https://docs.intunepckgr.com/about-pckgr/pckgr-pricing-model"
+        },
+        {
+          "label": "small-start.com",
+          "url": "https://small-start.com/en/cases/global-carving-out-a-1m-yr-niche-out-of-the-microsoft-e/"
+        }
+      ],
+      "homepage": "https://www.intunepckgr.com/",
+      "indieAngle": "Find the \"one tedious admin step\" in another legacy admin console (Google Workspace, Jamf, Entra ID, Polish e-invoicing KSeF) and sell the one-click version to MSPs at $49–$149/mo.",
+      "whyItPrints": "Packaging one Windows app for Intune can take an hour by hand (founder-stated). This is legacy-enterprise glue for IT admins — the Conductor pattern exactly: small, deep, compliance-minded buyers with very low churn.",
+      "image": "/blog/2026-10-17/pckgr.webp",
+      "imageAlt": "Pckgr product image",
+      "imageWidth": 1024,
+      "imageHeight": 1024
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Terapi365",
+      "note": "therapist practice management (site, booking, notes, payments). Stripe L30 $3,595 · L12 $48,709 · AT $50,346 · MRR $36 (4 subs) · margin 30%.",
+      "homepage": null
+    },
+    {
+      "name": "Puantaj Defteri",
+      "note": "Turkish employee attendance/payroll/overtime app for construction, restaurants, cleaning firms. RevenueCat MRR $525 · 303 subs · L30 $602 · AT $4,198 · margin 99% · asking $100,000 (13.8x).",
+      "homepage": null
+    },
+    {
+      "name": "Static Forms",
+      "note": "form backend for static sites (~30k users, founder-stated). Stripe MRR $988 · 123 subs · L30 $1,013 · AT $9,153 · margin 96% · asking $40,000 (3.3x), listed 16 Oct 2026.",
+      "homepage": null
+    },
+    {
+      "name": "Shiny Go Clean USA",
+      "note": "Madison, WI house cleaning (same lane as Altitude Cleaning Crew / MaidsnBlack). Stripe L30 $8,569 · L12 $92,715 · AT $149,966.",
+      "homepage": null
+    },
+    {
+      "name": "Eztrackr",
+      "note": "job-application tracker. Stripe MRR $3,708 · 161 subs · L30 $3,481 · AT $99,388.",
+      "homepage": null
+    },
+    {
+      "name": "Nordgard",
+      "note": "Groningen coworking space. Stripe MRR $2,423 · L30 $2,634 · AT $144,482 (big Dec 2025–May 2026 months, now ~$2–3k).",
+      "homepage": null
+    }
+  ]
+}

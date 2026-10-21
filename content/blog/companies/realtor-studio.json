@@ -1,0 +1,31 @@
+{
+  "slug": "realtor-studio",
+  "name": "Realtor Studio",
+  "listingNote": null,
+  "description": "A local real-estate media business. It offers HDR photography (20–50 edited photos, sky replacement, object removal, \"MLS-ready the next business day\"), 4K/6K video, Zillow 3D tours, drone shots and virtual staging. Photography starts at $250, video from $150 bundled, 3D tour from $50 bundled, 24–48h turnaround, \"25+ cities served\", online booking (company-stated). It also sells web design for agents (founder-stated).",
+  "homepage": "https://realtorstudio.co/",
+  "image": "/blog/2026-10-21/realtor-studio.webp",
+  "imageAlt": "Realtor Studio product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (per-shoot payments) · 0 subscriptions Last 30 days $2,150 (-55.6%) · last 3 months $7,645 · last 12 months $25,530 · all-time $34,695 Monthly: $2,670 (Nov 2025) → $700 (Feb) → $2,535 (Jun) → $3,500 (Jul) → $375 (Aug) → $4,470 (Sep) → $2,150 (Oct MTD) Revenue synced 21 October 2026 ~04:18 Warsaw.",
+      "sources": [
+        {
+          "label": "realtorstudio.co",
+          "url": "https://realtorstudio.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/realtor-studio"
+        }
+      ],
+      "indieAngle": "The software angle is the booking + delivery portal that sits behind shops like this. Think white-label \"book a shoot, pay, get your gallery + MLS/Otodom-sized exports\" for Polish real-estate photographers at 99–199 zł/mo."
+    }
+  ],
+  "whyItPrints": "Every listing needs photos before it goes live, and agents rebook the photographer they trust. Software (online booking, Stripe checkout, editing outsourcing) turns a one-person shoot business into a repeatable ops machine.",
+  "whyThisMatters": "A local real-estate media business. It offers HDR photography (20–50 edited photos, sky replacement, object removal, \"MLS-ready the next business day\"), 4K/6K video, Zillow 3D tours, drone shots and virtual staging. Photography starts at 250, dollars video from 150 dollars bundled, 3D tour from 50 dollars bundled, 24–48h turnaround, \"25+ cities served\", online booking. It also sells web design for agents.\n\nEvery listing needs photos before it goes live, and agents rebook the photographer they trust. Software (online booking, Stripe checkout, editing outsourcing) turns a one-person shoot business into a repeatable ops machine.\n\nAn agent cannot publish a listing until the photos exist. This shop in Jacksonville shoots the photos, the video, the drone, and the 3D tour, and it also does virtual staging and sites for agents. The turnaround is the next day or two. You pay per shoot, not on a subscription. The last year of Stripe is the book of those jobs."
+}

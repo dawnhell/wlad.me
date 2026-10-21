@@ -1,0 +1,329 @@
+{
+  "date": "2026-10-20",
+  "title": "Tuesday's boring SaaS, 20 October 2026",
+  "dek": "Tuesday, 20 October 2026. Ten are Stripe-verified, including a newer Conductor number. The Caribbean fleet note is self-reported, and there is no company name.",
+  "heroId": "inle-lake",
+  "companies": [
+    {
+      "slug": "snap2pass",
+      "name": "Snap2Pass",
+      "listingNote": null,
+      "description": "Upload a selfie and it gets resized, background-fixed and checked against your country's exact document spec. It covers passport, visa and ID photos (founder-stated). Homepage: \"500K+ photos processed\", \"166 countries supported\", \"99.8% acceptance rate\", \"ICAO 9303 compliant\", \"14-day money-back guarantee\", free reshoots if rejected. It also offers same-day printing at Walgreens/CVS (~$0.39) or mailed prints ($7.47) (company-stated). There's a B2B tier for travel agencies and photo studios: a branded client photo link or upload at the counter, plus an API. Pricing: $20 for 4 clients, volume packs down to $2 a client, no subscription (company-stated). The app lists in-app purchases \"starting at $4.99\" (company-stated). ~20,000 estimated users (founder-stated). Founded Jan 2023, US, founder \"oalpay\". There's an AI headshot upsell too, but the core job is a government form requirement.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-off purchases) · 0 subscriptions Last 30 days $6,131 (-8.9%) · last 3 months $18,978 · last 6 months $33,624 Last 12 months $74,924 · all-time $191,674 · last 7 days $1,224 Monthly: $5,004 (Nov 2025) → $7,735 (Jan) → $8,176 (Mar) → $4,743 (May) → $5,291 (Jul) → $6,066 (Aug) → $7,321 (Sep); Oct MTD $3,775. Steady $4.7–8.2k band, no cliff. Revenue synced 20 October 2026 ~06:37 Warsaw.",
+      "sources": [
+        {
+          "label": "snap2pass.com",
+          "url": "https://www.snap2pass.com/"
+        },
+        {
+          "label": "Snap2Pass Business (agencies & studios)",
+          "url": "https://www.snap2pass.com/pricing"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/snap2pass"
+        }
+      ],
+      "homepage": "https://www.snap2pass.com/",
+      "indieAngle": "Do the EU/PL version. Polish passport and ID photos (zdjęcie do dowodu/paszportu) have a strict spec, and so do Schengen/US/UK/Chinese visa photos for Poles and Ukrainians in Poland. Sell to consumers at ~20 zł, and give fotograf studios and visa agencies a white-label link on credits.",
+      "whyItPrints": "Consulates and passport offices reject bad photos, so people pay a few dollars to not get rejected. Demand comes from passport renewals, visa season and Google searches for \"<country> visa photo size\". The B2B side (agencies, studios) turns one-off buyers into repeat accounts.",
+      "image": "/blog/2026-10-20/snap2pass.webp",
+      "imageAlt": "Snap2Pass product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "trackly-changeflow",
+      "name": "Trackly → Changeflow",
+      "listingNote": null,
+      "description": "You give it URLs and a short description of what you care about. It checks the pages and emails you only the changes that matter, filtered and summarised (founder-stated). Target persona: \"compliance officers, regulatory teams, strategy & market intelligence teams, PR teams\" (founder-stated). Pricing: Plus $19/mo, Business $149/mo, Enterprise custom (founder-stated). ~18,000 estimated users (founder-stated). The homepage is now Changeflow, \"Trackly, evolved. Same team, smarter product\", \"Trusted by Fortune 500 & Am Law 200\", \"18k+ happy customers\", \"1 billion+ pages checked\", \"10+ years of monitoring experience\". One case on the page: a healthcare compliance team cut Federal Register review \"from 10 hours/week to 30 minutes\" (company-stated). Founded Jul 2018, UK, founder Steve Butterworth (6.9k X followers).com og:image (trackly.io redirects there).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR shows $0 on TrustMRR (the profile says billing also goes through Recurly, so this Stripe view may not be the whole picture) · 0 subscriptions Last 30 days $2,795 (+4.2%) · last 3 months $9,937 · last 6 months $25,532 Last 12 months $56,486 · all-time $379,031 Monthly: $3,633 (Nov 2025) → $6,079 (Jan) → $6,517 (Mar) → $6,400 (May) → $5,502 (Jul) → $3,793 (Aug) → $2,884 (Sep); Oct MTD $1,756. Sliding since summer, maybe during the Changeflow rebrand/migration (my guess, not stated). Revenue synced 20 October 2026 ~04:05 Warsaw.",
+      "sources": [
+        {
+          "label": "trackly.io",
+          "url": "https://trackly.io/"
+        },
+        {
+          "label": "changeflow.com",
+          "url": "https://changeflow.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/trackly-c-o-changeflow-ltd"
+        }
+      ],
+      "homepage": "https://changeflow.com/",
+      "indieAngle": "Regulatory-change watch for one Polish vertical: Dziennik Ustaw / KNF / UODO / URE / NFZ notices for accounting offices, pharmacies, energy traders or fintechs. Charge 99–499 zł/mo per firm, with the first customers coming from biura rachunkowe (accounting offices) that need to track rule changes for clients.",
+      "whyItPrints": "Someone in every regulated company has to read regulator websites, competitor pricing pages and policy notices every week. This replaces that reading with an alert. B2B, sold per seat or plan, and it has been running for 8 years. The profile describes it as \"B2B SaaS charged through Recurly\", so the Stripe figures may not show everything (my read).",
+      "image": "/blog/2026-10-20/trackly-changeflow.webp",
+      "imageAlt": "Trackly → Changeflow product image",
+      "imageWidth": 1000,
+      "imageHeight": 728
+    },
+    {
+      "slug": "lemmilink",
+      "name": "LemmiLink",
+      "listingNote": null,
+      "description": "A marketplace that connects advertisers with publishers. You browse 175,000+ websites filtered by topic, metrics and price, then buy guest posts, homepage links or links inserted into pages that already rank. Writing and indexing are included, with an \"indexed or replaced\" guarantee. There are also express link packs, forum links, done-for-you SEO, a public API and an MCP server (founder-stated). Pricing: from €5 per link, pay-as-you-go wallet, packs and monthly plans (founder-stated). ~2,700 estimated users (founder-stated). Homepage: \"Des liens sur 175 000 sites vérifiés\", \"Utilisé par +70 agences SEO et 3 200 entreprises\", and an unpublished order is refunded to your wallet (company-stated). Founded Oct 2023, France, founder Sofiane.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $225 · 1 active subscription (pay-per-link marketplace) Last 30 days $4,213 (-49.8%) · last 3 months $18,204 · last 6 months $34,510 Last 12 months $84,612 · all-time $134,128 · last 24 h $662 Monthly: $8,953 (Nov 2025) → $9,527 (Dec) → $9,770 (Feb) → $8,642 (Mar) → ~$5.2–6.2k (Apr–Aug) → $7,587 (Sep); Oct MTD $2,480. Down from ~$9k winter months to ~$6k, so softening. Revenue synced 20 October 2026 ~08:56 Warsaw.",
+      "sources": [
+        {
+          "label": "lemmilink.fr",
+          "url": "https://lemmilink.fr/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/lemmilink-seo-geo-with-backlink-and-ai"
+        }
+      ],
+      "homepage": "https://lemmilink.fr/",
+      "indieAngle": "Poland has the same SEO market, with link sellers like WhitePress and the old SEO-marketplace crowd. A smaller wedge works: a vetted marketplace for one vertical, such as legal/finance/medical Polish publishers, with an indexing guarantee. Or sell the publisher side as SaaS: a \"list your site, get orders\" inventory tool for Polish bloggers.",
+      "whyItPrints": "Link-building is the dullest SEO chore, and agencies buy links every month. A marketplace takes a cut on every order and holds the prepaid wallet. MRR is tiny because almost everything is per-order.",
+      "image": "/blog/2026-10-20/lemmilink.webp",
+      "imageAlt": "LemmiLink product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "quantt",
+      "name": "Quantt",
+      "listingNote": null,
+      "description": "Interactive courses in quant finance, maths and tech. Every lesson is code you write and tests you pass, e.g. a momentum backtest with a kill-switch on drawdown (company-stated). Meta description: \"60+ interactive courses\" covering Python for finance, derivatives pricing, portfolio theory, risk management (company-stated). Pricing: £39.95/month, £249.95/year, enterprise custom, 30-day money-back (founder-stated). Target: CS grads, career changers, juniors breaking into quant (founder-stated). Founded Dec 2025, UK. 154 active subscriptions.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,058 · 154 active subscriptions Last 30 days $7,908 (+32.4%) · last 3 months $17,875 · last 6 months $30,279 Last 12 months / all-time $34,596 Monthly: $232 (Feb 2026) → $1,623 (Mar) → $4,037 (Apr) → $3,117 (May) → ~$4.4–4.7k (Jun–Aug) → $7,376 (Sep); Oct MTD $4,531. Revenue synced 20 October 2026 ~06:00 Warsaw.",
+      "sources": [
+        {
+          "label": "quantt.co.uk",
+          "url": "https://www.quantt.co.uk/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quantt"
+        }
+      ],
+      "homepage": "https://www.quantt.co.uk/",
+      "indieAngle": "\"Learn by passing tests\" for another paid career gate: Excel/VBA for Big 4 audit juniors, SQL for analysts, actuarial exam prep, or Polish CFA/ACCA candidates. Use auto-graded exercises in the browser and an annual plan priced for students.",
+      "whyItPrints": "Like Dataford (19 Oct) and Writing9 (18 Oct): an evergreen career gate, with high-income buyers who pay £40/month without blinking. Interactive coding with auto-graded tests is hard to copy with a YouTube playlist. It went from zero to ~$6k MRR in ten months.",
+      "image": "/blog/2026-10-20/quantt.webp",
+      "imageAlt": "Quantt product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "apogee",
+      "name": "Apogee",
+      "listingNote": null,
+      "description": "Lets media buyers, agencies and consultants bulk-upload hundreds of ad creatives in minutes, \"the painful workflow Meta's native tools never solved\" (founder-stated). Extras: naming-convention enforcement, test structures, Autopilot (cuts losers on Meta), comment analysis, funnel analytics, and an MCP/API bridge (company-stated). Homepage: \"Déjà adopté par +300 media buyers, marques et agences\", \"un lancement se configure en 47 secondes, pour 1 ou 300 créatives\", 7-day trial for €1, and an agency workspace with sliding per-consultant pricing on one invoice (company-stated). 30% lifetime affiliate program (founder-stated). Profile founded Feb 2026 (revenue starts at ~$3.2k in Feb, so the business probably existed before; not stated). France, founder Mathieu (832 X followers). 43 subscriptions; L30 margin 80%.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $4,099 · 43 active subscriptions Last 30 days $3,587 (+3.6%) · last 3 months $10,240 · last 6 months $18,627 Last 12 months / all-time $26,998 L30 profit margin 80% (TrustMRR snapshot) Monthly: $3,228 (Feb 2026) → $2,753–3,343 (Mar–Aug) → $3,952 (Sep); Oct MTD $1,212. Revenue synced 20 October 2026 ~05:13 Warsaw.",
+      "sources": [
+        {
+          "label": "apogee.ad",
+          "url": "https://www.apogee.ad/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/apogee"
+        }
+      ],
+      "homepage": "https://www.apogee.ad/",
+      "indieAngle": "Same \"bulk ops over a hated ad UI\" play, but for Allegro Ads, Google Merchant Center feeds, or LinkedIn Campaign Manager. Make the first version Polish-language for local performance agencies, then add an agency seat price.",
+      "whyItPrints": "It's ops glue for a UI everybody hates (Ads Manager). Agencies launching dozens of creatives a week for many clients are the buyers. It's French-language, which keeps US competitors out, and revenue has been flat-steady ~$3k/month for eight months.",
+      "image": "/blog/2026-10-20/apogee.webp",
+      "imageAlt": "Apogee product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "nettify",
+      "name": "NETTIFY",
+      "listingNote": null,
+      "description": "Website builder for SMBs: describe the business (or edit manually), start from Norwegian templates, connect a domain, with built-in analytics, lead capture and booking (founder-stated). Homepage: \"500+ nettsider laget med Nettify\", .no domains from 99 kr/year, a done-for-you site \"fra 800 kr/mnd, ingen binding\", an SEO service \"fra 3 200 kr/mnd\", plus a Vipps-checkout webshop and a \"Shopify headless\" offer (company-stated). Founded Jan 2026, Norway. 51 subscriptions; L30 margin 85%.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,915 · 51 active subscriptions Last 30 days $4,193 (+26.4%) · last 3 months $9,585 · last 6 months $15,534 Last 12 months / all-time $17,942 L30 profit margin 85% (TrustMRR snapshot) For sale: asking $199,000 (4.0x), first listed 29 May 2026, 8 offers, 1,852 interested buyers viewed. Seller: \"Selling to focus on other projects… a fully-built website builder for SMBs… modern, well-documented codebase\" (seller-stated). Monthly: $942 (Feb 2026) → $341 (Mar) → ~$1.96–2.18k (Apr–Jun) → $1,222 (Jul) → $3,312 (Aug) → $2,727 (Sep) → $3,148 Oct MTD (already above September). Note: 4.0x on under a year of history is rich. Revenue synced 20 October 2026 ~06:42 Warsaw.",
+      "sources": [
+        {
+          "label": "nettify.no",
+          "url": "https://nettify.no/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/nettify"
+        }
+      ],
+      "homepage": "https://nettify.no/",
+      "indieAngle": "The Polish version: \"strona + domena .pl + Google Business + SEO\" bundle for local trades, with a done-for-you tier at ~199 zł/mo and SEO at ~1,500 zł/mo. Sell through accounting offices and the CEIDG new-company registrations list.",
+      "whyItPrints": "The AI editor is the hook, but the money is boring: domain + hosting + monthly SEO retainers for local Norwegian firms in a high-price market, sold in the local language.",
+      "image": "/blog/2026-10-20/nettify.webp",
+      "imageAlt": "NETTIFY product image",
+      "imageWidth": 1200,
+      "imageHeight": 629
+    },
+    {
+      "slug": "textwork",
+      "name": "TextWork",
+      "listingNote": null,
+      "description": "Candidates text to apply, and an agent screens them over SMS, asks your qualifying questions, schedules interviews and hands recruiters a clean summary. It works after hours and over weekends (founder-stated). It plugs into SmartRecruiters or your ATS (company-stated). Target: \"teams that hire at volume and cannot call every applicant: hourly and frontline roles, skilled trades, staffing desks\" (founder-stated). Pricing: Starter $99/mo, Growth $199/mo, Enterprise (homepage). Homepage counters (rendered 20 Oct): \"202+ jobsites\", \"277,459+ text messages exchanged\", \"11,693+ applicants screened\" (company-stated). ~8,000 estimated users (founder-stated). Founded Jan 2018, US, founder Brian (1.6k X followers).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,919 · 2 active subscriptions Last 30 days $2,919 (-48.9%) · last 3 months $10,537 · last 6 months $16,252 Last 12 months $29,372 · all-time $34,772 · a single $2,820 charge landed in the last 24 h Monthly: $1,080 (Nov–Dec 2025) → $6,069 (Jan) → $1,905/month flat (Mar–Jul) → $2,004 (Aug) → $5,712 (Sep); Oct MTD $2,820. Revenue synced 20 October 2026 ~04:07 Warsaw.",
+      "sources": [
+        {
+          "label": "textwork.co",
+          "url": "https://textwork.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/textwork"
+        }
+      ],
+      "homepage": "https://textwork.co/",
+      "indieAngle": "Polish blue-collar and Ukrainian-worker hiring runs on phone calls and WhatsApp. Build \"aplikuj SMS-em/WhatsAppem\" pre-screening (availability, permits, driving licence, start date) for agencje pracy tymczasowej (temp agencies) and logistics warehouses, priced per site.",
+      "whyItPrints": "Staffing desks and field-service companies lose applicants who wait days for a call back. SMS screening is plumbing between job boards, the ATS and a recruiter's calendar. Only 2 active subscriptions, so this is a couple of enterprise contracts (my read of the numbers), very concentrated.",
+      "image": "/blog/2026-10-20/textwork.webp",
+      "imageAlt": "TextWork product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "visible-privacy",
+      "name": "Visible Privacy",
+      "listingNote": null,
+      "description": "Cookie-consent management platform: banners, automated GDPR & CCPA consent tracking, Google Consent Mode v2 compatibility, and an open-source enterprise edition (company-stated). Pricing: Essential €7/mo (1 domain, 1,000 consent interactions), Pro €15/mo (3 domains, 10,000 interactions), Max €33, Elite €55, Enterprise contact sales. It's priced per interaction rather than per page view, plus an agency partner and reseller program (founder-stated + homepage). Founded Aug 2024, Spain. 77 subscriptions.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,792 · 77 active subscriptions Last 30 days $1,494 (+4.4%) · last 3 months $10,488 · last 6 months $15,650 Last 12 months $24,176 · all-time $33,394 Monthly: ~$0.8–2.6k (Nov 2025 → Jul 2026) → $6,755 (Aug, one-off spike, probably annual/enterprise deals; not stated) → $1,437 (Sep); Oct MTD $769. Revenue synced 20 October 2026 ~04:19 Warsaw.",
+      "sources": [
+        {
+          "label": "visibleprivacy.com",
+          "url": "https://www.visibleprivacy.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/visible-privacy"
+        }
+      ],
+      "homepage": "https://www.visibleprivacy.com/",
+      "indieAngle": "The CMP market is crowded (Cookiebot, CookieYes), so the angle is distribution. Sell a Polish-language \"RODO pakiet\" (consent banner + privacy policy + cookie scan) to web agencies and WordPress freelancers as white-label, priced per client site.",
+      "whyItPrints": "It's legally required on every EU website, and Google Consent Mode v2 made it a hard dependency for anyone running Google Ads. Small sites pay €7–15 a month forever and never think about it again, and agencies resell it.",
+      "image": "/blog/2026-10-20/visible-privacy.webp",
+      "imageAlt": "Visible Privacy product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "hugebouquets-com",
+      "name": "Hugebouquets.com",
+      "listingNote": null,
+      "description": "A Shopify store selling oversized bouquets (100 roses wrapped, $279; 200 white roses, $536; \"from $95\") with same-day delivery in LA (homepage). Seller: \"All orders come through Google organic search. The site's average position on Google is 7.2. Dropshipping-style fulfillment: orders are forwarded to florists who assemble and deliver bouquets. ~30 minutes/week to manage\" (seller-stated). Founded Dec 2024, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (one-off orders) · 0 subscriptions Last 30 days $2,172 (+58.5%) · last 3 months $3,976 · last 6 months $9,939 Last 12 months $31,650 · all-time $50,595 L30 profit margin 65% (TrustMRR snapshot) For sale: asking $42,000 (1.6x), first listed 5 Jan 2026, 6 offers, 1,393 interested buyers viewed. Monthly: $2,592 (Nov 2025) → $4,320 (Jan) → $5,835 (Feb, Valentine's) → $966 (Mar) → $4,484 (Apr) → $3,512 (May, Mother's Day) → ~$0.7–1.4k (Jun–Sep); Oct MTD $1,863. Very seasonal. Revenue synced 20 October 2026 ~04:15 Warsaw.",
+      "sources": [
+        {
+          "label": "hugebouquets.com",
+          "url": "https://hugebouquets.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hugebouquets-com"
+        }
+      ],
+      "homepage": "https://hugebouquets.com/",
+      "indieAngle": "Same lead-router model for any city + premium-gift search in PL: \"duże bukiety Warszawa/Kraków\", \"100 róż z dostawą\", balloon or cake delivery. Build one SEO site per city, forward orders to local kwiaciarnie (florists) on commission, and invoice from one entity.",
+      "whyItPrints": "Flowers are a pure \"intent\" search that peaks around holidays. There's no inventory, the florist does the work, and the site is a lead router with a margin. L30 profit margin is 65%, and the seller says it takes 30 minutes a week.",
+      "image": "/blog/2026-10-20/hugebouquets-com.webp",
+      "imageAlt": "Hugebouquets.com product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "anonymous-caribbean-fleet-tracking-company",
+      "name": "Anonymous Caribbean fleet-tracking company",
+      "listingNote": null,
+      "description": "The founder has run a fleet-tracking company for ~12 years, selling GPS tracking and AI dashcams to commercial fleets across the Caribbean, with a smaller operation in Colombia (founder-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "~370 clients, roughly $1.6M ARR, \"on track for about 30% growth in the Caribbean this year\" (founder-stated) Revenue per client ≈ $4.3k/year (my arithmetic from the two stated numbers) Not verified; no company name or website given.",
+      "sources": [
+        {
+          "label": "Reddit r/Entrepreneur post by u/imjp (5 Oct 2026, ~20:09 Warsaw)",
+          "url": "https://www.reddit.com/r/Entrepreneur/comments/1wyfq2m/"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Two ways in. (1) Fleet telematics for an underserved region where you speak the language and know the buyers, e.g. Polish/Ukrainian transport SMEs with 5–50 trucks, bundling the tachograph/e-TOLL/SENT paperwork. (2) Build the dunning glue he lacks: wire-transfer reconciliation + auto-suspend + late-fee invoicing for B2B hardware-subscription companies in multi-country markets.",
+      "whyItPrints": "Hardware + monthly SaaS sold to trucking, logistics and government fleets in small island markets that big US/EU players ignore. Billing runs across 20+ territories by wire transfer. The founder's own problem is the boring part: \"almost half our clients, about 170 of 370, pay late\", and \"some of our gov clients are pretty much always 90+ days late\". The fix he's planning is automatic account disconnects, annual billing for bad payers and late fees (founder-stated, in comments).",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "Still the reference Conductor-lane business: $49 per company file per month to read and write QuickBooks Desktop/Enterprise over REST/Python/Node instead of Web Connector + qbXML (founder-stated). Founder Danny Nemer, US, founded Jul 2022. Seller message: \"Completely runs itself… Enterprise customers include Ramp\" (seller-stated).is og:image.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $43,330 (+3.2%) Active subscriptions 284 Last 30 days $41,769 (L30 growth +9.4%) All-time $486,329 L30 profit margin 95%; last 12 months $339,274 Monthly: $18,734 (Nov 2025) → $24,073 (Feb) → $28,548 (May) → $34,415 (Jul) → $38,814 (Sep 2026). That's more than double in 10 months, up every single month. Still for sale at $1,250,000, now 2.5x (2.7x on 6 Oct as revenue grew), 26 offers, 8,806 interested buyers viewed. --- Revenue synced 20 October 2026 ~04:25 Warsaw.",
+      "sources": [
+        {
+          "label": "conductor.is",
+          "url": "https://conductor.is/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe numbers moved up.",
+      "whyItPrints": "QuickBooks Desktop still wants the old connector. People pay monthly per company file so an app can read and write it.",
+      "image": "/blog/2026-10-20/conductor.webp",
+      "imageAlt": "Conductor product image",
+      "imageWidth": 1200,
+      "imageHeight": 610
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "SpyFy — Camera Detector App",
+      "note": "hidden-camera/privacy detector iPhone app, no AI/API costs (seller-stated). RevenueCat MRR $3,699 · 369 subs · L30 $3,708 · AT $72,963 · margin 100% · asking $140,000 (3.1x), 6 offers. Steady ~$3.2–5.8k/month for a year. New on TrustMRR since yesterday.",
+      "homepage": null
+    },
+    {
+      "name": "Designgandalf.com",
+      "note": "\"Websites with everything included for $150 a month\" (founder-stated), US, since 2022. Stripe MRR $2,215 · 15 subs · L30 $2,240 · AT $35,639. Boring and flat at ~$1.3–2.3k/month.",
+      "homepage": null
+    },
+    {
+      "name": "Dashla",
+      "note": "iPhone dashboard for Tesla drivers, $2.99/mo, $29.99/yr, $139.99 lifetime (founder-stated). RevenueCat MRR $3,914 · 1,474 subs · L30 $7,477 · AT $84,237 since Mar 2026. Spiky ($25.9k in Jun, $4.9k Oct MTD).",
+      "homepage": null
+    },
+    {
+      "name": "The Brazil Girl",
+      "note": "Brazilian Portuguese lessons off a 100k+ Instagram, $20/mo (founder-stated). Stripe MRR $2,191 · L30 $7,886 · AT $102,657 · margin 90% · asking $250,000 (2.6x).",
+      "homepage": null
+    },
+    {
+      "name": "Voltage Learning",
+      "note": "company-specific interview prep for hardware/electrical engineers (Apple, NVIDIA, AMD…), the Dataford pattern. Stripe MRR $1,752 · 96 subs · L30 $2,846 · AT $21,435 · asking $125,000 (3.7x).",
+      "homepage": null
+    },
+    {
+      "name": "eutrato",
+      "note": "Portuguese support-ticket system. Stripe L30 $1,637 · AT $16,290 · margin 99%. Has grown almost every month for a year ($583 Jan → $1,637 Oct MTD).",
+      "homepage": null
+    },
+    {
+      "name": "Produktly",
+      "note": "product tours/onboarding SaaS, €19/€59/€199 (founder-stated), Finland. Stripe MRR $1,912 · 46 subs · L30 $2,557 (+71.9%) · AT $26,906. Slowly doubling.",
+      "homepage": null
+    },
+    {
+      "name": "Pylo / Okeano GmbH",
+      "note": "(Germany, Happy Bootstrapping 14 Sep 2026) — agency that productised its repeated client backends into a usage-billed backend/flow/forms platform. ~€10,000 MRR from Pylo, ~80% of revenue still from services, 7 people (founder-stated, self-reported). Source: https://happybootstrapping.com/p/from-agency-to-software-vendor-leon",
+      "homepage": null
+    }
+  ]
+}

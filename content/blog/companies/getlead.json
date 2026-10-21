@@ -1,0 +1,31 @@
+{
+  "slug": "getlead",
+  "name": "Getlead",
+  "listingNote": null,
+  "description": "B2B lead-generation platform: access to 420M+ global contacts, lead scraping via your own API, and outreach \"with up to 99% inbox delivery\" in one tool (company-stated). Pricing: Starter €19.90/mo, Freelancer & Founder €99.90/mo, Agency+ €199.90/mo (company-stated). Claims 12,400+ teams (founder-stated). Founded Oct 2025, Poland. 51 active subscriptions; L30 profit margin 60%.",
+  "homepage": "https://getle.ad/",
+  "image": "/blog/2026-10-18/getlead.webp",
+  "imageAlt": "Getlead product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,098 · 51 active subscriptions Last 30 days $11,334 (+25.0%) · last 3 months $28,025 · last 6 months $56,301 Last 12 months $98,079 · all-time $100,279 L30 profit margin 60% (TrustMRR snapshot) Note: lumpy months — $11,431 (Dec 2025), $2,645 (Feb), ~$11k (Apr–May), $5,651 (Aug), $10,754 (Sep), $8,244 Oct MTD. MRR snapshot is far below L30, so most cash is non-recurring. Revenue synced 18 October 2026 ~05:30 Warsaw.",
+      "sources": [
+        {
+          "label": "getle.ad",
+          "url": "https://getle.ad/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/getlead"
+        }
+      ],
+      "indieAngle": "Narrow it: one verified B2B database for one country or vertical (Polish companies from KRS/CEIDG + verified emails, or EU dental clinics), sold as credit packs. Data sourcing and GDPR are the moat and the risk."
+    }
+  ],
+  "whyItPrints": "Lists of emails plus a sending tool — the oldest B2B purchase on the internet. Revenue is lumpy (likely annual plans/credit packs: L30 far above the MRR snapshot), but it crossed $100k all-time in under a year from Poland.",
+  "whyThisMatters": "B2B lead-generation platform: access to 420M+ global contacts, lead scraping via your own API, and outreach \"with up to 99% inbox delivery\" in one tool. Pricing: Starter 19.90 euros a month, Freelancer & Founder 99.90 euros a month, Agency+ 199.90 euros a month. Claims 12,400+ teams. Founded Oct 2025, Poland. 51 active subscriptions; the last 30 days profit margin 60%.\n\nLists of emails plus a sending tool — the oldest B2B purchase on the internet. Revenue is lumpy (likely annual plans/credit packs: the last 30 days far above the snapshot), but it crossed 100k dollars all-time in under a year from Poland."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "sportsapi-pro",
+  "name": "SportsApi Pro",
+  "listingNote": null,
+  "description": "Unified API for real-time scores, match events, lineups, standings, historical data and odds across 20–25+ sports and 15,000–25,000+ competitions (company-stated; the profile lists both figures). Target: developers building live sports products. Founded Dec 2025. 100 active subscriptions; L30 profit margin 80%.",
+  "homepage": "https://sportsapipro.com/",
+  "image": "/blog/2026-10-18/sportsapi-pro.webp",
+  "imageAlt": "SportsApi Pro product image",
+  "imageWidth": 1024,
+  "imageHeight": 518,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "dodo-verified",
+      "evidence": "MRR $4,556 · 100 active subscriptions Last 30 days $4,964 (-8.8%) · last 3 months $13,233 · last 6 months $19,599 Last 12 months $21,745 · all-time $21,745 L30 profit margin 80% (TrustMRR snapshot) For sale: asking $59,000 (1.0x), first listed 12 Feb 2026, 24 offers received Monthly: $534 (Feb 2026) → $1,475 (May) → $3,085 (Aug) → $5,893 (Sep); Oct MTD $3,530. Revenue synced 18 October 2026 ~05:23 Warsaw.",
+      "sources": [
+        {
+          "label": "sportsapipro.com",
+          "url": "https://sportsapipro.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/sportsapi-pro"
+        }
+      ],
+      "indieAngle": "Data-API reseller for a boring dataset nobody packages well: Polish public tenders, EU fuel prices, KRS company changes. Note: check the upstream data licence before buying or copying."
+    }
+  ],
+  "whyItPrints": "Data resale with a clean API on top. Developers pay monthly and rarely rip out a working data feed. Grew from $60 to ~$5.9k/month in nine months; seller wants out to focus elsewhere (seller-stated).",
+  "whyThisMatters": "Unified API for real-time scores, match events, lineups, standings, historical data and odds across 20–25+ sports and 15,000–25,000+ competitions. Target: developers building live sports products. Founded Dec 2025. 100 active subscriptions; profit margin on the recent snapshot 80%.\n\nData resale with a clean API on top. Developers pay monthly and rarely rip out a working data feed. Grew from 60 dollars to 5.9k dollars/month in nine months; seller wants out to focus elsewhere.\n\nOne feed for scores, lineups, and odds, across a long list of sports. The buyer is an app that does not want a separate deal with every league. The listing is connected to Dodo. I am not logging in to re-check the number. The company is also for sale. The sale price is not the same thing as the monthly subscriptions."
+}

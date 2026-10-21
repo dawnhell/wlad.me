@@ -1,0 +1,31 @@
+{
+  "slug": "one-care-portal",
+  "name": "One Care Portal",
+  "listingNote": null,
+  "description": "All-in-one platform helping US adult day care centers and HCBS (Medicaid waiver) agencies pass audits, halve documentation time, and get claims paid faster (company-stated). Pricing: $299/mo platform fee + $7.99 per active participant; ERA module $99/mo + $0.10 per claim; billing module $1.50 per submitted claim; BAA available (company-stated). ~50 estimated users (founder-stated).",
+  "homepage": "https://onecareportal.com/",
+  "image": "/blog/2026-10-17/one-care-portal.webp",
+  "imageAlt": "One Care Portal product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,000 · 2 active subscriptions Last 30 days $1,300 (-27.7%) · last 6 months $1,000 (as of last sync) Last 12 months $9,099 · all-time $14,109 Note: revenue sync stale since 28 Apr 2026 — monthly $1.5k (Nov 2025–Feb 2026), $1.8k (Mar), $1.3k (Apr); nothing visible after. Treat MRR as a stale snapshot. Revenue synced 28 April 2026 ~20:32 Warsaw. The sync is stale.",
+      "sources": [
+        {
+          "label": "onecareportal.com",
+          "url": "https://onecareportal.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/one-care-portal"
+        }
+      ],
+      "indieAngle": "Pick one state's Medicaid waiver program and own the documentation + claims export for small providers. Boring, regulated, sticky — the opposite of an AI toy."
+    }
+  ],
+  "whyItPrints": "Peak Conductor energy — Medicaid paperwork, audits, ERA files and claims. Replaces spreadsheets and paper forms (founder-stated). Customers can't skip compliance, and per-participant pricing scales with the center.",
+  "whyThisMatters": "All-in-one platform helping US adult day care centers and HCBS (Medicaid waiver) agencies pass audits, halve documentation time, and get claims paid faster. Pricing: 299 dollars a month platform fee + 7.99 dollars per active participant; ERA module 99 dollars a month + 0.10 dollars per claim; billing module 1.50 dollars per submitted claim; BAA available. ~50 estimated users.\n\nPeak Conductor energy — Medicaid paperwork, audits, ERA files and claims. Replaces spreadsheets and paper forms. Customers can't skip compliance, and per-participant pricing scales with the center.\n\nThe customer is a US adult day care center or a Medicaid waiver agency. The job is the audit file, the notes, and the claim. You pay a platform fee plus a charge for each person, with extra modules for the payment files and the billing. A health-data agreement is available. The founder puts the user count around fifty. The Stripe connection last synced in April 2026, so the monthly figure is not this month."
+}

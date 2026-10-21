@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-18",
+  "title": "Sunday's boring SaaS, 18 October 2026",
+  "dek": "Sunday, 18 October 2026. Eight are Stripe-verified. SportsApi Pro is Dodo-verified, so the listing is connected to Dodo. TRADElube is self-reported.",
+  "heroId": "geirangerfjord",
+  "companies": [
+    {
+      "slug": "orshot",
+      "name": "Orshot",
+      "listingNote": null,
+      "description": "API and automation service that generates images, PDFs and videos from templates (company-stated: \"Automate Image, PDF & Video Generation via API\"). Aimed at agencies, brands, startups, developers and marketing teams. Pricing: Free $0, Launch $39/mo, Grow $160/mo, Scale $349/mo, Social Publishing $12/mo per social account, Enterprise on request (company-stated). ~140 estimated users (founder-stated). Founded Mar 2025, UK. 170 active subscriptions. Domain rating 60 (TrustMRR SEO data).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $9,406 · 170 active subscriptions · L30 MRR growth +13.5% Last 30 days $9,926 (+19.7%) · last 3 months $24,780 · last 6 months $44,939 Last 12 months $66,347 · all-time $70,912 Monthly: $2,311 (Nov 2025) → $3,999 (Jan) → $5,988 (Mar) → $7,356 (Jun) → $7,987 (Aug) → $8,080 (Sep 2026); Oct MTD $6,058. No cliff. Revenue synced 18 October 2026 ~04:01 Warsaw.",
+      "sources": [
+        {
+          "label": "orshot.com",
+          "url": "https://orshot.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/orshot-com"
+        }
+      ],
+      "homepage": "https://orshot.com/",
+      "indieAngle": "Same engine for one boring output: Polish invoice/receipt PDFs, real-estate listing cards, or event badges/certificates — sold per render volume. Very NextBento-shaped (Next.js + Stripe metered billing).",
+      "whyItPrints": "It's the Bannerbear / Placid category — \"put this product name and price into that template 5,000 times\". Nobody gets excited about it, but every e-commerce and social team has the job, and once templates are wired into a workflow nobody switches. The monthly chart is the kind you want: up almost every month.",
+      "image": "/blog/2026-10-18/orshot.webp",
+      "imageAlt": "Orshot product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "tactical-football-analysis",
+      "name": "Tactical Football Analysis",
+      "listingNote": null,
+      "description": "Subscription site publishing detailed (soccer) tactical analysis, scout reports, coach analysis and stats since 2018; claims \"all Premier League clubs\" among subscribers (founder-stated). Founded (company) Apr 2020, US. 1,154 active subscriptions; L30 profit margin 71%. Seller says the sale includes 20 freelance writers + an editor, owner spends <1 hour/week, and Stripe revenue excludes PayPal (seller-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $8,358 · 1,154 active subscriptions Last 30 days $5,862 (-17.3%) · last 3 months $20,523 · last 6 months $39,837 Last 12 months $103,973 · all-time $224,746 For sale: asking $199,999 (2.8x), first listed 7 Dec 2025, 16 offers received (TrustMRR listing) Note: slow decline — $13,373 (Dec 2025) → ~$10k (Jan–Apr) → $6.2k–$7.6k (May–Sep) → $3,130 Oct MTD. MRR snapshot sits above L30. Revenue synced 18 October 2026 ~04:34 Warsaw.",
+      "sources": [
+        {
+          "label": "tacticalfootballanalysis.com",
+          "url": "https://tacticalfootballanalysis.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tactical-football-analysis"
+        }
+      ],
+      "homepage": "https://tacticalfootballanalysis.com/",
+      "indieAngle": "The writer-bench content model works for any pro niche with a budget (handball coaching, padel, esports scouting). Or build the analyst tool they use: a simple tactics-board + report template SaaS for academies.",
+      "whyItPrints": "A content membership with a writer bench — a paywalled trade publication for coaches, scouts and analysts. Over 1,000 subs paying for PDFs-and-articles is classic boring cash. But revenue has been sliding for a year.",
+      "image": "/blog/2026-10-18/tactical-football-analysis.webp",
+      "imageAlt": "Tactical Football Analysis product image",
+      "imageWidth": 1200,
+      "imageHeight": 800
+    },
+    {
+      "slug": "writing9",
+      "name": "Writing9",
+      "listingNote": null,
+      "description": "Checks IELTS writing essays in a couple of minutes and returns a detailed report on weak areas, aimed at reaching Band 7+ (company-stated). Pricing: $7.99/week, $14.99/month, $29.99/year (company-stated). ~47,911 estimated users (founder-stated). Founded Jul 2018, US. 591 active subscriptions; L30 profit margin 99%.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,315 · 591 active subscriptions Last 30 days $5,642 (-0.8%) · last 3 months $17,000 · last 6 months $33,159 Last 12 months $64,866 · all-time $95,511 L30 profit margin 99% (TrustMRR snapshot) For sale: asking $200,000 (2.9x), first listed 9 Mar 2026, 10 offers received Monthly range Nov 2025 → Sep 2026: $4,586 – $6,402 (no cliff; Oct MTD $3,218) Revenue synced 18 October 2026 ~05:47 Warsaw.",
+      "sources": [
+        {
+          "label": "writing9.com",
+          "url": "https://writing9.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/writing9"
+        }
+      ],
+      "homepage": "https://writing9.com/",
+      "indieAngle": "Same weekly-pass model for another gatekeeping exam: Polish B1 citizenship exam, Goethe/TestDaF German, or Cambridge B2/C1 — one checker, priced weekly for the cram period.",
+      "whyItPrints": "Exam prep is evergreen: every year a new cohort of students needs the same score to emigrate or study abroad. One narrow job (grade an IELTS essay), SEO-driven, and a near-zero cost base. Monthly revenue has sat at ~$5–6k for a full year.",
+      "image": "/blog/2026-10-18/writing9.webp",
+      "imageAlt": "Writing9 product image",
+      "imageWidth": 1050,
+      "imageHeight": 600
+    },
+    {
+      "slug": "bali-villa-hub",
+      "name": "Bali Villa Hub",
+      "listingNote": null,
+      "description": "Directory comparing 3,000+ Bali villa rentals from 100+ verified agencies, agents and owners — monthly and yearly long-term rentals with direct contact and $0 booking fees (company-stated). Homepage also shows \"List Property\", \"Relocation packages\" and \"Services\" (seen on homepage). Founded Jun 2025, registered in Ireland. 86 active subscriptions — the revenue model isn't spelled out publicly; the subscription count suggests paid listings by agencies/owners (my inference, not stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,139 · 86 active subscriptions Last 30 days $7,441 (+27.1%) · last 3 months $18,716 · last 6 months $30,775 Last 12 months $49,622 · all-time $50,431 Monthly: $2,088 (Nov 2025) → $3,248 (Mar) → $4,979 (Jul) → $6,473 (Sep 2026); Oct MTD $4,648. No cliff. Revenue synced 18 October 2026 ~04:05 Warsaw.",
+      "sources": [
+        {
+          "label": "balivillahub.com",
+          "url": "https://balivillahub.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/bali-villa-hub"
+        }
+      ],
+      "homepage": "https://balivillahub.com/",
+      "indieAngle": "Copy the pattern for a city where long-term rentals still live in Facebook groups (expat Warsaw/Kraków, Lisbon, Tbilisi, Da Nang). Free to browse, agencies pay monthly to list.",
+      "whyItPrints": "\"Tired of searching through Facebook groups?\" — a directory that replaces a messy Facebook-group market. Classic boring marketplace-lite: listings in, leads out, recurring fees from the supply side. Twelve months of steady growth.",
+      "image": "/blog/2026-10-18/bali-villa-hub.webp",
+      "imageAlt": "Bali Villa Hub product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "getlead",
+      "name": "Getlead",
+      "listingNote": null,
+      "description": "B2B lead-generation platform: access to 420M+ global contacts, lead scraping via your own API, and outreach \"with up to 99% inbox delivery\" in one tool (company-stated). Pricing: Starter €19.90/mo, Freelancer & Founder €99.90/mo, Agency+ €199.90/mo (company-stated). Claims 12,400+ teams (founder-stated). Founded Oct 2025, Poland. 51 active subscriptions; L30 profit margin 60%.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,098 · 51 active subscriptions Last 30 days $11,334 (+25.0%) · last 3 months $28,025 · last 6 months $56,301 Last 12 months $98,079 · all-time $100,279 L30 profit margin 60% (TrustMRR snapshot) Note: lumpy months — $11,431 (Dec 2025), $2,645 (Feb), ~$11k (Apr–May), $5,651 (Aug), $10,754 (Sep), $8,244 Oct MTD. MRR snapshot is far below L30, so most cash is non-recurring. Revenue synced 18 October 2026 ~05:30 Warsaw.",
+      "sources": [
+        {
+          "label": "getle.ad",
+          "url": "https://getle.ad/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/getlead"
+        }
+      ],
+      "homepage": "https://getle.ad/",
+      "indieAngle": "Narrow it: one verified B2B database for one country or vertical (Polish companies from KRS/CEIDG + verified emails, or EU dental clinics), sold as credit packs. Data sourcing and GDPR are the moat and the risk.",
+      "whyItPrints": "Lists of emails plus a sending tool — the oldest B2B purchase on the internet. Revenue is lumpy (likely annual plans/credit packs: L30 far above the MRR snapshot), but it crossed $100k all-time in under a year from Poland.",
+      "image": "/blog/2026-10-18/getlead.webp",
+      "imageAlt": "Getlead product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "sonar",
+      "name": "Sonar",
+      "listingNote": null,
+      "description": "ASO dashboard for iOS App Store and Google Play: keyword research (popularity and difficulty), daily rank tracking, competitor and keyword-gap analysis, review monitoring, app revenue estimates (company-stated). From $25/mo for up to 10 apps, both stores, full history (company-stated). ~202 estimated users (founder-stated). Founded Mar 2026, Slovakia. 184 active subscriptions.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $3,976 · 184 active subscriptions Last 30 days $4,565 (+25.6%) · last 3 months $11,169 · last 6 months $14,604 Last 12 months $14,689 · all-time $14,689 Monthly: $115 (Apr 2026) → $1,389 (Jun) → $3,048 (Aug) → $4,325 (Sep); Oct MTD $2,314. No cliff. Revenue synced 18 October 2026 ~05:54 Warsaw.",
+      "sources": [
+        {
+          "label": "trysonar.app",
+          "url": "https://trysonar.app/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/sonar-aso-tool"
+        }
+      ],
+      "homepage": "https://trysonar.app/",
+      "indieAngle": "Rank tracker for a different store: Shopify App Store, Chrome Web Store, WordPress.org plugins, or Google Maps local rank for a Polish city. Same daily-check habit, $25/mo.",
+      "whyItPrints": "Rank tracking is a habit product — devs check it daily and keep paying. Cheap entry price for indies, priced under the AppTweak/Sensor Tower tier. Went from $0 to ~$4k MRR in about six months.",
+      "image": "/blog/2026-10-18/sonar.webp",
+      "imageAlt": "Sonar product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "helpstay",
+      "name": "HelpStay",
+      "listingNote": null,
+      "description": "Work-exchange platform connecting hosts with travellers who help in exchange for food and accommodation — \"Give a little help, stay for free\", 2500+ volunteer stays in 100+ countries (company-stated). Founded Apr 2014, Ireland. 625 active subscriptions; ~2,500 estimated users (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,594 · 625 active subscriptions Last 30 days $2,726 (+7.2%) · last 3 months $7,632 · last 6 months $18,445 Last 12 months $35,674 · all-time $439,748 Note: all-time far above current run-rate — ~$440k AT vs ~$36k last 12 months, so the bigger years are behind it. Monthly range Nov 2025 → Sep 2026: $2,013 – $4,680 (Oct MTD $1,233). Revenue synced 18 October 2026 ~04:40 Warsaw.",
+      "sources": [
+        {
+          "label": "helpstay.com",
+          "url": "https://helpstay.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/helpstay-com"
+        }
+      ],
+      "homepage": "https://helpstay.com/",
+      "indieAngle": "Membership directories in two-sided \"barter\" niches still print slowly: house-sitting in Poland/CEE, farm stays for students, au-pair matching. Charge the side with more demand.",
+      "whyItPrints": "A 12-year-old membership directory in the Workaway/WWOOF lane. Listings are user-generated, travellers pay to contact hosts. Not growing, but still paying ~$2–4k every month after a decade.",
+      "image": "/blog/2026-10-18/helpstay.webp",
+      "imageAlt": "HelpStay product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "elyx-ai",
+      "name": "Elyx AI",
+      "listingNote": null,
+      "description": "B2B Excel add-in with an AI agent that runs finance workflows (consolidation, reporting, variance analysis) directly in Excel, \"every formula verifiable, every cell traceable\" (company-stated). Targets accounting firms, industrial SMEs, freelance controllers, SME CFOs and chartered accountants in France. Pricing: Starter €29/mo, Pro €59/mo, Team €119/mo (company-stated). Founded Jun 2023, France. 128 active subscriptions; L30 profit margin 65%. It has \"AI\" in the name, but the buyer and the job are pure accounting glue.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,744 · 128 active subscriptions Last 30 days $6,513 (+667.1%) · last 3 months $9,429 · last 6 months $19,359 Last 12 months $53,020 · all-time $74,011 For sale: asking $79,000 (1.0x), first listed 27 May 2026, 8 offers received Note: spike-then-cliff, now bouncing — $18,819 (Feb 2026) → $7,306 (Apr) → ~$1.1k (Aug–Sep) → $5,910 Oct MTD. Revenue synced 18 October 2026 ~00:41 Warsaw.",
+      "sources": [
+        {
+          "label": "getelyxai.com",
+          "url": "https://getelyxai.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/elyx-ai"
+        }
+      ],
+      "homepage": "https://getelyxai.com/",
+      "indieAngle": "Excel/Google Sheets add-in for one local accounting chore: Polish JPK/KSeF reconciliation, VAT split-payment checks, or bank-statement matching. Per-seat, sold to biura rachunkowe (accounting offices).",
+      "whyItPrints": "Finance teams live in Excel and won't leave. An add-in that sits inside the spreadsheet (not another web app) is the Conductor pattern: meet the legacy tool where it already is. Seller says the recent dip is because he stepped back to do consulting, \"not a product issue\" (seller-stated).",
+      "image": "/blog/2026-10-18/elyx-ai.webp",
+      "imageAlt": "Elyx AI product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "sportsapi-pro",
+      "name": "SportsApi Pro",
+      "listingNote": null,
+      "description": "Unified API for real-time scores, match events, lineups, standings, historical data and odds across 20–25+ sports and 15,000–25,000+ competitions (company-stated; the profile lists both figures). Target: developers building live sports products. Founded Dec 2025. 100 active subscriptions; L30 profit margin 80%.",
+      "evidenceKind": "dodo-verified",
+      "evidence": "MRR $4,556 · 100 active subscriptions Last 30 days $4,964 (-8.8%) · last 3 months $13,233 · last 6 months $19,599 Last 12 months $21,745 · all-time $21,745 L30 profit margin 80% (TrustMRR snapshot) For sale: asking $59,000 (1.0x), first listed 12 Feb 2026, 24 offers received Monthly: $534 (Feb 2026) → $1,475 (May) → $3,085 (Aug) → $5,893 (Sep); Oct MTD $3,530. Revenue synced 18 October 2026 ~05:23 Warsaw.",
+      "sources": [
+        {
+          "label": "sportsapipro.com",
+          "url": "https://sportsapipro.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/sportsapi-pro"
+        }
+      ],
+      "homepage": "https://sportsapipro.com/",
+      "indieAngle": "Data-API reseller for a boring dataset nobody packages well: Polish public tenders, EU fuel prices, KRS company changes. Note: check the upstream data licence before buying or copying.",
+      "whyItPrints": "Data resale with a clean API on top. Developers pay monthly and rarely rip out a working data feed. Grew from $60 to ~$5.9k/month in nine months; seller wants out to focus elsewhere (seller-stated).",
+      "image": "/blog/2026-10-18/sportsapi-pro.webp",
+      "imageAlt": "SportsApi Pro product image",
+      "imageWidth": 1024,
+      "imageHeight": 518
+    },
+    {
+      "slug": "tradelube",
+      "name": "TRADElube",
+      "listingNote": null,
+      "description": "Integration platform + PIM that connects three ERP systems with Shopware, WooCommerce and Shopify and handles the whole product-data flow from backend to shop (founder-stated). Core niche: e-bike/bike retail (battery size, frame size, gearing etc.), expanding to electronics and tool retail. Solo founder Florian Feilmeier, Upper Austria, running it next to a 12-hour/week developer job; \"in production since 2020\" (homepage). Pricing: €79/mo (ERP → Shopware), €99/mo (WooCommerce), €149/mo (Shopify) (founder-stated). Built on .NET/Blazor + MariaDB Galera on Kubernetes (founder-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "€4,700 MRR from ~60 customers (founder-stated) No meaningful marketing in five years; first push is 20 handwritten letters/week to tool retailers (founder-stated) Note: not Stripe-verified.",
+      "sources": [
+        {
+          "label": "tradelube.com",
+          "url": "https://www.tradelube.com/"
+        },
+        {
+          "label": "Happy Bootstrapping write-up (27 Apr 2026)",
+          "url": "https://happybootstrapping.com/p/4700-euro-mrr-without-marketing-building"
+        }
+      ],
+      "homepage": "https://www.tradelube.com/",
+      "indieAngle": "Pick one ERP popular with Polish SMB retailers (Subiekt GT / Comarch Optima / enova) and sell a traced, flat-price sync to WooCommerce/Shopify/Allegro. Ask the ERP resellers for referrals — they want their product to look better.",
+      "whyItPrints": "Peak Conductor energy — glue between an old ERP and a web shop. Growth for five years came only from ERP vendors referring their own customers (no commission, no marketing). Support is 1–2 hours/week thanks to per-product end-to-end tracing (founder-stated).",
+      "image": "/blog/2026-10-18/tradelube.webp",
+      "imageAlt": "TRADElube product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "AyAI — DocuWare Automation Suite",
+      "note": "() — automation/AI add-ons for DocuWare (legacy document management), UK. Pure Conductor lane but tiny now: Stripe MRR $152 · 3 subs · L30 $152 · L12 $2,595 · AT $25,246 — cliff, most revenue was before Nov 2025.",
+      "homepage": null
+    },
+    {
+      "name": "Crawlbyte",
+      "note": "pay-as-you-go web scraping API ($0.005+/task, company-stated). Stripe MRR $1,246 · 4 subs · L30 $7,246 · L12 $81,943 · AT $89,127 (usage revenue, not subs).",
+      "homepage": null
+    },
+    {
+      "name": "Canopy API",
+      "note": "REST/GraphQL/MCP API for Amazon product, pricing and review data. Stripe MRR $1,387 · 13 subs · L30 $4,297 · AT $36,074 · margin 80%.",
+      "homepage": null
+    },
+    {
+      "name": "Deeplead.io",
+      "note": "outbound stack (lead data + verification + inboxes/warmup), Germany. Stripe MRR $9,719 · 212 subs · L30 $8,852 · AT $58,837 (since Feb 2026).",
+      "homepage": null
+    },
+    {
+      "name": "RareRoles",
+      "note": "paid list of remote jobs \"not on LinkedIn or Indeed\". Stripe MRR $3,315 · 151 subs · L30 $3,303 · AT $28,941 · margin 89% · asking $75,000 (1.9x).",
+      "homepage": null
+    },
+    {
+      "name": "Trivia Flow",
+      "note": "pub/fundraiser trivia-night builder, $29/mo Premium (company-stated), Australia. Stripe MRR $2,510 · 88 subs · L30 $2,481 · AT $13,657.",
+      "homepage": null
+    },
+    {
+      "name": "Tarkle",
+      "note": "white-label client portal / file sharing for agencies. Stripe AT $1,015,512 · L12 $54,141 · MRR $500 · severe cliff + sync stale since 13 Aug 2026.",
+      "homepage": null
+    }
+  ]
+}

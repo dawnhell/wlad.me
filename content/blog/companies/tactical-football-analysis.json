@@ -1,0 +1,31 @@
+{
+  "slug": "tactical-football-analysis",
+  "name": "Tactical Football Analysis",
+  "listingNote": null,
+  "description": "Subscription site publishing detailed (soccer) tactical analysis, scout reports, coach analysis and stats since 2018; claims \"all Premier League clubs\" among subscribers (founder-stated). Founded (company) Apr 2020, US. 1,154 active subscriptions; L30 profit margin 71%. Seller says the sale includes 20 freelance writers + an editor, owner spends <1 hour/week, and Stripe revenue excludes PayPal (seller-stated).",
+  "homepage": "https://tacticalfootballanalysis.com/",
+  "image": "/blog/2026-10-18/tactical-football-analysis.webp",
+  "imageAlt": "Tactical Football Analysis product image",
+  "imageWidth": 1200,
+  "imageHeight": 800,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $8,358 · 1,154 active subscriptions Last 30 days $5,862 (-17.3%) · last 3 months $20,523 · last 6 months $39,837 Last 12 months $103,973 · all-time $224,746 For sale: asking $199,999 (2.8x), first listed 7 Dec 2025, 16 offers received (TrustMRR listing) Note: slow decline — $13,373 (Dec 2025) → ~$10k (Jan–Apr) → $6.2k–$7.6k (May–Sep) → $3,130 Oct MTD. MRR snapshot sits above L30. Revenue synced 18 October 2026 ~04:34 Warsaw.",
+      "sources": [
+        {
+          "label": "tacticalfootballanalysis.com",
+          "url": "https://tacticalfootballanalysis.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tactical-football-analysis"
+        }
+      ],
+      "indieAngle": "The writer-bench content model works for any pro niche with a budget (handball coaching, padel, esports scouting). Or build the analyst tool they use: a simple tactics-board + report template SaaS for academies."
+    }
+  ],
+  "whyItPrints": "A content membership with a writer bench — a paywalled trade publication for coaches, scouts and analysts. Over 1,000 subs paying for PDFs-and-articles is classic boring cash. But revenue has been sliding for a year.",
+  "whyThisMatters": "Subscription site publishing detailed (soccer) tactical analysis, scout reports, coach analysis and stats since 2018; claims \"all Premier League clubs\" among subscribers. Founded (company) Apr 2020, US. 1,154 active subscriptions; profit margin on the recent snapshot 71%. Seller says the sale includes 20 freelance writers + an editor, owner spends <1 hour/week, and Stripe revenue excludes PayPal.\n\nA content membership with a writer bench — a paywalled trade publication for coaches, scouts and analysts. Over 1,000 subs paying for PDFs-and-articles is classic boring cash. But revenue has been sliding for a year.\n\nThe product is the writing. Match reports, scout notes, and stats, on a subscription, since 2018. The seller says Premier League clubs are among the readers, that a sale would include freelance writers and an editor, and that the owner spends less than an hour a week. PayPal sits outside the Stripe number. The recent months are softer than the older total."
+}

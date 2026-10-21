@@ -1,0 +1,31 @@
+{
+  "slug": "defined-chase",
+  "name": "Defined Chase",
+  "listingNote": null,
+  "description": "Digital marketing / paid-ads agency targeting teams spending $100K–$10M+/month on ads; clients pay at checkout for a chosen service package (founder-stated). ~200 estimated clients/users (founder-stated). Founded Oct 2023, Lithuania. Not SaaS — productised agency revenue.",
+  "homepage": "https://www.definedchase.com/",
+  "image": "/blog/2026-10-17/defined-chase.webp",
+  "imageAlt": "Defined Chase product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,299 · 11 active subscriptions Last 30 days $47,098 (-31.6%) · last 3 months $171,878 · last 6 months $462,579 Last 12 months $1,421,936 · all-time $2,416,455 Note: revenue cliff — monthly $194k (Jan 2026) → ~$101k (Apr–Jun) → $47k (Aug) → $64k (Sep) → $35k (Oct MTD). Read AT as niche proof, not current run-rate. Revenue synced 17 October 2026 ~04:21 Warsaw.",
+      "sources": [
+        {
+          "label": "definedchase.com",
+          "url": "https://www.definedchase.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/defined-chase"
+        }
+      ],
+      "indieAngle": "Don't run the agency — build the boring reporting/ROAS dashboard agencies like this hand to clients (\"no fluffy reports\" is literally their pitch)."
+    }
+  ],
+  "whyItPrints": "Classic \"we manage your ad spend\" business with a $2.4M Stripe trail in three years. Boring, sales-led, and big — but the run-rate has been sliding hard.",
+  "whyThisMatters": "Digital marketing / paid-ads agency targeting teams spending 100K dollars–10M dollars+/month on ads; clients pay at checkout for a chosen service package. ~200 estimated clients/users. Founded Oct 2023, Lithuania. Not SaaS — productised agency revenue.\n\nClassic \"we manage your ad spend\" business with a 2.4M dollars Stripe trail in three years. Boring, sales-led, and big — but the run-rate has been sliding hard.\n\nClients pick a package and pay at checkout. The shop is in Lithuania. The pitch is for teams that already spend heavily on ads. The founder puts the client count around two hundred. The Stripe history is long, and the recent months are smaller than the months at the start of the year. Read the old total as proof the work sold, not as this month.\n\nI would not copy the agency. The dull product next to it is the report the client actually reads."
+}

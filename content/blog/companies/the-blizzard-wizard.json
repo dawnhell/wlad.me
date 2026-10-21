@@ -1,0 +1,31 @@
+{
+  "slug": "the-blizzard-wizard",
+  "name": "The Blizzard Wizard",
+  "listingNote": null,
+  "description": "Residential-only snow removal across Toronto, North York, Markham, Vaughan, Richmond Hill and Scarborough: driveway clearing, sidewalk shovelling, 24/7 emergency plowing; \"unlimited visits\" seasonal service (company-stated). Founded Oct 2025, Canada. Not software — a local service business that runs on Stripe.",
+  "homepage": "https://theblizzardwizard.ca/",
+  "image": "/blog/2026-10-17/the-blizzard-wizard.webp",
+  "imageAlt": "The Blizzard Wizard product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR snapshot $0 (one-off seasonal payments, no subscriptions) Last 30 days $25,356 (+221.2%) · last 3 months $33,103 · last 6 months $33,103 Last 12 months $47,979 · all-time $47,979 Note: seasonal — Sep 2026 $20,760, Oct 2026 MTD $12,343; summer months ~$0. Revenue synced 17 October 2026 ~10:02 Warsaw.",
+      "sources": [
+        {
+          "label": "theblizzardwizard.ca",
+          "url": "https://theblizzardwizard.ca/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/the-blizzard-wizard-snow-removal-company"
+        }
+      ],
+      "indieAngle": "The software play is the booking/route/prepay layer for seasonal crews (snow, lawn, gutter, pool). Or simply: seasonal-prepay pricing is a cash-flow trick worth stealing for any service SaaS."
+    }
+  ],
+  "whyItPrints": "Homeowners prepay for the whole winter in September/October, so the cash lands before a single snowflake. The L30 number is basically the pre-sale season.",
+  "whyThisMatters": "Residential-only snow removal across Toronto, North York, Markham, Vaughan, Richmond Hill and Scarborough: driveway clearing, sidewalk shovelling, 24/7 emergency plowing; \"unlimited visits\" seasonal service. Founded Oct 2025, Canada. Not software — a local service business that runs on Stripe.\n\nHomeowners prepay for the whole winter in September/October, so the cash lands before a single snowflake. The the last 30 days number is basically the pre-sale season.\n\nThis is not software. It is a snow crew for houses in Toronto and the cities next to it. You pay before winter, for the driveway, the sidewalk, and a call if the storm is bad. The visits for the season are described as unlimited. The money shows up in September and October. Summer is quiet. The prepay is the part I wanted on the page.\n\nThe software version of this is the booking and the route, sold to the crew. The crew itself is the business on this page."
+}

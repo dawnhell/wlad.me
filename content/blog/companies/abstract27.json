@@ -1,0 +1,31 @@
+{
+  "slug": "abstract27",
+  "name": "Abstract27",
+  "listingNote": null,
+  "description": "Hosted Ghost CMS: you pick a name and get a working site + newsletter + paid memberships \"in 60 seconds\" on your own domain. Migration from WordPress, Substack or Beehiiv is possible (founder-stated). Homepage pricing: self-serve hosting from €10/mo billed annually (€12 monthly), 14-day free trial with no card, \"hosted in the EU, GDPR compliant\", 5.0 from 27 Google reviews. It says it is \"built by an independent operator in London, no VC\" (company-stated). The TrustMRR profile lists plans Solo $16/mo, Pro $25/mo, Studio $50/mo billed annually. Target: \"associations and communities, political parties and campaigns, and independent online media\", ~45,000 estimated users (founder-stated).",
+  "homepage": "https://fr.abstract27.com/",
+  "image": "/blog/2026-10-21/abstract27.webp",
+  "imageAlt": "Abstract27 product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $888 · 29 active subscriptions Last 30 days $1,788 (+21.7%) · last 6 months $8,521 · last 12 months $20,106 · all-time $58,589 Monthly: lumpy (annual billing): $2,995 (Nov 2025), $2,804 (Jan), $2,755 (May), $408 (Jun), $2,349 (Sep), $761 (Oct MTD) Revenue synced 21 October 2026 ~04:18 Warsaw.",
+      "sources": [
+        {
+          "label": "fr.abstract27.com",
+          "url": "https://fr.abstract27.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/agence-web-abstract27"
+        }
+      ],
+      "indieAngle": "\"Ghost/Listmonk hosting for Polish fundacje, stowarzyszenia and local politicians\" at 39–79 zł/mo. EU hosting, RODO paperwork and a Polish-language panel. Sell before the next local-election cycle."
+    }
+  ],
+  "whyItPrints": "Hosting is the most boring recurring revenue there is. Associations and campaigns don't want to run servers or WordPress plugins, they want a site and a newsletter that work. Low churn, and the open-source Ghost core means the founder doesn't have to build the product.",
+  "whyThisMatters": "Hosted Ghost CMS: you pick a name and get a working site + newsletter + paid memberships \"in 60 seconds\" on your own domain. Migration from WordPress, Substack or Beehiiv is possible. Homepage pricing: self-serve hosting from 10 euros a month billed annually (12 euros monthly), 14-day free trial with no card, \"hosted in the EU, GDPR compliant\", 5.0 from 27 Google reviews. It says it is \"built by an independent operator in London, no VC\". The TrustMRR profile lists plans Solo 16 dollars a month, Pro 25 dollars a month, Studio 50 dollars a month billed annually. Target: \"associations and communities, political parties and campaigns, and independent online media\", ~45,000 estimated users.\n\nHosting is the most boring recurring revenue there is. Associations and campaigns don't want to run servers or WordPress plugins, they want a site and a newsletter that work. Low churn, and the open-source Ghost core means the founder doesn't have to build the product."
+}

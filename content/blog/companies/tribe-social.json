@@ -1,0 +1,31 @@
+{
+  "slug": "tribe-social",
+  "name": "Tribe Social",
+  "listingNote": null,
+  "description": "Platform for custom community apps with courses, live calls, conversations and payments, so creators, coaches and operators \"refuse to rent their audience from a social network\" (company-stated). Profile says it powers \"communities that reach 500,000+ people every month\" (founder-stated). No public pricing on the profile. Founded Nov 2024, US, founder Bruce van Zyl. Only 8 active subscriptions, so this is high-ticket B2B: L30 ÷ 8 subs ≈ $1.9k per subscription per month (my arithmetic).",
+  "homepage": "https://tribesocial.io/",
+  "image": "/blog/2026-10-19/tribe-social.webp",
+  "imageAlt": "Tribe Social product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-19",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $28,271 · 8 active subscriptions Last 30 days $14,980 (0.0%) · last 3 months $44,940 · last 6 months $97,225 Last 12 months $204,070 · all-time $387,308 Monthly range Nov 2025 → Oct 2026: $14,980 – $21,980 (Oct already $14,980). MRR snapshot sits well above L30, and with 8 customers, losing one is a big hit. Revenue synced 19 October 2026 ~04:44 Warsaw.",
+      "sources": [
+        {
+          "label": "tribesocial.io",
+          "url": "https://tribesocial.io/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tribe-social"
+        }
+      ],
+      "indieAngle": "White-label \"your own app\" for one trade association type: Polish chambers of commerce, dance-school networks, franchise operators. A few clients at €500–2,000/month, onboarded by hand."
+    }
+  ],
+  "whyItPrints": "A few big creators paying four figures a month each for their own branded app. That's the Kajabi/Mighty Networks white-label tier, sold to a handful of accounts. Monthly revenue has held at $15k–22k for a full year.",
+  "whyThisMatters": "Platform for custom community apps with courses, live calls, conversations and payments, so creators, coaches and operators \"refuse to rent their audience from a social network\". Profile says it powers \"communities that reach 500,000+ people every month\". No public pricing on the profile. Founded Nov 2024, US, founder Bruce van Zyl. Only 8 active subscriptions, so this is high-ticket B2B: the last 30 days ÷ 8 subs ≈ 1.9k dollars per subscription per month (my arithmetic).\n\nA few big creators paying four figures a month each for their own branded app. That's the Kajabi/Mighty Networks white-label tier, sold to a handful of accounts. Monthly revenue has held at 15k dollars–22k for a full year."
+}

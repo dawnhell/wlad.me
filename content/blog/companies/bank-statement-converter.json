@@ -1,0 +1,35 @@
+{
+  "slug": "bank-statement-converter",
+  "name": "Bank Statement Converter",
+  "listingNote": null,
+  "description": "Single-feature tool that pulls transactions out of PDF bank statements into clean Excel, used by accountants, bookkeepers and small businesses (founder-stated). Solo founder Angus Cheng, Hong Kong; launched March 2021 (founder-stated). Pricing at the 2023 write-up: $30/mo for 400 pages, $99/mo for 4,000 pages, custom above that (founder-stated, 2023).",
+  "homepage": "https://bankstatementconverter.com/",
+  "image": "/blog/2026-10-17/bank-statement-converter.webp",
+  "imageAlt": "Bank Statement Converter product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "self-reported",
+      "evidence": "MRR ~$40,000 (founder-stated); claims ~$39k of that is profit MRR trajectory: $6k (2022) → $14k (2023) → $27k (2024) → $40k (2025) (founder-stated) ~75,000 total users, ~1,000 paying customers, ~40k visits/month (founder-stated) Note: not Stripe-verified. For contrast, TrustMRR-verified clone Bankstatemently (PDF → CSV/XLSX/QBO) shows only $375 MRR / 14 subs / $1.4k all-time, sync stale since 4 Aug 2026.",
+      "sources": [
+        {
+          "label": "bankstatementconverter.com",
+          "url": "https://bankstatementconverter.com/"
+        },
+        {
+          "label": "Starter Story video (Jul 2025)",
+          "url": "https://www.starterstory.com/angus"
+        },
+        {
+          "label": "Starter Story write-up (Nov 2023)",
+          "url": "https://www.starterstory.com/stories/bankstatementconverter"
+        }
+      ],
+      "indieAngle": "Same playbook for a narrower format: Polish bank statements → JPK/KSeF-friendly CSV, or PDF invoices → QuickBooks/Xero import files. Pure conversion, priced by pages."
+    }
+  ],
+  "whyItPrints": "Banks still hand out PDFs; accountants still need CSVs. One job, done well, found via organic search. Paid ads never worked for him (~$1k spent for ~$300 in sales, founder-stated).",
+  "whyThisMatters": "Single-feature tool that pulls transactions out of PDF bank statements into clean Excel, used by accountants, bookkeepers and small businesses. Solo founder Angus Cheng, Hong Kong; launched March 2021. Pricing at the 2023 write-up: 30 dollars a month for 400 pages, 99 dollars a month for 4,000 pages, custom above that.\n\nBanks still hand out PDFs; accountants still need CSVs. One job, done well, found via organic search. Paid ads never worked for him (1k dollars spent for 300 dollars in sales, founder-stated).\n\nYou upload the PDF the bank sent. It returns the rows an accountant can open in a spreadsheet. Angus Cheng builds it in Hong Kong, and it has been up since 2021. The older price list was a monthly plan sized by how many pages you run. He says people find it through search, and that ads did not pay for themselves. The monthly number is his, from a 2025 interview, not a Stripe connection."
+}

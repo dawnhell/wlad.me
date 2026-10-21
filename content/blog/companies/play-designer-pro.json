@@ -1,0 +1,31 @@
+{
+  "slug": "play-designer-pro",
+  "name": "Play Designer Pro",
+  "listingNote": null,
+  "description": "Play design tool for (American) football offenses that auto-generates quizzes so players learn the playbook before game day (company-stated). Aimed at football coaches and teams. Founded Jun 2025, UK. 260 active subscriptions.",
+  "homepage": "https://www.playdesignerpro.com/",
+  "image": "/blog/2026-10-17/play-designer-pro.webp",
+  "imageAlt": "Play Designer Pro product image",
+  "imageWidth": 1200,
+  "imageHeight": 627,
+  "mentions": [
+    {
+      "date": "2026-10-17",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,018 · 260 active subscriptions Last 30 days $6,835 (-8.7%) · last 3 months $19,146 · last 6 months $25,528 Last 12 months $29,368 · all-time $29,915 Note: strongly seasonal (Aug–Sep 2026 = $6.4k / $6.8k months; Jan–Mar 2026 = $540–$900). Revenue synced 17 October 2026 ~04:12 Warsaw.",
+      "sources": [
+        {
+          "label": "playdesignerpro.com",
+          "url": "https://www.playdesignerpro.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/play-designer-pro"
+        }
+      ],
+      "indieAngle": "Same playbook-plus-quiz pattern for a sport Europe actually plays (football/soccer set pieces, handball, volleyball rotations). Sell to coaches per team per season."
+    }
+  ],
+  "whyItPrints": "Vertical tool for a stubborn, spreadsheet-and-whiteboard audience (high-school coaches) with a seasonal buying moment. The quiz angle is what competitors don't do (founder-stated). Revenue went from ~$500/mo to ~$6.8k/mo in about six months as the season started.",
+  "whyThisMatters": "Play design tool for (American) football offenses that auto-generates quizzes so players learn the playbook before game day. Aimed at football coaches and teams. Founded Jun 2025, UK. 260 active subscriptions.\n\nVertical tool for a stubborn, spreadsheet-and-whiteboard audience (high-school coaches) with a seasonal buying moment. The quiz angle is what competitors don't do. Revenue went from 500 dollars a month to 6.8k dollars a month in about six months as the season started.\n\nA coach draws the play, and the tool turns it into a quiz the players take before the game. The buyers are coaches and teams. The company is in the UK, and the sport is American football. Cash jumps when the season starts and goes quiet in the winter. That is the shape of the year.\n\nThe same quiz idea works for a sport with a coach and a squad, sold once per team per season."
+}

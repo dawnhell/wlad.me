@@ -1,0 +1,31 @@
+{
+  "slug": "textwork",
+  "name": "TextWork",
+  "listingNote": null,
+  "description": "Candidates text to apply, and an agent screens them over SMS, asks your qualifying questions, schedules interviews and hands recruiters a clean summary. It works after hours and over weekends (founder-stated). It plugs into SmartRecruiters or your ATS (company-stated). Target: \"teams that hire at volume and cannot call every applicant: hourly and frontline roles, skilled trades, staffing desks\" (founder-stated). Pricing: Starter $99/mo, Growth $199/mo, Enterprise (homepage). Homepage counters (rendered 20 Oct): \"202+ jobsites\", \"277,459+ text messages exchanged\", \"11,693+ applicants screened\" (company-stated). ~8,000 estimated users (founder-stated). Founded Jan 2018, US, founder Brian (1.6k X followers).",
+  "homepage": "https://textwork.co/",
+  "image": "/blog/2026-10-20/textwork.webp",
+  "imageAlt": "TextWork product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,919 · 2 active subscriptions Last 30 days $2,919 (-48.9%) · last 3 months $10,537 · last 6 months $16,252 Last 12 months $29,372 · all-time $34,772 · a single $2,820 charge landed in the last 24 h Monthly: $1,080 (Nov–Dec 2025) → $6,069 (Jan) → $1,905/month flat (Mar–Jul) → $2,004 (Aug) → $5,712 (Sep); Oct MTD $2,820. Revenue synced 20 October 2026 ~04:07 Warsaw.",
+      "sources": [
+        {
+          "label": "textwork.co",
+          "url": "https://textwork.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/textwork"
+        }
+      ],
+      "indieAngle": "Polish blue-collar and Ukrainian-worker hiring runs on phone calls and WhatsApp. Build \"aplikuj SMS-em/WhatsAppem\" pre-screening (availability, permits, driving licence, start date) for agencje pracy tymczasowej (temp agencies) and logistics warehouses, priced per site."
+    }
+  ],
+  "whyItPrints": "Staffing desks and field-service companies lose applicants who wait days for a call back. SMS screening is plumbing between job boards, the ATS and a recruiter's calendar. Only 2 active subscriptions, so this is a couple of enterprise contracts (my read of the numbers), very concentrated.",
+  "whyThisMatters": "Candidates text to apply, and an agent screens them over SMS, asks your qualifying questions, schedules interviews and hands recruiters a clean summary. It works after hours and over weekends. It plugs into SmartRecruiters or your ATS. Target: \"teams that hire at volume and cannot call every applicant: hourly and frontline roles, skilled trades, staffing desks\". Pricing: Starter 99 dollars a month, Growth 199 dollars a month, Enterprise. Homepage counters (rendered 20 Oct): \"202+ jobsites\", \"277,459+ text messages exchanged\", \"11,693+ applicants screened\". ~8,000 estimated users. Founded Jan 2018, US, founder Brian (1.6k X followers).\n\nStaffing desks and field-service companies lose applicants who wait days for a call back. SMS screening is plumbing between job boards, the ATS and a recruiter's calendar. Only 2 active subscriptions, so this is a couple of enterprise contracts, very concentrated."
+}

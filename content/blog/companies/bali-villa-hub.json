@@ -1,0 +1,31 @@
+{
+  "slug": "bali-villa-hub",
+  "name": "Bali Villa Hub",
+  "listingNote": null,
+  "description": "Directory comparing 3,000+ Bali villa rentals from 100+ verified agencies, agents and owners — monthly and yearly long-term rentals with direct contact and $0 booking fees (company-stated). Homepage also shows \"List Property\", \"Relocation packages\" and \"Services\" (seen on homepage). Founded Jun 2025, registered in Ireland. 86 active subscriptions — the revenue model isn't spelled out publicly; the subscription count suggests paid listings by agencies/owners (my inference, not stated).",
+  "homepage": "https://balivillahub.com/",
+  "image": "/blog/2026-10-18/bali-villa-hub.webp",
+  "imageAlt": "Bali Villa Hub product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-18",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,139 · 86 active subscriptions Last 30 days $7,441 (+27.1%) · last 3 months $18,716 · last 6 months $30,775 Last 12 months $49,622 · all-time $50,431 Monthly: $2,088 (Nov 2025) → $3,248 (Mar) → $4,979 (Jul) → $6,473 (Sep 2026); Oct MTD $4,648. No cliff. Revenue synced 18 October 2026 ~04:05 Warsaw.",
+      "sources": [
+        {
+          "label": "balivillahub.com",
+          "url": "https://balivillahub.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/bali-villa-hub"
+        }
+      ],
+      "indieAngle": "Copy the pattern for a city where long-term rentals still live in Facebook groups (expat Warsaw/Kraków, Lisbon, Tbilisi, Da Nang). Free to browse, agencies pay monthly to list."
+    }
+  ],
+  "whyItPrints": "\"Tired of searching through Facebook groups?\" — a directory that replaces a messy Facebook-group market. Classic boring marketplace-lite: listings in, leads out, recurring fees from the supply side. Twelve months of steady growth.",
+  "whyThisMatters": "Directory comparing 3,000+ Bali villa rentals from 100+ verified agencies, agents and owners — monthly and yearly long-term rentals with direct contact and 0 dollars booking fees. Homepage also shows \"List Property\", \"Relocation packages\" and \"Services\". Founded Jun 2025, registered in Ireland. 86 active subscriptions — the revenue model isn't spelled out publicly; the subscription count suggests paid listings by agencies/owners.\n\n\"Tired of searching through Facebook groups?\" — a directory that replaces a messy Facebook-group market. Classic boring marketplace-lite: listings in, leads out, recurring fees from the supply side. Twelve months of steady growth."
+}

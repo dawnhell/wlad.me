@@ -1,0 +1,35 @@
+{
+  "slug": "trackly-changeflow",
+  "name": "Trackly → Changeflow",
+  "listingNote": null,
+  "description": "You give it URLs and a short description of what you care about. It checks the pages and emails you only the changes that matter, filtered and summarised (founder-stated). Target persona: \"compliance officers, regulatory teams, strategy & market intelligence teams, PR teams\" (founder-stated). Pricing: Plus $19/mo, Business $149/mo, Enterprise custom (founder-stated). ~18,000 estimated users (founder-stated). The homepage is now Changeflow, \"Trackly, evolved. Same team, smarter product\", \"Trusted by Fortune 500 & Am Law 200\", \"18k+ happy customers\", \"1 billion+ pages checked\", \"10+ years of monitoring experience\". One case on the page: a healthcare compliance team cut Federal Register review \"from 10 hours/week to 30 minutes\" (company-stated). Founded Jul 2018, UK, founder Steve Butterworth (6.9k X followers).com og:image (trackly.io redirects there).",
+  "homepage": "https://changeflow.com/",
+  "image": "/blog/2026-10-20/trackly-changeflow.webp",
+  "imageAlt": "Trackly → Changeflow product image",
+  "imageWidth": 1000,
+  "imageHeight": 728,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR shows $0 on TrustMRR (the profile says billing also goes through Recurly, so this Stripe view may not be the whole picture) · 0 subscriptions Last 30 days $2,795 (+4.2%) · last 3 months $9,937 · last 6 months $25,532 Last 12 months $56,486 · all-time $379,031 Monthly: $3,633 (Nov 2025) → $6,079 (Jan) → $6,517 (Mar) → $6,400 (May) → $5,502 (Jul) → $3,793 (Aug) → $2,884 (Sep); Oct MTD $1,756. Sliding since summer, maybe during the Changeflow rebrand/migration (my guess, not stated). Revenue synced 20 October 2026 ~04:05 Warsaw.",
+      "sources": [
+        {
+          "label": "trackly.io",
+          "url": "https://trackly.io/"
+        },
+        {
+          "label": "changeflow.com",
+          "url": "https://changeflow.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/trackly-c-o-changeflow-ltd"
+        }
+      ],
+      "indieAngle": "Regulatory-change watch for one Polish vertical: Dziennik Ustaw / KNF / UODO / URE / NFZ notices for accounting offices, pharmacies, energy traders or fintechs. Charge 99–499 zł/mo per firm, with the first customers coming from biura rachunkowe (accounting offices) that need to track rule changes for clients."
+    }
+  ],
+  "whyItPrints": "Someone in every regulated company has to read regulator websites, competitor pricing pages and policy notices every week. This replaces that reading with an alert. B2B, sold per seat or plan, and it has been running for 8 years. The profile describes it as \"B2B SaaS charged through Recurly\", so the Stripe figures may not show everything (my read).",
+  "whyThisMatters": "You give it URLs and a short description of what you care about. It checks the pages and emails you only the changes that matter, filtered and summarised. Target persona: \"compliance officers, regulatory teams, strategy & market intelligence teams, PR teams\". Pricing: Plus 19 dollars a month, Business 149 dollars a month, Enterprise custom. ~18,000 estimated users. The homepage is now Changeflow, \"Trackly, evolved. Same team, smarter product\", \"Trusted by Fortune 500 & Am Law 200\", \"18k+ happy customers\", \"1 billion+ pages checked\", \"10+ years of monitoring experience\". One case on the page: a healthcare compliance team cut Federal Register review \"from 10 hours/week to 30 minutes\". Founded Jul 2018, UK, founder Steve Butterworth (6.9k X followers).com og:image (trackly.io redirects there).\n\nSomeone in every regulated company has to read regulator websites, competitor pricing pages and policy notices every week. This replaces that reading with an alert. B2B, sold per seat or plan, and it has been running for 8 years. The profile describes it as \"B2B SaaS charged through Recurly\", so the Stripe figures may not show everything."
+}

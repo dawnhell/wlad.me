@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-21",
+  "title": "Wednesday's boring SaaS, 21 October 2026",
+  "dek": "Wednesday, 21 October 2026. Six are Stripe-verified. TestMyApps is Dodo-verified. pdfFiller, Practice by Numbers, and the lawn-care note are self-reported.",
+  "heroId": "pragser-wildsee",
+  "companies": [
+    {
+      "slug": "pdffiller",
+      "name": "pdfFiller",
+      "listingNote": "airSlate",
+      "description": "You open the PDF form you need (a tax form, lease, NDA or government application), fill it in, sign it and send it from the browser. airSlate is the parent company and also owns signNow (e-signature), DocHub, US Legal Forms and AltaFlow. CEO Vadim Yasinovsky says their customer is the SMB: \"the guy who fixes your plumbing, who bakes your bread\". They \"want to answer 10 questions and get this done\" (company-stated, Latka transcript).",
+      "evidenceKind": "self-reported",
+      "evidence": "pdfFiller: ~$106M revenue (2026), ~860,000 paying customers. The episode title says 866,000; the Latka breakdown says ~860,000. airSlate total: ~$200M revenue, 1.1M paying customers, ~650 staff (~120 per product) signNow: ~$3M/yr when acquired → ~$35M now · DocHub $20–22M · US Legal Forms ~$6M · AltaFlow ~$5M $18.5M revenue around 2013 before the first outside investment · ~$150M raised in total \"if you count all the loans\" · $100M revenue at the last priced round (2022)",
+      "sources": [
+        {
+          "label": "pdffiller.com",
+          "url": "https://www.pdffiller.com/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded 14 Jul, published 14 Oct 2026)",
+          "url": "https://getlatka.com/companies/airslate/interviews/airslate-vadim-yasinovsky-2026"
+        },
+        {
+          "label": "Latka podcast list",
+          "url": "https://getlatka.com/podcast"
+        }
+      ],
+      "homepage": "https://www.pdffiller.com/",
+      "indieAngle": "Don't copy pdfFiller. Copy the long-tail move: one page per official Polish form (PIT-37, ZAP-3, VAT-R, ZUS forms, umowa najmu okazjonalnego). Each page fills the form online, checks it and gives you a PDF for 9–19 zł. Thousands of form-name searches nobody serves well.",
+      "whyItPrints": "Everyone has to fill in forms. People search the form's name, land on the page, fill it in and pay. airSlate says it has \"4.8 billion keywords\" and 35 million pages under management. It now sees search's share of acquisition falling from ~80% to ~30% as AI changes search, and is pruning those pages (company-stated).",
+      "image": "/blog/2026-10-21/pdffiller.webp",
+      "imageAlt": "pdfFiller product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "practice-by-numbers",
+      "name": "Practice by Numbers",
+      "listingNote": null,
+      "description": "Dental practice software that sits on top of the practice-management system (Dentrix, Open Dental and the other big five) rather than replacing it. It started as analytics. Co-founder Rohit Garg was \"running SQL queries for [his dentist wife] in the database, in the back end\". It then added online booking, intake forms, VoIP phones, payments (via Adyen / Stripe) and websites. It pulls data from the PMS, QuickBooks, phones and Google Analytics. Five integrations cover the PMS systems used by \"70,000 to 80,000 dental offices\" (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR $12.5M (end-2025) · target ~$16.5M by end-2026 · $0 outside funding EBITDA ~24% (2025) · free cash flow ~$1.5M (2025) ARR ladder: $1M (2018) → $2M (2021, relaunch after COVID) → ~$4M (2023) → ~$8M (2024) → $12.5M (2025) 1,300–1,400 top-level customers · ~2,000 locations · 5,000–6,000 providers ~$12–13k per location per year on average, $18–19k fully loaded · largest customer ~$250k/yr (40 locations) · 80 staff, 17–18 engineers",
+      "sources": [
+        {
+          "label": "practicenumbers.com",
+          "url": "https://practicenumbers.com/"
+        },
+        {
+          "label": "Latka interview breakdown + transcript (recorded 21 Apr, published 11 Aug 2026)",
+          "url": "https://getlatka.com/interviews/practice-by-numbers-rohit-garg-2026"
+        }
+      ],
+      "homepage": "https://practicenumbers.com/",
+      "indieAngle": "Same play for a Polish vertical that runs on old desktop software. Gabinety stomatologiczne on Mediporta/KS-SOMED-style systems, or biura rachunkowe on Symfonia / Optima / Subiekt. Read the local database and sell the owner dashboards and reminders the vendor never built, at 200–500 zł/mo per location.",
+      "whyItPrints": "This is Conductor's pattern one level up: legacy desktop systems dentists will never leave, with a modern layer bolted on top. All sales are inbound and word-of-mouth (company-stated). Payments are the hidden upsell: ~$190M GMV in year one, with \"~$2B\" more processable inside the existing base (company-stated).",
+      "image": "/blog/2026-10-21/practice-by-numbers.webp",
+      "imageAlt": "Practice by Numbers product image",
+      "imageWidth": 780,
+      "imageHeight": 623
+    },
+    {
+      "slug": "testmyapps",
+      "name": "TestMyApps",
+      "listingNote": null,
+      "description": "New personal Google Play developer accounts must have 12 testers opted in for 14 continuous days before they get production access. TestMyApps supplies \"14 real testers for 16 days\", two testers and two days above the minimum. It coordinates the official opt-ins, monitors participation daily, replaces dropouts and writes a closeout report for your production-access application (company-stated). Pricing: Standard $15 / $29, Functionality $50 / $99. Free retest, then a full refund if still not approved. Claims a \"99.9% approval rate\" and notes that \"Google makes the final production-access decision\" (company-stated). The site is translated into 16 languages and cross-sells \"StoreShots AI\".",
+      "evidenceKind": "dodo-verified",
+      "evidence": "MRR $0 (one-off packages) · 0 subscriptions Last 30 days $2,167 (+164.4%) · last 3 months $2,987 · all-time $2,987 Monthly: $137 (Aug 2026) → $1,205 (Sep) → $1,644 (Oct MTD). Three months old and accelerating. Revenue synced 21 October 2026 ~08:10 Warsaw.",
+      "sources": [
+        {
+          "label": "testmyapps.app",
+          "url": "https://testmyapps.app/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/testmyapps"
+        }
+      ],
+      "homepage": "https://testmyapps.app/",
+      "indieAngle": "Hunt for other platform hoops with a deadline: Apple/Google account verification, the EU DSA \"trader status\" for app sellers, Amazon Brand Registry, Meta business verification. Sell \"done for you, refund if rejected\" at $15–99. Small tickets, high intent, SEO on the exact rule name.",
+      "whyItPrints": "It's pure platform-rule compliance. Every first-time Android publisher hits this wall, searches for it and pays a small sum to get past it. Nothing to integrate, no churn problem (one-off per app), and demand grows with every new indie app.",
+      "image": "/blog/2026-10-21/testmyapps.webp",
+      "imageAlt": "TestMyApps product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "abstract27",
+      "name": "Abstract27",
+      "listingNote": null,
+      "description": "Hosted Ghost CMS: you pick a name and get a working site + newsletter + paid memberships \"in 60 seconds\" on your own domain. Migration from WordPress, Substack or Beehiiv is possible (founder-stated). Homepage pricing: self-serve hosting from €10/mo billed annually (€12 monthly), 14-day free trial with no card, \"hosted in the EU, GDPR compliant\", 5.0 from 27 Google reviews. It says it is \"built by an independent operator in London, no VC\" (company-stated). The TrustMRR profile lists plans Solo $16/mo, Pro $25/mo, Studio $50/mo billed annually. Target: \"associations and communities, political parties and campaigns, and independent online media\", ~45,000 estimated users (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $888 · 29 active subscriptions Last 30 days $1,788 (+21.7%) · last 6 months $8,521 · last 12 months $20,106 · all-time $58,589 Monthly: lumpy (annual billing): $2,995 (Nov 2025), $2,804 (Jan), $2,755 (May), $408 (Jun), $2,349 (Sep), $761 (Oct MTD) Revenue synced 21 October 2026 ~04:18 Warsaw.",
+      "sources": [
+        {
+          "label": "fr.abstract27.com",
+          "url": "https://fr.abstract27.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/agence-web-abstract27"
+        }
+      ],
+      "homepage": "https://fr.abstract27.com/",
+      "indieAngle": "\"Ghost/Listmonk hosting for Polish fundacje, stowarzyszenia and local politicians\" at 39–79 zł/mo. EU hosting, RODO paperwork and a Polish-language panel. Sell before the next local-election cycle.",
+      "whyItPrints": "Hosting is the most boring recurring revenue there is. Associations and campaigns don't want to run servers or WordPress plugins, they want a site and a newsletter that work. Low churn, and the open-source Ghost core means the founder doesn't have to build the product.",
+      "image": "/blog/2026-10-21/abstract27.webp",
+      "imageAlt": "Abstract27 product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "roombase",
+      "name": "RoomBase",
+      "listingNote": null,
+      "description": "Send 10–15 smartphone photos of a flat (no site visit). They return an isometric 3D floor plan in 48–72h as PNG/PDF/JPG for Airbnb, Booking or your own site, with one free revision and commercial rights included. They use \"AI + expert manual retouching\" (company-stated). Homepage claims \"+40% clicks\" and \"+16% bookings\" from customer feedback (company-stated). The first flat is free for conciergeries (company-stated). Pricing on TrustMRR: individuals from $149, property managers from $119/property, high volume custom (founder-stated). Founded Dec 2025.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (per-plan purchases) · 0 subscriptions Last 30 days $2,395 · last 3 months $5,152 · last 6 months $8,430 · all-time $10,501 Monthly: $219 (Feb 2026) → $872 (Mar) → $980 (Apr) → $3,222 (May) → $56 (Jun) → $2,757 (Jul) → $80 (Sep) → $2,315 (Oct MTD). Lumpy, conciergerie-batch shaped (my read). Revenue synced 21 October 2026 ~07:35 Warsaw.",
+      "sources": [
+        {
+          "label": "roombase.fr",
+          "url": "https://roombase.fr/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/roombase"
+        }
+      ],
+      "homepage": "https://roombase.fr/",
+      "indieAngle": "Sell the same thing to Polish property managers in Kraków, Gdańsk and Zakopane, and to developers' sales offices (deweloperzy) who need rzuty for listings on Otodom. Sell per-property packs of 20, not one-offs.",
+      "whyItPrints": "Short-term-rental managers compete on listing photos and will pay a fixed fee per property for anything that lifts bookings. It's a per-unit B2B service sold to conciergeries that manage dozens of flats.",
+      "image": "/blog/2026-10-21/roombase.webp",
+      "imageAlt": "RoomBase product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "indexbolt",
+      "name": "IndexBolt",
+      "listingNote": null,
+      "description": "Submit URLs or backlinks and it pushes them into Google's crawl queue. Standard indexing costs 1 credit/URL (\"<6 hours for most links\"); Instant costs 10 credits/URL (\"<1 hour\"). 100 free credits to start, no subscription, plus an API and a pile of free SEO tools (index checker, robots.txt tester, etc.) as SEO bait (company-stated). One-time packs: Starter $25, Growth $90, Pro $210, Enterprise $1,000 (founder-stated). Founded Aug 2023, India.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (credit packs) · 0 subscriptions Last 30 days $4,098 (+732%) · last 12 months $17,902 · all-time $129,941 Monthly: $3,660 (Dec 2025) → $30 (Jan) → $350 (Mar) → $1,605 (May) → $5,940 (Jun) → $480 (Jul) → $3,993 (Sep) → $458 (Oct MTD) Caveat: the last 12 months are only ~14% of all-time, so most of the $130k came before Oct 2025. It's lumpy agency bulk buys, not a steady run-rate. Revenue synced 21 October 2026 ~06:38 Warsaw.",
+      "sources": [
+        {
+          "label": "indexbolt.com",
+          "url": "https://www.indexbolt.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/indexbolt-com-index-you-links-in-google"
+        }
+      ],
+      "homepage": "https://www.indexbolt.com/",
+      "indieAngle": "Consumable credits sold to agencies are a great model. Pair it with the link marketplaces from earlier briefs (LemmiLink, Effortless Backlinks). A Polish \"zaindeksuj linki\" API with an index-status checker for SEO agencies could be a small, sticky side product.",
+      "whyItPrints": "Every link builder and agency has the same chore: links don't count until Google crawls them. Credits are consumable, so agencies come back every month without a \"subscription\".",
+      "image": "/blog/2026-10-21/indexbolt.webp",
+      "imageAlt": "IndexBolt product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "emailit",
+      "name": "Emailit",
+      "listingNote": null,
+      "description": "Transactional email by REST API or SMTP relay, plus inbound email, logs, signed webhooks, templates, campaigns, audiences, DMARC reports, email verification and a hosted MCP server. It runs \"in our own data center in Prague, EU\" (company-stated). Pricing: $1 per 10,000 emails, ~2,150 estimated users, margin 90% (founder-stated). Founded Dec 2021.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $920 · 28 active subscriptions Last 30 days $1,528 (-16.3%) · last 3 months $4,278 · last 12 months $20,508 · all-time $36,643 Monthly: $1,850 (Nov 2025) → $2,520 (Jan) → $3,266 (Mar) → $591 (May) → $1,402 (Jul) → $1,716 (Sep) → $857 (Oct MTD). It peaked in spring and is rebuilding. Revenue synced 21 October 2026 ~05:09 Warsaw.",
+      "sources": [
+        {
+          "label": "emailit.com",
+          "url": "https://emailit.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/emailit"
+        }
+      ],
+      "homepage": "https://emailit.com/",
+      "indieAngle": "Don't build another ESP. The underserved bit is the boring add-on: DMARC report monitoring plus \"is my domain on a blocklist\" alerts for Polish SMBs and accounting offices after the Gmail/Yahoo sender rules. 29–49 zł/mo per domain.",
+      "whyItPrints": "Every app sends password resets and invoices, and the plumbing never goes away once it's integrated. The EU data-residency angle (\"GDPR, EU hosting\") is a real procurement checkbox for European SMBs moving off US providers.",
+      "image": "/blog/2026-10-21/emailit.webp",
+      "imageAlt": "Emailit product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "realtor-studio",
+      "name": "Realtor Studio",
+      "listingNote": null,
+      "description": "A local real-estate media business. It offers HDR photography (20–50 edited photos, sky replacement, object removal, \"MLS-ready the next business day\"), 4K/6K video, Zillow 3D tours, drone shots and virtual staging. Photography starts at $250, video from $150 bundled, 3D tour from $50 bundled, 24–48h turnaround, \"25+ cities served\", online booking (company-stated). It also sells web design for agents (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 (per-shoot payments) · 0 subscriptions Last 30 days $2,150 (-55.6%) · last 3 months $7,645 · last 12 months $25,530 · all-time $34,695 Monthly: $2,670 (Nov 2025) → $700 (Feb) → $2,535 (Jun) → $3,500 (Jul) → $375 (Aug) → $4,470 (Sep) → $2,150 (Oct MTD) Revenue synced 21 October 2026 ~04:18 Warsaw.",
+      "sources": [
+        {
+          "label": "realtorstudio.co",
+          "url": "https://realtorstudio.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/realtor-studio"
+        }
+      ],
+      "homepage": "https://realtorstudio.co/",
+      "indieAngle": "The software angle is the booking + delivery portal that sits behind shops like this. Think white-label \"book a shoot, pay, get your gallery + MLS/Otodom-sized exports\" for Polish real-estate photographers at 99–199 zł/mo.",
+      "whyItPrints": "Every listing needs photos before it goes live, and agents rebook the photographer they trust. Software (online booking, Stripe checkout, editing outsourcing) turns a one-person shoot business into a repeatable ops machine.",
+      "image": "/blog/2026-10-21/realtor-studio.webp",
+      "imageAlt": "Realtor Studio product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "verm-lab-tipzr",
+      "name": "VERM LAB / Tipzr",
+      "listingNote": null,
+      "description": "\"Providing tips machines for restaurants\" (founder-stated; that's the whole profile description). Founded Oct 2023, France, margin 85% (founder-stated). I couldn't verify the product beyond that. The category (card-tip terminals and QR tipping for French restaurants) is crowded with Tipsi, Tipgo, TiPJAR and Tiply, so treat it as a lane signal.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 · 0 subscriptions Last 30 days $2,523 (+815.8%) · last 3 months $12,424 · last 6 months $25,265 · last 12 months $25,382 · all-time $25,385 Monthly: $8,396 (Apr 2026) → $436 (May) → $224 (Jun) → $9,645 (Jul) → $4,057 (Aug) → $280 (Sep) → $2,344 (Oct MTD). Nearly all of the revenue arrived in 2026. Revenue synced 21 October 2026 ~08:22 Warsaw.",
+      "sources": [
+        {
+          "label": "tipzr.fr",
+          "url": "https://tipzr.fr/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/verm-lab"
+        }
+      ],
+      "homepage": "https://tipzr.fr/",
+      "indieAngle": "Poland just got used to card tips (\"napiwek kartą\" is still clumsy on most terminals). A QR tip page with a split-the-pool calculator and a monthly payroll export for the restaurant's accountant is the software-only version. No hardware.",
+      "whyItPrints": "Restaurant tipping by card is a physical-plus-payments problem. Each venue buys or rents a device once, and the vendor can take a cut of tip flow. The revenue shape suggests hardware batches (my read, not stated).",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "anonymous-lawn-care-business",
+      "name": "Anonymous lawn-care business",
+      "listingNote": null,
+      "description": "A lawn care / property maintenance business started straight out of high school in a small tourist town. About 90 recurring clients, mostly absentee holiday-home owners. Company structure, GST-registered (self-reported). The currency isn't stated; GST and \"uni\" suggest NZ or Australia (my read).",
+      "evidenceKind": "self-reported",
+      "evidence": "Last financial year (to March 2026): ~$57k revenue, ~$37k profit April–Sept 2026: ~$35k ex-GST (\"mostly winter\") · October \"going to do over 15k this month\" Buyer offered $30k for the client base + goodwill. The founder countered $35k upfront + up to $15k tied to six-month client retention.",
+      "sources": [
+        {
+          "label": "Reddit r/smallbusiness — \"19, two years into my lawn care business, $30k offer on the table…\" (15 Oct 2026, 226 points, 130 comments)",
+          "url": "https://www.reddit.com/r/smallbusiness/comments/1x6disu/19_two_years_into_my_lawn_care_business_30k_offer/"
+        },
+        {
+          "label": "Arctic Shift",
+          "url": "https://arctic-shift.photon-reddit.com"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "The software is the ops layer for \"absentee owner\" services: recurring job schedules, before/after photo proof sent to the owner, auto-invoicing. Sell it to Polish firms that look after holiday flats on the coast and in the mountains, and to the owners who live in Warsaw or abroad.",
+      "whyItPrints": "Absentee owners need someone to keep the place tidy, so they pay on a schedule and rarely churn. The owner is now selling the client list as an asset.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Anonymous startup",
+      "note": "RevenueCat-verified. $34,177 a month, 1,295 subscriptions, $35,790 in the last 30 days, $492,122 in the last 12 months, $2,254,336 all-time. Listed for sale on 21 October 2026 at $1,200,000. No product description. The monthly cash moved around through 2026.",
+      "homepage": null
+    },
+    {
+      "name": "Map24.com",
+      "note": "A French WordPress magazine, for sale at $45,000. The seller says it makes about $4,000 a month from sponsored posts and AdSense. Stripe only shows about $1,080 in the last 30 days and about $4,920 all-time since June 2026. The gap is not verified.",
+      "homepage": null
+    },
+    {
+      "name": "Refgrow",
+      "note": "Affiliate and referral software for SaaS. Stripe shows about $2,279 a month from 57 subscriptions, about $2,328 in the last 30 days, and about $31,314 all-time.",
+      "homepage": "https://refgrow.com/"
+    },
+    {
+      "name": "Athenify",
+      "note": "A study-time tracker for students, in Germany, since 2020. Stripe shows about $2,343 a month from 270 subscriptions, about $34,258 in the last 12 months, and about $52,048 all-time.",
+      "homepage": "https://athenify.io/"
+    },
+    {
+      "name": "Buildern",
+      "note": "Construction management software. The company says about $2 million a year, 300 customers, and about $40,000 a month in profit. Self-reported, from a Latka interview published 8 April 2026.",
+      "homepage": null
+    },
+    {
+      "name": "S2Q",
+      "note": "Splits a Stripe payout into charges, fees, and refunds, then posts it to QuickBooks Online and matches the bank. No revenue number. It is listed as an AppSumo lifetime deal.",
+      "homepage": null
+    }
+  ]
+}

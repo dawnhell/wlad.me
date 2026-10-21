@@ -1,0 +1,31 @@
+{
+  "slug": "apogee",
+  "name": "Apogee",
+  "listingNote": null,
+  "description": "Lets media buyers, agencies and consultants bulk-upload hundreds of ad creatives in minutes, \"the painful workflow Meta's native tools never solved\" (founder-stated). Extras: naming-convention enforcement, test structures, Autopilot (cuts losers on Meta), comment analysis, funnel analytics, and an MCP/API bridge (company-stated). Homepage: \"Déjà adopté par +300 media buyers, marques et agences\", \"un lancement se configure en 47 secondes, pour 1 ou 300 créatives\", 7-day trial for €1, and an agency workspace with sliding per-consultant pricing on one invoice (company-stated). 30% lifetime affiliate program (founder-stated). Profile founded Feb 2026 (revenue starts at ~$3.2k in Feb, so the business probably existed before; not stated). France, founder Mathieu (832 X followers). 43 subscriptions; L30 margin 80%.",
+  "homepage": "https://www.apogee.ad/",
+  "image": "/blog/2026-10-20/apogee.webp",
+  "imageAlt": "Apogee product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $4,099 · 43 active subscriptions Last 30 days $3,587 (+3.6%) · last 3 months $10,240 · last 6 months $18,627 Last 12 months / all-time $26,998 L30 profit margin 80% (TrustMRR snapshot) Monthly: $3,228 (Feb 2026) → $2,753–3,343 (Mar–Aug) → $3,952 (Sep); Oct MTD $1,212. Revenue synced 20 October 2026 ~05:13 Warsaw.",
+      "sources": [
+        {
+          "label": "apogee.ad",
+          "url": "https://www.apogee.ad/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/apogee"
+        }
+      ],
+      "indieAngle": "Same \"bulk ops over a hated ad UI\" play, but for Allegro Ads, Google Merchant Center feeds, or LinkedIn Campaign Manager. Make the first version Polish-language for local performance agencies, then add an agency seat price."
+    }
+  ],
+  "whyItPrints": "It's ops glue for a UI everybody hates (Ads Manager). Agencies launching dozens of creatives a week for many clients are the buyers. It's French-language, which keeps US competitors out, and revenue has been flat-steady ~$3k/month for eight months.",
+  "whyThisMatters": "Lets media buyers, agencies and consultants bulk-upload hundreds of ad creatives in minutes, \"the painful workflow Meta's native tools never solved\". Extras: naming-convention enforcement, test structures, Autopilot (cuts losers on Meta), comment analysis, funnel analytics, and an MCP/API bridge. Homepage: \"Déjà adopté par +300 media buyers, marques et agences\", \"un lancement se configure en 47 secondes, pour 1 ou 300 créatives\", 7-day trial for 1, euros and an agency workspace with sliding per-consultant pricing on one invoice. 30% lifetime affiliate program. Profile founded Feb 2026 (revenue starts at 3.2k dollars in Feb, so the business probably existed before; not stated). France, founder Mathieu (832 X followers). 43 subscriptions; the last 30 days margin 80%.\n\nIt's ops glue for a UI everybody hates (Ads Manager). Agencies launching dozens of creatives a week for many clients are the buyers. It's French-language, which keeps US competitors out, and revenue has been flat-steady 3k dollars/month for eight months."
+}

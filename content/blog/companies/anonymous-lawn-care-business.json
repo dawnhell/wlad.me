@@ -1,0 +1,31 @@
+{
+  "slug": "anonymous-lawn-care-business",
+  "name": "Anonymous lawn-care business",
+  "listingNote": null,
+  "description": "A lawn care / property maintenance business started straight out of high school in a small tourist town. About 90 recurring clients, mostly absentee holiday-home owners. Company structure, GST-registered (self-reported). The currency isn't stated; GST and \"uni\" suggest NZ or Australia (my read).",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-21",
+      "evidenceKind": "self-reported",
+      "evidence": "Last financial year (to March 2026): ~$57k revenue, ~$37k profit April–Sept 2026: ~$35k ex-GST (\"mostly winter\") · October \"going to do over 15k this month\" Buyer offered $30k for the client base + goodwill. The founder countered $35k upfront + up to $15k tied to six-month client retention.",
+      "sources": [
+        {
+          "label": "Reddit r/smallbusiness — \"19, two years into my lawn care business, $30k offer on the table…\" (15 Oct 2026, 226 points, 130 comments)",
+          "url": "https://www.reddit.com/r/smallbusiness/comments/1x6disu/19_two_years_into_my_lawn_care_business_30k_offer/"
+        },
+        {
+          "label": "Arctic Shift",
+          "url": "https://arctic-shift.photon-reddit.com"
+        }
+      ],
+      "indieAngle": "The software is the ops layer for \"absentee owner\" services: recurring job schedules, before/after photo proof sent to the owner, auto-invoicing. Sell it to Polish firms that look after holiday flats on the coast and in the mountains, and to the owners who live in Warsaw or abroad."
+    }
+  ],
+  "whyItPrints": "Absentee owners need someone to keep the place tidy, so they pay on a schedule and rarely churn. The owner is now selling the client list as an asset.",
+  "whyThisMatters": "A lawn care / property maintenance business started straight out of high school in a small tourist town. About 90 recurring clients, mostly absentee holiday-home owners. Company structure, GST-registered (self-reported). The currency isn't stated; GST and \"uni\" suggest NZ or Australia.\n\nAbsentee owners need someone to keep the place tidy, so they pay on a schedule and rarely churn. The owner is now selling the client list as an asset.\n\nAbout ninety clients, mostly people who own a holiday house and do not live in it. He cuts the grass and keeps the place looked-after, on a schedule. The business is registered for GST. The currency is not named. The last winter was the busy half. A buyer offered a price for the client list, and he asked for more, with part of it tied to whether the clients stay. There is no company name and no site."
+}
