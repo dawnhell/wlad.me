@@ -1,0 +1,31 @@
+{
+  "slug": "tjm-labs",
+  "name": "TJM Labs",
+  "listingNote": null,
+  "description": "Bots that do what a pharmacy technician does at the keyboard: take the e-prescription or fax, type it into the pharmacy's system of record, handle refills and intake; the pharmacist still double-checks and dispenses. Homepage: \"No need to change your systems\", \"Live in 4 days\" for community pharmacies; products include a Data Entry Bot, Vaccine Bot and voice AI (company-stated).",
+  "homepage": "https://tjmlabs.com/",
+  "image": "/blog/2026-10-22/tjm-labs.webp",
+  "imageAlt": "TJM Labs product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR ~$25M (mid-2026) ← $15M (Dec 2025) ← $1M (Dec 2024) EBITDA 40% · ~450 pharmacy customers · ~2.5 bots per pharmacy · ~500,000 prescriptions/day processed $100M raised in total (Series A $10M Dec 2025, A-1 $15M Mar 2026, Series B $75M Jun 2026) — it's VC-funded now, but it hit 40% EBITDA before that First customer paid >$1M/yr; first code written Nov 2024",
+      "sources": [
+        {
+          "label": "tjmlabs.com",
+          "url": "https://tjmlabs.com/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Jul 2026, published 20 Oct 2026)",
+          "url": "https://getlatka.com/companies/tjm-labs/interviews/tjm-labs-jonathan-adly-2026"
+        }
+      ],
+      "indieAngle": "Same play at micro scale in Poland: a \"bot that types it into the old system\" for one paperwork-heavy vertical (biura rachunkowe re-keying invoices into Symfonia/Optima, or apteki re-keying e-recepty), priced as a fraction of one clerk's salary."
+    }
+  ],
+  "whyItPrints": "Pure legacy-system glue in a regulated workflow. Priced at $45,000 per bot per year — \"slightly below the salary of one pharmacy technician\" — and one bot replaces 2–3 technicians, so the ROI pitch is a payroll line, not a feature list.",
+  "whyThisMatters": "A pharmacist built bots that type into the pharmacy system the shop already has. An e-prescription or a fax comes in. The bot enters it, handles refills, and does the intake. The pharmacist still checks the work and hands over the medicine. The site says you do not have to change systems, and that a community pharmacy can be live in a few days. There is a data-entry bot, a vaccine bot, and a voice bot.\n\nThe price is framed as a bit less than one technician's pay for the year. The pitch is that one bot covers the typing of two or three people. The founder says it went from a small start at the end of 2024, to a much larger one at the end of 2025, to a bigger number again by the middle of 2026, with hundreds of pharmacies. That figure is from an interview published in October 2026. It is not a Stripe connection. The company has raised a large round since, so this is not a one-person shop anymore.\n\nYou pay so the typing is not a salary."
+}

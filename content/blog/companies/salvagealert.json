@@ -1,0 +1,31 @@
+{
+  "slug": "salvagealert",
+  "name": "SalvageAlert",
+  "listingNote": null,
+  "description": "Save a search once and it watches IAA and Copart (US/Canada; profile also mentions UK and Germany) 24/7, pushing matching lots to a feed, Telegram or phone. Landed-cost calculator for EU importers, VIN check, API, and a broker service \"from $349 per car won\". Starter €19.99/mo, Unlimited €39.99/mo (prices shown as $ on the homepage). Site in 10 languages incl. Polish (company-stated).",
+  "homepage": "https://salvagealert.com/",
+  "image": "/blog/2026-10-22/salvagealert.webp",
+  "imageAlt": "SalvageAlert product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "polar-verified",
+      "evidence": "MRR $313, 11 subscriptions, L30 $147 (+119.7%), total $214 so far (Sep $87, Oct $127). 95% margin claimed. Founded Apr 2026. The sync is Polar and the App Store. Revenue synced 22 October 2026 ~07:27 Warsaw.",
+      "sources": [
+        {
+          "label": "salvagealert.com",
+          "url": "https://salvagealert.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/salvage-alert"
+        }
+      ],
+      "indieAngle": "Polish importers already pay brokers; a Polish-first \"Copart/IAA → landed cost in PLN incl. akcyza + VAT + transport\" calculator with alerts is a natural 49 zł/mo tool."
+    }
+  ],
+  "whyItPrints": "Car importers (lots of them in PL/UA/RO) live on these auctions; an alert that fires first is worth money every week. Very early, but a clean B2B niche.",
+  "whyThisMatters": "Car importers pay so a saved search watches the salvage auctions and pings them when a lot matches. The auctions named are IAA and Copart, in the US and Canada. The profile also mentions the UK and Germany. Alerts can go to a feed, Telegram, or the phone. There is a landed-cost calculator for people importing into Europe, a VIN check, an API, and a broker service if you win a car.\n\nThe listing prices are in euros. The homepage shows dollar prices. I am not picking one as the only price. The money label is Polar, and the sync also includes the App Store. I am not logging in to re-check either one. The company started in April 2026. The numbers are small. The site is in several languages, including Polish.\n\nYou pay so you hear about the car before the auction moves on."
+}

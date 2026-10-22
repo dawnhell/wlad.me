@@ -1,0 +1,31 @@
+{
+  "slug": "save-bulk-gmail-attachments",
+  "name": "Save Bulk Gmail Attachments",
+  "listingNote": null,
+  "description": "A Chrome extension: select emails in Gmail, click once, and every attachment lands in the right Google Drive folder or a ZIP. Read-only (can't send/delete), Google CASA Tier 2 verified. Free 7 attachments/day; Pro $9/mo or $39.99/yr per Gmail account. Targets bookkeepers, accountants, recruiters, ops (company-stated).",
+  "homepage": "https://www.savebulkgmailattachments.com/",
+  "image": "/blog/2026-10-22/save-bulk-gmail-attachments.webp",
+  "imageAlt": "Save Bulk Gmail Attachments product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $713 · 144 active subscriptions · L30 $1,237 (+76.1%) · all-time $5,977 Monthly revenue: Jan $86 → Mar $417 → May $585 → Jul $707 → Sep $863 → Oct (partial) $939 — up almost every month 2,416 visitors and $0.51 revenue/visitor in L30 · ~1,000 users claimed · founded May 2025 Revenue synced 22 October 2026 ~06:19 Warsaw.",
+      "sources": [
+        {
+          "label": "savebulkgmailattachments.com",
+          "url": "https://www.savebulkgmailattachments.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/save-bulk-gmail-attachments"
+        }
+      ],
+      "indieAngle": "Do the KSeF/biuro-rachunkowe version: pull every invoice PDF/XML from client emails into per-client folders (or straight into the accountant's system) for 29 zł/mo."
+    }
+  ],
+  "whyItPrints": "Accountants get dozens of client invoices by email every month and have to download them one by one. Tiny tool, obvious search intent, translated into 11 languages.",
+  "whyThisMatters": "Bookkeepers pay so a pile of Gmail attachments lands in the right Drive folder, or in a zip. You select the emails and click once. The extension can read the mail. It cannot send or delete. Google has checked it. The free tier is a handful of attachments a day. The paid plan is per Gmail account, monthly or yearly. Accountants, recruiters, and ops people are the pitch.\n\nThe company is in Czechia and started in 2025. The Stripe subscriptions have climbed almost every month this year. The founder puts the user count well above the paying subscriptions, so I am not treating those as the same number. The site is translated into several languages.\n\nYou pay so invoice day is not a folder of downloads.\n\nThe free plan is seven attachments a day. The paid plan is the one bookkeepers keep, because a month of client invoices is more than seven files."
+}

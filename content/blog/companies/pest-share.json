@@ -1,0 +1,31 @@
+{
+  "slug": "pest-share",
+  "name": "Pest Share",
+  "listingNote": null,
+  "description": "A platform that lets property managers include pest control as a per-door resident benefit, embedded in their property-management software and lease agreements, with a network of vetted local providers doing the work (company-stated).",
+  "homepage": "https://pestshare.com/",
+  "image": "/blog/2026-10-22/pest-share.webp",
+  "imageAlt": "Pest Share product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR just over $10M (2025) ← $5M (2024); doubled every year since 2019; target $18M end-2026 2,000 property-manager logos · 300,000 doors under management (homepage today says \"500,000+ Active Doors · 1,000+ Operators · 400+ Vetted Providers\" — company-stated, inconsistent with the interview) Bootstrapped 2019–2020, then $1M seed + $4M bridge, $28M Series A at $100M valuation (2025)",
+      "sources": [
+        {
+          "label": "pestshare.com",
+          "url": "https://pestshare.com/"
+        },
+        {
+          "label": "Latka interview breakdown (Latka listing: interviewed 28 Apr, published 27 May 2026)",
+          "url": "https://getlatka.com/companies/pest-share-inc/interviews/pest-share-inc-justin-clemens-2026"
+        }
+      ],
+      "indieAngle": "\"Service-as-a-lease-line-item\" for Polish wspólnoty/zarządcy nieruchomości: dezynsekcja, przeglądy kominiarskie, gas inspections — sold per lokal per month through the zarządca."
+    }
+  ],
+  "whyItPrints": "Bugs + leases + per-door billing. Once it's written into the lease and wired into the PMS, nobody churns. $5–$29 per door per month (company-stated).",
+  "whyThisMatters": "A property manager adds pest control as a line in the lease, billed per door. A local provider does the visit. Once it is in the lease and in the property software, it is hard to take out. The price range on the listing runs from a few dollars a door to a few tens of dollars.\n\nThe interview and the homepage do not agree on the size. The interview says about 300,000 doors and 2,000 manager logos. The homepage says more than 500,000 active doors, more than 1,000 operators, and more than 400 providers. I am leaving both. The yearly number is from the interview, for 2025, and it is not a Stripe connection. The company was bootstrapped at the start, then raised a seed, a bridge, and a larger round.\n\nYou pay so the pest visit is a line in the rent, not a phone call.\n\nThe per-door price is the whole product. A manager does not shop for a pest company every spring. The visit is already in the lease."
+}

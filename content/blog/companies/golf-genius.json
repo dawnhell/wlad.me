@@ -1,0 +1,31 @@
+{
+  "slug": "golf-genius",
+  "name": "Golf Genius",
+  "listingNote": null,
+  "description": "Tournament management, handicapping, retail POS and coaching software for the club golf professional. Since 2019 it runs the USGA's worldwide handicapping system (company-stated).",
+  "homepage": "https://www.golfgenius.com/",
+  "image": "/blog/2026-10-22/golf-genius.webp",
+  "imageAlt": "Golf Genius product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR $53M (2025), targeting >$60M by end-2026 (~13% growth) 20% EBITDA, profitable since 2017 · $14M cash vs only $11M equity raised (+ ~$10M founder self-funding as debt, 2009–2020) 11,000 clubs · 300 staff (~50% engineers, many in Cluj, Romania) · 10 acquisitions (incl. GolfShot, SwingU)",
+      "sources": [
+        {
+          "label": "golfgenius.com",
+          "url": "https://www.golfgenius.com/"
+        },
+        {
+          "label": "Latka interview breakdown (interviewed 31 Mar, published 3 Jun 2026)",
+          "url": "https://getlatka.com/companies/golf-genius/interviews/golf-genius-mike-zisman-2026"
+        }
+      ],
+      "indieAngle": "Find a sport/hobby federation with an ugly mandatory process (league registration, ranking points, licences for referees) and become the official tool for it; one flat price per club."
+    }
+  ],
+  "whyItPrints": "Tee sheets and handicap updates. One list price ($4,200 per club per year), 11,000 clubs, and an institutional moat via the USGA. Took 8 years to reach $1M ARR and 8 more to pass $50M — the slow, compounding kind.",
+  "whyThisMatters": "A club pro pays one yearly price for the tournament, the handicap, the shop till, and the coaching tools. Since 2019 the same company runs the USGA handicap system worldwide. The CEO says it took eight years to reach the first million a year, and another eight to get past the large number. About 11,000 clubs, in dozens of countries.\n\nA lot of the engineers are in Cluj. Ten smaller products were bought along the way, including GolfShot and SwingU. They say the company has been profitable since 2017, and that the cash in the bank is larger than the equity they raised. The yearly figure is from an interview in 2026. It is not a Stripe connection.\n\nYou pay so the tee sheet and the handicap are not a spreadsheet.\n\nThe list price is one number per club per year, not a seat for every golfer. That is the boring part. The federation relationship is why a club stays."
+}

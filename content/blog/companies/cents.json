@@ -1,0 +1,31 @@
+{
+  "slug": "cents",
+  "name": "Cents",
+  "listingNote": null,
+  "description": "All-in-one platform for laundromats, dry cleaners and multifamily shared laundry rooms: POS, online ordering, delivery, on-machine payments and custom card-reader hardware. The founder wanted to buy laundromats, saw how little tech they had, and built for them instead (company-stated).",
+  "homepage": "https://www.trycents.com/",
+  "image": "/blog/2026-10-22/cents.webp",
+  "imageAlt": "Cents product image",
+  "imageWidth": 800,
+  "imageHeight": 418,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "self-reported",
+      "evidence": "Revenue $60M (2025) ← $36M (2024) ← $6M (2023) ← $3M (2022) ← $700K (2021) EBITDA >20% · 99% customer retention · ~$140M payment volume per month 200,000–250,000 hardware units installed · nearly 7,000 apartment buildings/shared laundry rooms $140M Series C ($110M close incl. some secondaries + $30M employee tender) · 80 staff end-2025, 94 in 2026",
+      "sources": [
+        {
+          "label": "trycents.com",
+          "url": "https://www.trycents.com/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Jun 2026, published 17 Sep 2026)",
+          "url": "https://getlatka.com/companies/trycents.com/interviews/cents-alex-jekowsky-2026"
+        }
+      ],
+      "indieAngle": "Pick one cash-and-coins vertical in PL (pralnie samoobsługowe, myjnie bezdotykowe) and sell the payments/app layer to owners — the money is in the per-transaction cut, not the subscription."
+    }
+  ],
+  "whyItPrints": "Cash-heavy, unglamorous local businesses with sticky hardware installed in the machines, plus a payments cut on every wash. First five customers came from walking into laundromats and cold-calling (company-stated).",
+  "whyThisMatters": "Laundromats, dry cleaners, and shared laundry rooms in apartment buildings pay for the till, online orders, delivery, and a card reader that sits on the machine. The founder says he wanted to buy laundromats, saw how little software they had, and built this instead. The first customers came from walking in and calling.\n\nThe hardware stays in the machine. That is why people do not leave. There is also a cut of the payments on each wash. He says almost every customer stays, and that the revenue has climbed for several years. Hundreds of thousands of units are in machines, and thousands of apartment buildings are on the platform. The 2025 revenue number is from an interview. It is not a Stripe connection. A large funding round came after the business was already profitable.\n\nYou pay so the wash, the card, and the order live in one place."
+}

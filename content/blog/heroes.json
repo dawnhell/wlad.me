@@ -251,5 +251,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Pragser_Wildsee_-_Flickr_-_Marek_Heise_Photography.jpg",
     "license": "CC BY 2.0",
     "subject": "nature"
+  },
+  {
+    "id": "sognefjord",
+    "src": "/blog/heroes/sognefjord.webp",
+    "alt": "The Sognefjord at Balestrand, Norway",
+    "width": 1600,
+    "height": 900,
+    "credit": "Giuseppe Milo",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sognefjord_-_Balestrand%2C_Norway_-_Travel%2C_landscape_photography_-_Flickr_-_Giuseppe_Milo_(www.pixael.com).jpg",
+    "license": "CC BY 2.0",
+    "subject": "nature"
   }
 ]

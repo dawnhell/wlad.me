@@ -1,0 +1,35 @@
+{
+  "slug": "spark-plugin",
+  "name": "Spark Plugin",
+  "listingNote": "likely",
+  "description": "A plugin that adds 100+ code-free customisations inside the Squarespace editor (mega menus, animations, galleries, popups, hover effects). 14-day free trial (company-stated). The Reddit post doesn't name the product. The poster is u/Rasmusi, describes a Squarespace drag-and-drop customisation tool started ~5 years ago with four part-time freelancers; Spark Plugin's About page lists founder Rasmus Myhrberg, founded 2021, run with an \"international team of freelancers\". Strong match, but inferred.",
+  "homepage": "https://www.sparkplugin.com/",
+  "image": "/blog/2026-10-22/spark-plugin.webp",
+  "imageAlt": "Spark Plugin product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "self-reported",
+      "evidence": "$400K ARR, bootstrapped, no investors, no full-time employees (founder and 4 part-time freelancers). Self-reported on Reddit, 20 October 2026. The post does not name the product.",
+      "sources": [
+        {
+          "label": "sparkplugin.com",
+          "url": "https://www.sparkplugin.com/"
+        },
+        {
+          "label": "Reddit post, r/EntrepreneurRideAlong, 20 Oct 2026",
+          "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xavtx9/i_turned_my_biggest_frustration_with_squarespace/"
+        },
+        {
+          "label": "Spark Plugin About page",
+          "url": "https://www.sparkplugin.com/about"
+        }
+      ],
+      "indieAngle": "Same play on a platform Polish SMBs actually use and can't customise: Shoper/IdoSell storefront add-ons, or Wix/Framer section packs sold as a subscription plugin."
+    }
+  ],
+  "whyItPrints": "Squarespace users hit the limits of the template, search for a fix, and pay monthly. The first 10 customers came from answering questions on the Squarespace forum. Search was the main channel from 2021 to 2024 (self-reported).",
+  "whyThisMatters": "Squarespace sites run out of room in the template. This plugin adds menus, galleries, popups, and hover effects inside the editor, without writing code. There is a two-week trial.\n\nA Reddit post on 20 October 2026 describes a Squarespace customisation tool, bootstrapped, with the founder and four part-time freelancers, and a yearly number. The post does not name the product. The poster is u/Rasmusi. Spark Plugin's about page names Rasmus Myhrberg, says the company started in 2021, and says it runs with freelance help. That is a strong match. I am not calling it certain. The first customers, in the post, came from answering questions on the Squarespace forum. Search was the main way people found it for a few years.\n\nYou pay so the template can do the thing it would not do on its own."
+}

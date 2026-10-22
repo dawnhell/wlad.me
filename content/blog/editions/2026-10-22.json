@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-22",
+  "title": "Thursday's boring SaaS, 22 October 2026",
+  "dek": "Thursday, 22 October 2026. Three are Stripe-verified. SalvageAlert is Polar-verified, and that listing also includes the App Store. The other six are self-reported.",
+  "heroId": "sognefjord",
+  "companies": [
+    {
+      "slug": "tjm-labs",
+      "name": "TJM Labs",
+      "listingNote": null,
+      "description": "Bots that do what a pharmacy technician does at the keyboard: take the e-prescription or fax, type it into the pharmacy's system of record, handle refills and intake; the pharmacist still double-checks and dispenses. Homepage: \"No need to change your systems\", \"Live in 4 days\" for community pharmacies; products include a Data Entry Bot, Vaccine Bot and voice AI (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR ~$25M (mid-2026) ← $15M (Dec 2025) ← $1M (Dec 2024) EBITDA 40% · ~450 pharmacy customers · ~2.5 bots per pharmacy · ~500,000 prescriptions/day processed $100M raised in total (Series A $10M Dec 2025, A-1 $15M Mar 2026, Series B $75M Jun 2026) — it's VC-funded now, but it hit 40% EBITDA before that First customer paid >$1M/yr; first code written Nov 2024",
+      "sources": [
+        {
+          "label": "tjmlabs.com",
+          "url": "https://tjmlabs.com/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Jul 2026, published 20 Oct 2026)",
+          "url": "https://getlatka.com/companies/tjm-labs/interviews/tjm-labs-jonathan-adly-2026"
+        }
+      ],
+      "homepage": "https://tjmlabs.com/",
+      "indieAngle": "Same play at micro scale in Poland: a \"bot that types it into the old system\" for one paperwork-heavy vertical (biura rachunkowe re-keying invoices into Symfonia/Optima, or apteki re-keying e-recepty), priced as a fraction of one clerk's salary.",
+      "whyItPrints": "Pure legacy-system glue in a regulated workflow. Priced at $45,000 per bot per year — \"slightly below the salary of one pharmacy technician\" — and one bot replaces 2–3 technicians, so the ROI pitch is a payroll line, not a feature list.",
+      "image": "/blog/2026-10-22/tjm-labs.webp",
+      "imageAlt": "TJM Labs product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "cents",
+      "name": "Cents",
+      "listingNote": null,
+      "description": "All-in-one platform for laundromats, dry cleaners and multifamily shared laundry rooms: POS, online ordering, delivery, on-machine payments and custom card-reader hardware. The founder wanted to buy laundromats, saw how little tech they had, and built for them instead (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "Revenue $60M (2025) ← $36M (2024) ← $6M (2023) ← $3M (2022) ← $700K (2021) EBITDA >20% · 99% customer retention · ~$140M payment volume per month 200,000–250,000 hardware units installed · nearly 7,000 apartment buildings/shared laundry rooms $140M Series C ($110M close incl. some secondaries + $30M employee tender) · 80 staff end-2025, 94 in 2026",
+      "sources": [
+        {
+          "label": "trycents.com",
+          "url": "https://www.trycents.com/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Jun 2026, published 17 Sep 2026)",
+          "url": "https://getlatka.com/companies/trycents.com/interviews/cents-alex-jekowsky-2026"
+        }
+      ],
+      "homepage": "https://www.trycents.com/",
+      "indieAngle": "Pick one cash-and-coins vertical in PL (pralnie samoobsługowe, myjnie bezdotykowe) and sell the payments/app layer to owners — the money is in the per-transaction cut, not the subscription.",
+      "whyItPrints": "Cash-heavy, unglamorous local businesses with sticky hardware installed in the machines, plus a payments cut on every wash. First five customers came from walking into laundromats and cold-calling (company-stated).",
+      "image": "/blog/2026-10-22/cents.webp",
+      "imageAlt": "Cents product image",
+      "imageWidth": 800,
+      "imageHeight": 418
+    },
+    {
+      "slug": "golf-genius",
+      "name": "Golf Genius",
+      "listingNote": null,
+      "description": "Tournament management, handicapping, retail POS and coaching software for the club golf professional. Since 2019 it runs the USGA's worldwide handicapping system (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR $53M (2025), targeting >$60M by end-2026 (~13% growth) 20% EBITDA, profitable since 2017 · $14M cash vs only $11M equity raised (+ ~$10M founder self-funding as debt, 2009–2020) 11,000 clubs · 300 staff (~50% engineers, many in Cluj, Romania) · 10 acquisitions (incl. GolfShot, SwingU)",
+      "sources": [
+        {
+          "label": "golfgenius.com",
+          "url": "https://www.golfgenius.com/"
+        },
+        {
+          "label": "Latka interview breakdown (interviewed 31 Mar, published 3 Jun 2026)",
+          "url": "https://getlatka.com/companies/golf-genius/interviews/golf-genius-mike-zisman-2026"
+        }
+      ],
+      "homepage": "https://www.golfgenius.com/",
+      "indieAngle": "Find a sport/hobby federation with an ugly mandatory process (league registration, ranking points, licences for referees) and become the official tool for it; one flat price per club.",
+      "whyItPrints": "Tee sheets and handicap updates. One list price ($4,200 per club per year), 11,000 clubs, and an institutional moat via the USGA. Took 8 years to reach $1M ARR and 8 more to pass $50M — the slow, compounding kind.",
+      "image": "/blog/2026-10-22/golf-genius.webp",
+      "imageAlt": "Golf Genius product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "pest-share",
+      "name": "Pest Share",
+      "listingNote": null,
+      "description": "A platform that lets property managers include pest control as a per-door resident benefit, embedded in their property-management software and lease agreements, with a network of vetted local providers doing the work (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR just over $10M (2025) ← $5M (2024); doubled every year since 2019; target $18M end-2026 2,000 property-manager logos · 300,000 doors under management (homepage today says \"500,000+ Active Doors · 1,000+ Operators · 400+ Vetted Providers\" — company-stated, inconsistent with the interview) Bootstrapped 2019–2020, then $1M seed + $4M bridge, $28M Series A at $100M valuation (2025)",
+      "sources": [
+        {
+          "label": "pestshare.com",
+          "url": "https://pestshare.com/"
+        },
+        {
+          "label": "Latka interview breakdown (Latka listing: interviewed 28 Apr, published 27 May 2026)",
+          "url": "https://getlatka.com/companies/pest-share-inc/interviews/pest-share-inc-justin-clemens-2026"
+        }
+      ],
+      "homepage": "https://pestshare.com/",
+      "indieAngle": "\"Service-as-a-lease-line-item\" for Polish wspólnoty/zarządcy nieruchomości: dezynsekcja, przeglądy kominiarskie, gas inspections — sold per lokal per month through the zarządca.",
+      "whyItPrints": "Bugs + leases + per-door billing. Once it's written into the lease and wired into the PMS, nobody churns. $5–$29 per door per month (company-stated).",
+      "image": "/blog/2026-10-22/pest-share.webp",
+      "imageAlt": "Pest Share product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "fleet",
+      "name": "Fleet",
+      "listingNote": null,
+      "description": "Companies rent laptops/phones on 36-month contracts instead of buying; Fleet adds an MDM/security software layer and manages the devices across 20 countries (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "~€40M annualized revenue (2026) · ~€30M at the LBO (Feb 2026) · €100M valuation EBITDA ~€10M, ~25% margin · bootstrapped for 7 years before the LBO secondary Growth: €1.5M (2019) → €8M (2021) → €10M (2022) → €8M (2023); +60% (2024), +90% (2025), tracking +40% (2026) 50,000+ devices managed · software/MDM layer only ~€1M ARR",
+      "sources": [
+        {
+          "label": "fleet.co",
+          "url": "https://www.fleet.co/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Jul 2026, published 24 Sep 2026)",
+          "url": "https://getlatka.com/companies/fleet/interviews/fleet-sevan-marian-2026"
+        }
+      ],
+      "homepage": "https://www.fleet.co/",
+      "indieAngle": "The lesson is financing, not software: any boring B2B hardware (POS terminals, label printers, kiosks) can be rented monthly with the contract sold to a bank/leasing firm on day one.",
+      "whyItPrints": "It's leasing with a SaaS veneer. Fleet sells the 36-month contracts to banks upfront, so each deal is cash-flow-positive from day one (company-stated).",
+      "image": "/blog/2026-10-22/fleet.webp",
+      "imageAlt": "Fleet product image",
+      "imageWidth": 1200,
+      "imageHeight": 620
+    },
+    {
+      "slug": "spark-plugin",
+      "name": "Spark Plugin",
+      "listingNote": "likely",
+      "description": "A plugin that adds 100+ code-free customisations inside the Squarespace editor (mega menus, animations, galleries, popups, hover effects). 14-day free trial (company-stated). The Reddit post doesn't name the product. The poster is u/Rasmusi, describes a Squarespace drag-and-drop customisation tool started ~5 years ago with four part-time freelancers; Spark Plugin's About page lists founder Rasmus Myhrberg, founded 2021, run with an \"international team of freelancers\". Strong match, but inferred.",
+      "evidenceKind": "self-reported",
+      "evidence": "$400K ARR, bootstrapped, no investors, no full-time employees (founder and 4 part-time freelancers). Self-reported on Reddit, 20 October 2026. The post does not name the product.",
+      "sources": [
+        {
+          "label": "sparkplugin.com",
+          "url": "https://www.sparkplugin.com/"
+        },
+        {
+          "label": "Reddit post, r/EntrepreneurRideAlong, 20 Oct 2026",
+          "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xavtx9/i_turned_my_biggest_frustration_with_squarespace/"
+        },
+        {
+          "label": "Spark Plugin About page",
+          "url": "https://www.sparkplugin.com/about"
+        }
+      ],
+      "homepage": "https://www.sparkplugin.com/",
+      "indieAngle": "Same play on a platform Polish SMBs actually use and can't customise: Shoper/IdoSell storefront add-ons, or Wix/Framer section packs sold as a subscription plugin.",
+      "whyItPrints": "Squarespace users hit the limits of the template, search for a fix, and pay monthly. The first 10 customers came from answering questions on the Squarespace forum. Search was the main channel from 2021 to 2024 (self-reported).",
+      "image": "/blog/2026-10-22/spark-plugin.webp",
+      "imageAlt": "Spark Plugin product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "save-bulk-gmail-attachments",
+      "name": "Save Bulk Gmail Attachments",
+      "listingNote": null,
+      "description": "A Chrome extension: select emails in Gmail, click once, and every attachment lands in the right Google Drive folder or a ZIP. Read-only (can't send/delete), Google CASA Tier 2 verified. Free 7 attachments/day; Pro $9/mo or $39.99/yr per Gmail account. Targets bookkeepers, accountants, recruiters, ops (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $713 · 144 active subscriptions · L30 $1,237 (+76.1%) · all-time $5,977 Monthly revenue: Jan $86 → Mar $417 → May $585 → Jul $707 → Sep $863 → Oct (partial) $939 — up almost every month 2,416 visitors and $0.51 revenue/visitor in L30 · ~1,000 users claimed · founded May 2025 Revenue synced 22 October 2026 ~06:19 Warsaw.",
+      "sources": [
+        {
+          "label": "savebulkgmailattachments.com",
+          "url": "https://www.savebulkgmailattachments.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/save-bulk-gmail-attachments"
+        }
+      ],
+      "homepage": "https://www.savebulkgmailattachments.com/",
+      "indieAngle": "Do the KSeF/biuro-rachunkowe version: pull every invoice PDF/XML from client emails into per-client folders (or straight into the accountant's system) for 29 zł/mo.",
+      "whyItPrints": "Accountants get dozens of client invoices by email every month and have to download them one by one. Tiny tool, obvious search intent, translated into 11 languages.",
+      "image": "/blog/2026-10-22/save-bulk-gmail-attachments.webp",
+      "imageAlt": "Save Bulk Gmail Attachments product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "replayed",
+      "name": "Replayed",
+      "listingNote": null,
+      "description": "A managed service + app where YouTubers upload footage, get matched with a vetted editor, chat, review with timestamped comments and publish. \"No subscription\" (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time $1,458,751 · L12 $269,754 · L6 $126,885 · L30 $19,911 (−34.3%) MRR shown $3,467 from 1 subscription (most revenue is one-off orders) Monthly: Nov 2025 $27.6k · Dec $28.9k · Jan $19.5k · Mar $23.8k · Jun $15.7k · Sep $32.2k · Oct (partial) $16.2k · founded Feb 2020 Revenue synced 22 October 2026 ~04:05 Warsaw.",
+      "sources": [
+        {
+          "label": "replayed.co",
+          "url": "https://replayed.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/replayed-ltd"
+        }
+      ],
+      "homepage": "https://replayed.co/",
+      "indieAngle": "Productised service for a boring B2B output (e.g. \"your Allegro listing photos + descriptions done in 24h\", or bookkeeping-ready scans) wrapped in a simple upload/review app — the app is the moat, the freelancers are the engine.",
+      "whyItPrints": "A productised agency with software around it. Not SaaS margins, but six years of steady five-figure months from people who just want edits done.",
+      "image": "/blog/2026-10-22/replayed.webp",
+      "imageAlt": "Replayed product image",
+      "imageWidth": 1200,
+      "imageHeight": 595
+    },
+    {
+      "slug": "landbanksearch",
+      "name": "LandBankSearch",
+      "listingNote": null,
+      "description": "Aggregates government land-bank listings (houses often $1k–$20k, lots for less) that sit on municipal sites, PDF lists and county portals and never reach Zillow. Homepage today: 79,484 properties, 72 of 354 US land banks tracked, 27 states. Free search + weekly alert; Pro $19/mo (daily alerts, CSV export), Investor $79/mo; API offered (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "L30 $1,200 (+689.5%) · all-time $1,371 · MRR shown $0 (0 active subs — revenue isn't counted as subscription MRR) Monthly: Jul $19 → Aug $76 → Sep $313 → Oct (partial) $963 · 14,739 visitors L30 · 70% L30 profit margin Listed for sale: asking $45,000 (3.1x), first listed 8 Oct 2026, 0 offers · ~1,100 users claimed · founded Jul 2026, 1 person Revenue synced 22 October 2026 ~08:09 Warsaw.",
+      "sources": [
+        {
+          "label": "landbanksearch.com",
+          "url": "https://landbanksearch.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/landbanksearch-com"
+        }
+      ],
+      "homepage": "https://landbanksearch.com/",
+      "indieAngle": "Polish equivalent: one map of every komornik / KOWR / gmina / Lasy Państwowe property auction (licytacje), with a 29 zł/mo morning alert. The data is public and scattered across hundreds of BIP pages.",
+      "whyItPrints": "Public-records scraping turned into a daily deal-alert for investors. Seller says it \"has taken over the rankings for the land bank keyword\" (seller-stated).",
+      "image": "/blog/2026-10-22/landbanksearch.webp",
+      "imageAlt": "LandBankSearch product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "salvagealert",
+      "name": "SalvageAlert",
+      "listingNote": null,
+      "description": "Save a search once and it watches IAA and Copart (US/Canada; profile also mentions UK and Germany) 24/7, pushing matching lots to a feed, Telegram or phone. Landed-cost calculator for EU importers, VIN check, API, and a broker service \"from $349 per car won\". Starter €19.99/mo, Unlimited €39.99/mo (prices shown as $ on the homepage). Site in 10 languages incl. Polish (company-stated).",
+      "evidenceKind": "polar-verified",
+      "evidence": "MRR $313, 11 subscriptions, L30 $147 (+119.7%), total $214 so far (Sep $87, Oct $127). 95% margin claimed. Founded Apr 2026. The sync is Polar and the App Store. Revenue synced 22 October 2026 ~07:27 Warsaw.",
+      "sources": [
+        {
+          "label": "salvagealert.com",
+          "url": "https://salvagealert.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/salvage-alert"
+        }
+      ],
+      "homepage": "https://salvagealert.com/",
+      "indieAngle": "Polish importers already pay brokers; a Polish-first \"Copart/IAA → landed cost in PLN incl. akcyza + VAT + transport\" calculator with alerts is a natural 49 zł/mo tool.",
+      "whyItPrints": "Car importers (lots of them in PL/UA/RO) live on these auctions; an alert that fires first is worth money every week. Very early, but a clean B2B niche.",
+      "image": "/blog/2026-10-22/salvagealert.webp",
+      "imageAlt": "SalvageAlert product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Stealth RDP",
+      "note": "Stripe-verified all-time $37,302, L12 $25,984, L30 $893; seller claims 245 active paying customers. Listed for sale at $1,500 (0.1x) with 15 offers. TrustMRR (https://trustmrr.com/startup/stealth-rdp)",
+      "homepage": null
+    },
+    {
+      "name": "AODocs",
+      "note": "company-stated $30M revenue (2026), 15% growth, 10% profit margin (2025), 250 staff. Latka podcast list (https://getlatka.com/podcast) — not written up in full.",
+      "homepage": null
+    },
+    {
+      "name": "PrinterXR",
+      "note": "Stripe-verified all-time $159,873, MRR $707 from 631 subs, but L12 only $38,779 and sliding; printer-support niche has a scammy reputation, so skipped. TrustMRR (https://trustmrr.com/startup/printerxr)",
+      "homepage": null
+    }
+  ]
+}

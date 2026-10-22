@@ -1,0 +1,31 @@
+{
+  "slug": "landbanksearch",
+  "name": "LandBankSearch",
+  "listingNote": null,
+  "description": "Aggregates government land-bank listings (houses often $1k–$20k, lots for less) that sit on municipal sites, PDF lists and county portals and never reach Zillow. Homepage today: 79,484 properties, 72 of 354 US land banks tracked, 27 states. Free search + weekly alert; Pro $19/mo (daily alerts, CSV export), Investor $79/mo; API offered (company-stated).",
+  "homepage": "https://landbanksearch.com/",
+  "image": "/blog/2026-10-22/landbanksearch.webp",
+  "imageAlt": "LandBankSearch product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "stripe-verified",
+      "evidence": "L30 $1,200 (+689.5%) · all-time $1,371 · MRR shown $0 (0 active subs — revenue isn't counted as subscription MRR) Monthly: Jul $19 → Aug $76 → Sep $313 → Oct (partial) $963 · 14,739 visitors L30 · 70% L30 profit margin Listed for sale: asking $45,000 (3.1x), first listed 8 Oct 2026, 0 offers · ~1,100 users claimed · founded Jul 2026, 1 person Revenue synced 22 October 2026 ~08:09 Warsaw.",
+      "sources": [
+        {
+          "label": "landbanksearch.com",
+          "url": "https://landbanksearch.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/landbanksearch-com"
+        }
+      ],
+      "indieAngle": "Polish equivalent: one map of every komornik / KOWR / gmina / Lasy Państwowe property auction (licytacje), with a 29 zł/mo morning alert. The data is public and scattered across hundreds of BIP pages."
+    }
+  ],
+  "whyItPrints": "Public-records scraping turned into a daily deal-alert for investors. Seller says it \"has taken over the rankings for the land bank keyword\" (seller-stated).",
+  "whyThisMatters": "City land banks list houses and lots that never make it onto the big property sites. This map pulls those lists into one place. The homepage says tens of thousands of properties, and that it tracks a fraction of the US land banks, across a couple of dozen states. Search and a weekly email are free. A paid plan adds a daily alert and a spreadsheet export. There is a higher plan, and an API.\n\nThe Stripe subscription line is zero. The cash is recent, small, and climbing month to month. The site is for sale. It was founded in July 2026, by one person. The seller says the site ranks for the land-bank search. I am not checking that ranking.\n\nYou pay so the cheap house is in your inbox before you go hunting through county PDFs."
+}

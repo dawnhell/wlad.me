@@ -1,0 +1,31 @@
+{
+  "slug": "replayed",
+  "name": "Replayed",
+  "listingNote": null,
+  "description": "A managed service + app where YouTubers upload footage, get matched with a vetted editor, chat, review with timestamped comments and publish. \"No subscription\" (company-stated).",
+  "homepage": "https://replayed.co/",
+  "image": "/blog/2026-10-22/replayed.webp",
+  "imageAlt": "Replayed product image",
+  "imageWidth": 1200,
+  "imageHeight": 595,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time $1,458,751 · L12 $269,754 · L6 $126,885 · L30 $19,911 (−34.3%) MRR shown $3,467 from 1 subscription (most revenue is one-off orders) Monthly: Nov 2025 $27.6k · Dec $28.9k · Jan $19.5k · Mar $23.8k · Jun $15.7k · Sep $32.2k · Oct (partial) $16.2k · founded Feb 2020 Revenue synced 22 October 2026 ~04:05 Warsaw.",
+      "sources": [
+        {
+          "label": "replayed.co",
+          "url": "https://replayed.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/replayed-ltd"
+        }
+      ],
+      "indieAngle": "Productised service for a boring B2B output (e.g. \"your Allegro listing photos + descriptions done in 24h\", or bookkeeping-ready scans) wrapped in a simple upload/review app — the app is the moat, the freelancers are the engine."
+    }
+  ],
+  "whyItPrints": "A productised agency with software around it. Not SaaS margins, but six years of steady five-figure months from people who just want edits done.",
+  "whyThisMatters": "You upload the footage. A person edits it. You comment on a timestamp and publish. There is no subscription. The company is in the UK and dates to early 2020. The listing calls it a managed service with an app around the matching, the chat, and the review.\n\nMost of the Stripe cash is one-off orders. One subscription shows on the listing, and it is not the business. The months bounce. Some are quieter than the older ones. The all-time total is the long story, six years of people who want the edit done and do not want to hire.\n\nYou pay so the video is edited by a person, and the back-and-forth lives in one place.\n\nThe softer recent month sits next to older months that were higher. I am not calling that a trend. One month is not the six-year total.\n\nThe app is the matching and the comments. The edit itself is still a person."
+}

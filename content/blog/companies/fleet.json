@@ -1,0 +1,31 @@
+{
+  "slug": "fleet",
+  "name": "Fleet",
+  "listingNote": null,
+  "description": "Companies rent laptops/phones on 36-month contracts instead of buying; Fleet adds an MDM/security software layer and manages the devices across 20 countries (company-stated).",
+  "homepage": "https://www.fleet.co/",
+  "image": "/blog/2026-10-22/fleet.webp",
+  "imageAlt": "Fleet product image",
+  "imageWidth": 1200,
+  "imageHeight": 620,
+  "mentions": [
+    {
+      "date": "2026-10-22",
+      "evidenceKind": "self-reported",
+      "evidence": "~€40M annualized revenue (2026) · ~€30M at the LBO (Feb 2026) · €100M valuation EBITDA ~€10M, ~25% margin · bootstrapped for 7 years before the LBO secondary Growth: €1.5M (2019) → €8M (2021) → €10M (2022) → €8M (2023); +60% (2024), +90% (2025), tracking +40% (2026) 50,000+ devices managed · software/MDM layer only ~€1M ARR",
+      "sources": [
+        {
+          "label": "fleet.co",
+          "url": "https://www.fleet.co/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Jul 2026, published 24 Sep 2026)",
+          "url": "https://getlatka.com/companies/fleet/interviews/fleet-sevan-marian-2026"
+        }
+      ],
+      "indieAngle": "The lesson is financing, not software: any boring B2B hardware (POS terminals, label printers, kiosks) can be rented monthly with the contract sold to a bank/leasing firm on day one."
+    }
+  ],
+  "whyItPrints": "It's leasing with a SaaS veneer. Fleet sells the 36-month contracts to banks upfront, so each deal is cash-flow-positive from day one (company-stated).",
+  "whyThisMatters": "Companies rent laptops and phones for three years instead of buying them. Fleet also handles the security software and looks after the devices in about 20 countries. The founder says the contracts are sold to banks up front, so the cash comes in on day one.\n\nMost of the money is the devices. The software layer is a small slice of the rental business. Tens of thousands of devices are on the books. The company was bootstrapped for seven years. In early 2026 there was a buyout. The revenue number is from an interview. It is not a Stripe connection. Do not read the whole figure as software subscriptions.\n\nYou pay so the laptop is a monthly bill, not a purchase order.\n\nThe growth has not been a straight line. Some years were up, one year was down, and the recent years are up again. Fifty thousand devices is the founder count, not a number I counted.\n\nA rental contract and a login are different products. The note is about both, and the big number is mostly the contract."
+}
