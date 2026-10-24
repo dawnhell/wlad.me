@@ -1,0 +1,31 @@
+{
+  "slug": "didomi",
+  "name": "Didomi",
+  "listingNote": null,
+  "description": "A consent and preference management platform: the SDK and banner that collects GDPR/CCPA consent on high-traffic sites. Customers are mostly publishers and marketplaces. The company says its SDK sits on ~2% of global web traffic and processes billions of consents a month (company-stated).",
+  "homepage": "https://www.didomi.io/",
+  "image": "/blog/2026-10-23/didomi.webp",
+  "imageAlt": "Didomi product image",
+  "imageWidth": 1200,
+  "imageHeight": 812,
+  "mentions": [
+    {
+      "date": "2026-10-23",
+      "evidenceKind": "self-reported",
+      "evidence": "Group revenue $40–60M/yr (after the Addingwell + Sourcepoint acquisitions) 3,500 customers · enterprise deals in the hundreds of thousands of euros ARR · at least one account paying multiple millions of dollars a year ~$1M ARR within <2 years of starting to sell (2019) · ~$10M ARR around end-2023 Just under 200 staff, about half on the revenue team · founded 2017 · growth is inbound demo requests, almost no resellers",
+      "sources": [
+        {
+          "label": "didomi.io",
+          "url": "https://www.didomi.io/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded May 2026)",
+          "url": "https://getlatka.com/companies/didomi.io/interviews/didomi-ralph-boukris-2026"
+        }
+      ],
+      "indieAngle": "Enterprise CMP is taken, but the SMB end Didomi explicitly ignores (\"an SMB running GA with a hundred visitors does not come to Didomi\") is open. Something like \"KSeF + RODO + cookie compliance pack\" for Polish e-commerce on Shoper/IdoSell/WooCommerce at 29–49 zł/mo fits there."
+    }
+  ],
+  "whyItPrints": "Compliance software people buy because a law forces them to, not because they want it. Once the banner is wired into every page and ad stack, nobody rips it out. Didomi also grew by buying adjacent tools with the same buyer (Addingwell server-side tagging in Apr 2025, then Sourcepoint).",
+  "whyThisMatters": "A big publisher has to ask before it drops a tracker. Didomi is the banner and the record of the answer. The customers are mostly publishers and marketplaces. The company says the tool sits on a small slice of all web traffic and handles a huge number of consents.\n\nIt also bought neighboring tools with the same buyer: server-side tagging, then Sourcepoint. The yearly range in the interview is for the group after those deals. Some accounts are large. One is described as millions a year. Staff is just under two hundred, about half of them on the selling side. Founded in 2017. The number is from a May 2026 interview. It is not a Stripe connection. They say they do not sell to the tiny site.\n\nYou pay because the law already requires the question."
+}

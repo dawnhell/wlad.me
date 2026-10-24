@@ -1,0 +1,31 @@
+{
+  "slug": "threadrecap",
+  "name": "ThreadRecap",
+  "listingNote": null,
+  "description": "Upload a WhatsApp chat export (including voice notes) and get a structured record back: summary, timeline, decisions, commitments and an \"evidence packet\". It's used for disputes, HR/compliance, partnership audits, custody and rentals. Available in 6 languages (EN/PT/ES/DE/IT/FR), and the company says customers are in 20+ countries, acquired almost entirely through organic search (company-stated).",
+  "homepage": "https://www.threadrecap.com/en",
+  "image": "/blog/2026-10-23/threadrecap.webp",
+  "imageAlt": "ThreadRecap product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-23",
+      "evidenceKind": "stripe-verified",
+      "evidence": "L30 $1,820 · L3M $4,599 · all-time $5,460 · MRR only $16.82 (1 sub), since revenue is one-off credit packs · margin 90% claimed Monthly: Apr $104 → Jun $255 → Jul $540 → Aug $1,085 → Sep $1,955 → Oct $1,374 (so far) ~340 users (company-stated) · Pro $15/mo for 60 credits, otherwise credit packs · founded Jan 2026 Revenue synced 23 October 2026 ~05:21 Warsaw.",
+      "sources": [
+        {
+          "label": "threadrecap.com",
+          "url": "https://www.threadrecap.com/en"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/threadrecap"
+        }
+      ],
+      "indieAngle": "A Polish \"dowód z WhatsAppa/Messengera\" version could sell to people in rozwody, landlord–tenant fights and B2B disputes with subcontractors. The format would be PDF with timeline + quotes, formatted for a kancelaria, with pay-per-case pricing (49–149 zł). It's an SEO play on \"jak wydrukować rozmowę WhatsApp do sądu\"."
+    }
+  ],
+  "whyItPrints": "It's paperwork for when things go wrong. People pay once, at the moment they need proof, so it's mostly credit packs, not subscriptions. That's why MRR is tiny while revenue grows.",
+  "whyThisMatters": "You export a WhatsApp chat, voice notes included. You get a summary, a timeline, the decisions, the promises, and a packet you can hand over. People use it for disputes, HR, a partnership fight, custody, and rentals. The site is in six languages. The company says customers are in more than twenty countries, and that almost all of them arrived through search.\n\nThe Stripe subscription line is one small plan. The cash is credit packs. People pay when they need the proof, not every month. The months have been climbing from a small start in the spring. Founded in January 2026. The company puts the user count in the hundreds.\n\nYou pay so the chat is a document, not a scroll."
+}

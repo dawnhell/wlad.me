@@ -200,6 +200,22 @@ const picks = [
     license: 'CC BY 2.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/f/f2/Sognefjord_-_Balestrand%2C_Norway_-_Travel%2C_landscape_photography_-_Flickr_-_Giuseppe_Milo_%28www.pixael.com%29.jpg',
   },
+  {
+    id: 'reine-lofoten',
+    subject: 'nature',
+    alt: 'The village of Reine in the Lofoten islands',
+    credit: 'Nicolas Schneider',
+    license: 'CC BY 3.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Reine_Lofoten_%28233229471%29.jpeg',
+  },
+  {
+    id: 'milford-sound',
+    subject: 'nature',
+    alt: 'Milford Sound in Fiordland National Park',
+    credit: 'Krzysztof Golik',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Milford_Sound_in_Fiordland_National_Park_04.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

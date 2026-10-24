@@ -1,0 +1,35 @@
+{
+  "slug": "savvy-nomad",
+  "name": "Savvy Nomad",
+  "listingNote": null,
+  "description": "\"American infrastructure for people who don't live in America anymore.\" Customers get a residential street address in Florida or Texas that works for banking, a driver's licence and legal mail. On top of that come guided domicile setup (Declaration of Domicile, vehicle registration), compliance alerts, mail forwarding/scanning, a Florida registered agent and staff-CPA access on the mid tier (company-stated).",
+  "homepage": "https://savvynomad.io/",
+  "image": "/blog/2026-10-23/savvy-nomad.webp",
+  "imageAlt": "Savvy Nomad product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-23",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported. The founder showed a Stripe dashboard on camera in a May 2026 episode. It was not independently checked. MRR $140,000 · ARR ~$1.7M · 1,400+ customers · 120–150 new customers per month 6 employees · ~$10M state taxes saved for customers (company-stated) Pricing (company-stated, pricing page): Basic Domicile $60/mo, SavvyNomad $90/mo (most popular), Domicile Premium $265/mo (+$500 one-off lease agreement)",
+      "sources": [
+        {
+          "label": "savvynomad.io",
+          "url": "https://savvynomad.io/"
+        },
+        {
+          "label": "Starter Story episode \"I Make $1.7M/Year In The Most Boring Niche Imaginable\"",
+          "url": "https://www.starterstory.com/bohdan"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=BHhg-l9AZpM"
+        }
+      ],
+      "indieAngle": "It's a regulatory-arbitrage subscription where the product is an address plus forms. A European version would serve Poles who left for the UK/NL/DE and still get letters from US/ZUS/banks: a Polish address, e-Doręczenia/ePUAP mail handling and a \"prove you're non-resident\" paperwork pack at 49–99 zł/mo."
+    }
+  ],
+  "whyItPrints": "It's a subscription for paperwork plus a mailbox. Expats who keep a high-tax state domicile can owe state income tax for nothing, and the site pitches \"save up to 14.8% of your annual income\". So a $90/mo plan is a rounding error next to the tax it saves. Customers prepay (\"net volume slightly higher cuz we charge people up front\").",
+  "whyThisMatters": "Americans who live abroad still get mail, still need a bank, and can still owe state tax if the old state thinks they never left. Savvy Nomad sells a residential street address in Florida or Texas, plus the domicile paperwork, mail scanning, and, on the middle plan, a person who can talk tax.\n\nThe plans on the pricing page are a basic address, the popular middle plan, and a premium plan with a one-off lease agreement. Customers pay up front. The founder says more than a thousand people are on it, and that a hundred-plus join in a typical month. Six people work there. He showed a Stripe dashboard on camera in a May 2026 episode. I did not log in and check it. The number is his.\n\nYou pay so the old state stops treating you as if you still live there."
+}

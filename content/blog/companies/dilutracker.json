@@ -1,0 +1,31 @@
+{
+  "slug": "dilutracker",
+  "name": "Dilutracker",
+  "listingNote": null,
+  "description": "It reads S-1/S-3/424B/8-K filings and shows, per ticker, warrants, convertibles, shelf capacity, float and cash runway, with every number linked back to the SEC source. It has a 1–10 dilution-risk score, daily filing monitoring and an API. Covers 2,000+ active tickers (company-stated).",
+  "homepage": "https://www.dilutracker.com/",
+  "image": "/blog/2026-10-23/dilutracker.webp",
+  "imageAlt": "Dilutracker product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-23",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,526 · 15 subs · L30 $1,365 (+2.1%) · L6M $6,484 · all-time $8,820 · margin 74% claimed Monthly: Feb $917 → May $1,163 → Jul $891 → Sep $1,168 → Oct $1,177 (so far) Listed for sale at $40,000 (since 21 Aug), 7 offers · founded Jan 2026 Pricing (company-stated): Starter $59/mo, Pro $119/mo, Business $299/mo Revenue synced 23 October 2026 ~04:57 Warsaw.",
+      "sources": [
+        {
+          "label": "dilutracker.com",
+          "url": "https://www.dilutracker.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dilutracker"
+        }
+      ],
+      "indieAngle": "\"Public filings → one clean page\" works for Polish data too: KRS + MSiG + eKRS financial statements, or ESPI/EBI reports for small GPW/NewConnect stocks (dilution, emisje, warranty subskrypcyjne). Trader niche on NewConnect, 49–99 zł/mo."
+    }
+  ],
+  "whyItPrints": "It parses public government filings and resells them as a clean view. The data is free but painful to read. Small-cap traders lose money on surprise offerings, so they pay $59–299/mo (company-stated).",
+  "whyThisMatters": "A small-cap filing is a pile of PDFs. Dilutracker reads the offering documents and shows the warrants, the convertibles, the shelf, the float, and the cash runway, each number linked back to the SEC page. There is a simple risk score, a daily watch, and an API. The site says it covers a couple of thousand tickers.\n\nTraders pay a monthly plan. There are three prices. Fifteen Stripe subscriptions. The cash has been roughly flat since the spring. The company started in January 2026. The listing is for sale, and there have been offers. I am not treating the sale price as the business. The subscriptions are the business.\n\nYou pay so a surprise offering is a page, not a weekend of reading."
+}

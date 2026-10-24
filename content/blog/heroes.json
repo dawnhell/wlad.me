@@ -262,5 +262,27 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Sognefjord_-_Balestrand%2C_Norway_-_Travel%2C_landscape_photography_-_Flickr_-_Giuseppe_Milo_(www.pixael.com).jpg",
     "license": "CC BY 2.0",
     "subject": "nature"
+  },
+  {
+    "id": "reine-lofoten",
+    "src": "/blog/heroes/reine-lofoten.webp",
+    "alt": "The village of Reine in the Lofoten islands",
+    "width": 1600,
+    "height": 1085,
+    "credit": "Nicolas Schneider",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Reine_Lofoten_(233229471).jpeg",
+    "license": "CC BY 3.0",
+    "subject": "nature"
+  },
+  {
+    "id": "milford-sound",
+    "src": "/blog/heroes/milford-sound.webp",
+    "alt": "Milford Sound in Fiordland National Park",
+    "width": 1280,
+    "height": 853,
+    "credit": "Krzysztof Golik",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland_National_Park_04.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

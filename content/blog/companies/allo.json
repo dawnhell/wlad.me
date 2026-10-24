@@ -1,0 +1,31 @@
+{
+  "slug": "allo",
+  "name": "Allo",
+  "listingNote": null,
+  "description": "A mobile-first business phone system (numbers, dialer, call recording, CRM sync with HubSpot/Salesforce, AI call notes) that pitches itself as a cheaper, consumer-grade RingCentral/Aircall replacement. It's the first product of the \"Mobile First Company\" holding of ex-Spendesk growth lead Jérémy Goillot, whose stated vision is affordable software \"for the most boring businesses\" like retail and services (company-stated).",
+  "homepage": "https://withallo.com/",
+  "image": "/blog/2026-10-23/allo.webp",
+  "imageAlt": "Allo product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-23",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR ~$3M (Apr 2026) ← $1M (Oct 2025) · target $10M by end-2026 5,000 customers · ~750 signups/week · >35% trial→paid · ARPU $160/mo (from $18/mo at launch) 17 staff · $18.5M raised (incl. $13M seed Oct 2025 at >50x revenue) >30% of acquisition from Google keywords (competitor + feature terms) and long-form SEO; \"best call recording software\" post ~2,100 organic clicks/mo",
+      "sources": [
+        {
+          "label": "withallo.com",
+          "url": "https://withallo.com/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Apr 2026)",
+          "url": "https://getlatka.com/companies/mobile-first-company-allo/interviews/mobile-first-company-allo-jeremy-goyo-2026"
+        }
+      ],
+      "indieAngle": "It's VC-funded, but the lesson is cheap: \"Aircall but for one trade.\" In Poland that could be a VoIP number + call log + missed-call SMS-back for gabinety/warsztaty, integrated with Booksy/Versum, at ~59 zł/mo per line."
+    }
+  ],
+  "whyItPrints": "Telephony is a replacement category: every SMB already pays for phones. Allo found that users who make more than 5 calls basically never churn. About 50% of new revenue comes from seat expansion.",
+  "whyThisMatters": "A shop already pays for a phone. Allo sells a number, a dialer, call recording, and notes, and it can sync the call to HubSpot or Salesforce. The pitch is a cheaper version of the big business-phone brands, aimed at retail and services. It is the first product of a holding company started by someone who used to run growth at Spendesk.\n\nThe founder says people who make more than a handful of calls almost never leave, and that about half of new revenue is extra seats. Thousands of customers. A trial converts often. The average account pays much more than the launch price. Seventeen people. A large seed round landed in late 2025. A lot of the signups come from search. The yearly number is from an April 2026 interview. It is not a Stripe connection.\n\nYou pay so the work calls are not on a personal phone."
+}

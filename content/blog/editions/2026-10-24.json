@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-24",
+  "title": "Saturday's boring SaaS, 24 October 2026",
+  "dek": "Saturday, 24 October 2026. Six are Stripe-verified, including a newer Conductor number. Kibu's figure is the April sync. The Stripe key expired. P7M is RevenueCat-verified. The German bookkeeping listing has no company name, and that one, plus Tratta, BoosterHub, and Vantaca, are self-reported.",
+  "heroId": "milford-sound",
+  "companies": [
+    {
+      "slug": "anonymous-german-bookkeeping-sync",
+      "name": "Anonymous German bookkeeping sync",
+      "listingNote": null,
+      "description": "A solo tool that syncs Stripe into German bookkeeping tools. The Acquire listing does not name the company or give a product site.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, with a P&L attached. $158K revenue and $120K profit over the last 12 months. Last month $16.4K revenue and $12.5K profit. $126.4K ARR, up 168% a year. 500–999 customers, 1–3% churn, founded May 2022. Asking $523K, which is 4.5x profit.",
+      "sources": [
+        {
+          "label": "Acquire listing",
+          "url": "https://app.acquire.com/public/0viti1oazx-accounting-integration-software-to-sync-stripe-with-german-bookkeeping-tools"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "German bookkeeping rules are the product. The listing is the note. There is no company name to build on.",
+      "whyItPrints": "It is the glue between Stripe and the books a German company already keeps. One person, a P&L attached to the listing, and an asking price.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "khosmos",
+      "name": "Khosmos",
+      "listingNote": null,
+      "description": "Quote + e-sign + invoicing + payments for French construction pros and micro-entreprises (1–50 people / subcontractors). Create a full quote in under a minute, sign on-site or remotely, then bill. ~€24/mo + per-seat, annual plans available.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$22,257 MRR, 843 subscriptions, $373K all-time. €23.99 a month. Noted 24 October 2026. The 1 October note was about $21.9k MRR, 834 subscriptions, and about $355k all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/khosmos"
+        }
+      ],
+      "homepage": "https://khosmos.fr",
+      "indieAngle": "One trade, one country, and the e-invoicing deadline is the reason they stay.",
+      "whyItPrints": "Tradespeople lose deals when quotes are slow. Khosmos owns the quote→cash workflow in one country vertical — same shape as Conductor (legacy/ops glue) and Calendesk (country booking), but for French chantier admin.",
+      "image": "/blog/2026-10-24/khosmos.webp",
+      "imageAlt": "Khosmos product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "p7m-io",
+      "name": "P7M.io",
+      "listingNote": null,
+      "description": "Opens the signed .p7m files Italy requires. €3.99 per document. Solo, started in March, and the listing is for sale. The listing does not give a product site.",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "$537 MRR, $4,279 in the last 30 days. €3.99 per document. Solo, started in March, for sale. Noted 24 October 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/confidential-startup-70"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "One file format, one country, pay per document.",
+      "whyItPrints": "Italian invoices and official files arrive as a signed .p7m. People pay per document so they can open it.",
+      "image": "/blog/2026-10-24/p7m-io.webp",
+      "imageAlt": "P7M.io product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "calendesk",
+      "name": "Calendesk",
+      "listingNote": null,
+      "description": "B2B booking + payments + client portal for therapists, psychologists, coaches, lawyers, beauty/fitness — white-label, subscription packages, API-first. Polish-founded, bootstrapped since 2020.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$21,183 MRR, $1.15M all-time. Bootstrapped since 2020. Noted 24 October 2026. The 30 September note was about $21.5k MRR and about $1.13M all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/calendesk"
+        }
+      ],
+      "homepage": "https://calendesk.com",
+      "indieAngle": "A booking page for one profession, in one city, is the smaller version.",
+      "whyItPrints": "Service pros already schedule and take deposits every day. Calendesk owns that workflow at ~$79–$147/mo instead of inventing a new category.",
+      "image": "/blog/2026-10-24/calendesk.webp",
+      "imageAlt": "Calendesk product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "legalone",
+      "name": "LegalOne",
+      "listingNote": null,
+      "description": "French annonces légales (legal notices) publishing — accountants and companies file required notices with competitive rates and compliance baked in. Bootstrapped, France.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$10,712 in the last 30 days, $102K all-time. Charged per notice. Noted 24 October 2026. The 1 October note was about $10.7k in the last 30 days and about $93k all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/legalone"
+        }
+      ],
+      "homepage": "https://legalone.fr",
+      "indieAngle": "A notice the law already requires, billed once per filing.",
+      "whyItPrints": "Legal notices are mandatory, price-sensitive, and accountant-distributed. Transaction revenue (not seat MRR) with ~$11k L30 and ~917 users claimed — classic country compliance marketplace.",
+      "image": "/blog/2026-10-24/legalone.webp",
+      "imageAlt": "LegalOne product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "send-letters-online-uk",
+      "name": "Send Letters Online UK",
+      "listingNote": null,
+      "description": "Type a letter in the browser; they print, fold, frank, and post via Royal Mail from £2.99. Volume discounts from 100 letters/month. Founded May 2026, UK. GDPR / ICO registered (company-stated). Pay-per-letter, not seat SaaS.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$4,125 in the last 30 days, $22.9K all-time since May. Noted 24 October 2026. The 12 October note was about $4,283 in the last 30 days and about $21,160 all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/send-letters-online-uk"
+        }
+      ],
+      "homepage": "https://sendlettersonline.co.uk/",
+      "indieAngle": "The API is for the letters a landlord or a solicitor has to send, not for birthday cards.",
+      "whyItPrints": "Courts, landlords, SMEs, and public sector still need physical post. Hybrid mail is dull infrastructure with tangible COGS and sticky repeat volume.",
+      "image": "/blog/2026-10-24/send-letters-online-uk.webp",
+      "imageAlt": "Send Letters Online UK product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "tratta",
+      "name": "Tratta",
+      "listingNote": null,
+      "description": "Debt-collection software. The article says about $5M ARR, around 100 clients, revenue doubled in a year, and the company never raised. Company-stated. The article is not a product site.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a Practical Founders article. About $5M ARR, around 100 clients, revenue doubled in a year, never raised.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/articles/bootstrapped-saas-growth-customer-validation/"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Collections is a job people already pay staff to do.",
+      "whyItPrints": "Collectors already have the job. Software that runs the chase is a dull purchase.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "boosterhub",
+      "name": "BoosterHub",
+      "listingNote": null,
+      "description": "All-in-one software, accounting included, for US high-school booster clubs. The article says close to $1M ARR, 2 full-time staff, and about 600 programs. Company-stated. The article is not a product site.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a Practical Founders article. Close to $1M ARR, 2 full-time staff, about 600 programs.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/articles/going-all-in-one-in-system-of-record-saas/"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "One kind of volunteer treasurer, one country, the books included.",
+      "whyItPrints": "A booster club has to collect money, keep the books, and show parents where it went. Two people selling that to hundreds of clubs is the whole story in the article.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "kibu",
+      "name": "Kibu",
+      "listingNote": null,
+      "description": "Content, compliance, and EHR platform built specifically for provider organizations serving people with intellectual and developmental disabilities (I/DD). Helps DSPs deliver care while managing regulatory documentation across hundreds of orgs and ~48 US states. HIPAA-compliant; contact-sales pricing. Founded Jan 2022, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$234K MRR. The Stripe key expired. Revenue last synced 19 April 2026. This 24 October note is that same stale figure, not a new sync.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kibu"
+        }
+      ],
+      "homepage": "https://kibu.com/",
+      "indieAngle": "The buyer cannot skip the paperwork. The number on the page is from April.",
+      "whyItPrints": "Pure regulated vertical ops software — the Conductor shape applied to disability services. Providers cannot improvise compliance; once the EHR + care logs live in Kibu, switching costs explode. High ACV B2B seats (375 subs → ~$234k MRR) without consumer virality.",
+      "image": "/blog/2026-10-24/kibu.webp",
+      "imageAlt": "Kibu product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "vantaca",
+      "name": "Vantaca",
+      "listingNote": null,
+      "description": "HOA management software priced per home. The company says $85M revenue at the end of 2025, after about 5 years bootstrapped. Company-stated, from a Latka article. The article is not a product site.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a Latka article. $85M revenue at the end of 2025, after about 5 years bootstrapped.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-vantaca-hit-10m-revenue-using-strategic-partnerships-and-customer-centric-innovations"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Per home, not per login. The association is the customer.",
+      "whyItPrints": "A homeowner association already pays someone to run the dues, the repairs, and the letters. The software is priced per home.",
+      "image": "/blog/2026-10-24/vantaca.webp",
+      "imageAlt": "Vantaca product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 24 October listing is for sale. Stripe shows a higher monthly number than the 20 October note.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$44,349 MRR, up 10% month over month. An April interview put the figure at about $25K (company-stated). The listing is now for sale. Noted 24 October 2026. The 20 October note was $43,330 MRR and 284 subscriptions.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe number moved up, and it is for sale.",
+      "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The new number is higher, and the listing is now for sale.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": []
+}

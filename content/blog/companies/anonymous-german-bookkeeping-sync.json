@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-german-bookkeeping-sync",
+  "name": "Anonymous German bookkeeping sync",
+  "listingNote": null,
+  "description": "A solo tool that syncs Stripe into German bookkeeping tools. The Acquire listing does not name the company or give a product site.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-24",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, with a P&L attached. $158K revenue and $120K profit over the last 12 months. Last month $16.4K revenue and $12.5K profit. $126.4K ARR, up 168% a year. 500–999 customers, 1–3% churn, founded May 2022. Asking $523K, which is 4.5x profit.",
+      "sources": [
+        {
+          "label": "Acquire listing",
+          "url": "https://app.acquire.com/public/0viti1oazx-accounting-integration-software-to-sync-stripe-with-german-bookkeeping-tools"
+        }
+      ],
+      "indieAngle": "German bookkeeping rules are the product. The listing is the note. There is no company name to build on."
+    }
+  ],
+  "whyItPrints": "It is the glue between Stripe and the books a German company already keeps. One person, a P&L attached to the listing, and an asking price.",
+  "whyThisMatters": "Stripe does not speak the file format a German bookkeeper wants. This listing is a one-person tool that does that translation. The Acquire page does not name the company and does not give a product site. I am not guessing either one.\n\nThe seller attached a P&L. The last twelve months show revenue and a larger share of it as profit. The last month is busier than that yearly pace. Customer count is a range, a few hundred to just under a thousand. Churn is described as low. Founded in May 2022. The asking price is a few times the profit, not a startup multiple. All of that is the seller's paper. It is not a Stripe connection on this site.\n\nYou pay so the payout lands in the German books without a weekend of exports.\n\nFive hundred to just under a thousand customers is a range, not a headcount I checked. Churn in the listing is one to three percent. The asking price is tied to profit, not to a story about growth."
+}

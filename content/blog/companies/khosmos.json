@@ -4,10 +4,10 @@
   "listingNote": null,
   "description": "Quote + e-sign + invoicing + payments for French construction pros and micro-entreprises (1–50 people / subcontractors). Create a full quote in under a minute, sign on-site or remotely, then bill. ~€24/mo + per-seat, annual plans available.",
   "homepage": "https://khosmos.fr",
-  "image": "/blog/2026-10-01/khosmos.webp",
+  "image": "/blog/2026-10-24/khosmos.webp",
   "imageAlt": "Khosmos product image",
   "imageWidth": 1200,
-  "imageHeight": 591,
+  "imageHeight": 630,
   "mentions": [
     {
       "date": "2026-10-01",
@@ -20,6 +20,18 @@
         }
       ],
       "indieAngle": "Pick one country's trade invoicing/e-sign rules and own quote→pay end-to-end. Switching costs are high once invoices live there."
+    },
+    {
+      "date": "2026-10-24",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$22,257 MRR, 843 subscriptions, $373K all-time. €23.99 a month. Noted 24 October 2026. The 1 October note was about $21.9k MRR, 834 subscriptions, and about $355k all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/khosmos"
+        }
+      ],
+      "indieAngle": "One trade, one country, and the e-invoicing deadline is the reason they stay."
     }
   ],
   "whyItPrints": "Tradespeople lose deals when quotes are slow. Khosmos owns the quote→cash workflow in one country vertical — same shape as Conductor (legacy/ops glue) and Calendesk (country booking), but for French chantier admin.",

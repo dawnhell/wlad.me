@@ -1,0 +1,31 @@
+{
+  "slug": "swipeby",
+  "name": "SwipeBy",
+  "listingNote": null,
+  "description": "Independent restaurants get a website, online ordering and loyalty program for free. Revenue comes from the marketing layer on top: social media management, reputation management, phone answering, remarketing and AI-generated print campaigns (company-stated).",
+  "homepage": "https://swipe.by/",
+  "image": "/blog/2026-10-23/swipeby.webp",
+  "imageAlt": "SwipeBy product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-23",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR $3.5M, +400% YoY ACV ~$6K, mostly prepaid annually · $0 ad spend · 300–400 demos/month 25 staff (3 engineers) · reps have a quota of 6 locations/month on 30–40% commission $450K revenue-based financing from Founderpath (~$35K/mo repayments, 16-month payback) · EBITDA ~0% · says he turned down a $15M all-cash offer",
+      "sources": [
+        {
+          "label": "swipe.by",
+          "url": "https://swipe.by/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Sep 2026)",
+          "url": "https://getlatka.com/companies/swipeby/interviews/swipeby-carl-turner-2026"
+        }
+      ],
+      "indieAngle": "\"Free site, paid marketing retainer, sold in person\" works in any Polish city. Pick one vertical (kebab/pizzerie, barbers, warsztaty), give away the Pyszne-alternative ordering page, and charge 300–600 zł/mo for Google reviews + GBP posts + SMS remarketing. One salesperson can cover a city."
+    }
+  ],
+  "whyItPrints": "It's old-school local-SMB selling. Every customer comes from field reps physically walking into restaurants, there are no free trials, and customers mostly prepay annually. The founder argues the in-person relationship is the moat AI cold-callers can't copy.",
+  "whyThisMatters": "An independent restaurant gets a website, online ordering, and a loyalty program without paying for them. The bill is the marketing on top: social posts, reviews, a phone answering service, remarketing, and printed campaigns. Every customer, the founder says, comes from a person walking into the restaurant. There is no free trial. Most of them pay for the year up front.\n\nHe says the yearly number is a few million, with no ad spend, and a few hundred demos a month. Twenty-five people, three of them engineers. Reps have a quota of a handful of locations a month. There is revenue-based financing to repay. He says he turned down an all-cash offer. That is his interview, recorded in September 2026. It is not a Stripe connection. The real site is swipe.by. A similar domain is parked and is not this company.\n\nYou pay a local shop so the Google listing and the reviews are someone else's Tuesday."
+}

@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-23",
+  "title": "Friday's boring SaaS, 23 October 2026",
+  "dek": "Friday, 23 October 2026. Four are Stripe-verified. Savvy Nomad, Qobra, Didomi, SwipeBy, and Allo are self-reported. Savvy Nomad's founder showed a Stripe screen on camera. That is not a Stripe connection.",
+  "heroId": "reine-lofoten",
+  "companies": [
+    {
+      "slug": "savvy-nomad",
+      "name": "Savvy Nomad",
+      "listingNote": null,
+      "description": "\"American infrastructure for people who don't live in America anymore.\" Customers get a residential street address in Florida or Texas that works for banking, a driver's licence and legal mail. On top of that come guided domicile setup (Declaration of Domicile, vehicle registration), compliance alerts, mail forwarding/scanning, a Florida registered agent and staff-CPA access on the mid tier (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported. The founder showed a Stripe dashboard on camera in a May 2026 episode. It was not independently checked. MRR $140,000 · ARR ~$1.7M · 1,400+ customers · 120–150 new customers per month 6 employees · ~$10M state taxes saved for customers (company-stated) Pricing (company-stated, pricing page): Basic Domicile $60/mo, SavvyNomad $90/mo (most popular), Domicile Premium $265/mo (+$500 one-off lease agreement)",
+      "sources": [
+        {
+          "label": "savvynomad.io",
+          "url": "https://savvynomad.io/"
+        },
+        {
+          "label": "Starter Story episode \"I Make $1.7M/Year In The Most Boring Niche Imaginable\"",
+          "url": "https://www.starterstory.com/bohdan"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=BHhg-l9AZpM"
+        }
+      ],
+      "homepage": "https://savvynomad.io/",
+      "indieAngle": "It's a regulatory-arbitrage subscription where the product is an address plus forms. A European version would serve Poles who left for the UK/NL/DE and still get letters from US/ZUS/banks: a Polish address, e-Doręczenia/ePUAP mail handling and a \"prove you're non-resident\" paperwork pack at 49–99 zł/mo.",
+      "whyItPrints": "It's a subscription for paperwork plus a mailbox. Expats who keep a high-tax state domicile can owe state income tax for nothing, and the site pitches \"save up to 14.8% of your annual income\". So a $90/mo plan is a rounding error next to the tax it saves. Customers prepay (\"net volume slightly higher cuz we charge people up front\").",
+      "image": "/blog/2026-10-23/savvy-nomad.webp",
+      "imageAlt": "Savvy Nomad product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "qobra",
+      "name": "Qobra",
+      "listingNote": null,
+      "description": "End-to-end sales commission automation for RevOps and finance teams. It pulls deals from the CRM and payroll data through integrations, calculates commissions, generates rep statements and handles payroll closings and SPIFFs. Founded 2020 by Antoine Fort straight out of school (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR €7–8M (May 2026) ← €4–5M a year earlier ← ~€1M in 2022 250+ customers · ACV ~€30K (up from ~€10K in 2020) · largest deal ~€80K/yr Raised: €100K pre-seed, €5M seed (2022), €10M Series A (2023), €2M HSBC venture debt Paid ads ~€200–300K/yr · programmatic-SEO glossary as an acquisition channel",
+      "sources": [
+        {
+          "label": "qobra.co",
+          "url": "https://qobra.co/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded May 2026)",
+          "url": "https://getlatka.com/companies/qobra/interviews/qobra-antoine-fort-2026"
+        }
+      ],
+      "homepage": "https://qobra.co/",
+      "indieAngle": "At micro scale, the Polish version is \"prowizje handlowców\" for 10–50-rep distributors and car dealers that pull from Pipedrive/Subiekt/Optima. Another option is a narrow one: commission statements for insurance agents (multiagencje), priced per rep per month.",
+      "whyItPrints": "Commission plans live in fragile spreadsheets that finance re-checks every month, and every rep disputes them. It's the Conductor pattern: sit on top of the CRM + payroll and replace the Excel layer. Their trade-show gimmick was literally Excel-branded toilet paper.",
+      "image": "/blog/2026-10-23/qobra.webp",
+      "imageAlt": "Qobra product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "didomi",
+      "name": "Didomi",
+      "listingNote": null,
+      "description": "A consent and preference management platform: the SDK and banner that collects GDPR/CCPA consent on high-traffic sites. Customers are mostly publishers and marketplaces. The company says its SDK sits on ~2% of global web traffic and processes billions of consents a month (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "Group revenue $40–60M/yr (after the Addingwell + Sourcepoint acquisitions) 3,500 customers · enterprise deals in the hundreds of thousands of euros ARR · at least one account paying multiple millions of dollars a year ~$1M ARR within <2 years of starting to sell (2019) · ~$10M ARR around end-2023 Just under 200 staff, about half on the revenue team · founded 2017 · growth is inbound demo requests, almost no resellers",
+      "sources": [
+        {
+          "label": "didomi.io",
+          "url": "https://www.didomi.io/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded May 2026)",
+          "url": "https://getlatka.com/companies/didomi.io/interviews/didomi-ralph-boukris-2026"
+        }
+      ],
+      "homepage": "https://www.didomi.io/",
+      "indieAngle": "Enterprise CMP is taken, but the SMB end Didomi explicitly ignores (\"an SMB running GA with a hundred visitors does not come to Didomi\") is open. Something like \"KSeF + RODO + cookie compliance pack\" for Polish e-commerce on Shoper/IdoSell/WooCommerce at 29–49 zł/mo fits there.",
+      "whyItPrints": "Compliance software people buy because a law forces them to, not because they want it. Once the banner is wired into every page and ad stack, nobody rips it out. Didomi also grew by buying adjacent tools with the same buyer (Addingwell server-side tagging in Apr 2025, then Sourcepoint).",
+      "image": "/blog/2026-10-23/didomi.webp",
+      "imageAlt": "Didomi product image",
+      "imageWidth": 1200,
+      "imageHeight": 812
+    },
+    {
+      "slug": "swipeby",
+      "name": "SwipeBy",
+      "listingNote": null,
+      "description": "Independent restaurants get a website, online ordering and loyalty program for free. Revenue comes from the marketing layer on top: social media management, reputation management, phone answering, remarketing and AI-generated print campaigns (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR $3.5M, +400% YoY ACV ~$6K, mostly prepaid annually · $0 ad spend · 300–400 demos/month 25 staff (3 engineers) · reps have a quota of 6 locations/month on 30–40% commission $450K revenue-based financing from Founderpath (~$35K/mo repayments, 16-month payback) · EBITDA ~0% · says he turned down a $15M all-cash offer",
+      "sources": [
+        {
+          "label": "swipe.by",
+          "url": "https://swipe.by/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Sep 2026)",
+          "url": "https://getlatka.com/companies/swipeby/interviews/swipeby-carl-turner-2026"
+        }
+      ],
+      "homepage": "https://swipe.by/",
+      "indieAngle": "\"Free site, paid marketing retainer, sold in person\" works in any Polish city. Pick one vertical (kebab/pizzerie, barbers, warsztaty), give away the Pyszne-alternative ordering page, and charge 300–600 zł/mo for Google reviews + GBP posts + SMS remarketing. One salesperson can cover a city.",
+      "whyItPrints": "It's old-school local-SMB selling. Every customer comes from field reps physically walking into restaurants, there are no free trials, and customers mostly prepay annually. The founder argues the in-person relationship is the moat AI cold-callers can't copy.",
+      "image": "/blog/2026-10-23/swipeby.webp",
+      "imageAlt": "SwipeBy product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "allo",
+      "name": "Allo",
+      "listingNote": null,
+      "description": "A mobile-first business phone system (numbers, dialer, call recording, CRM sync with HubSpot/Salesforce, AI call notes) that pitches itself as a cheaper, consumer-grade RingCentral/Aircall replacement. It's the first product of the \"Mobile First Company\" holding of ex-Spendesk growth lead Jérémy Goillot, whose stated vision is affordable software \"for the most boring businesses\" like retail and services (company-stated).",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR ~$3M (Apr 2026) ← $1M (Oct 2025) · target $10M by end-2026 5,000 customers · ~750 signups/week · >35% trial→paid · ARPU $160/mo (from $18/mo at launch) 17 staff · $18.5M raised (incl. $13M seed Oct 2025 at >50x revenue) >30% of acquisition from Google keywords (competitor + feature terms) and long-form SEO; \"best call recording software\" post ~2,100 organic clicks/mo",
+      "sources": [
+        {
+          "label": "withallo.com",
+          "url": "https://withallo.com/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded Apr 2026)",
+          "url": "https://getlatka.com/companies/mobile-first-company-allo/interviews/mobile-first-company-allo-jeremy-goyo-2026"
+        }
+      ],
+      "homepage": "https://withallo.com/",
+      "indieAngle": "It's VC-funded, but the lesson is cheap: \"Aircall but for one trade.\" In Poland that could be a VoIP number + call log + missed-call SMS-back for gabinety/warsztaty, integrated with Booksy/Versum, at ~59 zł/mo per line.",
+      "whyItPrints": "Telephony is a replacement category: every SMB already pays for phones. Allo found that users who make more than 5 calls basically never churn. About 50% of new revenue comes from seat expansion.",
+      "image": "/blog/2026-10-23/allo.webp",
+      "imageAlt": "Allo product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "dilutracker",
+      "name": "Dilutracker",
+      "listingNote": null,
+      "description": "It reads S-1/S-3/424B/8-K filings and shows, per ticker, warrants, convertibles, shelf capacity, float and cash runway, with every number linked back to the SEC source. It has a 1–10 dilution-risk score, daily filing monitoring and an API. Covers 2,000+ active tickers (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,526 · 15 subs · L30 $1,365 (+2.1%) · L6M $6,484 · all-time $8,820 · margin 74% claimed Monthly: Feb $917 → May $1,163 → Jul $891 → Sep $1,168 → Oct $1,177 (so far) Listed for sale at $40,000 (since 21 Aug), 7 offers · founded Jan 2026 Pricing (company-stated): Starter $59/mo, Pro $119/mo, Business $299/mo Revenue synced 23 October 2026 ~04:57 Warsaw.",
+      "sources": [
+        {
+          "label": "dilutracker.com",
+          "url": "https://www.dilutracker.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/dilutracker"
+        }
+      ],
+      "homepage": "https://www.dilutracker.com/",
+      "indieAngle": "\"Public filings → one clean page\" works for Polish data too: KRS + MSiG + eKRS financial statements, or ESPI/EBI reports for small GPW/NewConnect stocks (dilution, emisje, warranty subskrypcyjne). Trader niche on NewConnect, 49–99 zł/mo.",
+      "whyItPrints": "It parses public government filings and resells them as a clean view. The data is free but painful to read. Small-cap traders lose money on surprise offerings, so they pay $59–299/mo (company-stated).",
+      "image": "/blog/2026-10-23/dilutracker.webp",
+      "imageAlt": "Dilutracker product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "maverick-intelligence",
+      "name": "Maverick Intelligence",
+      "listingNote": null,
+      "description": "A pixel that de-anonymises website visitors (and now flags AI agents), shows the channel they came from (organic, paid, LLMs, email) and hands sales teams a list to reach out to (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,734 · 22 subs · L30 $9,975 (+10.6%) · L12 = all-time $69,089 · margin 70% claimed Monthly: Jan $249 → Mar $4,025 → May $12,294 (peak) → Jul $9,505 → Sep $9,321 → Oct $8,925 (so far) Listed for sale at $400,000 (3.3x), 8 offers. Seller claims \"$8k MRR on Stripe plus additional $3k MRR via monthly invoice\" and 23 paying B2B customers. The invoice part is not verified. Revenue synced 23 October 2026 ~07:04 Warsaw.",
+      "sources": [
+        {
+          "label": "maverickintelligence.co",
+          "url": "https://www.maverickintelligence.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/maverick-intelligence-inc"
+        }
+      ],
+      "homepage": "https://www.maverickintelligence.co/",
+      "indieAngle": "The EU version is harder because of RODO, which is also why it's open. \"Company-level only\" (firm, not person) visitor ID based on IP→NIP/KRS matching for Polish B2B sites, sold to software houses and industrial distributors, is GDPR-safer and nobody local does it well.",
+      "whyItPrints": "It's a classic RB2B/Clearbit-Reveal style sales tool. It's B2B, priced per site at $250–2,300/mo (company-stated), and bought by sales/marketing teams out of an existing budget line.",
+      "image": "/blog/2026-10-23/maverick-intelligence.webp",
+      "imageAlt": "Maverick Intelligence product image",
+      "imageWidth": 1200,
+      "imageHeight": 532
+    },
+    {
+      "slug": "threadrecap",
+      "name": "ThreadRecap",
+      "listingNote": null,
+      "description": "Upload a WhatsApp chat export (including voice notes) and get a structured record back: summary, timeline, decisions, commitments and an \"evidence packet\". It's used for disputes, HR/compliance, partnership audits, custody and rentals. Available in 6 languages (EN/PT/ES/DE/IT/FR), and the company says customers are in 20+ countries, acquired almost entirely through organic search (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "L30 $1,820 · L3M $4,599 · all-time $5,460 · MRR only $16.82 (1 sub), since revenue is one-off credit packs · margin 90% claimed Monthly: Apr $104 → Jun $255 → Jul $540 → Aug $1,085 → Sep $1,955 → Oct $1,374 (so far) ~340 users (company-stated) · Pro $15/mo for 60 credits, otherwise credit packs · founded Jan 2026 Revenue synced 23 October 2026 ~05:21 Warsaw.",
+      "sources": [
+        {
+          "label": "threadrecap.com",
+          "url": "https://www.threadrecap.com/en"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/threadrecap"
+        }
+      ],
+      "homepage": "https://www.threadrecap.com/en",
+      "indieAngle": "A Polish \"dowód z WhatsAppa/Messengera\" version could sell to people in rozwody, landlord–tenant fights and B2B disputes with subcontractors. The format would be PDF with timeline + quotes, formatted for a kancelaria, with pay-per-case pricing (49–149 zł). It's an SEO play on \"jak wydrukować rozmowę WhatsApp do sądu\".",
+      "whyItPrints": "It's paperwork for when things go wrong. People pay once, at the moment they need proof, so it's mostly credit packs, not subscriptions. That's why MRR is tiny while revenue grows.",
+      "image": "/blog/2026-10-23/threadrecap.webp",
+      "imageAlt": "ThreadRecap product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "transfer-zip",
+      "name": "Transfer.zip",
+      "listingNote": null,
+      "description": "Send big files with no size limit, encryption and custom branding. It's positioned as \"your data isn't used for AI training or sold to advertisers\" (company-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $988 · 105 subs · L30 $1,595 (−10.1%) · L12 $14,950 · all-time $23,461 Monthly: Nov-25 $1,082 → Feb $1,155 → Jun $1,247 → Aug $1,563 → Sep $1,438 → Oct $1,154 (so far) Pricing (company-stated): Free, Starter $6/mo, Pro $12.5/mo, Teams $20/mo · not for sale Revenue synced 23 October 2026 ~04:44 Warsaw.",
+      "sources": [
+        {
+          "label": "transfer.zip",
+          "url": "https://transfer.zip/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/transfer-zip"
+        }
+      ],
+      "homepage": "https://transfer.zip/",
+      "indieAngle": "The WeTransfer category is crowded, but a vertical version isn't. Large-file delivery with client approval/sign-off for Polish photographers, wedding videographers or print houses (drukarnie) fits: branded download page + \"zaakceptowano\" button + invoice link.",
+      "whyItPrints": "File transfer is a commodity utility people search for every day (\"send large files\"). It's a cheap subscription that keeps billing quietly, and revenue has been flat at ~$1.0–1.5K every month for a year.",
+      "image": "/blog/2026-10-23/transfer-zip.webp",
+      "imageAlt": "Transfer.zip product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Kadence",
+      "note": "company-stated ~$15M ARR, up from $1M (2023) and $4–5M (early 2025). 600 customers, NDR >130%, $48–80/user/yr, $20M Series A (Aug 2025). Latka (https://getlatka.com/companies/kadence.co/interviews/kadence-dan-blayden-2026)",
+      "homepage": null
+    },
+    {
+      "name": "Unlock Patients",
+      "note": "Stripe-verified $1,200 every single month for a year from 2 clients, all-time $28,841, margin 83% claimed. More service than SaaS. TrustMRR (https://trustmrr.com/startup/unlock-patients)",
+      "homepage": null
+    },
+    {
+      "name": "Vatis Tech",
+      "note": "Stripe-verified all-time $121,147, MRR $1,389 from 68 subs, but sliding (L12 $30,648; Oct $1,346 so far vs $3,332 in Jan). TrustMRR (https://trustmrr.com/startup/vatis-tech)",
+      "homepage": null
+    },
+    {
+      "name": "Safebooks AI",
+      "note": "company-stated $1.5M ARR, 15 customers, $100–125K ACV. Latka (https://getlatka.com/companies/safebooks.ai/interviews/safebooks-ai-ahikam-kaufman-2026)",
+      "homepage": null
+    }
+  ]
+}

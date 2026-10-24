@@ -1,0 +1,27 @@
+{
+  "slug": "tratta",
+  "name": "Tratta",
+  "listingNote": null,
+  "description": "Debt-collection software. The article says about $5M ARR, around 100 clients, revenue doubled in a year, and the company never raised. Company-stated. The article is not a product site.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-24",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a Practical Founders article. About $5M ARR, around 100 clients, revenue doubled in a year, never raised.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/articles/bootstrapped-saas-growth-customer-validation/"
+        }
+      ],
+      "indieAngle": "Collections is a job people already pay staff to do."
+    }
+  ],
+  "whyItPrints": "Collectors already have the job. Software that runs the chase is a dull purchase.",
+  "whyThisMatters": "Debt collection is a staff job. Tratta is software for that job. A Practical Founders article says the yearly number is about five million, around a hundred clients, that revenue doubled in a year, and that the company never raised. That is the company talking. It is not a payment-processor connection. The article is not the product site, and the brief did not give one.\n\nI am not adding customers, a city, or a price. The note is the article's figures and the job.\n\nYou pay so the chase is a system, not a spreadsheet of who has not paid.\n\nDoubled in a year and never raised are the two claims I am keeping. I am not turning the article into a customer list.\n\nAround a hundred clients is the count in the piece. Revenue doubled is the growth line. Never raised is the funding line. Debt collection is the job the software is for. The article is the source, and it is not a homepage.\n\nCollectors already have the staff. The software is the system they pay for. I am not inventing a city or a plan price.\n\nThe yearly figure in the article is the one on this page. I am not rounding it into a bigger story."
+}

@@ -2,12 +2,12 @@
   "slug": "legalone",
   "name": "LegalOne",
   "listingNote": null,
-  "description": "French *annonces légales* (legal notices) publishing — accountants and companies file required notices with competitive rates and compliance baked in. Bootstrapped, France.",
+  "description": "French annonces légales (legal notices) publishing — accountants and companies file required notices with competitive rates and compliance baked in. Bootstrapped, France.",
   "homepage": "https://legalone.fr",
-  "image": "/blog/2026-10-01/legalone.webp",
+  "image": "/blog/2026-10-24/legalone.webp",
   "imageAlt": "LegalOne product image",
   "imageWidth": 1200,
-  "imageHeight": 720,
+  "imageHeight": 630,
   "mentions": [
     {
       "date": "2026-10-01",
@@ -20,8 +20,20 @@
         }
       ],
       "indieAngle": "Digitize a mandatory local filing (legal notices, permits, company registry forms) and sell through accountants who already do the paperwork."
+    },
+    {
+      "date": "2026-10-24",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$10,712 in the last 30 days, $102K all-time. Charged per notice. Noted 24 October 2026. The 1 October note was about $10.7k in the last 30 days and about $93k all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/legalone"
+        }
+      ],
+      "indieAngle": "A notice the law already requires, billed once per filing."
     }
   ],
   "whyItPrints": "Legal notices are mandatory, price-sensitive, and accountant-distributed. Transaction revenue (not seat MRR) with ~$11k L30 and ~917 users claimed — classic country compliance marketplace.",
-  "whyThisMatters": "French accountants use LegalOne to file the legal notices their clients owe. A new company, a registered-office move, a director change, or a closure all need one. You pick the formality and the département, prepare the text, and keep the papers with the firm. Shortcuts cover an SASU, an SAS, an SCI, a director change, an office move, and a dissolution. There are 42 forms. If the wording isn't ready, it can draft the notice in a few seconds. You see the price before anyone pays.\n\nThe client doesn't get a login. You send a payment link that lasts seven days. They pay. You keep the file, the invoice, and the status. A cashback credit from an eligible notice can pay for the next one. Search works by SIREN or by département.\n\nIt's bootstrapped, in France, started in October 2025. You pay per notice, so there isn't a monthly seat. The firm holds the file. The client just settles the link.\n\nLaw firms keep the matter files and the bills in one place."
+  "whyThisMatters": "French accountants use LegalOne to file the legal notices their clients owe. A new company, a registered-office move, a director change, or a closure all need one. You pick the formality and the département, prepare the text, and keep the papers with the firm. Shortcuts cover an SASU, an SAS, an SCI, a director change, an office move, and a dissolution. There are 42 forms. If the wording isn't ready, it can draft the notice in a few seconds. You see the price before anyone pays.\n\nThe client doesn't get a login. You send a payment link that lasts seven days. They pay. You keep the file, the invoice, and the status. A cashback credit from an eligible notice can pay for the next one. Search works by SIREN or by département.\n\nIt's bootstrapped, in France, started in October 2025. You pay per notice, so there isn't a monthly seat. The firm holds the file. The client just settles the link.\n\nLaw firms keep the matter files and the bills in one place.\n\nThe new all-time total is higher than the 1 October note. The last 30 days are about the same. Notices are still billed one at a time."
 }

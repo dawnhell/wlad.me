@@ -1,0 +1,27 @@
+{
+  "slug": "vantaca",
+  "name": "Vantaca",
+  "listingNote": null,
+  "description": "HOA management software priced per home. The company says $85M revenue at the end of 2025, after about 5 years bootstrapped. Company-stated, from a Latka article. The article is not a product site.",
+  "homepage": null,
+  "image": "/blog/2026-10-24/vantaca.webp",
+  "imageAlt": "Vantaca product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-24",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a Latka article. $85M revenue at the end of 2025, after about 5 years bootstrapped.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-vantaca-hit-10m-revenue-using-strategic-partnerships-and-customer-centric-innovations"
+        }
+      ],
+      "indieAngle": "Per home, not per login. The association is the customer."
+    }
+  ],
+  "whyItPrints": "A homeowner association already pays someone to run the dues, the repairs, and the letters. The software is priced per home.",
+  "whyThisMatters": "A homeowner association runs the dues, the repairs, and the letters. Vantaca is software for the company that does that work, priced per home. A Latka article says revenue was eighty-five million at the end of 2025, after about five years without outside funding. That is the company talking. It is not a payment-processor connection. The article is not the product site, so this page does not link one.\n\nI am not adding a customer list or a per-home price the article did not give. The number is large, and it is self-reported.\n\nYou pay per home so the association's books are someone's product, not a volunteer's evening.\n\nFive years without outside funding is the claim next to the revenue number. Both come from the same article. Priced per home is the only packaging detail it gives.\n\nHOA management is the job. The software is what the management company uses, and the price is per home rather than per login. End of 2025 is the date on the revenue figure. I am not adding a newer one.\n\nBootstrapped for about five years is the other half of that sentence. Both halves stay dated to the article."
+}

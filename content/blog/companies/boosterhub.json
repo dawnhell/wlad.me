@@ -1,0 +1,27 @@
+{
+  "slug": "boosterhub",
+  "name": "BoosterHub",
+  "listingNote": null,
+  "description": "All-in-one software, accounting included, for US high-school booster clubs. The article says close to $1M ARR, 2 full-time staff, and about 600 programs. Company-stated. The article is not a product site.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-24",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a Practical Founders article. Close to $1M ARR, 2 full-time staff, about 600 programs.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/articles/going-all-in-one-in-system-of-record-saas/"
+        }
+      ],
+      "indieAngle": "One kind of volunteer treasurer, one country, the books included."
+    }
+  ],
+  "whyItPrints": "A booster club has to collect money, keep the books, and show parents where it went. Two people selling that to hundreds of clubs is the whole story in the article.",
+  "whyThisMatters": "A US high-school booster club collects money for the team and has to show parents where it went. BoosterHub is the software for that, and the accounting is included. A Practical Founders article says the yearly number is close to a million, with two full-time people and about six hundred programs. That is the company talking. It is not a Stripe connection. The article is not the product site.\n\nTwo people and hundreds of clubs is the part that makes it a note. I am not describing features the article did not list.\n\nYou pay so the treasurer is not a parent with a spreadsheet.\n\nThe clubs are the customer. Parents are not buying a login. Two full-time people is the staff count in the article, and I am not adding a third.\n\nAccounting is included, which is the part a volunteer treasurer actually needs. The article calls it one system of record. I am not listing modules the piece never named. About six hundred programs is the reach they stated."
+}

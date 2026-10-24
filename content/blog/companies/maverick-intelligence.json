@@ -1,0 +1,31 @@
+{
+  "slug": "maverick-intelligence",
+  "name": "Maverick Intelligence",
+  "listingNote": null,
+  "description": "A pixel that de-anonymises website visitors (and now flags AI agents), shows the channel they came from (organic, paid, LLMs, email) and hands sales teams a list to reach out to (company-stated).",
+  "homepage": "https://www.maverickintelligence.co/",
+  "image": "/blog/2026-10-23/maverick-intelligence.webp",
+  "imageAlt": "Maverick Intelligence product image",
+  "imageWidth": 1200,
+  "imageHeight": 532,
+  "mentions": [
+    {
+      "date": "2026-10-23",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,734 · 22 subs · L30 $9,975 (+10.6%) · L12 = all-time $69,089 · margin 70% claimed Monthly: Jan $249 → Mar $4,025 → May $12,294 (peak) → Jul $9,505 → Sep $9,321 → Oct $8,925 (so far) Listed for sale at $400,000 (3.3x), 8 offers. Seller claims \"$8k MRR on Stripe plus additional $3k MRR via monthly invoice\" and 23 paying B2B customers. The invoice part is not verified. Revenue synced 23 October 2026 ~07:04 Warsaw.",
+      "sources": [
+        {
+          "label": "maverickintelligence.co",
+          "url": "https://www.maverickintelligence.co/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/maverick-intelligence-inc"
+        }
+      ],
+      "indieAngle": "The EU version is harder because of RODO, which is also why it's open. \"Company-level only\" (firm, not person) visitor ID based on IP→NIP/KRS matching for Polish B2B sites, sold to software houses and industrial distributors, is GDPR-safer and nobody local does it well."
+    }
+  ],
+  "whyItPrints": "It's a classic RB2B/Clearbit-Reveal style sales tool. It's B2B, priced per site at $250–2,300/mo (company-stated), and bought by sales/marketing teams out of an existing budget line.",
+  "whyThisMatters": "A pixel on the site tries to name the company that visited, and now it also flags when the visitor is an automated agent. It shows whether they came from search, an ad, an email, or a chat bot, and it hands sales a list. The price is per site, and the range on the listing is wide.\n\nTwenty-two Stripe subscriptions. The last 30 days of cash sit above the monthly subscription figure. The year of Stripe is the whole history. The seller says there is more revenue on invoices, and names a few more customers than the subscription count. That invoice part is not in the Stripe connection. I am not adding it to the Stripe number. The listing is for sale. There are offers.\n\nYou pay so a nameless visit becomes a company someone can call."
+}

@@ -4,7 +4,7 @@
   "listingNote": null,
   "description": "B2B booking + payments + client portal for therapists, psychologists, coaches, lawyers, beauty/fitness — white-label, subscription packages, API-first. Polish-founded, bootstrapped since 2020.",
   "homepage": "https://calendesk.com",
-  "image": "/blog/2026-09-30/calendesk.webp",
+  "image": "/blog/2026-10-24/calendesk.webp",
   "imageAlt": "Calendesk product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -20,6 +20,18 @@
         }
       ],
       "indieAngle": "Country/vertical booking for regulated service pros (therapy, legal, tutoring) still underserved vs Calendly-generic."
+    },
+    {
+      "date": "2026-10-24",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$21,183 MRR, $1.15M all-time. Bootstrapped since 2020. Noted 24 October 2026. The 30 September note was about $21.5k MRR and about $1.13M all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/calendesk"
+        }
+      ],
+      "indieAngle": "A booking page for one profession, in one city, is the smaller version."
     }
   ],
   "whyItPrints": "Service pros already schedule and take deposits every day. Calendesk owns that workflow at ~$79–$147/mo instead of inventing a new category.",

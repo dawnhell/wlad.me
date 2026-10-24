@@ -1,0 +1,27 @@
+{
+  "slug": "p7m-io",
+  "name": "P7M.io",
+  "listingNote": null,
+  "description": "Opens the signed .p7m files Italy requires. €3.99 per document. Solo, started in March, and the listing is for sale. The listing does not give a product site.",
+  "homepage": null,
+  "image": "/blog/2026-10-24/p7m-io.webp",
+  "imageAlt": "P7M.io product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-24",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "$537 MRR, $4,279 in the last 30 days. €3.99 per document. Solo, started in March, for sale. Noted 24 October 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/confidential-startup-70"
+        }
+      ],
+      "indieAngle": "One file format, one country, pay per document."
+    }
+  ],
+  "whyItPrints": "Italian invoices and official files arrive as a signed .p7m. People pay per document so they can open it.",
+  "whyThisMatters": "Italy wraps official files in a signed .p7m. A normal computer will not open it. This charges per document to open one. The listing says one person, started in March, and that it is for sale. It does not give a public site. I am not inventing one.\n\nThe money label is RevenueCat. I am not logging in to re-check it. The monthly subscription figure is small next to the last 30 days, which fits people paying per file rather than keeping a seat. The price on the listing is a few euros a document.\n\nYou pay so the Italian file opens.\n\nMarch is the start month in the listing, with no year attached, so I am not writing one in. For sale is the listing, not a price I am repeating here.\n\nA signed Italian file is the whole product. The listing price is a few euros each time someone opens one. The last 30 days of cash sit well above the small monthly subscription line, which fits paying per document."
+}

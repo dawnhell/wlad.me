@@ -1,0 +1,31 @@
+{
+  "slug": "transfer-zip",
+  "name": "Transfer.zip",
+  "listingNote": null,
+  "description": "Send big files with no size limit, encryption and custom branding. It's positioned as \"your data isn't used for AI training or sold to advertisers\" (company-stated).",
+  "homepage": "https://transfer.zip/",
+  "image": "/blog/2026-10-23/transfer-zip.webp",
+  "imageAlt": "Transfer.zip product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-23",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $988 · 105 subs · L30 $1,595 (−10.1%) · L12 $14,950 · all-time $23,461 Monthly: Nov-25 $1,082 → Feb $1,155 → Jun $1,247 → Aug $1,563 → Sep $1,438 → Oct $1,154 (so far) Pricing (company-stated): Free, Starter $6/mo, Pro $12.5/mo, Teams $20/mo · not for sale Revenue synced 23 October 2026 ~04:44 Warsaw.",
+      "sources": [
+        {
+          "label": "transfer.zip",
+          "url": "https://transfer.zip/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/transfer-zip"
+        }
+      ],
+      "indieAngle": "The WeTransfer category is crowded, but a vertical version isn't. Large-file delivery with client approval/sign-off for Polish photographers, wedding videographers or print houses (drukarnie) fits: branded download page + \"zaakceptowano\" button + invoice link."
+    }
+  ],
+  "whyItPrints": "File transfer is a commodity utility people search for every day (\"send large files\"). It's a cheap subscription that keeps billing quietly, and revenue has been flat at ~$1.0–1.5K every month for a year.",
+  "whyThisMatters": "You send a large file. There is no size cap on the pitch. The file is encrypted, and you can put your own branding on the page. The line on the site is that the file is not used to train a model and is not sold to advertisers.\n\nThe plans are free, then a few dollars, then a bit more, then a team plan. About a hundred Stripe subscriptions. The monthly cash has sat in a narrow band for a year. It is not for sale. The company is in Sweden. This is a utility people search for when a file will not attach to an email.\n\nYou pay so the file arrives, and the page looks like yours.\n\nA year of months in a narrow band is the shape. August was the high one. October, so far, is back inside the band."
+}

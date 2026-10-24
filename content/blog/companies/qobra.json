@@ -1,0 +1,31 @@
+{
+  "slug": "qobra",
+  "name": "Qobra",
+  "listingNote": null,
+  "description": "End-to-end sales commission automation for RevOps and finance teams. It pulls deals from the CRM and payroll data through integrations, calculates commissions, generates rep statements and handles payroll closings and SPIFFs. Founded 2020 by Antoine Fort straight out of school (company-stated).",
+  "homepage": "https://qobra.co/",
+  "image": "/blog/2026-10-23/qobra.webp",
+  "imageAlt": "Qobra product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-23",
+      "evidenceKind": "self-reported",
+      "evidence": "ARR €7–8M (May 2026) ← €4–5M a year earlier ← ~€1M in 2022 250+ customers · ACV ~€30K (up from ~€10K in 2020) · largest deal ~€80K/yr Raised: €100K pre-seed, €5M seed (2022), €10M Series A (2023), €2M HSBC venture debt Paid ads ~€200–300K/yr · programmatic-SEO glossary as an acquisition channel",
+      "sources": [
+        {
+          "label": "qobra.co",
+          "url": "https://qobra.co/"
+        },
+        {
+          "label": "Latka interview breakdown (recorded May 2026)",
+          "url": "https://getlatka.com/companies/qobra/interviews/qobra-antoine-fort-2026"
+        }
+      ],
+      "indieAngle": "At micro scale, the Polish version is \"prowizje handlowców\" for 10–50-rep distributors and car dealers that pull from Pipedrive/Subiekt/Optima. Another option is a narrow one: commission statements for insurance agents (multiagencje), priced per rep per month."
+    }
+  ],
+  "whyItPrints": "Commission plans live in fragile spreadsheets that finance re-checks every month, and every rep disputes them. It's the Conductor pattern: sit on top of the CRM + payroll and replace the Excel layer. Their trade-show gimmick was literally Excel-branded toilet paper.",
+  "whyThisMatters": "A sales commission plan lives in a spreadsheet. Finance checks it every month. A rep argues with it. Qobra sits on the CRM and the payroll file, does the math, and prints the statement. It also handles the one-off bonuses.\n\nAntoine Fort started it in 2020, in France, straight out of school. The company says a few hundred customers, and that the typical yearly deal is much larger than it was at the start. There was a small pre-seed, a seed, a larger round, and some venture debt. They have bought ads, and they also have a glossary that ranks in search. The yearly number is from a May 2026 interview. It is not a Stripe connection. The trade-show joke was Excel-branded toilet paper. That part is just color.\n\nYou pay so the commission argument happens against a statement, not a spreadsheet."
+}

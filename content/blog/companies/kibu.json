@@ -4,10 +4,10 @@
   "listingNote": null,
   "description": "Content, compliance, and EHR platform built specifically for provider organizations serving people with intellectual and developmental disabilities (I/DD). Helps DSPs deliver care while managing regulatory documentation across hundreds of orgs and ~48 US states. HIPAA-compliant; contact-sales pricing. Founded Jan 2022, US.",
   "homepage": "https://kibu.com/",
-  "image": "/blog/2026-10-03/kibu.webp",
+  "image": "/blog/2026-10-24/kibu.webp",
   "imageAlt": "Kibu product image",
   "imageWidth": 1200,
-  "imageHeight": 631,
+  "imageHeight": 630,
   "mentions": [
     {
       "date": "2026-10-03",
@@ -24,8 +24,20 @@
         }
       ],
       "indieAngle": "Pick one regulated care vertical (I/DD, home health, behavioral health) in one country and own documentation + compliance + scheduling. Sell to ops directors, not founders on X."
+    },
+    {
+      "date": "2026-10-24",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$234K MRR. The Stripe key expired. Revenue last synced 19 April 2026. This 24 October note is that same stale figure, not a new sync.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kibu"
+        }
+      ],
+      "indieAngle": "The buyer cannot skip the paperwork. The number on the page is from April."
     }
   ],
   "whyItPrints": "Pure regulated vertical ops software — the Conductor shape applied to disability services. Providers cannot improvise compliance; once the EHR + care logs live in Kibu, switching costs explode. High ACV B2B seats (375 subs → ~$234k MRR) without consumer virality.",
-  "whyThisMatters": "Disability providers log attendance, notes, medication, and rides. Then they still have to show the day was compliant. Kibu keeps that work together for organizations that support people with intellectual and developmental disabilities.\n\nStaff write notes in the software. Life plans, member records, tasks, pickups, and appointments sit there too. Translation is built in, and it works on a phone. The company says partners average over 99.2 percent compliant in the first two months.\n\nThere are also more than 600 on-demand classes, so the lesson stays with the record. Daniel Caridi is the co-founder named on the story. It's HIPAA-compliant. You book a demo, and there's no public price. The listing says hundreds of organizations use it, in about 48 states. It started in January 2022."
+  "whyThisMatters": "Disability providers log attendance, notes, medication, and rides. Then they still have to show the day was compliant. Kibu keeps that work together for organizations that support people with intellectual and developmental disabilities.\n\nStaff write notes in the software. Life plans, member records, tasks, pickups, and appointments sit there too. Translation is built in, and it works on a phone. The company says partners average over 99.2 percent compliant in the first two months.\n\nThere are also more than 600 on-demand classes, so the lesson stays with the record. Daniel Caridi is the co-founder named on the story. It's HIPAA-compliant. You book a demo, and there's no public price. The listing says hundreds of organizations use it, in about 48 states. It started in January 2022.\n\nThe October page is not a new reading. The key had already expired in April, and the figure on this date is that same sync."
 }
