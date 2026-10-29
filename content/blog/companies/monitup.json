@@ -1,0 +1,27 @@
+{
+  "slug": "monitup",
+  "name": "MonitUp",
+  "listingNote": null,
+  "description": "Employee monitoring for a small business: hours, apps, websites, screenshots, and who is online. Priced per computer, cloud or on-premise, with a 7-day trial. The seller is a solo founder.",
+  "homepage": "https://www.monitup.com/",
+  "image": "/blog/2026-10-26/monitup.webp",
+  "imageAlt": "MonitUp product image",
+  "imageWidth": 669,
+  "imageHeight": 376,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,358, 24 subscriptions, margin 95% claimed. Last 30 days $337. Last 12 months $16,349. All-time $22,532. Most months are $264 to $715, with May 2026 at $3,706 and August 2026 at $9,237. Listed for sale since 1 September 2026 at $87,500 (21.6x), 0 offers. The seller, Faruk Durak, says he is moving to a new venture. Revenue synced 26 October 2026 ~09:14 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/monitup"
+        }
+      ],
+      "indieAngle": "The asking price is 21.6 times the monthly subscriptions, and nobody has bid. The lumpy months are the interesting part."
+    }
+  ],
+  "whyItPrints": "A owner with remote staff pays per computer to see who is working. It is a Windows agent and a dashboard.",
+  "whyThisMatters": "MonitUp watches a work computer: hours, apps, sites, screenshots, and whether the person is online. The price is per computer. Cloud or on the customer's own server. A seven-day trial. One founder, in his own words.\n\nTwenty-four Stripe subscriptions. Most months are small. May and August are not. Those two months are large enough that a yearly or on-prem deal is the likely reason, and the listing does not spell the invoices out. The asking price is many times the monthly subscriptions, and there have been no offers since September. He says he is moving on to something else.\n\nYou pay per computer so a remote team is not a mystery. The sale price is a separate claim.\n\nFaruk Durak is the seller, and he says he is shifting to a new venture. The asking price has been up since 1 September 2026 at 21.6 times, with zero offers. On-premise is an option next to the cloud. A seven-day trial is on the listing. The two fat months are May and August 2026."
+}

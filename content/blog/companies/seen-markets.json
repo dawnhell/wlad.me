@@ -1,0 +1,27 @@
+{
+  "slug": "seen-markets",
+  "name": "Seen Markets",
+  "listingNote": null,
+  "description": "Vendor applications, booth maps, payments, messages, and a shopper guide for farmers markets, craft fairs, and pop-ups. The first event is free.",
+  "homepage": "https://seenmarkets.com/",
+  "image": "/blog/2026-10-26/seen-markets.webp",
+  "imageAlt": "Seen Markets product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $860, 25 subscriptions, margin 65% claimed. Last 30 days $764. Last 12 months $6,028. All-time $6,923. Monthly cash climbed from $217 in November 2025 to $897 in September 2026. The founder says real total revenue is about $850 to $900 a month, and the subscription figure excludes payment fees. About 700 daily active users, and about 10,000 users estimated. Revenue synced 26 October 2026 ~05:18 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/seen-markets"
+        }
+      ],
+      "indieAngle": "A market that still takes vendor applications in a form and a bank transfer."
+    }
+  ],
+  "whyItPrints": "The organiser is often a volunteer, matching vendors and booth fees by hand. Vendors come back for the next event. The organiser stays because the list is already there. There is a subscription and a cut of the payments.",
+  "whyThisMatters": "Seen Markets runs the vendor side of a farmers market or a craft fair: the application, the booth map, the fee, the messages, and a guide for shoppers. The first event is free.\n\nTwenty-five Stripe subscriptions. The monthly cash has climbed for a year. The founder says the real monthly take is a bit different from the subscription line, because payment fees are not in that line. I am not adding those fees to the Stripe number. Margin is claimed, not checked. About seven hundred people a day in their own analytics, and a larger estimated user count.\n\nYou pay so the booth list is not a spreadsheet and a pile of messages.\n\nNovember 2025 cash was a couple of hundred. September 2026 was the high month, just under nine hundred. The founder puts real revenue, fees included, around eight hundred fifty to nine hundred a month. I am not adding the fees on top of the Stripe subscription line. The first event is free. Sixty-five percent margin is claimed."
+}

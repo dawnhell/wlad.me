@@ -1,0 +1,27 @@
+{
+  "slug": "run-lap-tap",
+  "name": "Run Lap Tap",
+  "listingNote": null,
+  "description": "An iPhone and iPad app for coaches, PE teachers, and running clubs. You tap a finish or a lap, or you use a bib, a QR code, or NFC. It covers races, laps, and time trials.",
+  "homepage": "https://www.runlaptap.app/",
+  "image": "/blog/2026-10-25/run-lap-tap.webp",
+  "imageAlt": "Run Lap Tap product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-25",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR $188, 43 subscriptions, margin 98% claimed. Last 30 days $630. Last 12 months and all-time $2,485. First revenue in March 2026. August $724 and September $853 were the high months. Listed for sale on 24 October 2026 at $17,000 (2.2x), 0 offers. Pricing: free, Pro $24.99 a year, Race Pass $6.99 once. Revenue synced 25 October 2026 ~06:31 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/run-lap-tap"
+        }
+      ],
+      "indieAngle": "The August and September jump is the school term. Sell it to the school, not only the teacher."
+    }
+  ],
+  "whyItPrints": "A school cross-country day still runs on a clipboard. The plan is yearly, and the cash shows up in term time.",
+  "whyThisMatters": "Run Lap Tap is a phone and tablet app for a coach, a PE teacher, or a running club. You tap a finish or a lap. You can also use a bib, a QR code, or a tap of a card. Races, laps, and time trials.\n\nThe money label is RevenueCat. I am not logging in to re-check it. The monthly subscription line is small. The cash is higher in August and September, which is the school term, and the first revenue was March 2026. There is a free tier, a yearly pro plan, and a one-off race pass. The listing went up for sale on 24 October 2026. No offers yet.\n\nYou pay so the cross-country day is not a clipboard.\n\nThe sale went up on 24 October 2026 at seventeen thousand, called 2.2 times, with no offers. March 2026 is the first revenue month. August and September are the high cash months. The yearly plan is 24.99 and the race pass is 6.99. Margin is claimed at ninety-eight percent."
+}

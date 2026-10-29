@@ -1,0 +1,27 @@
+{
+  "slug": "wash-dry-fold-pos",
+  "name": "Wash-Dry-Fold POS",
+  "listingNote": null,
+  "description": "A point of sale for the wash-dry-fold counter at a laundromat. Laundry is priced by the pound, so the scale is part of the product. Pickup, delivery, and self-serve are in it too. Sold as software, hardware, and training. The co-founder also owns his parents' three-store chain and uses it to test the product. There is no product image. The site sat behind a bot check.",
+  "homepage": "https://washdryfoldpos.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-25",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported on a podcast, 4 August 2026. He says they passed seven figures of ARR. A 7-person remote team. About 10 years, bootstrapped from $100, and he says it was profitable from the start. The episode summary says 1,300-plus systems sold. A rival has raised $220M.",
+      "sources": [
+        {
+          "label": "Startups for the Rest of Us",
+          "url": "https://www.startupsfortherestofus.com/episodes/episode-844-building-a-1m-arr-saas-for-laundromats"
+        }
+      ],
+      "indieAngle": "A counter, a scale, and a text that says the laundry is ready."
+    }
+  ],
+  "whyItPrints": "Drop-off laundry did not have its own software. He started by reselling hardware, then rebuilt the product during COVID. The hardware sale covers the cost of getting the customer. He says churn is very low.",
+  "whyThisMatters": "Wash-dry-fold is priced by the pound, so the product is a point of sale with a scale, plus pickup, delivery, and the self-serve side. It is sold as software, hardware, and training. The co-founder owns his parents' three laundromats and uses them to test it.\n\nHe says nobody had built software for the drop-off counter, so he started by reselling hardware and later rebuilt the product during COVID. A remote team of seven. About ten years. Bootstrapped from almost nothing. He says it was profitable from the start, and that they passed seven figures a year. The episode summary says more than a thousand systems sold. A rival has raised a very large round. The site would not give me a picture. The number is from a podcast on 4 August 2026.\n\nYou pay so the scale and the ticket are the same machine."
+}

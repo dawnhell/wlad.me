@@ -1,0 +1,27 @@
+{
+  "slug": "boomcloud",
+  "name": "BoomCloud",
+  "listingNote": null,
+  "description": "Software that helps a dental practice sell a membership to patients, instead of living only on insurance. The founder came from a family dental lab. Bootstrapped. He says it has been profitable since 2016.",
+  "homepage": "https://www.boomcloudapps.com/",
+  "image": "/blog/2026-10-27/boomcloud.webp",
+  "imageAlt": "BoomCloud product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-27",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, January 2026. About $3M ARR. About 600 dental practices. An 11-person team. Profitable since 2016. No outside funding mentioned.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/why-systems-with-ai-scale-better-than-people-saas-jordon-comstock/"
+        }
+      ],
+      "indieAngle": "An in-house plan for a clinic that is tired of the insurance paperwork."
+    }
+  ],
+  "whyItPrints": "A membership is recurring cash for the clinic. The software sits in the middle of that change. Dentistry moves slowly, which suits a small team.",
+  "whyThisMatters": "BoomCloud helps a dental practice sell patients a membership, so the clinic is not only living on insurance reimbursements. The founder came from a family dental lab. He says the company has been profitable since 2016, and that there was no outside funding in the episode.\n\nAbout three million a year. About six hundred practices. Eleven people. January 2026. Self-reported. Dentistry is a slow trade. A membership is recurring cash for the clinic, and the software is how they run it.\n\nYou pay so the patient is on a plan the clinic owns.\n\nEleven people and about six hundred practices is a small team for a national dental tool. Profitable since 2016 is his line, and the episode does not mention a funding round. Insurance reimbursement is the thing the membership is meant to sit beside, not a number I am adding.\n\nThe family dental lab is the background, not a second product. Membership revenue for the clinic is the change he is selling. Conservative buyers are why he says a small bootstrapped team beats a land grab."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "check-id",
+  "name": "Check ID",
+  "listingNote": null,
+  "description": "It checks a 13-digit South African ID number and reads off the date of birth, age, gender, and citizenship. There is a free checker on the web and a paid API.",
+  "homepage": "https://checkid.co.za/",
+  "image": "/blog/2026-10-26/check-id.webp",
+  "imageAlt": "Check ID product image",
+  "imageWidth": 1200,
+  "imageHeight": 600,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $484, 59 subscriptions. Last 30 days $585 (up 35.6%). Last 12 months $5,987. All-time $8,276. The API starts at R99 a month for 1,000 checks. About 4,600 users estimated. Revenue synced 26 October 2026 ~09:02 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/check-id"
+        }
+      ],
+      "indieAngle": "A free checker for the search page, and a cheap API for the software that has to validate the number."
+    }
+  ],
+  "whyItPrints": "It is a checksum sold as an API. The free page brings the search traffic. A form that has to check the number pays monthly so nobody maintains the rules.",
+  "whyThisMatters": "A South African ID number is 13 digits. Check ID reads the date of birth, the age, the gender, and the citizenship, and it says whether the number is valid. The website checker is free. The API is what software pays for.\n\nFifty-nine Stripe subscriptions. The API price in the listing is in rand, for a block of a thousand checks. I am not converting that price. The free page is how people find it. The paid plan is so a form does not have to keep the rules itself. About four thousand six hundred users, estimated.\n\nYou pay so the form rejects a bad number without a developer maintaining the checksum.\n\nThe free checker is unlimited for a single number typed into the website. The paid API starts at ninety-nine rand a month for a thousand validations. I am not turning rand into dollars. Date of birth, age, gender, and citizenship are the fields it reads off the number. About four thousand six hundred users is an estimate, not a login I counted."
+}

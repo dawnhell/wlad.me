@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-27",
+  "title": "Tuesday's boring SaaS, 27 October 2026",
+  "dek": "Tuesday, 27 October 2026. Five are Stripe-verified, including a newer Conductor number. INNERGY, Chipply, TalkingParents, TeamLinkt, The Receptionist, and BoomCloud are self-reported.",
+  "heroId": "lake-bled",
+  "companies": [
+    {
+      "slug": "innergy",
+      "name": "INNERGY",
+      "listingNote": null,
+      "description": "Job software for architectural woodworking and high-end millwork shops. It covers the lead, the estimate, the project, the shop floor, and the install. Marc Sanderson and a partner bought a Minnesota woodworking shop in 1997, built the tool for themselves, then sold it as a product.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, May 2026. About $25M revenue in 2025, growing more than 50% a year, and he expects to approach $40M in 2026. Sold 51% to Mainsail Partners in 2025 for more than $40M. He stayed CEO. Bootstrapped for years on the shop's profits before the growth-equity deal. Retention about 95%.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/scaled-his-niche-vertical-saas-erp-growth-equity-marc-sanderson/"
+        }
+      ],
+      "homepage": "https://www.innergy.com/",
+      "indieAngle": "A craft shop that still runs the job in a spreadsheet and an old drawing program.",
+      "whyItPrints": "A custom shop's estimate, the cut list, and the install date do not fit a generic system. Once they live here, switching is brutal. He says retention is about 95%, and that teaching the shops is part of why they stay.",
+      "image": "/blog/2026-10-27/innergy.webp",
+      "imageAlt": "INNERGY product image",
+      "imageWidth": 328,
+      "imageHeight": 187
+    },
+    {
+      "slug": "convertlabs",
+      "name": "ConvertLabs",
+      "listingNote": null,
+      "description": "All-in-one booking + marketing SaaS for home-service businesses (cleaning, lawn care, carpet cleaning, etc.) — bookings, payments, websites, and teams on one screen. Plans ~$67 / $197 / $397 per month. Founded Apr 2018, US. ~1,000 estimated users; 474 active subs.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $28,646, 474 subscriptions. Last 30 days $27,827. All-time $2,241,803. About 1,000 users, company-stated. Plans from $67, $197, and $397 a month. Revenue synced 27 October 2026 ~09:08 Warsaw. The 4 October note was about $27,861 a month, the same 474 subscriptions, about $30,539 in the last 30 days, and about $2,220,704 all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/convertlabs"
+        }
+      ],
+      "homepage": "https://convertlabs.io/",
+      "indieAngle": "One screen for the van: the booking, the payment, and the page.",
+      "whyItPrints": "Local-services OS. Field businesses hate juggling calendars, invoices, and marketing sites; once jobs and payments live in ConvertLabs, they renew. Mid-tier ACV × hundreds of logos = steady ~$28k MRR and $2.2M+ all-time — Calendesk/Khosmos cousin for US home services.",
+      "image": "/blog/2026-10-27/convertlabs.webp",
+      "imageAlt": "ConvertLabs product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "chipply",
+      "name": "Chipply",
+      "listingNote": null,
+      "description": "Online team stores for the decorated-apparel trade: custom jerseys, spiritwear, and fan gear. It grew out of a family sporting-goods store that has been around since 1881. Chipply takes a percentage of sales. They are adding a fuller \"run the dealership\" product.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, September 2026. About $10M revenue this year. Processing around $250M of merchandise. About 1,500 active dealers. About 50 employees. Growing about 35%. Started in 2015, selling since 2018. Growth equity from Growth Street Partners. The founders kept control.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/she-took-growth-equity-partner-for-advice-not-money-lynn-burghardt/"
+        }
+      ],
+      "homepage": "https://www.chipply.com/",
+      "indieAngle": "Take a cut of the order in a trade a generic shop cannot handle.",
+      "whyItPrints": "A team order is sizes, decorations, and a dealer in the middle. A generic shop template does not do that. When a parent orders, the dealer and Chipply both get paid on the unit.",
+      "image": "/blog/2026-10-27/chipply.webp",
+      "imageAlt": "Chipply product image",
+      "imageWidth": 1024,
+      "imageHeight": 594
+    },
+    {
+      "slug": "talkingparents",
+      "name": "TalkingParents",
+      "listingNote": null,
+      "description": "A record of the chats, calls, and calendar between separated parents. The messages cannot be altered. A family-law attorney was a cofounder. Courts and lawyers became how people arrived. Founded in 2012. Self-funded.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, August 2025. Well over $10M in revenue. 65 employees. 100,000 paying customers. About 500,000 people using the app. No outside funding.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/co-parenting-app-reaches-10m-arr-pure-bootstrap-growth-vince-mayfield/"
+        }
+      ],
+      "homepage": "https://talkingparents.com/",
+      "indieAngle": "The product is the timestamped record. The way in is the lawyer, not an ad.",
+      "whyItPrints": "A court wants a record. Once an order or a lawyer points both parents at the app, they stay in it. The situation is emotional, and the churn is low.",
+      "image": "/blog/2026-10-27/talkingparents.webp",
+      "imageAlt": "TalkingParents product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "teamlinkt",
+      "name": "TeamLinkt",
+      "listingNote": null,
+      "description": "Team communication and the back office for youth sports: soccer, hockey, flag football, cheer, dance, and the rest. There is no software fee and no per-player fee. TeamLinkt takes a small markup on the registration payment through Stripe. The club can absorb the fee or pass it on. Built in Saskatoon by Jay Maharaj.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, September 2026. Revenue pushing C$4.5M this year, growing close to 2x a year. More than 3,500 organizations. More than 30 employees. More than 600,000 monthly active users. Raised $6M USD from Growth Street Partners and kept board control.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/case-for-payments-driven-saas-growth-jay-maharaj/"
+        }
+      ],
+      "homepage": "https://www.teamlinkt.com/",
+      "indieAngle": "The software is free. The money is the fee already being collected.",
+      "whyItPrints": "Coaches pass it along because it is free. Every registration dollar that runs through the payment pays TeamLinkt.",
+      "image": "/blog/2026-10-27/teamlinkt.webp",
+      "imageAlt": "TeamLinkt product image",
+      "imageWidth": 1024,
+      "imageHeight": 594
+    },
+    {
+      "slug": "the-receptionist",
+      "name": "The Receptionist",
+      "listingNote": "now Sign In App",
+      "description": "Visitor check-in on an iPad or the web, which grew into badges, pre-registration, notifications, an emergency list, and the integrations. Andy Alsop bought the small app in 2013 for $250K, grew it for a decade, and then sold all of it to Sign In.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, May 2026. More than $7M ARR. 5,500 customers across 8,000 locations. 30 employees. Bought for $250K in 2013. Later sold in full to Sign In. Mostly bootstrapped. He says it was profitable, with low churn, when he sold.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/built-calm-profitable-saas-then-sold-it-on-his-terms-andy-alsop/"
+        }
+      ],
+      "homepage": "https://thereceptionist.com/",
+      "indieAngle": "Buy a small sticky tool, then do the sales and the integrations the first owner did not.",
+      "whyItPrints": "The check-in looks small until the compliance, the integrations, and the second site show up. He says churn was low. A buyer who already owned the category was the exit.",
+      "image": "/blog/2026-10-27/the-receptionist.webp",
+      "imageAlt": "The Receptionist product image",
+      "imageWidth": 1135,
+      "imageHeight": 703
+    },
+    {
+      "slug": "boomcloud",
+      "name": "BoomCloud",
+      "listingNote": null,
+      "description": "Software that helps a dental practice sell a membership to patients, instead of living only on insurance. The founder came from a family dental lab. Bootstrapped. He says it has been profitable since 2016.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, January 2026. About $3M ARR. About 600 dental practices. An 11-person team. Profitable since 2016. No outside funding mentioned.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/why-systems-with-ai-scale-better-than-people-saas-jordon-comstock/"
+        }
+      ],
+      "homepage": "https://www.boomcloudapps.com/",
+      "indieAngle": "An in-house plan for a clinic that is tired of the insurance paperwork.",
+      "whyItPrints": "A membership is recurring cash for the clinic. The software sits in the middle of that change. Dentistry moves slowly, which suits a small team.",
+      "image": "/blog/2026-10-27/boomcloud.webp",
+      "imageAlt": "BoomCloud product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "comp-ai",
+      "name": "Comp AI",
+      "listingNote": null,
+      "description": "Open-source-friendly compliance SaaS that automates evidence collection, policy generation, and continuous monitoring for SOC 2, ISO 27001, HIPAA, and GDPR. Sold to startups through enterprise as \"compliance that helps you close deals.\" Founded Jan 2025, US. ~1,000 estimated users on TrustMRR.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $14,628, 57 subscriptions. Last 30 days $738,807. All-time $6,343,999. About 1,000 users, company-stated. Revenue synced 27 October 2026 ~04:25 Warsaw. The 4 October note was about $11,911 a month, 49 subscriptions, about $700,000 in the last 30 days, and about $5.8 million all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/comp-ai"
+        }
+      ],
+      "homepage": "https://trycomp.ai/",
+      "indieAngle": "One audit a buyer already asks for, with a setup fee and a smaller watch fee after.",
+      "whyItPrints": "Security-questionnaire and audit bureaucracy glue. Once policies + evidence live in Comp AI, switching costs explode and renewals are mandatory for B2B sales. High ACV / low logo count (49 subs → ~$12k MRR) with massive L30 (~$700k) from annual / setup billing — pure regulated ops, not a GPT wrapper.",
+      "image": "/blog/2026-10-27/comp-ai.webp",
+      "imageAlt": "Comp AI product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "trackssl",
+      "name": "TrackSSL",
+      "listingNote": null,
+      "description": "SSL/TLS certificate monitoring for public and internal/private certs. It alerts on upcoming expiry, failed renewal automation, cert changes and fraudulent certs. Free tier, then from $0.72 per domain. Founded Jun 2017, US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,295, 222 subscriptions. Last 30 days $5,881. All-time $195,806. About 23,000 users, company-stated. Free plan, then from about $0.72 per domain. Revenue synced 27 October 2026 ~05:28 Warsaw. The 6 October note was about $5,294 a month, 221 subscriptions, about $4,338 in the last 30 days, and about $191,420 all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/trackssl"
+        }
+      ],
+      "homepage": "https://trackssl.com/",
+      "indieAngle": "Watch the thing that breaks quietly. A certificate, a domain, a renewal.",
+      "whyItPrints": "Pure \"insurance\" utility: nobody thinks about it until a cert expires and the site goes down. Agencies with hundreds of client domains pay per domain forever. Public cert lifetimes are scheduled to drop to 47 days by 2029 (CA/B Forum ballot SC-081 (https://cabforum.org/2025/04/11/ballot-sc081v3-introduce-schedule-of-reducing-validity-and-data-reuse-periods/)), so more renewals means more chances for automation to fail.",
+      "image": "/blog/2026-10-27/trackssl.webp",
+      "imageAlt": "TrackSSL product image",
+      "imageWidth": 1200,
+      "imageHeight": 687
+    },
+    {
+      "slug": "scritches",
+      "name": "Scritches",
+      "listingNote": null,
+      "description": "Pet-sitting and dog-walking business software for solo and small-team providers: client management, bookings, and payments in one place, replacing spreadsheets and text threads. \"Start for free\" pricing. Targets pet sitters, dog walkers, trainers, boarders, groomers, and daycare owners. Founded Sep 2024, US. TrustMRR lists ~700 estimated users (founder-stated).",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,541, 210 subscriptions. Last 30 days $6,634. All-time $48,729. About 700 users, company-stated. You can start for free. Revenue synced 27 October 2026 ~04:09 Warsaw. The 7 October note was about $5,229 a month and 201 subscriptions.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/scritches"
+        }
+      ],
+      "homepage": "https://scritches.io/",
+      "indieAngle": "One local job, the visits, and the payment. Dog walking is the example.",
+      "whyItPrints": "A vertical tool for a huge long tail of tiny service businesses that the big pet-care tools price out. Once a sitter's clients, schedules and invoices live in it, they don't move. Growing steadily: +7.6% L30 MRR.",
+      "image": "/blog/2026-10-27/scritches.webp",
+      "imageAlt": "Scritches product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 27 October listing is still for sale. Stripe is a bit higher than the 24 October note.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $44,662. Last 30 days $43,611. Still listed for sale at $1,250,000. Noted 27 October 2026. The 24 October note was $44,349 a month.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe number moved up a little, and it is still for sale.",
+      "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The new number is a little higher, and the listing is still for sale.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": []
+}

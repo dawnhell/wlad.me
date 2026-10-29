@@ -1,0 +1,27 @@
+{
+  "slug": "bis-safety-software",
+  "name": "BIS Safety Software",
+  "listingNote": null,
+  "description": "Training and the safety-compliance file for construction, mining, transportation, and energy companies. From Edmonton. The first customers paid for the original training system to be built.",
+  "homepage": "https://www.bissafety.ca/",
+  "image": "/blog/2026-10-26/bis-safety-software.webp",
+  "imageAlt": "BIS Safety Software product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, January 2026. About C$25M a year, which the show converts to about US$18.5M. The episode title says approaching $20 million ARR. Logo churn under 1% a year on the core product. More than 2.5 million users. About 200 employees. Nearly 20 years bootstrapped. A staged exit is the plan: a minority sale first, a control deal later.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/approaching-20-million-arr-99-annual-retention-dan-macdonald/"
+        }
+      ],
+      "indieAngle": "One licence that expires, and a list of who is due next month."
+    }
+  ],
+  "whyItPrints": "A safety record is a document the company cannot drop. The episode calls the problem un-sexy. Churn on the core product, sold direct, is under 1% a year.",
+  "whyThisMatters": "BIS sells the training and the safety file for construction, mining, transport, and energy. It is from Edmonton. The first customers paid to have the original training system built.\n\nThe interview gives the yearly figure in Canadian dollars and also converts it. I am keeping both, and the episode title says they are approaching a round number in US dollars. Churn on the core product, sold direct, is under one percent a year. More than two million users. About two hundred people. Nearly twenty years without a venture round. The plan they describe is a minority sale first, and a control sale later. January 2026. Self-reported.\n\nYou pay so the certificate expiry is a list, not a surprise.\n\nThe Canadian dollar figure and the converted US figure are both from the same interview. I am not choosing one. Under one percent logo churn is on the core product sold directly. The staged exit is a plan, not a closed deal. About two hundred people after nearly twenty years is the staff line."
+}

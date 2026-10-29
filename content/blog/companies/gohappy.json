@@ -1,0 +1,27 @@
+{
+  "slug": "gohappy",
+  "name": "goHappy",
+  "listingNote": null,
+  "description": "Messages and engagement for companies with 1,000 or more hourly workers: restaurants, logistics, manufacturing, retail. It started as an app. Workers would not install it, so it moved to SMS. Shawn Boyer founded it. He also founded Snagajob.",
+  "homepage": "https://www.gohappyhub.com/",
+  "image": "/blog/2026-10-28/gohappy.webp",
+  "imageAlt": "goHappy product image",
+  "imageWidth": 568,
+  "imageHeight": 520,
+  "mentions": [
+    {
+      "date": "2026-10-28",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, October 2026. Revenue well into eight figures. He does not give a tighter number, so I am not writing one. About 1.5 million frontline employees across about 400 customers. A team under 40. Profitable, with solid gross margins. Minority growth equity from Growth Street Partners in 2022, then a majority deal with Pamlico Capital in 2025.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/his-hardest-lesson-going-too-fast-was-more-risky-even-with-funding-shawn-boyer/"
+        }
+      ],
+      "indieAngle": "Text the worker. Do not ask them to download the HR app."
+    }
+  ],
+  "whyItPrints": "An hourly worker will not install another app. The text message is the channel. The HR system integration is why the employer stays.",
+  "whyThisMatters": "goHappy texts hourly workers at restaurants, warehouses, factories, and stores. It started as an app. People would not install it, so it became SMS. Shawn Boyer started it. He also started Snagajob. The customer is an employer with a thousand or more hourly people.\n\nHe says revenue is well into eight figures and does not give a tighter number. I am not turning that into a dollar figure. About one and a half million workers. About four hundred customers. A team under forty. Profitable. A minority investor in 2022, then a majority investor in 2025. October 2026. Self-reported.\n\nYou pay so the message arrives as a text, which is where the worker already is.\n\nThe pivot is the product story. An app lost to the fact that hourly workers would not install it. SMS is what shipped. Restaurants, logistics, manufacturing, and retail are the industries in the episode. Growth Street was the minority investor in 2022. Pamlico took a majority in 2025. Under forty people is the team size next to one and a half million workers."
+}

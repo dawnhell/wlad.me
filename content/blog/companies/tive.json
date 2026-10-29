@@ -1,0 +1,27 @@
+{
+  "slug": "tive",
+  "name": "Tive",
+  "listingNote": null,
+  "description": "Cellular trackers that ride inside a shipment and report location, temperature, and shock, plus the software that alerts the shipper. It started in 2015. The first customer paid $19.99 a month. This is hardware plus a monthly fee, not a seat on a website.",
+  "homepage": "https://www.tive.com/",
+  "image": "/blog/2026-10-25/tive.webp",
+  "imageAlt": "Tive product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-25",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a May 2026 interview. Booked annual run rate $100M in May 2026, up from $89M at the end of January 2026. Recognized revenue: 2019 $250K, 2020 $2.5M, 2021 $10M, 2022 $19.5M, 2023 $29M, 2024 $45M, 2025 $67M. 1,300 customer logos, 9 paying more than $1M a year. About $40 per tracker per month. 300 employees. $140M raised. Last round at $525M pre-money.",
+      "sources": [
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/companies/tive.com/interviews/tive-krenar-komoni-2026"
+        }
+      ],
+      "indieAngle": "Do not build the tracker. Sell the \"where is the pallet, and did the cold chain break\" report for one kind of shipment."
+    }
+  ],
+  "whyItPrints": "It replaces calling the driver to ask where the truck is. The fee is per tracker, on a yearly contract. The company says 60% of new yearly revenue comes from customers they already have.",
+  "whyThisMatters": "Tive is a tracker that rides in the shipment, plus the screen that says where it is and whether it was dropped or got warm. The founder started it in 2015 after watching his father-in-law leave dinner to phone truck drivers. The first customer paid a small monthly fee.\n\nThis is not a seat on a website. The money is a fee per tracker, on a yearly contract. The company says most of the new yearly revenue comes from customers they already have. Recognized revenue and the booked run rate are both in the interview, and they are not the same number. I am writing both down. Three hundred employees. A large amount raised. The figures are from a May 2026 interview. Nobody connected a payment processor to this page.\n\nYou pay so you stop calling the driver."
+}

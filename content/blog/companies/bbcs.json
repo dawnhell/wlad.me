@@ -1,0 +1,27 @@
+{
+  "slug": "bbcs",
+  "name": "BBCS",
+  "listingNote": "Blood Bank Computer Systems",
+  "description": "Software for a blood bank: donors, inventory, patients, billing, and the rest of the back office. It is FDA-cleared. The founder's mother started it in the 1980s. Her son bought it in 2019 and spent five years rebuilding it as a cloud product. He is moving customers off the old on-prem system.",
+  "homepage": "https://bbcsinc.com/",
+  "image": "/blog/2026-10-26/bbcs.webp",
+  "imageAlt": "BBCS product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, July 2025. Nearly $10M in revenue. 40 employees. No outside funding. Still independent. Serves blood banks that supply about 20% of US blood products.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/2nd-generation-ceo-modernizes-moms-legacy-software-business-brian-forbis/"
+        }
+      ],
+      "indieAngle": "A small regulated shop still on 1990s software. The product is the cloud move plus the audit trail."
+    }
+  ],
+  "whyItPrints": "A blood bank does not swap the system that tracks the blood. He says they do not lose customers, and they do not lose employees either. The customers supply about 20% of US blood products.",
+  "whyThisMatters": "BBCS is the system of record for a blood bank: donors, inventory, patients, and billing. It is FDA-cleared. A mother started it in the 1980s. Her son bought it in 2019 and spent five years moving it to the cloud. Customers are still coming off the old on-prem system.\n\nHe says they do not lose customers and they do not lose employees. The banks they serve supply about a fifth of the blood products in the United States. Nearly ten million a year. Forty people. No outside funding. July 2025 interview. Self-reported.\n\nYou pay because the blood has to be tracked, and the old system is the one you are leaving slowly.\n\nFDA clearance is the part that makes this a slow sale. Five years of rebuilding, and customers are still on the old system. Forty people and no outside money is the shape he describes. The fifth of US blood products is his claim about the customers, not a market share I measured."
+}

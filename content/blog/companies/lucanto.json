@@ -1,0 +1,27 @@
+{
+  "slug": "lucanto",
+  "name": "Lucanto",
+  "listingNote": null,
+  "description": "Invoices, quotes, and expenses for a freelancer or a small business in Slovakia, with a shared workspace for the accountant. It matches invoices and expenses to the bank transactions.",
+  "homepage": "https://lucanto.eu/",
+  "image": "/blog/2026-10-26/lucanto.webp",
+  "imageAlt": "Lucanto product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $308, 24 subscriptions. Last 30 days $746 (up 105.4%). All-time $2,066. Stripe history starts March 2026. The company was founded in August 2022. May 2026 shows $10. October, so far, shows $716. Plans: Starter €7 a month, PRO €19, Business €39. About 1,000 users, estimated. Revenue synced 26 October 2026 ~06:47 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/lucanto"
+        }
+      ],
+      "indieAngle": "The invoice the law already requires, and a shared folder with the accountant."
+    }
+  ],
+  "whyItPrints": "The monthly ritual is \"send the accountant the stuff.\" The accountant then brings the next client.",
+  "whyThisMatters": "Lucanto is invoices, quotes, and expenses for a freelancer or a small company in Slovakia, in a folder the accountant can open. It matches the paperwork to the bank line.\n\nStripe history starts in March 2026. The company was founded in August 2022, so the processor history is not the whole life of the product. Twenty-four subscriptions. May is almost empty in the monthly list, and October so far is the high month. Plans are three tiers in euros. About a thousand users, and that count is an estimate.\n\nYou pay so the accountant is not waiting on a zip file.\n\nStripe only starts in March 2026, while the company dates to August 2022. May shows ten dollars. October, so far, shows a few hundred. The plans are seven, nineteen, and thirty-nine euros a month. The thousand users are an estimate. The accountant workspace is the distribution idea, not a second product.\n\nQuotes sit next to invoices and expenses. Matching a bank transaction is the tedious step the product claims to take. The shared workspace is how the next client is supposed to arrive."
+}

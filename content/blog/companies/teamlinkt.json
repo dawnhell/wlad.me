@@ -1,0 +1,27 @@
+{
+  "slug": "teamlinkt",
+  "name": "TeamLinkt",
+  "listingNote": null,
+  "description": "Team communication and the back office for youth sports: soccer, hockey, flag football, cheer, dance, and the rest. There is no software fee and no per-player fee. TeamLinkt takes a small markup on the registration payment through Stripe. The club can absorb the fee or pass it on. Built in Saskatoon by Jay Maharaj.",
+  "homepage": "https://www.teamlinkt.com/",
+  "image": "/blog/2026-10-27/teamlinkt.webp",
+  "imageAlt": "TeamLinkt product image",
+  "imageWidth": 1024,
+  "imageHeight": 594,
+  "mentions": [
+    {
+      "date": "2026-10-27",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, September 2026. Revenue pushing C$4.5M this year, growing close to 2x a year. More than 3,500 organizations. More than 30 employees. More than 600,000 monthly active users. Raised $6M USD from Growth Street Partners and kept board control.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/case-for-payments-driven-saas-growth-jay-maharaj/"
+        }
+      ],
+      "indieAngle": "The software is free. The money is the fee already being collected."
+    }
+  ],
+  "whyItPrints": "Coaches pass it along because it is free. Every registration dollar that runs through the payment pays TeamLinkt.",
+  "whyThisMatters": "TeamLinkt is the team app and the back office for youth sports. Soccer, hockey, flag football, cheer, dance. There is no software fee and no fee per player. The company takes a markup when the club collects registration through Stripe. The club can eat that fee or pass it on. It was built in Saskatoon.\n\nThe interview says revenue is pushing a few million Canadian dollars this year and close to doubling. More than three thousand five hundred organizations. More than thirty people. More than six hundred thousand people a month. They raised a growth round in US dollars and kept the board. September 2026. Self-reported.\n\nYou pay nothing for the app. The money is the registration that was already being collected.\n\nNo software fee and no per-player fee is the pricing. The club can absorb the card markup or pass it on. More than three thousand five hundred organizations. More than thirty employees. More than six hundred thousand monthly actives. The six million dollars raised is US dollars, from Growth Street, and he says he kept the board. Saskatoon is where it was built."
+}

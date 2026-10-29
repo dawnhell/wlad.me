@@ -4,7 +4,7 @@
   "listingNote": null,
   "description": "Flat-fee managed IT help desk / MSP for growing startups — \"priced by you,\" free to try, subscriptions starting ~$3k/mo (up to ~50 staff). Canada-founded, mid-2025.",
   "homepage": "https://uhoh.com",
-  "image": "/blog/2026-10-02/uhoh-com.webp",
+  "image": "/blog/2026-10-28/uhoh-com.webp",
   "imageAlt": "uhoh.com product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -20,8 +20,20 @@
         }
       ],
       "indieAngle": "Productize a service niche (IT desk, bookkeeping, SOC monitoring) with flat monthly pricing and a simple intake portal — sell outcomes, not tickets."
+    },
+    {
+      "date": "2026-10-28",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $47,157, 37 subscriptions, last-30-day subscription growth +29.7%. Last 30 days $47,350 (up 63.3%). All-time $459,275. Revenue synced 28 October 2026 ~04:21 Warsaw. The 2 October note was about $36,400 a month, 30 subscriptions, about $32,800 in the last 30 days, and about $417,000 all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/uhoh-com"
+        }
+      ],
+      "indieAngle": "A desk with a public price and a cap on the team size."
     }
   ],
   "whyItPrints": "Selling outsourced IT ops as a productized MSP with transparent Stripe billing. Tiny sub count (30) × high ACV = real print; classic boring B2B services wrapped as SaaS-ish recurring.",
-  "whyThisMatters": "Startups use uhoh.com when the founder is stuck being IT. A person answers in Slack. You don't open a ticket. They take broken automations, a messy HubSpot, security, integrations, and the daily glitches. An app error nobody can read. Google ads switched off. A teammate locked out of a shared login. You dump it on them.\n\nBasic work is Google and Microsoft admin, adding and removing users, VPN, passwords and two-factor, bad automations, hardware, software that won't open, and video calls. A wider plan adds laptops and phones, Jamf or Intune, printers, network checks, remote desktop, backups, domains, SSL, and payment hooks on the site. Customers talk about a flat fee.\n\nYou price it with them, and you can try it first. It's for teams up to about 50 people. The company started in Canada in mid-2025. You pay a flat month for the desk, rather than a tiny fee for every employee."
+  "whyThisMatters": "Startups use uhoh.com when the founder is stuck being IT. A person answers in Slack. You don't open a ticket. They take broken automations, a messy HubSpot, security, integrations, and the daily glitches. An app error nobody can read. Google ads switched off. A teammate locked out of a shared login. You dump it on them.\n\nBasic work is Google and Microsoft admin, adding and removing users, VPN, passwords and two-factor, bad automations, hardware, software that won't open, and video calls. A wider plan adds laptops and phones, Jamf or Intune, printers, network checks, remote desktop, backups, domains, SSL, and payment hooks on the site. Customers talk about a flat fee.\n\nYou price it with them, and you can try it first. It's for teams up to about 50 people. The company started in Canada in mid-2025. You pay a flat month for the desk, rather than a tiny fee for every employee.\n\nThirty subscriptions on 2 October, thirty-seven on this sync. The monthly figure stepped up with them. The all-time total moved up too. The plan cap is still about fifty staff. Founded in Canada in mid-2025."
 }

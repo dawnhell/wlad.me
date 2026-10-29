@@ -1,0 +1,27 @@
+{
+  "slug": "mynewterm",
+  "name": "MyNewTerm",
+  "listingNote": null,
+  "description": "Schools and multi-academy trusts in England post a job, and the candidate applies once instead of filling in a Word form for every school. A former maths teacher built it after doing those forms himself.",
+  "homepage": "https://mynewterm.com/",
+  "image": "/blog/2026-10-25/mynewterm.webp",
+  "imageAlt": "MyNewTerm product image",
+  "imageWidth": 1200,
+  "imageHeight": 658,
+  "mentions": [
+    {
+      "date": "2026-10-25",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, July 2026. Surpassed £5M in revenue. 20 employees. More than 6,000 schools and 500 multi-academy trusts. More than 100,000 applications a month. About 45% of multi-academy trusts, against a private-equity incumbent. No funding round. A £5,000 innovation voucher, and the founder put more than £100K of personal debt in.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/former-teacher-built-market-leading-school-hiring-marketplace-wayne-cartmel/"
+        }
+      ],
+      "indieAngle": "One country, one public employer, the application the school already has to collect."
+    }
+  ],
+  "whyItPrints": "It is a hiring form for a sector that was still on Word. Once a trust runs hiring through it, switching is painful. The two-sided start was the hard part.",
+  "whyThisMatters": "A teacher applying for a job in England used to fill in a Word form for every school. MyNewTerm is the marketplace and the tracking system instead. Schools and multi-academy trusts post the vacancy. The candidate applies once. A former maths teacher built it, and he also referees football.\n\nThe company says revenue is past five million pounds, with twenty people, thousands of schools, and about half of the multi-academy trusts. There was no funding round. There was a small innovation voucher, and the founder put a lot of his own debt in. That is a July 2026 interview. It is not a Stripe connection.\n\nYou pay so the application is one form, not a stack of Word files.\n\nMore than six thousand schools and five hundred trusts are the footprint. A hundred thousand applications a month is the volume. About forty-five percent of multi-academy trusts is the share he claims, against a private-equity incumbent. The five-thousand-pound voucher and more than a hundred thousand of personal debt are the funding story. Twenty employees."
+}

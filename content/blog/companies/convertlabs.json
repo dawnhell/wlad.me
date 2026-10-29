@@ -4,7 +4,7 @@
   "listingNote": null,
   "description": "All-in-one booking + marketing SaaS for home-service businesses (cleaning, lawn care, carpet cleaning, etc.) — bookings, payments, websites, and teams on one screen. Plans ~$67 / $197 / $397 per month. Founded Apr 2018, US. ~1,000 estimated users; 474 active subs.",
   "homepage": "https://convertlabs.io/",
-  "image": "/blog/2026-10-04/convertlabs.webp",
+  "image": "/blog/2026-10-27/convertlabs.webp",
   "imageAlt": "ConvertLabs product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -24,8 +24,20 @@
         }
       ],
       "indieAngle": "Pick one home-service trade in one country (AU cleaners, UK gardeners, PL HVAC) and own booking + invoicing + simple marketing site. Sell to owners, not marketers."
+    },
+    {
+      "date": "2026-10-27",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $28,646, 474 subscriptions. Last 30 days $27,827. All-time $2,241,803. About 1,000 users, company-stated. Plans from $67, $197, and $397 a month. Revenue synced 27 October 2026 ~09:08 Warsaw. The 4 October note was about $27,861 a month, the same 474 subscriptions, about $30,539 in the last 30 days, and about $2,220,704 all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/convertlabs"
+        }
+      ],
+      "indieAngle": "One screen for the van: the booking, the payment, and the page."
     }
   ],
   "whyItPrints": "Local-services OS. Field businesses hate juggling calendars, invoices, and marketing sites; once jobs and payments live in ConvertLabs, they renew. Mid-tier ACV × hundreds of logos = steady ~$28k MRR and $2.2M+ all-time — Calendesk/Khosmos cousin for US home services.",
-  "whyThisMatters": "Cleaning, lawn, and carpet businesses run bookings, card payments, the website, and the crew from one screen. The same signup list includes pressure washing, roofing, handyman work, painting, dog walking, and car washes.\n\nClients book online. You charge the card, send email and text, and there's a portal for the customer and an app for the crew. The website builder is meant to go live in under a minute, on your domain if you want one. An API covers custom hooks. Airbnb reservations can land as cleaning jobs.\n\nThey say support writes back in under an hour, and that more than a thousand service businesses run on it. Plans step up as you add marketing and team tools. The company started in the US in April 2018."
+  "whyThisMatters": "Cleaning, lawn, and carpet businesses run bookings, card payments, the website, and the crew from one screen. The same signup list includes pressure washing, roofing, handyman work, painting, dog walking, and car washes.\n\nClients book online. You charge the card, send email and text, and there's a portal for the customer and an app for the crew. The website builder is meant to go live in under a minute, on your domain if you want one. An API covers custom hooks. Airbnb reservations can land as cleaning jobs.\n\nThey say support writes back in under an hour, and that more than a thousand service businesses run on it. Plans step up as you add marketing and team tools. The company started in the US in April 2018.\n\nThe subscription count is still 474. The monthly Stripe figure is a little higher than the 4 October note, and the all-time total moved up with it. The last 30 days are a bit lower than they were on that earlier note."
 }

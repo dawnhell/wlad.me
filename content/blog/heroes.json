@@ -284,5 +284,49 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland_National_Park_04.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "lauterbrunnen",
+    "src": "/blog/heroes/lauterbrunnen.webp",
+    "alt": "Lauterbrunnen valley seen from Wengen",
+    "width": 1600,
+    "height": 900,
+    "credit": "Oleg.o.lyamin",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Lauterbrunnen_valley_from_Wengen.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "fitz-roy",
+    "src": "/blog/heroes/fitz-roy.webp",
+    "alt": "Mount Fitz Roy in Patagonia",
+    "width": 1600,
+    "height": 885,
+    "credit": "Cesar De Alba",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Fitz_Roy_(116529921).jpeg",
+    "license": "CC BY 3.0",
+    "subject": "nature"
+  },
+  {
+    "id": "lake-bled",
+    "src": "/blog/heroes/lake-bled.webp",
+    "alt": "An aerial view of Lake Bled",
+    "width": 1600,
+    "height": 600,
+    "credit": "VasuVR",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:SL16-Aerial_view_of_Slovenia-View_of_Lake_Bled-2.jpg",
+    "license": "CC BY 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "na-pali",
+    "src": "/blog/heroes/na-pali.webp",
+    "alt": "The Na Pali coast on Kauai",
+    "width": 1600,
+    "height": 1066,
+    "credit": "Jeff Kubina",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Na_Pali_Coast%2C_Kauai%2C_Hawaii.jpg",
+    "license": "CC BY-SA 2.0",
+    "subject": "nature"
   }
 ]

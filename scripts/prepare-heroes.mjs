@@ -216,6 +216,38 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Milford_Sound_in_Fiordland_National_Park_04.jpg',
   },
+  {
+    id: 'lauterbrunnen',
+    subject: 'nature',
+    alt: 'Lauterbrunnen valley seen from Wengen',
+    credit: 'Oleg.o.lyamin',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/c/c9/Lauterbrunnen_valley_from_Wengen.jpg',
+  },
+  {
+    id: 'fitz-roy',
+    subject: 'nature',
+    alt: 'Mount Fitz Roy in Patagonia',
+    credit: 'Cesar De Alba',
+    license: 'CC BY 3.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/1/11/Fitz_Roy_%28116529921%29.jpeg',
+  },
+  {
+    id: 'lake-bled',
+    subject: 'nature',
+    alt: 'An aerial view of Lake Bled',
+    credit: 'VasuVR',
+    license: 'CC BY 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/9/91/SL16-Aerial_view_of_Slovenia-View_of_Lake_Bled-2.jpg',
+  },
+  {
+    id: 'na-pali',
+    subject: 'nature',
+    alt: 'The Na Pali coast on Kauai',
+    credit: 'Jeff Kubina',
+    license: 'CC BY-SA 2.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Na_Pali_Coast%2C_Kauai%2C_Hawaii.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

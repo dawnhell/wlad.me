@@ -1,0 +1,27 @@
+{
+  "slug": "talkingparents",
+  "name": "TalkingParents",
+  "listingNote": null,
+  "description": "A record of the chats, calls, and calendar between separated parents. The messages cannot be altered. A family-law attorney was a cofounder. Courts and lawyers became how people arrived. Founded in 2012. Self-funded.",
+  "homepage": "https://talkingparents.com/",
+  "image": "/blog/2026-10-27/talkingparents.webp",
+  "imageAlt": "TalkingParents product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-27",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, August 2025. Well over $10M in revenue. 65 employees. 100,000 paying customers. About 500,000 people using the app. No outside funding.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/co-parenting-app-reaches-10m-arr-pure-bootstrap-growth-vince-mayfield/"
+        }
+      ],
+      "indieAngle": "The product is the timestamped record. The way in is the lawyer, not an ad."
+    }
+  ],
+  "whyItPrints": "A court wants a record. Once an order or a lawyer points both parents at the app, they stay in it. The situation is emotional, and the churn is low.",
+  "whyThisMatters": "TalkingParents keeps the messages, the calls, and the calendar between separated parents, and the record cannot be edited later. A family-law attorney helped start it. Courts and lawyers are how people arrive. It has been self-funded since 2012.\n\nThe interview says well over ten million in revenue, sixty-five people, a hundred thousand paying customers, and about half a million people using it. August 2025. That is the company talking. Once a lawyer or an order points both parents at it, they are in it for a long time.\n\nYou pay so the argument has a record.\n\nFounded in 2012 and still self-funded in the August 2025 interview. Sixty-five employees. A hundred thousand paying customers and about five hundred thousand people in the app are both his counts. The attorney cofounder is why courts became the way in. Unalterable is the product claim.\n\nCalls are in the record along with messages and the calendar. High emotion and low churn is the interview line. Distribution through lawyers is the acquisition story, not ads."
+}

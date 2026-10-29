@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-25",
+  "title": "Sunday's boring SaaS, 25 October 2026",
+  "dek": "Sunday, 25 October 2026. Lapsula is Stripe-verified. Run Lap Tap and StampSnap are RevenueCat-verified. Tive, MyNewTerm, Gymdesk, Wash-Dry-Fold POS, TeamBuildr, and PDFShift are self-reported. PDFShift's number is from a 2024 write-up.",
+  "heroId": "lauterbrunnen",
+  "companies": [
+    {
+      "slug": "lapsula",
+      "name": "Lapsula",
+      "listingNote": null,
+      "description": "Clinic software for appointments, reminders, online booking, payments, and a loyalty list. The seller says it is used by more than 50 psychology and physical therapy practices in Spain. TrustMRR dates the founding to 27 June 2024. The seller says it has been running since 2023 and that it ran an AppSumo campaign.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,435, 60 subscriptions, margin 79% claimed. Last 30 days $1,110 (down 45.8%). Last 12 months $15,172. All-time $17,666. Listed for sale on 23 October 2026 at $65,000 (4.9x), 2 offers. The seller says they moved on to other projects. Plans: free, Starter €14.99 a month plus VAT, Pro €34.99 a month plus VAT. Revenue synced 25 October 2026 ~07:51 Warsaw.",
+      "sources": [
+        {
+          "label": "Lapsula",
+          "url": "https://www.lapsula.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/lapsula"
+        }
+      ],
+      "homepage": "https://www.lapsula.com/",
+      "indieAngle": "Same calendar, another country, with the local payment methods the clinic already uses.",
+      "whyItPrints": "A clinic gets paid for the hour. A no-show is an empty hour. Patients already have the booking link, so the clinic does not want to change it.",
+      "image": "/blog/2026-10-25/lapsula.webp",
+      "imageAlt": "Lapsula product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "tive",
+      "name": "Tive",
+      "listingNote": null,
+      "description": "Cellular trackers that ride inside a shipment and report location, temperature, and shock, plus the software that alerts the shipper. It started in 2015. The first customer paid $19.99 a month. This is hardware plus a monthly fee, not a seat on a website.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a May 2026 interview. Booked annual run rate $100M in May 2026, up from $89M at the end of January 2026. Recognized revenue: 2019 $250K, 2020 $2.5M, 2021 $10M, 2022 $19.5M, 2023 $29M, 2024 $45M, 2025 $67M. 1,300 customer logos, 9 paying more than $1M a year. About $40 per tracker per month. 300 employees. $140M raised. Last round at $525M pre-money.",
+      "sources": [
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/companies/tive.com/interviews/tive-krenar-komoni-2026"
+        }
+      ],
+      "homepage": "https://www.tive.com/",
+      "indieAngle": "Do not build the tracker. Sell the \"where is the pallet, and did the cold chain break\" report for one kind of shipment.",
+      "whyItPrints": "It replaces calling the driver to ask where the truck is. The fee is per tracker, on a yearly contract. The company says 60% of new yearly revenue comes from customers they already have.",
+      "image": "/blog/2026-10-25/tive.webp",
+      "imageAlt": "Tive product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "mynewterm",
+      "name": "MyNewTerm",
+      "listingNote": null,
+      "description": "Schools and multi-academy trusts in England post a job, and the candidate applies once instead of filling in a Word form for every school. A former maths teacher built it after doing those forms himself.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, July 2026. Surpassed £5M in revenue. 20 employees. More than 6,000 schools and 500 multi-academy trusts. More than 100,000 applications a month. About 45% of multi-academy trusts, against a private-equity incumbent. No funding round. A £5,000 innovation voucher, and the founder put more than £100K of personal debt in.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/former-teacher-built-market-leading-school-hiring-marketplace-wayne-cartmel/"
+        }
+      ],
+      "homepage": "https://mynewterm.com/",
+      "indieAngle": "One country, one public employer, the application the school already has to collect.",
+      "whyItPrints": "It is a hiring form for a sector that was still on Word. Once a trust runs hiring through it, switching is painful. The two-sided start was the hard part.",
+      "image": "/blog/2026-10-25/mynewterm.webp",
+      "imageAlt": "MyNewTerm product image",
+      "imageWidth": 1200,
+      "imageHeight": 658
+    },
+    {
+      "slug": "gymdesk",
+      "name": "Gymdesk",
+      "listingNote": null,
+      "description": "Memberships, billing, attendance, and the schedule for gyms. It started in 2016 as Martial Arts on Rails, because the gym owners he trained with hated their software.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, July 2026. $3M ARR by the end of 2023. 16 employees, no salespeople. Monthly churn under 1%. Profit margins over 50% at the sale. In May 2024 he sold a majority stake to Five Elms Capital. His own share brought $32.5M in cash. He calls it a 10x-plus exit. Legal bill about $60K.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/he-sold-at-3m-arr-got-10x-exit-to-pe-buyer-eran-galperin/"
+        }
+      ],
+      "homepage": "https://gymdesk.com/",
+      "indieAngle": "Any club that already charges dues every month. Membership, the card payment, and the attendance list.",
+      "whyItPrints": "A gym bills the member every month. The software sits on that payment. More than half of new leads still come from search, the founder says, and there were no salespeople.",
+      "image": "/blog/2026-10-25/gymdesk.webp",
+      "imageAlt": "Gymdesk product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "wash-dry-fold-pos",
+      "name": "Wash-Dry-Fold POS",
+      "listingNote": null,
+      "description": "A point of sale for the wash-dry-fold counter at a laundromat. Laundry is priced by the pound, so the scale is part of the product. Pickup, delivery, and self-serve are in it too. Sold as software, hardware, and training. The co-founder also owns his parents' three-store chain and uses it to test the product. There is no product image. The site sat behind a bot check.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported on a podcast, 4 August 2026. He says they passed seven figures of ARR. A 7-person remote team. About 10 years, bootstrapped from $100, and he says it was profitable from the start. The episode summary says 1,300-plus systems sold. A rival has raised $220M.",
+      "sources": [
+        {
+          "label": "Startups for the Rest of Us",
+          "url": "https://www.startupsfortherestofus.com/episodes/episode-844-building-a-1m-arr-saas-for-laundromats"
+        }
+      ],
+      "homepage": "https://washdryfoldpos.com/",
+      "indieAngle": "A counter, a scale, and a text that says the laundry is ready.",
+      "whyItPrints": "Drop-off laundry did not have its own software. He started by reselling hardware, then rebuilt the product during COVID. The hardware sale covers the cost of getting the customer. He says churn is very low.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "teambuildr",
+      "name": "TeamBuildr",
+      "listingNote": null,
+      "description": "Strength coaches build a training program and send it to the athletes. Customers run from high schools to NFL teams. It started as a social app for college athletes, then pivoted after one coach said he just wanted tools for the job.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, SaaS Club, 26 March 2026. $10M ARR. 45 employees. Never raised, and the same operating agreement since 2012. He says it took five years to the first $1M, with the early years done on the side.",
+      "sources": [
+        {
+          "label": "SaaS Club",
+          "url": "https://saasclub.io/podcast/vertical-saas-hewitt-tomlin-teambuildr/"
+        }
+      ],
+      "homepage": "https://www.teambuildr.com/",
+      "indieAngle": "One job title, one workflow, and the same price for everyone.",
+      "whyItPrints": "One job, one price. An NFL team pays the same as a high school. The pro logos help sell the high-school half, which is about half the customers.",
+      "image": "/blog/2026-10-25/teambuildr.webp",
+      "imageAlt": "TeamBuildr product image",
+      "imageWidth": 1200,
+      "imageHeight": 960
+    },
+    {
+      "slug": "pdfshift",
+      "name": "PDFShift",
+      "listingNote": null,
+      "description": "You send HTML. You get a PDF back, or a JPG, PNG, or WEBP. The price is per document. People use it for invoices, reports, and tickets.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported. The figures are from a 2024 write-up, not a live check. About $3,500 a month in January 2020, about $6,500 a month in 2021, then a plateau around 300 customers and about $7,500 a month. A May 2024 headline said about $9,000 a month. An October 2026 short says $8,500 a month. He signed a letter of intent at $500,000. The buyer later cut it to $400,000 over nine months, and the deal did not close. No newer checked number.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/pdfshift"
+        }
+      ],
+      "homepage": "https://pdfshift.io/",
+      "indieAngle": "One file conversion people already have to do, priced per document.",
+      "whyItPrints": "Someone has to turn the page into a file. Once that call is in the product, it stays. He says the customers came from ads and from answers he wrote on Quora.",
+      "image": "/blog/2026-10-25/pdfshift.webp",
+      "imageAlt": "PDFShift product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "run-lap-tap",
+      "name": "Run Lap Tap",
+      "listingNote": null,
+      "description": "An iPhone and iPad app for coaches, PE teachers, and running clubs. You tap a finish or a lap, or you use a bib, a QR code, or NFC. It covers races, laps, and time trials.",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR $188, 43 subscriptions, margin 98% claimed. Last 30 days $630. Last 12 months and all-time $2,485. First revenue in March 2026. August $724 and September $853 were the high months. Listed for sale on 24 October 2026 at $17,000 (2.2x), 0 offers. Pricing: free, Pro $24.99 a year, Race Pass $6.99 once. Revenue synced 25 October 2026 ~06:31 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/run-lap-tap"
+        }
+      ],
+      "homepage": "https://www.runlaptap.app/",
+      "indieAngle": "The August and September jump is the school term. Sell it to the school, not only the teacher.",
+      "whyItPrints": "A school cross-country day still runs on a clipboard. The plan is yearly, and the cash shows up in term time.",
+      "image": "/blog/2026-10-25/run-lap-tap.webp",
+      "imageAlt": "Run Lap Tap product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "stampsnap",
+      "name": "StampSnap",
+      "listingNote": null,
+      "description": "You photograph a stamp. It offers a likely identification, the issue, and a value range, and you can save the stamp to a collection. The audience is collectors, not a general photo toy.",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR $444, 105 subscriptions. Last 30 days $579 (up 31.5%). Last 12 months $5,816. All-time $7,241. Listed for sale on 23 October 2026 at $17,000 (2.4x), 1 offer. Free download, with an optional Pro upgrade. Revenue synced 25 October 2026 ~07:51 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stampsnap"
+        }
+      ],
+      "homepage": "https://stampsnap.app/",
+      "indieAngle": "A catalogue for one kind of collector, with a subscription on top of the free app.",
+      "whyItPrints": "Collectors already catalogue. The cash has been flat and steady for a year.",
+      "image": "/blog/2026-10-25/stampsnap.webp",
+      "imageAlt": "StampSnap product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Architecture site-analysis SaaS",
+      "note": "unnamed. About $4,000 a month, growing 8 to 10% a month, started in February, no ad spend. Self-reported on Reddit. Reddit (https://www.reddit.com/r/SaaS/comments/1xe251j/4k_mrr_selling_to_architects_how_do_i_crack_b2b/)",
+      "homepage": null
+    },
+    {
+      "name": "Mortgage Coach",
+      "note": "loan officers use it to explain mortgage options. Bootstrapped, then about $10M a year when LLR Partners took a majority in 2021. Company-stated. Older episode, re-listed September 2026. Practical Founders (https://practicalfounders.com/podcast/45-bootstrapped-founder-still-creating-big-industry-impact-30-years-in-dave-savage-1/)",
+      "homepage": null
+    },
+    {
+      "name": "Growth-X",
+      "note": "LinkedIn outreach that became multichannel lead-gen. Bootstrapped, then sold on Acquire after messy financials killed the first letter of intent. No revenue figure on the page. Practical Founders (https://practicalfounders.com/podcast/messy-financials-killed-good-loi-and-slowed-profitable-saas-sale-riccardo-pisano/)",
+      "homepage": null
+    },
+    {
+      "name": "Foto carnet express",
+      "note": "official ID photos taken at home, then printed and posted. Stripe-verified last 30 days $216, all-time $268. Too small to write up, and close to a listing already on the site. TrustMRR (https://trustmrr.com/startup/foto-carnet-express)",
+      "homepage": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "volie",
+  "name": "Volie",
+  "listingNote": null,
+  "description": "A contact center for the business-development desk at a car dealership: calls, email, and SMS, matched to the dealer's data. It replaces the desk phone. Founded in 2017. Scott Davis is president and co-founder. Bootstrapped, as told on camera.",
+  "homepage": "https://volie.com/",
+  "image": "/blog/2026-10-28/volie.webp",
+  "imageAlt": "Volie product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-28",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, and calculated by Latka from what Scott Davis said on camera. Not a payment-processor connection. About $14.4M revenue for 2026. About a $9.6M run rate for 2024. About 2,000 rooftops. About 63 employees in 2026. About a 16% EBITDA margin. About $1,000 of revenue per rooftop.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/volie"
+        }
+      ],
+      "indieAngle": "One kind of franchise, priced per location, for the outbound desk they already staff."
+    }
+  ],
+  "whyItPrints": "A dealership desk lives on outbound calls and the data in the dealer system. A tool that already knows that workflow sticks harder than a generic phone system.",
+  "whyThisMatters": "Volie is the phone, the email, and the text message for the business-development desk at a car dealership, matched to the dealer system's data. Scott Davis is the president and co-founder. It started in 2017. He says it was bootstrapped.\n\nThe yearly figures on this page were calculated by Latka from what he said on camera. I am not treating that as a Stripe connection. About fourteen million for 2026, and a run rate near ten million for 2024. About two thousand rooftops. About sixty-three people. A margin around sixteen percent. About a thousand dollars of revenue per rooftop, which is their arithmetic from the on-camera numbers.\n\nYou pay per location so the desk is not a generic phone system.\n\nAbout a thousand dollars per rooftop is Latka arithmetic from the on-camera numbers, not a price list I opened. Two thousand rooftops and sixty-three employees are the 2026 counts. Sixteen percent margin is on camera. The 2024 run rate and the 2026 revenue are both calculated, so both stay labeled that way."
+}

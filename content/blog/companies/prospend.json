@@ -1,0 +1,27 @@
+{
+  "slug": "prospend",
+  "name": "ProSpend",
+  "listingNote": "sold to ISH",
+  "description": "Spend management for a mid-market finance team: expenses, bills, purchase orders, budgets, virtual cards, and payments. Bootstrapped in Australia by Sharon Nouh. Sold in 2025 to ISH, a UK software group, so she could expand in the UK with a local partner and still run the product.",
+  "homepage": "https://prospend.com/",
+  "image": "/blog/2026-10-28/prospend.webp",
+  "imageAlt": "ProSpend product image",
+  "imageWidth": 1040,
+  "imageHeight": 1040,
+  "mentions": [
+    {
+      "date": "2026-10-28",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, May 2026. No revenue total in the source. About 1,000 customers and 50 employees. Annual contracts roughly $15,000 to $40,000. Bootstrapped for about 10 years, then a strategic sale, not a distress exit.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/articles/sell-saas-company-for-market-expansion/"
+        }
+      ],
+      "indieAngle": "Expenses, bills, and cards in one product, sold through the accountants who already have the client."
+    }
+  ],
+  "whyItPrints": "A mid-size finance team hates the expense pile and does not want an enterprise suite. The contract size in the article is the mid-market, not a seat at a few dollars.",
+  "whyThisMatters": "ProSpend is expenses, bills, purchase orders, budgets, and cards for a mid-market finance team. Sharon Nouh built it in Australia, bootstrapped, for about ten years. In 2025 she sold it to a UK software group so the product could expand there with a local partner, and she kept running it.\n\nThe article does not give a revenue total. I am not writing one. About a thousand customers. About fifty people. A yearly contract in a range that starts in the mid five figures. She describes it as a strategic sale, not a rescue. May 2026. Self-reported.\n\nYou pay so the expense pile and the cards are one system, at a price a mid-size company can sign.\n\nISH is the UK buyer, in 2025. She stayed on the product so the UK expansion had a local partner. Ten years bootstrapped is the runway before that sale. The contract range is the only money figure the article gives. A thousand customers and fifty people are the size lines."
+}

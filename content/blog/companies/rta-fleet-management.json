@@ -1,0 +1,27 @@
+{
+  "slug": "rta-fleet-management",
+  "name": "RTA Fleet Management",
+  "listingNote": null,
+  "description": "Work orders, parts, and preventive maintenance for a fleet. His grandfather started it in the 1980s. His father ran it until 2015 and never got it past $2M. The grandson bought it in 2016, rebuilt it as cloud software, and aimed it at state and local government fleets.",
+  "homepage": "https://www.rtafleet.com/",
+  "image": "/blog/2026-10-26/rta-fleet-management.webp",
+  "imageAlt": "RTA Fleet Management product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, June 2025. Revenue never above $2M under the previous generation. A $15M ARR run rate in 2024, with 75 employees, bootstrapped with some debt. A separate 2025 recap says it grew from $2M ARR in 2017 to $14M ARR in 2025. A $30M growth-equity round from Susquehanna Growth Equity in 2025. About 90 staff at the recording.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/grew-unsexy-small-software-biz-into-saas-powerhouse-josh-turley/"
+        }
+      ],
+      "indieAngle": "A family software company that never got past a couple of million, then a rebuild for one buyer."
+    }
+  ],
+  "whyItPrints": "A city fleet has a budget and a long buying cycle. Once the maintenance history is in the system, they do not leave.",
+  "whyThisMatters": "RTA is work orders, parts, and preventive maintenance for a fleet. A grandfather started it in the 1980s. A father ran it and never got it past a couple of million. The grandson bought it in 2016, rebuilt it for the cloud, and pointed it at city and state fleets.\n\nTwo figures sit next to each other. The 2025 interview says a fifteen-million run rate in 2024. A separate recap says fourteen million in 2025, up from two million in 2017. I am not collapsing them. There was a growth-equity round in 2025. Staff went from the seventies to about ninety. Bootstrapped, with some debt, before that round. Self-reported.\n\nYou pay so the truck's service history is not in a spreadsheet.\n\nSusquehanna Growth Equity is the 2025 round, thirty million. Seventy-five employees sits with the 2024 run rate. About ninety sits with the recording. The grandfather, the father, and the 2016 purchase are the ownership line. Government fleets are the buyer he aimed at after the rebuild."
+}

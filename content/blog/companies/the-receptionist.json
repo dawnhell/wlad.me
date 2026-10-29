@@ -1,0 +1,27 @@
+{
+  "slug": "the-receptionist",
+  "name": "The Receptionist",
+  "listingNote": "now Sign In App",
+  "description": "Visitor check-in on an iPad or the web, which grew into badges, pre-registration, notifications, an emergency list, and the integrations. Andy Alsop bought the small app in 2013 for $250K, grew it for a decade, and then sold all of it to Sign In.",
+  "homepage": "https://thereceptionist.com/",
+  "image": "/blog/2026-10-27/the-receptionist.webp",
+  "imageAlt": "The Receptionist product image",
+  "imageWidth": 1135,
+  "imageHeight": 703,
+  "mentions": [
+    {
+      "date": "2026-10-27",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, May 2026. More than $7M ARR. 5,500 customers across 8,000 locations. 30 employees. Bought for $250K in 2013. Later sold in full to Sign In. Mostly bootstrapped. He says it was profitable, with low churn, when he sold.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/built-calm-profitable-saas-then-sold-it-on-his-terms-andy-alsop/"
+        }
+      ],
+      "indieAngle": "Buy a small sticky tool, then do the sales and the integrations the first owner did not."
+    }
+  ],
+  "whyItPrints": "The check-in looks small until the compliance, the integrations, and the second site show up. He says churn was low. A buyer who already owned the category was the exit.",
+  "whyThisMatters": "The Receptionist started as check-in on an iPad. It grew into badges, pre-registration, alerts, an emergency list, and the integrations a multi-site office wants. Andy Alsop bought the small app in 2013. He sold all of it later to Sign In. The product name on this page keeps his, with the buyer in the note.\n\nMore than seven million a year. Five thousand five hundred customers. Eight thousand locations. Thirty people. The purchase price in 2013 was a few hundred thousand. He says it was profitable and the churn was low when he sold. May 2026. Self-reported.\n\nYou pay so the lobby is a system, not a paper sign-in sheet.\n\nBought in 2013 for two hundred and fifty thousand. Sold later, in full, to Sign In. Five thousand five hundred customers and eight thousand locations are both in the interview. Thirty employees. He says it was profitable and low churn at the sale. The product grew from a check-in screen to badges, pre-registration, and an emergency list."
+}

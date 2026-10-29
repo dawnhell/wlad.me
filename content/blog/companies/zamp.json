@@ -1,0 +1,27 @@
+{
+  "slug": "zamp",
+  "name": "Zamp",
+  "listingNote": null,
+  "description": "Sales-tax compliance, sold through accounting firms as a \"powered by\" product. Founded in 2022 by Rohit Bhadange. This one raised venture money. It is not a bootstrap story.",
+  "homepage": "https://zamp.com/",
+  "image": "/blog/2026-10-28/zamp.webp",
+  "imageAlt": "Zamp product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-28",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a Latka interview in May 2026. $5M annual revenue by the first quarter of 2025. It was $1M in 2023. About $10,000 of revenue per user. Raised $30M in total, including a $16.5M Series A in October 2025. About 51 employees as of June 2026.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/zamp"
+        }
+      ],
+      "indieAngle": "The channel is the accountant who already bills the client every month."
+    }
+  ],
+  "whyItPrints": "Sales tax is paperwork an accountant already owns the relationship for. The firm brings the client. The note is the channel, and also that they raised to build it.",
+  "whyThisMatters": "Zamp does sales-tax compliance and sells it through accounting firms, as a product the firm can put its name on. Rohit Bhadange started it in 2022. This is not a bootstrap note. They raised thirty million, including a large round in October 2025.\n\nOn camera, yearly revenue was five million by the first quarter of 2025, and one million in 2023. About ten thousand dollars of revenue per user, which is their figure. About fifty-one people as of June 2026. May 2026 interview. Self-reported. The part worth keeping, if you ignore the raise, is the channel: the accountant already has the client.\n\nYou pay the firm. The firm is how the software gets in.\n\nOne million in 2023 and five million by the first quarter of 2025 are the two on-camera revenue points. Thirty million raised includes a sixteen and a half million round in October 2025. About fifty-one people as of June 2026. About ten thousand of revenue per user is their figure. Founded 2022. The accountant channel is the part that matches the other glue tools. The raise is why this is not a bootstrap note."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "fidelatoo",
+  "name": "Fidelatoo",
+  "listingNote": null,
+  "description": "Digital loyalty cards for local shops and franchises, so the stamp card is a person instead of a piece of plastic. Founded in 2023. The company says it is in more than 25 countries and has about 1,450 users. A one-line note on 1 October was the first time it showed up here. This is the full write-up.",
+  "homepage": "https://fidelatoo.fr/",
+  "image": "/blog/2026-10-28/fidelatoo.webp",
+  "imageAlt": "Fidelatoo product image",
+  "imageWidth": 646,
+  "imageHeight": 1364,
+  "mentions": [
+    {
+      "date": "2026-10-28",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,898, 244 subscriptions. Last 30 days $7,801 (up 5.3%). Last 12 months $95,304. All-time $171,877. Last-30-day margin about 60% claimed. Revenue synced 28 October 2026 ~11:02 Warsaw. The 1 October one-line note was about $6,900 a month and 239 subscriptions.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/fidelatoo"
+        }
+      ],
+      "indieAngle": "A stamp card for one local shop, sold to the owner or to the franchise office."
+    }
+  ],
+  "whyItPrints": "A café still has a paper stamp card. Once the points live in the app, the shop keeps paying for the seat.",
+  "whyThisMatters": "Fidelatoo replaces the paper stamp card with a digital one, for a local shop or a franchise. It started in 2023. The company says it is in more than twenty-five countries and has about fourteen hundred fifty users. Those user counts are theirs.\n\nA one-line note on 1 October was the first time it appeared here, at about the same monthly level and a few fewer subscriptions. This is the full page. Two hundred forty-four Stripe subscriptions. The last 30 days sit a little above the monthly line. The year and the all-time total are both large next to the monthly figure, which fits a product that has been charging for a while. Margin about sixty percent, claimed.\n\nYou pay so the points live somewhere the customer can open."
+}

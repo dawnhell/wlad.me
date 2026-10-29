@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-26",
+  "title": "Monday's boring SaaS, 26 October 2026",
+  "dek": "Monday, 26 October 2026. Six are Stripe-verified. InvoiceASAP, BBCS, BIS Safety, and RTA said their own numbers, so those four are self-reported.",
+  "heroId": "fitz-roy",
+  "companies": [
+    {
+      "slug": "invoiceasap",
+      "name": "InvoiceASAP",
+      "listingNote": null,
+      "description": "HVAC, plumbing, roofing, and landscaping businesses write the invoice in the field and take the card on the spot. Founded in New Orleans in 2009. It was an early mobile invoicing app on Square and Clover. It now runs its own payments setup on top of Adyen.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, June 2026. Just under $5M a year. 12 employees. Growing 20 to 40% a year. About 23,000 paying home-service businesses, and about 400,000 users in total. Average revenue per customer went from about $9 a month on the software alone to $80 to $94 a month after the payments cut. Debt financing, not a venture round.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/practical-fintech-surviving-payment-platforms-big-banks-paul-hoeper/"
+        }
+      ],
+      "homepage": "https://www.invoiceasap.com/",
+      "indieAngle": "The seat is cheap. The money is the payment on the job.",
+      "whyItPrints": "A tradesperson who has to drive back to the office to write the invoice gets paid late. Once the card payment runs through the app, the app takes a cut of the job. The owner does not move that money flow to save a few dollars.",
+      "image": "/blog/2026-10-26/invoiceasap.webp",
+      "imageAlt": "InvoiceASAP product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "bbcs",
+      "name": "BBCS",
+      "listingNote": "Blood Bank Computer Systems",
+      "description": "Software for a blood bank: donors, inventory, patients, billing, and the rest of the back office. It is FDA-cleared. The founder's mother started it in the 1980s. Her son bought it in 2019 and spent five years rebuilding it as a cloud product. He is moving customers off the old on-prem system.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, July 2025. Nearly $10M in revenue. 40 employees. No outside funding. Still independent. Serves blood banks that supply about 20% of US blood products.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/2nd-generation-ceo-modernizes-moms-legacy-software-business-brian-forbis/"
+        }
+      ],
+      "homepage": "https://bbcsinc.com/",
+      "indieAngle": "A small regulated shop still on 1990s software. The product is the cloud move plus the audit trail.",
+      "whyItPrints": "A blood bank does not swap the system that tracks the blood. He says they do not lose customers, and they do not lose employees either. The customers supply about 20% of US blood products.",
+      "image": "/blog/2026-10-26/bbcs.webp",
+      "imageAlt": "BBCS product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "bis-safety-software",
+      "name": "BIS Safety Software",
+      "listingNote": null,
+      "description": "Training and the safety-compliance file for construction, mining, transportation, and energy companies. From Edmonton. The first customers paid for the original training system to be built.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, January 2026. About C$25M a year, which the show converts to about US$18.5M. The episode title says approaching $20 million ARR. Logo churn under 1% a year on the core product. More than 2.5 million users. About 200 employees. Nearly 20 years bootstrapped. A staged exit is the plan: a minority sale first, a control deal later.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/approaching-20-million-arr-99-annual-retention-dan-macdonald/"
+        }
+      ],
+      "homepage": "https://www.bissafety.ca/",
+      "indieAngle": "One licence that expires, and a list of who is due next month.",
+      "whyItPrints": "A safety record is a document the company cannot drop. The episode calls the problem un-sexy. Churn on the core product, sold direct, is under 1% a year.",
+      "image": "/blog/2026-10-26/bis-safety-software.webp",
+      "imageAlt": "BIS Safety Software product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "rta-fleet-management",
+      "name": "RTA Fleet Management",
+      "listingNote": null,
+      "description": "Work orders, parts, and preventive maintenance for a fleet. His grandfather started it in the 1980s. His father ran it until 2015 and never got it past $2M. The grandson bought it in 2016, rebuilt it as cloud software, and aimed it at state and local government fleets.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, June 2025. Revenue never above $2M under the previous generation. A $15M ARR run rate in 2024, with 75 employees, bootstrapped with some debt. A separate 2025 recap says it grew from $2M ARR in 2017 to $14M ARR in 2025. A $30M growth-equity round from Susquehanna Growth Equity in 2025. About 90 staff at the recording.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/grew-unsexy-small-software-biz-into-saas-powerhouse-josh-turley/"
+        }
+      ],
+      "homepage": "https://www.rtafleet.com/",
+      "indieAngle": "A family software company that never got past a couple of million, then a rebuild for one buyer.",
+      "whyItPrints": "A city fleet has a budget and a long buying cycle. Once the maintenance history is in the system, they do not leave.",
+      "image": "/blog/2026-10-26/rta-fleet-management.webp",
+      "imageAlt": "RTA Fleet Management product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "calmedi",
+      "name": "CalMedi",
+      "listingNote": null,
+      "description": "It copies appointments from Doctolib into Google Calendar. The customers are dental, physio, and speech-therapy practices in France, plus their assistants and multi-site centres.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $348, 22 subscriptions. Last 30 days $412 (up 7.8%). All-time $3,810. Launched 31 October 2025. Plans: Starter €10 a month, Pro €15, Expert €20, Ultimate €35. Revenue synced 26 October 2026 ~03:41 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/calmedi"
+        }
+      ],
+      "homepage": "https://calmedi.io/en",
+      "indieAngle": "One booking site everyone in the trade already uses, and a calendar that does not import it.",
+      "whyItPrints": "Two calendars that do not talk. The practice pays so nobody pastes the appointment by hand. Once the day depends on the sync, they do not cancel it.",
+      "image": "/blog/2026-10-26/calmedi.webp",
+      "imageAlt": "CalMedi product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "lucanto",
+      "name": "Lucanto",
+      "listingNote": null,
+      "description": "Invoices, quotes, and expenses for a freelancer or a small business in Slovakia, with a shared workspace for the accountant. It matches invoices and expenses to the bank transactions.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $308, 24 subscriptions. Last 30 days $746 (up 105.4%). All-time $2,066. Stripe history starts March 2026. The company was founded in August 2022. May 2026 shows $10. October, so far, shows $716. Plans: Starter €7 a month, PRO €19, Business €39. About 1,000 users, estimated. Revenue synced 26 October 2026 ~06:47 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/lucanto"
+        }
+      ],
+      "homepage": "https://lucanto.eu/",
+      "indieAngle": "The invoice the law already requires, and a shared folder with the accountant.",
+      "whyItPrints": "The monthly ritual is \"send the accountant the stuff.\" The accountant then brings the next client.",
+      "image": "/blog/2026-10-26/lucanto.webp",
+      "imageAlt": "Lucanto product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "seen-markets",
+      "name": "Seen Markets",
+      "listingNote": null,
+      "description": "Vendor applications, booth maps, payments, messages, and a shopper guide for farmers markets, craft fairs, and pop-ups. The first event is free.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $860, 25 subscriptions, margin 65% claimed. Last 30 days $764. Last 12 months $6,028. All-time $6,923. Monthly cash climbed from $217 in November 2025 to $897 in September 2026. The founder says real total revenue is about $850 to $900 a month, and the subscription figure excludes payment fees. About 700 daily active users, and about 10,000 users estimated. Revenue synced 26 October 2026 ~05:18 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/seen-markets"
+        }
+      ],
+      "homepage": "https://seenmarkets.com/",
+      "indieAngle": "A market that still takes vendor applications in a form and a bank transfer.",
+      "whyItPrints": "The organiser is often a volunteer, matching vendors and booth fees by hand. Vendors come back for the next event. The organiser stays because the list is already there. There is a subscription and a cut of the payments.",
+      "image": "/blog/2026-10-26/seen-markets.webp",
+      "imageAlt": "Seen Markets product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "check-id",
+      "name": "Check ID",
+      "listingNote": null,
+      "description": "It checks a 13-digit South African ID number and reads off the date of birth, age, gender, and citizenship. There is a free checker on the web and a paid API.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $484, 59 subscriptions. Last 30 days $585 (up 35.6%). Last 12 months $5,987. All-time $8,276. The API starts at R99 a month for 1,000 checks. About 4,600 users estimated. Revenue synced 26 October 2026 ~09:02 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/check-id"
+        }
+      ],
+      "homepage": "https://checkid.co.za/",
+      "indieAngle": "A free checker for the search page, and a cheap API for the software that has to validate the number.",
+      "whyItPrints": "It is a checksum sold as an API. The free page brings the search traffic. A form that has to check the number pays monthly so nobody maintains the rules.",
+      "image": "/blog/2026-10-26/check-id.webp",
+      "imageAlt": "Check ID product image",
+      "imageWidth": 1200,
+      "imageHeight": 600
+    },
+    {
+      "slug": "castplus",
+      "name": "CastPlus",
+      "listingNote": null,
+      "description": "Podcast hosting, plus sending the show out to the directories. Plans are $15 to $75 a month, and some are yearly.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,080, 58 subscriptions, margin 80% claimed. Last 30 days $768. Last 12 months $15,159. All-time $36,289. The monthly subscription figure sits above the cash collected, which fits yearly plans spread across the months. Cash collected has been trending down since last winter. Revenue synced 26 October 2026 ~06:45 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/castplus"
+        }
+      ],
+      "homepage": "https://castplus.fm/",
+      "indieAngle": "Generic hosting is crowded. A private feed, for a company or a church, is the smaller version.",
+      "whyItPrints": "Once the feed lives somewhere, moving it is scary. Most people never do. Margin claimed at 80%.",
+      "image": "/blog/2026-10-26/castplus.webp",
+      "imageAlt": "CastPlus product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "monitup",
+      "name": "MonitUp",
+      "listingNote": null,
+      "description": "Employee monitoring for a small business: hours, apps, websites, screenshots, and who is online. Priced per computer, cloud or on-premise, with a 7-day trial. The seller is a solo founder.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,358, 24 subscriptions, margin 95% claimed. Last 30 days $337. Last 12 months $16,349. All-time $22,532. Most months are $264 to $715, with May 2026 at $3,706 and August 2026 at $9,237. Listed for sale since 1 September 2026 at $87,500 (21.6x), 0 offers. The seller, Faruk Durak, says he is moving to a new venture. Revenue synced 26 October 2026 ~09:14 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/monitup"
+        }
+      ],
+      "homepage": "https://www.monitup.com/",
+      "indieAngle": "The asking price is 21.6 times the monthly subscriptions, and nobody has bid. The lumpy months are the interesting part.",
+      "whyItPrints": "A owner with remote staff pays per computer to see who is working. It is a Windows agent and a dashboard.",
+      "image": "/blog/2026-10-26/monitup.webp",
+      "imageAlt": "MonitUp product image",
+      "imageWidth": 669,
+      "imageHeight": 376
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "ADAWCAG",
+      "note": "a person fixes ADA, WCAG, and Section 508 issues, priced from $497. Closer to a service than software. Stripe-verified MRR $1,294, 6 subscriptions, last 30 days $952, all-time $6,160. Synced 26 October 2026 ~05:04 Warsaw. TrustMRR (https://trustmrr.com/startup/adawcag)",
+      "homepage": "http://adawcag.org/"
+    },
+    {
+      "name": "Phantom",
+      "note": "a Google Business Profile audit for local search. Stripe-verified MRR $1,170, 72 subscriptions, last 30 days $1,040, last 12 months $14,265, all-time $24,490. Synced 26 October 2026 ~09:20 Warsaw. TrustMRR (https://trustmrr.com/startup/phantom)",
+      "homepage": "https://phantomlocal.com/"
+    },
+    {
+      "name": "PDF Vault",
+      "note": "a bundle of ready-made PDFs, plus hosting. Stripe-verified MRR $2,214, 246 subscriptions, last 30 days $8,158, all-time $63,574. Listed for sale since 25 October at $150,000 (1.5x), 2 offers. Synced 26 October 2026 ~07:53 Warsaw. TrustMRR (https://trustmrr.com/startup/pdf-vault)",
+      "homepage": "https://pdfvault.so/"
+    },
+    {
+      "name": "June",
+      "note": "pet-grooming salon software at $49 a month. Stripe-verified MRR $1,017, 13 subscriptions, all-time $1,176. Launched July 2026. Synced 26 October 2026 ~06:54 Warsaw. TrustMRR (https://trustmrr.com/startup/june)",
+      "homepage": "https://hellojune.io/"
+    },
+    {
+      "name": "TaxiFlow",
+      "note": "booking software for Dutch taxi operators. Stripe-verified MRR $348, 10 subscriptions, all-time $1,368. Synced 26 October 2026 ~05:28 Warsaw. TrustMRR (https://trustmrr.com/startup/taxiflow)",
+      "homepage": "https://www.taxiflow.nl/"
+    }
+  ]
+}

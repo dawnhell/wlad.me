@@ -4,7 +4,7 @@
   "listingNote": null,
   "description": "SSL/TLS certificate monitoring for public and internal/private certs. It alerts on upcoming expiry, failed renewal automation, cert changes and fraudulent certs. Free tier, then from $0.72 per domain. Founded Jun 2017, US.",
   "homepage": "https://trackssl.com/",
-  "image": "/blog/2026-10-06/trackssl.webp",
+  "image": "/blog/2026-10-27/trackssl.webp",
   "imageAlt": "TrackSSL product image",
   "imageWidth": 1200,
   "imageHeight": 687,
@@ -24,8 +24,20 @@
         }
       ],
       "indieAngle": "\"Expiry monitoring\" for anything with a renewal date that breaks business if missed: domains, SSL, Apple/Google push certs, SAML signing certs, EU qualified e-signature certs, KSeF tokens. Per-item pricing, agency plans, Slack/Teams alerts."
+    },
+    {
+      "date": "2026-10-27",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,295, 222 subscriptions. Last 30 days $5,881. All-time $195,806. About 23,000 users, company-stated. Free plan, then from about $0.72 per domain. Revenue synced 27 October 2026 ~05:28 Warsaw. The 6 October note was about $5,294 a month, 221 subscriptions, about $4,338 in the last 30 days, and about $191,420 all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/trackssl"
+        }
+      ],
+      "indieAngle": "Watch the thing that breaks quietly. A certificate, a domain, a renewal."
     }
   ],
-  "whyItPrints": "Pure \"insurance\" utility: nobody thinks about it until a cert expires and the site goes down. Agencies with hundreds of client domains pay per domain forever. Public cert lifetimes are scheduled to drop to 47 days by 2029 ([CA/B Forum ballot SC-081](https://cabforum.org/2025/04/11/ballot-sc081v3-introduce-schedule-of-reducing-validity-and-data-reuse-periods/)), so more renewals means more chances for automation to fail.",
-  "whyThisMatters": "Add a domain and TrackSSL watches the certificate. You choose how many days of warning you want. The ping can go to email, Slack, a text, or Teams. Another note arrives when the certificate changes, so you hear about a renewal job that stopped, or a host that swapped the cert.\n\nTwo certificates are free. After that you pay per domain, and a larger plan includes a hundred of them. Private and internal certificates are available in beta. Alerts from the public transparency logs are marked as coming soon.\n\nThey say more than 23,000 certificates are on watch, and they name Dell, IBM, Western Digital, FastSpring, and BigCommerce among the teams using it. The company started in the US in June 2017."
+  "whyItPrints": "Pure \"insurance\" utility: nobody thinks about it until a cert expires and the site goes down. Agencies with hundreds of client domains pay per domain forever. Public cert lifetimes are scheduled to drop to 47 days by 2029 (CA/B Forum ballot SC-081 (https://cabforum.org/2025/04/11/ballot-sc081v3-introduce-schedule-of-reducing-validity-and-data-reuse-periods/)), so more renewals means more chances for automation to fail.",
+  "whyThisMatters": "Add a domain and TrackSSL watches the certificate. You choose how many days of warning you want. The ping can go to email, Slack, a text, or Teams. Another note arrives when the certificate changes, so you hear about a renewal job that stopped, or a host that swapped the cert.\n\nTwo certificates are free. After that you pay per domain, and a larger plan includes a hundred of them. Private and internal certificates are available in beta. Alerts from the public transparency logs are marked as coming soon.\n\nThey say more than 23,000 certificates are on watch, and they name Dell, IBM, Western Digital, FastSpring, and BigCommerce among the teams using it. The company started in the US in June 2017.\n\nThe 6 October note was two hundred twenty-one subscriptions and a lower last-30-day figure. This sync is two hundred twenty-two subscriptions, and the last 30 days are higher. The monthly subscriptions barely moved. Free plan, then a per-domain price. Founded June 2017."
 }

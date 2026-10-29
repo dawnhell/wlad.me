@@ -1,0 +1,27 @@
+{
+  "slug": "innergy",
+  "name": "INNERGY",
+  "listingNote": null,
+  "description": "Job software for architectural woodworking and high-end millwork shops. It covers the lead, the estimate, the project, the shop floor, and the install. Marc Sanderson and a partner bought a Minnesota woodworking shop in 1997, built the tool for themselves, then sold it as a product.",
+  "homepage": "https://www.innergy.com/",
+  "image": "/blog/2026-10-27/innergy.webp",
+  "imageAlt": "INNERGY product image",
+  "imageWidth": 328,
+  "imageHeight": 187,
+  "mentions": [
+    {
+      "date": "2026-10-27",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, May 2026. About $25M revenue in 2025, growing more than 50% a year, and he expects to approach $40M in 2026. Sold 51% to Mainsail Partners in 2025 for more than $40M. He stayed CEO. Bootstrapped for years on the shop's profits before the growth-equity deal. Retention about 95%.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/scaled-his-niche-vertical-saas-erp-growth-equity-marc-sanderson/"
+        }
+      ],
+      "indieAngle": "A craft shop that still runs the job in a spreadsheet and an old drawing program."
+    }
+  ],
+  "whyItPrints": "A custom shop's estimate, the cut list, and the install date do not fit a generic system. Once they live here, switching is brutal. He says retention is about 95%, and that teaching the shops is part of why they stay.",
+  "whyThisMatters": "INNERGY is the job system for a shop that builds custom architectural woodwork. The lead, the estimate, the drawings, the shop floor, and the install are in one place. The founder bought a Minnesota shop in 1997 with a partner, built the tool for that shop, and then sold the tool.\n\nHe says 2025 was about twenty-five million, growing more than fifty percent a year, toward something closer to forty million in 2026. He sold a majority stake in 2025 for more than forty million and stayed CEO. Years of that were funded by the shop's own profits. Retention around ninety-five percent, and he treats teaching the other shops as part of the product. May 2026 interview. Self-reported.\n\nYou pay so the estimate and the cut list are the same system."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "pdfshift",
+  "name": "PDFShift",
+  "listingNote": null,
+  "description": "You send HTML. You get a PDF back, or a JPG, PNG, or WEBP. The price is per document. People use it for invoices, reports, and tickets.",
+  "homepage": "https://pdfshift.io/",
+  "image": "/blog/2026-10-25/pdfshift.webp",
+  "imageAlt": "PDFShift product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-10-25",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported. The figures are from a 2024 write-up, not a live check. About $3,500 a month in January 2020, about $6,500 a month in 2021, then a plateau around 300 customers and about $7,500 a month. A May 2024 headline said about $9,000 a month. An October 2026 short says $8,500 a month. He signed a letter of intent at $500,000. The buyer later cut it to $400,000 over nine months, and the deal did not close. No newer checked number.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/pdfshift"
+        }
+      ],
+      "indieAngle": "One file conversion people already have to do, priced per document."
+    }
+  ],
+  "whyItPrints": "Someone has to turn the page into a file. Once that call is in the product, it stays. He says the customers came from ads and from answers he wrote on Quora.",
+  "whyThisMatters": "You send HTML. PDFShift sends back a PDF, or an image. The bill is per document. Invoices, reports, and tickets are the usual job. He says customers found it through ads and through answers he posted on Quora.\n\nThe numbers on this page are old. A 2024 write-up shows the climb from a few thousand a month to a plateau around a few hundred customers. A May 2024 headline is a bit higher. An October 2026 short quotes another monthly figure. I did not check any of those live. He signed a letter of intent around half a million. The buyer later cut the offer and stretched it over nine months. The deal did not close. His own 2024 target for the end of 2025 was higher. There is no newer checked number.\n\nYou pay so the invoice is a file, and you do not run a browser on a server to make it.\n\nThe October 2026 short and the May 2024 case study are not the same month, and neither was checked against a live processor. The letter of intent at five hundred thousand, cut later to four hundred thousand, is a deal that did not close. His own target was higher by the end of 2025. That target is not a result."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "lapsula",
+  "name": "Lapsula",
+  "listingNote": null,
+  "description": "Clinic software for appointments, reminders, online booking, payments, and a loyalty list. The seller says it is used by more than 50 psychology and physical therapy practices in Spain. TrustMRR dates the founding to 27 June 2024. The seller says it has been running since 2023 and that it ran an AppSumo campaign.",
+  "homepage": "https://www.lapsula.com/",
+  "image": "/blog/2026-10-25/lapsula.webp",
+  "imageAlt": "Lapsula product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-25",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,435, 60 subscriptions, margin 79% claimed. Last 30 days $1,110 (down 45.8%). Last 12 months $15,172. All-time $17,666. Listed for sale on 23 October 2026 at $65,000 (4.9x), 2 offers. The seller says they moved on to other projects. Plans: free, Starter €14.99 a month plus VAT, Pro €34.99 a month plus VAT. Revenue synced 25 October 2026 ~07:51 Warsaw.",
+      "sources": [
+        {
+          "label": "Lapsula",
+          "url": "https://www.lapsula.com/"
+        },
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/lapsula"
+        }
+      ],
+      "indieAngle": "Same calendar, another country, with the local payment methods the clinic already uses."
+    }
+  ],
+  "whyItPrints": "A clinic gets paid for the hour. A no-show is an empty hour. Patients already have the booking link, so the clinic does not want to change it.",
+  "whyThisMatters": "A small clinic lives on the appointment. Lapsula is the calendar, the reminder, the online booking, and the payment, aimed at psychology and physio practices in Spain. The seller says more than fifty of them use it.\n\nThe TrustMRR founding date is 27 June 2024. The seller says the product has been running since 2023, and that there was an AppSumo campaign. I am leaving both dates. Plans are a free tier, then two paid tiers, plus tax. Sixty Stripe subscriptions. The last 30 days of cash are below the monthly subscription line. The listing went up for sale on 23 October 2026. The seller says they moved on.\n\nYou pay so a missed appointment is a text, not an empty hour.\n\nThe sale asking price is sixty-five thousand, which the listing calls 4.9 times, and two offers were in. Last 30 days down about forty-six percent is in the Stripe sync, so the monthly subscriptions and the recent cash are not the same story."
+}

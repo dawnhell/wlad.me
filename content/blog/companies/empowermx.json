@@ -1,0 +1,31 @@
+{
+  "slug": "empowermx",
+  "name": "EmpowerMX",
+  "listingNote": "sold to IFS",
+  "description": "Software for aircraft maintenance, repair, and overhaul. It replaces the paper job with planning, the work itself, and the compliance file. Founded in 1999 by Dinakara Nagalla. Sold to IFS. The acquisition was announced in July 2024.",
+  "homepage": "https://www.empowermx.com/",
+  "image": "/blog/2026-10-28/empowermx.webp",
+  "imageAlt": "EmpowerMX product image",
+  "imageWidth": 1200,
+  "imageHeight": 592,
+  "mentions": [
+    {
+      "date": "2026-10-28",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, April 2026. No single revenue total in the source, so I am not writing one. He describes a mid-double-digit SaaS business. Contracts from the hundreds of thousands to several million dollars a year. Extremely profitable in the year of the sale. Customers often saw more than 10% savings on maintenance operations. Started at about 12 people. Later growth equity. Sold to IFS from a position he calls strength. Latka estimates were ignored.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/built-vertical-saas-giant-in-aviation-without-vc-funding-dinakara-nagalla/"
+        },
+        {
+          "label": "IFS announcement",
+          "url": "https://www.ifs.com/en/insights/news/ifs-acquires-empowermx"
+        }
+      ],
+      "indieAngle": "Paper to a screen in a trade where the cost of downtime is the sale."
+    }
+  ],
+  "whyItPrints": "An airline cannot shrug at a compliance gap. The contracts run for years. He says customers also saw savings on the maintenance work itself.",
+  "whyThisMatters": "EmpowerMX replaces the paper job in aircraft maintenance. Planning, the work, and the compliance file. Dinakara Nagalla started it in 1999. IFS bought it. The announcement was July 2024.\n\nHe does not give one revenue number, so this page does not invent one. He describes a mid-double-digit software business, contracts from the hundreds of thousands of dollars a year up to several million, and a very profitable year of the sale. Customers, he says, often saved more than ten percent on the maintenance work. It started with about a dozen people. There was growth equity later. He says the sale was from a position of strength. Latka's estimates are not on this page. April 2026 interview.\n\nYou pay so the maintenance job is not a stack of paper.\n\nThe IFS announcement is July 2024. The interview is April 2026, after the sale. Started near a dozen people. Growth equity came later. The savings line, more than ten percent on maintenance, is the customer outcome he claims. I am not inventing the missing revenue total."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "gymdesk",
+  "name": "Gymdesk",
+  "listingNote": null,
+  "description": "Memberships, billing, attendance, and the schedule for gyms. It started in 2016 as Martial Arts on Rails, because the gym owners he trained with hated their software.",
+  "homepage": "https://gymdesk.com/",
+  "image": "/blog/2026-10-25/gymdesk.webp",
+  "imageAlt": "Gymdesk product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-25",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, July 2026. $3M ARR by the end of 2023. 16 employees, no salespeople. Monthly churn under 1%. Profit margins over 50% at the sale. In May 2024 he sold a majority stake to Five Elms Capital. His own share brought $32.5M in cash. He calls it a 10x-plus exit. Legal bill about $60K.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/he-sold-at-3m-arr-got-10x-exit-to-pe-buyer-eran-galperin/"
+        }
+      ],
+      "indieAngle": "Any club that already charges dues every month. Membership, the card payment, and the attendance list."
+    }
+  ],
+  "whyItPrints": "A gym bills the member every month. The software sits on that payment. More than half of new leads still come from search, the founder says, and there were no salespeople.",
+  "whyThisMatters": "Gymdesk bills the member, takes attendance, and runs the schedule. It started in 2016 as a tool for martial-arts gyms, because the owners he trained with hated what they were using. It later covered gyms more broadly.\n\nThe founder says there were no salespeople, that more than half of new leads came from search, and that a free trial often converted without a demo. Monthly churn under one percent. Margins over fifty percent at the sale. By the end of 2023 the yearly figure was a few million. In May 2024 he sold a majority stake. His own share was a large cash amount. He calls it more than ten times. The legal bill was small next to that. July 2026 interview. Self-reported.\n\nYou pay because the member is already paying every month.\n\nNo salespeople, and more than half of leads from search, are the acquisition lines. A free trial that converts without a demo is the other one. The legal bill of about sixty thousand sits next to the cash from his share so the exit is not only the headline multiple. He was in Tokyo by the time of the interview, which the brief notes and I am not building a story on."
+}

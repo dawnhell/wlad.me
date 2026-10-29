@@ -1,0 +1,27 @@
+{
+  "slug": "invoiceasap",
+  "name": "InvoiceASAP",
+  "listingNote": null,
+  "description": "HVAC, plumbing, roofing, and landscaping businesses write the invoice in the field and take the card on the spot. Founded in New Orleans in 2009. It was an early mobile invoicing app on Square and Clover. It now runs its own payments setup on top of Adyen.",
+  "homepage": "https://www.invoiceasap.com/",
+  "image": "/blog/2026-10-26/invoiceasap.webp",
+  "imageAlt": "InvoiceASAP product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, June 2026. Just under $5M a year. 12 employees. Growing 20 to 40% a year. About 23,000 paying home-service businesses, and about 400,000 users in total. Average revenue per customer went from about $9 a month on the software alone to $80 to $94 a month after the payments cut. Debt financing, not a venture round.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/practical-fintech-surviving-payment-platforms-big-banks-paul-hoeper/"
+        }
+      ],
+      "indieAngle": "The seat is cheap. The money is the payment on the job."
+    }
+  ],
+  "whyItPrints": "A tradesperson who has to drive back to the office to write the invoice gets paid late. Once the card payment runs through the app, the app takes a cut of the job. The owner does not move that money flow to save a few dollars.",
+  "whyThisMatters": "A plumber, an HVAC tech, a roofer, or a landscaper writes the invoice in the field and takes the card before they leave. InvoiceASAP started in New Orleans in 2009. It was an early app on Square and Clover. It now runs payments on top of Adyen.\n\nThe interesting number is not the seat. The company says the average customer paid a few dollars a month for the software, then something like ten times that once the payment cut was included. Just under five million a year. Twelve people. About twenty-three thousand paying businesses. Debt, not a venture round. June 2026 interview. Self-reported.\n\nYou pay so the invoice is written where the job is.\n\nTwenty to forty percent growth a year is the pace he gives, on top of the just-under-five-million line. About four hundred thousand users sit beside the twenty-three thousand paying businesses. Debt instead of equity is the funding line. Adyen is the payments layer now. Square and Clover were the early integrations."
+}

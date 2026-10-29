@@ -156,7 +156,7 @@ function processorName(kind: EvidenceKind) {
 
 function moneyToken(raw: string) {
   const token = raw.match(/~?\$[\d,.]+[kKmM]?/)?.[0] ?? null
-  return token?.replace(/,+$/, '') ?? null
+  return token?.replace(/,+$/, '').replace(/\.+$/, '') ?? null
 }
 
 function isZeroMoney(token: string) {

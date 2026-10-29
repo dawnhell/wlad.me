@@ -4,7 +4,7 @@
   "listingNote": null,
   "description": "A specialist desk for foreigners applying for Brazilian residency / digital-nomad / retirement / family / investor visas. It helps navigate government portals; every application is personally reviewed by a licensed Brazilian immigration lawyer; 95%+ approval rate claimed (company-stated). Pricing: $599 flat for nomad / retirement / family; investor cases quoted. Founded Dec 2025, BR. React + Cloudflare + Supabase + Stripe. Channels: SEO, content marketing. ~127k Google Search impressions in L30 (TrustMRR / GSC).",
   "homepage": "https://getbrazilvisa.com/",
-  "image": "/blog/2026-10-09/get-brazil-visa.webp",
+  "image": "/blog/2026-10-28/get-brazil-visa.webp",
   "imageAlt": "Get Brazil Visa product image",
   "imageWidth": 1200,
   "imageHeight": 630,
@@ -24,6 +24,18 @@
         }
       ],
       "indieAngle": "The PL/EU version: \"Karta Pobytu / Blue Card / B2B contractor setup in Poland\" as a fixed-price package with document checklists, appointment booking, and a bilingual lawyer review. Or the reverse: help Poles get digital-nomad visas in Spain / Portugal / Brazil with the same $499–$799 flat structure."
+    },
+    {
+      "date": "2026-10-28",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last 30 days $4,680 (up 180.6%). Last 12 months and all-time $19,153. Last-30-day margin about 95% claimed. About 1,350 visitors in the last 30 days. The subscription line is not the business. People pay for the application. Revenue synced 28 October 2026 ~06:24 Warsaw. The 9 October note was about $3,067 in the last 30 days and about $16,372 all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/get-brazil-visa"
+        }
+      ],
+      "indieAngle": "One country's paperwork, a lawyer on the file, and the search traffic."
     }
   ],
   "whyItPrints": "Government portals are hostile; people pay once to have a human + checklist get them through. 95% margin, no seats, SEO-led. Same Conductor pattern as Fast Corp (BG company formation) and Easy Moving Permits (city curb permits).",

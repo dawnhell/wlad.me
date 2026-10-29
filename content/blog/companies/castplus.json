@@ -1,0 +1,27 @@
+{
+  "slug": "castplus",
+  "name": "CastPlus",
+  "listingNote": null,
+  "description": "Podcast hosting, plus sending the show out to the directories. Plans are $15 to $75 a month, and some are yearly.",
+  "homepage": "https://castplus.fm/",
+  "image": "/blog/2026-10-26/castplus.webp",
+  "imageAlt": "CastPlus product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,080, 58 subscriptions, margin 80% claimed. Last 30 days $768. Last 12 months $15,159. All-time $36,289. The monthly subscription figure sits above the cash collected, which fits yearly plans spread across the months. Cash collected has been trending down since last winter. Revenue synced 26 October 2026 ~06:45 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/castplus"
+        }
+      ],
+      "indieAngle": "Generic hosting is crowded. A private feed, for a company or a church, is the smaller version."
+    }
+  ],
+  "whyItPrints": "Once the feed lives somewhere, moving it is scary. Most people never do. Margin claimed at 80%.",
+  "whyThisMatters": "CastPlus hosts the podcast and sends it to the directories. Plans run from a small monthly fee up to a larger one, and some people pay yearly.\n\nFifty-eight Stripe subscriptions. The monthly subscription figure is well above the cash that landed last month. That fits a yearly plan spread across the year. Since last winter, less cash has actually landed each month. I am not calling the subscription line the cash. Margin is claimed at eighty percent.\n\nYou pay so the feed does not move, because moving it is the scary part.\n\nThe plans run from fifteen to seventy-five dollars a month, and some of them are paid yearly. That is why the subscription line can sit above the cash that arrived. Eighty percent margin is claimed. All-time cash is a few times the last twelve months, so this is not a brand-new listing.\n\nDirectories are where the show gets listed after the file is hosted. Moving an RSS feed is the lock-in. I am not treating the subscription line as cash in the bank."
+}

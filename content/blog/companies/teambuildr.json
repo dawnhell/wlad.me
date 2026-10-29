@@ -1,0 +1,27 @@
+{
+  "slug": "teambuildr",
+  "name": "TeamBuildr",
+  "listingNote": null,
+  "description": "Strength coaches build a training program and send it to the athletes. Customers run from high schools to NFL teams. It started as a social app for college athletes, then pivoted after one coach said he just wanted tools for the job.",
+  "homepage": "https://www.teambuildr.com/",
+  "image": "/blog/2026-10-25/teambuildr.webp",
+  "imageAlt": "TeamBuildr product image",
+  "imageWidth": 1200,
+  "imageHeight": 960,
+  "mentions": [
+    {
+      "date": "2026-10-25",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, SaaS Club, 26 March 2026. $10M ARR. 45 employees. Never raised, and the same operating agreement since 2012. He says it took five years to the first $1M, with the early years done on the side.",
+      "sources": [
+        {
+          "label": "SaaS Club",
+          "url": "https://saasclub.io/podcast/vertical-saas-hewitt-tomlin-teambuildr/"
+        }
+      ],
+      "indieAngle": "One job title, one workflow, and the same price for everyone."
+    }
+  ],
+  "whyItPrints": "One job, one price. An NFL team pays the same as a high school. The pro logos help sell the high-school half, which is about half the customers.",
+  "whyThisMatters": "A strength coach writes the program and sends it to the athletes. TeamBuildr does that, from a high school up to an NFL team. It started as a social app and pivoted when one coach said he only wanted the tools for the job.\n\nThe price is flat. The pro team pays the same as the school. The pro logos help sell the schools, and the schools are about half the customers. Forty-five people. Never raised. The same operating agreement since 2012. He says the first million took five years, and the early years were on the side. March 2026 interview. Self-reported.\n\nYou pay for one job, at one price, no matter the logo on the shirt.\n\nThe same operating agreement since 2012 is the never-raised line. Forty-five employees. Five years to the first million, with three of the early years on the side, from twenty thousand to a hundred thousand before he went full time. High schools are about half the customers. The pro teams pay the same price and supply the logo."
+}

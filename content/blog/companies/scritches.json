@@ -4,10 +4,10 @@
   "listingNote": null,
   "description": "Pet-sitting and dog-walking business software for solo and small-team providers: client management, bookings, and payments in one place, replacing spreadsheets and text threads. \"Start for free\" pricing. Targets pet sitters, dog walkers, trainers, boarders, groomers, and daycare owners. Founded Sep 2024, US. TrustMRR lists ~700 estimated users (founder-stated).",
   "homepage": "https://scritches.io/",
-  "image": "/blog/2026-10-07/scritches.webp",
+  "image": "/blog/2026-10-27/scritches.webp",
   "imageAlt": "Scritches product image",
   "imageWidth": 1200,
-  "imageHeight": 597,
+  "imageHeight": 675,
   "mentions": [
     {
       "date": "2026-10-07",
@@ -24,8 +24,20 @@
         }
       ],
       "indieAngle": "Free-to-start vertical scheduling + payments for a solo-trade niche in PL/EU that's still on WhatsApp and Excel: private tutors, piano teachers, cleaners, physio home visits. Paid tier unlocks online payments, reminders, and invoices (KSeF-ready e-invoices would be a strong PL hook)."
+    },
+    {
+      "date": "2026-10-27",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $5,541, 210 subscriptions. Last 30 days $6,634. All-time $48,729. About 700 users, company-stated. You can start for free. Revenue synced 27 October 2026 ~04:09 Warsaw. The 7 October note was about $5,229 a month and 201 subscriptions.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/scritches"
+        }
+      ],
+      "indieAngle": "One local job, the visits, and the payment. Dog walking is the example."
     }
   ],
-  "whyItPrints": "A vertical tool for a huge long tail of tiny service businesses that the big pet-care tools price out. Once a sitter's clients, schedules and invoices live in it, they don't move. Growing steadily: +7.6% L30 MRR.",
-  "whyThisMatters": "A pet sitter who's past the side hustle still keeps clients in a spreadsheet and the day's walks in texts. Scritches puts the clients, the bookings, and the payments in one place. You can start free.\n\nDog walkers, trainers, boarders, groomers, and daycare owners are in the same group. The site says more than 700 people are already on it. The company started in September 2024.\n\nQuotes on the site come from owners. Kelly W. at The Velvet Leash, Sara W. at Aledo Pet Sitting, Pertuy L. at Paws Cochrane, and Jessica B. at Furry Folk, who was on the beta. You can run the calendar before you turn payments on."
+  "whyItPrints": "A vertical tool for a long tail of tiny service businesses that the big pet-care tools price out. Once a sitter's clients, schedules, and invoices live in it, they don't move.",
+  "whyThisMatters": "A pet sitter who's past the side hustle still keeps clients in a spreadsheet and the day's walks in texts. Scritches puts the clients, the bookings, and the payments in one place. You can start free.\n\nDog walkers, trainers, boarders, groomers, and daycare owners are in the same group. The site says more than 700 people are already on it. The company started in September 2024.\n\nQuotes on the site come from owners. Kelly W. at The Velvet Leash, Sara W. at Aledo Pet Sitting, Pertuy L. at Paws Cochrane, and Jessica B. at Furry Folk, who was on the beta. You can run the calendar before you turn payments on.\n\nThe 7 October note was about two hundred and one subscriptions. This sync has two hundred and ten. The all-time total is higher than the last-twelve-months figure on that older note. You can still start for free. Founded September 2024."
 }

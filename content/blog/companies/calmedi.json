@@ -1,0 +1,27 @@
+{
+  "slug": "calmedi",
+  "name": "CalMedi",
+  "listingNote": null,
+  "description": "It copies appointments from Doctolib into Google Calendar. The customers are dental, physio, and speech-therapy practices in France, plus their assistants and multi-site centres.",
+  "homepage": "https://calmedi.io/en",
+  "image": "/blog/2026-10-26/calmedi.webp",
+  "imageAlt": "CalMedi product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-26",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $348, 22 subscriptions. Last 30 days $412 (up 7.8%). All-time $3,810. Launched 31 October 2025. Plans: Starter €10 a month, Pro €15, Expert €20, Ultimate €35. Revenue synced 26 October 2026 ~03:41 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/calmedi"
+        }
+      ],
+      "indieAngle": "One booking site everyone in the trade already uses, and a calendar that does not import it."
+    }
+  ],
+  "whyItPrints": "Two calendars that do not talk. The practice pays so nobody pastes the appointment by hand. Once the day depends on the sync, they do not cancel it.",
+  "whyThisMatters": "Doctolib has the appointment. Google Calendar is what the practitioner actually looks at. CalMedi copies one into the other. The customers are dental, physio, and speech practices in France, and the assistants who run the day.\n\nIt launched at the end of October 2025. Twenty-two Stripe subscriptions. The plans are a few euros apart, from a starter up to a multi-site tier. The cash has climbed from almost nothing in the first month. There is no marketplace and no extra product. It is the sync.\n\nYou pay so nobody retypes the appointment.\n\nThe four plan prices are ten, fifteen, twenty, and thirty-five euros a month. The product launched on the last day of October 2025, so this sync is just under a year of Stripe. The monthly cash started in the tens and has sat in the hundreds since early 2026. Group practices and multi-site centres are in the target, not only solo rooms.\n\nSpeech therapy is in the same list as dental and physio. Assistants are users, not only the practitioner. Once the day runs off the synced calendar, cancelling the tool means going back to paste."
+}

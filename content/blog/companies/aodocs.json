@@ -1,0 +1,27 @@
+{
+  "slug": "aodocs",
+  "name": "AODocs",
+  "listingNote": null,
+  "description": "Document control on top of Google Workspace: approval workflows, an audit trail, and process control for the files a company cannot lose. Founded in 2012 by Stéphane Donzé. A LinkedIn count from October 2024 says about 95 employees. An earlier note on this site said 250 staff. I am leaving both.",
+  "homepage": "https://www.aodocs.com/",
+  "image": "/blog/2026-10-28/aodocs.webp",
+  "imageAlt": "AODocs product image",
+  "imageWidth": 1200,
+  "imageHeight": 592,
+  "mentions": [
+    {
+      "date": "2026-10-28",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated. Stéphane Donzé said on camera that annual revenue was $60M, the company is profitable, and the EBITDA margin is about 10%. The brief dates that figure to December 2026. It is not a payment-processor connection. The 22 October note on this site was about $30M of revenue for 2026, 15% growth, a 10% profit margin for 2025, and 250 staff.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/aodocs"
+        }
+      ],
+      "indieAngle": "The control layer on the office suite a regulated company already pays for."
+    }
+  ],
+  "whyItPrints": "The company already lives in Drive. Drive does not give them the control an auditor asks for. Once the contracts and the procedures sit in the workflow, leaving means rewriting the process.",
+  "whyThisMatters": "AODocs sits on Google Workspace and adds the approval workflow and the audit trail that Drive does not have. Stéphane Donzé started it in 2012. A LinkedIn count from October 2024 says about ninety-five employees. The one-line note already on this site, from 22 October, said two hundred and fifty staff. I am not picking a headcount.\n\nOn camera he said annual revenue was sixty million, that the company is profitable, and that the margin is about ten percent. That on-camera figure is dated December 2026 in the source note. The October note was about thirty million for 2026, with fifteen percent growth and a ten percent margin for 2025. Both numbers stay. Neither one is a payment-processor connection.\n\nYou pay so the contract file has a process, not just a folder.\n\nThe two staff counts are not a typo I am fixing. One comes from a LinkedIn snapshot in October 2024. The other was already on the 22 October note. The revenue jump from the earlier note to the on-camera figure is the same kind of disagreement, so both stay on the page."
+}

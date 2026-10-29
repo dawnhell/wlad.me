@@ -1,0 +1,27 @@
+{
+  "slug": "stampsnap",
+  "name": "StampSnap",
+  "listingNote": null,
+  "description": "You photograph a stamp. It offers a likely identification, the issue, and a value range, and you can save the stamp to a collection. The audience is collectors, not a general photo toy.",
+  "homepage": "https://stampsnap.app/",
+  "image": "/blog/2026-10-25/stampsnap.webp",
+  "imageAlt": "StampSnap product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-25",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR $444, 105 subscriptions. Last 30 days $579 (up 31.5%). Last 12 months $5,816. All-time $7,241. Listed for sale on 23 October 2026 at $17,000 (2.4x), 1 offer. Free download, with an optional Pro upgrade. Revenue synced 25 October 2026 ~07:51 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stampsnap"
+        }
+      ],
+      "indieAngle": "A catalogue for one kind of collector, with a subscription on top of the free app."
+    }
+  ],
+  "whyItPrints": "Collectors already catalogue. The cash has been flat and steady for a year.",
+  "whyThisMatters": "You photograph a stamp. StampSnap offers a likely identification, the issue, and a value range, and you save it to a collection. The audience is collectors. It is a photo app, and it is also a catalogue for people who already keep one.\n\nRevenueCat is the label. The monthly line and the last 30 days are close, and the year of cash has been steady rather than spiky. A free download, and an optional paid upgrade. Listed for sale on 23 October 2026, with one offer.\n\nYou pay so the album is searchable.\n\nListed on 23 October 2026 at seventeen thousand, called 2.4 times, with one offer. A hundred and five subscriptions. The last 30 days were up about thirty percent, and the months before that bounce around rather than spike. Last twelve months are a bit under six thousand. All-time is a bit over seven thousand. The Pro upgrade is optional on a free download.\n\nA value range is an estimate, not an appraisal I am standing behind. The audience line in the brief is older collectors who already keep a catalogue. Flat and steady is the shape of the year."
+}
