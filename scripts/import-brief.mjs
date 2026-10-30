@@ -417,6 +417,9 @@ function writeSeoFiles() {
     ['https://www.wlad.me/Wlad.me_CV(2026).pdf', '2026-08-25', 'yearly', '0.6'],
     [`${siteUrl}/blog`, newest, 'weekly', '0.8'],
     [`${siteUrl}/blog/about`, newest, 'monthly', '0.4'],
+    [`${siteUrl}/blog/companies`, newest, 'weekly', '0.6'],
+    [`${siteUrl}/blog/companies/for-sale`, newest, 'weekly', '0.5'],
+    [`${siteUrl}/blog/companies/again`, newest, 'weekly', '0.5'],
     ...editions.map((edition) => [
       `${siteUrl}/blog/${edition.date}`,
       edition.date,
@@ -496,6 +499,9 @@ ${rssItems}
 
 - [Boring SaaS](${siteUrl}/blog): Wlad's notebook of boring software that already makes money. Every number has a date, and he says whether it came from a payment company or from the company itself.
 - [About these notes](${siteUrl}/blog/about): How Stripe-verified and self-reported labels work.
+- [The companies](${siteUrl}/blog/companies): Every company note, grouped by whether the number came from Stripe, from the company, or from another payment company.
+- [For sale](${siteUrl}/blog/companies/for-sale): Notes where the listing says the company is for sale.
+- [Noted again](${siteUrl}/blog/companies/again): Companies with more than one dated number. The older number stays.
 
 ## Editions
 

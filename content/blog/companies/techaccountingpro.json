@@ -1,0 +1,27 @@
+{
+  "slug": "techaccountingpro",
+  "name": "TechAccountingPro",
+  "listingNote": null,
+  "description": "Technical accounting for digital-asset companies: token compensation, stock-based compensation, and getting ready for an audit. Sold as plans plus an interactive assessment. The pitch is Big 4 expertise without the Big 4 price. Founded 24 March 2022. US.",
+  "homepage": "https://techaccountingpro.com/",
+  "image": "/blog/2026-10-29/techaccountingpro.webp",
+  "imageAlt": "TechAccountingPro product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0. The revenue is project work. Last 30 days $1,955. Last 12 months $2,380. All-time $22,725. Last-30-day margin 75% claimed. 186 visitors in the last 30 days, and $10.51 of revenue per visitor. Revenue synced 29 October 2026 ~09:59 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/techaccountingpro"
+        }
+      ],
+      "indieAngle": "One hard accounting memo, sold as a fixed package."
+    }
+  ],
+  "whyItPrints": "A crypto company hits an audit and needs a memo on token grants. The big firms charge a lot. A niche expert selling a fixed package is the alternative. The cash is lumpy project work, not a monthly seat.",
+  "whyThisMatters": "TechAccountingPro writes the accounting memos a digital-asset company needs when an auditor shows up. Token pay, stock-based pay, and the work of getting ready for the audit. Plans plus an assessment. The pitch is a big-firm specialist without the big-firm invoice. It started in March 2022.\n\nStripe shows no monthly subscriptions. The money is project work. The last 30 days are a couple of thousand. The last twelve months are not much higher. The all-time total is much larger, so the busy years were earlier. Margin on the recent month is claimed, not checked. A small number of visitors, and a high revenue per visitor, fits a firm selling a package rather than a self-serve app.\n\nYou pay when the audit is real and the memo has to exist.\n\nLast twelve months barely above the last thirty days means the recent work is most of the year. The all-time total is the earlier projects. Assessment plus a plan is the packaging."
+}

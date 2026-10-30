@@ -1,0 +1,27 @@
+{
+  "slug": "lcptracker",
+  "name": "LCPtracker",
+  "listingNote": null,
+  "description": "Labor-compliance software for large public construction projects: certified payroll, prevailing wage, and workforce reporting. Customers are government agencies, big contractors, and their subcontractors. The example in the talk is LAX's $14 billion program.",
+  "homepage": "https://lcptracker.com/",
+  "image": "/blog/2026-10-29/lcptracker.webp",
+  "imageAlt": "LCPtracker product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-29",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a March 2023 talk. This is a 2023 snapshot, not a current figure. $25M revenue in 2023, up from $1M in 2011. 100% bootstrapped, zero debt. 97% gross revenue retention. More than 2,000 clients. $200B of active projects in the system. He said the plan was $1M to $2M of profit a year, with the rest reinvested, and about 20% of the target market.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/lcptracker/interviews/lcptracker-mark-douglas-2023"
+        }
+      ],
+      "indieAngle": "A form the government already requires, and the portal everyone on the job has to use."
+    }
+  ],
+  "whyItPrints": "On a public job, every subcontractor has to file certified payroll or nobody gets paid. Agencies make the tool mandatory. He says customers stay 12 to 15 years.",
+  "whyThisMatters": "LCPtracker is how certified payroll, prevailing wage, and workforce reports get filed on a big public construction job. Agencies, prime contractors, and the subcontractors under them are the customers. The talk uses the Los Angeles airport program as the example of the scale.\n\nThe revenue number is from a March 2023 interview. It is not a 2026 figure. He said that year was twenty-five million, up from one million in 2011, with no outside money and no debt. Retention of gross revenue at ninety-seven percent. More than two thousand clients. A very large book of active projects in the system. Profit, he said, was capped on purpose so the rest could be reinvested. Customers stay for more than a decade because the agency requires the filing. I am not updating this to a number the 2023 talk did not have.\n\nYou pay so the public job can pay the subcontractors.\n\nTwelve to fifteen years is the stay he described. About twenty percent of the market is his share claim from that same 2023 talk. Zero debt sits next to the bootstrapped line."
+}

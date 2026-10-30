@@ -248,6 +248,14 @@ const picks = [
     license: 'CC BY-SA 2.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Na_Pali_Coast%2C_Kauai%2C_Hawaii.jpg',
   },
+  {
+    id: 'hallstatt',
+    subject: 'nature',
+    alt: 'Hallstatt on the lake in Austria',
+    credit: 'Theo Crazzolara',
+    license: 'CC BY 2.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Hallstatt_-_Flickr_-_Theo_Crazzolara.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

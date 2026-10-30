@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-29",
+  "title": "Thursday's boring SaaS, 29 October 2026",
+  "dek": "Thursday, 29 October 2026. Five are Stripe-verified. Dougs, Excel Exercises, and LCPtracker are self-reported. LCPtracker's number is from a 2023 talk.",
+  "heroId": "hallstatt",
+  "companies": [
+    {
+      "slug": "emailengine",
+      "name": "EmailEngine",
+      "listingNote": null,
+      "description": "A self-hosted email API. It connects to a mailbox over IMAP and SMTP, the Gmail API, or Microsoft Graph, and exposes all of them through one REST API. Webhooks fire for new, changed, and deleted messages, bounces, and sent mail. Built by Postal Systems, the Nodemailer team. Founded 18 May 2020. Estonia.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $19,419, up 8.6% in 30 days. 237 subscriptions. Last 30 days $32,658, up 14.5%. Last 12 months $238,289. All-time $616,476. Last-30-day margin 90% claimed. Revenue synced 29 October 2026 ~07:53 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/emailengine"
+        }
+      ],
+      "homepage": "https://emailengine.app/",
+      "indieAngle": "One painful protocol, a licence, and a webhook. Sell it to developers who do not want to learn the protocol.",
+      "whyItPrints": "A CRM, a helpdesk, or an applicant tracker eventually has to read the user's inbox. IMAP and MIME are miserable to write. Teams pay for the licence instead. It runs on their own server, so the margin stays high.",
+      "image": "/blog/2026-10-29/emailengine.webp",
+      "imageAlt": "EmailEngine product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "quizado",
+      "name": "Quizado",
+      "listingNote": null,
+      "description": "Pub-quiz and game-show software for pubs, bars, restaurants, hotels, DJs, and event hosts. Guests join on their phones. There is no buzzer hardware. It handles answers, scoring, and a big-screen leaderboard. It also does music bingo, a family face-off, leagues, and seasons. Apps for web, iOS, Android, and TV. Founded 6 April 2025. Estonia.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $4,472, up 84% in 30 days. 32 subscriptions. Last 30 days $4,187, up 24.6%. All-time $16,730. Revenue synced 29 October 2026 ~01:56 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quizado"
+        }
+      ],
+      "homepage": "https://quizado.com/",
+      "indieAngle": "A weekly night out, sold to the host. Quiz, bingo, or a darts league.",
+      "whyItPrints": "Quiz night is how a venue fills a slow Tuesday. The host pays monthly for the tool that runs the night, and they do not switch in the middle of a season.",
+      "image": "/blog/2026-10-29/quizado.webp",
+      "imageAlt": "Quizado product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "catering-funnels",
+      "name": "Catering Funnels",
+      "listingNote": null,
+      "description": "Lead generation and follow-up for restaurants that already do catering. It finds corporate catering leads and follows up with them. Founded 18 November 2025. US. Sold as a done-for-you service with software around it.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $3,182, up 30.7%. 6 subscriptions. Last 30 days $4,115, up 152.2%. All-time $28,367. 449 visitors in the last 30 days, and $9.16 of revenue per visitor. Revenue synced 29 October 2026 ~05:04 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/catering-funnels"
+        }
+      ],
+      "homepage": "https://cateringfunnels.com/",
+      "indieAngle": "One revenue line of one kind of small business. Few clients, a high ticket.",
+      "whyItPrints": "A catering order is a large ticket for a restaurant, and the owner does not have time to call office managers. A few customers on a retainer is the whole model.",
+      "image": "/blog/2026-10-29/catering-funnels.webp",
+      "imageAlt": "Catering Funnels product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "techaccountingpro",
+      "name": "TechAccountingPro",
+      "listingNote": null,
+      "description": "Technical accounting for digital-asset companies: token compensation, stock-based compensation, and getting ready for an audit. Sold as plans plus an interactive assessment. The pitch is Big 4 expertise without the Big 4 price. Founded 24 March 2022. US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0. The revenue is project work. Last 30 days $1,955. Last 12 months $2,380. All-time $22,725. Last-30-day margin 75% claimed. 186 visitors in the last 30 days, and $10.51 of revenue per visitor. Revenue synced 29 October 2026 ~09:59 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/techaccountingpro"
+        }
+      ],
+      "homepage": "https://techaccountingpro.com/",
+      "indieAngle": "One hard accounting memo, sold as a fixed package.",
+      "whyItPrints": "A crypto company hits an audit and needs a memo on token grants. The big firms charge a lot. A niche expert selling a fixed package is the alternative. The cash is lumpy project work, not a monthly seat.",
+      "image": "/blog/2026-10-29/techaccountingpro.webp",
+      "imageAlt": "TechAccountingPro product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "private-sas",
+      "name": "Private Sas",
+      "listingNote": null,
+      "description": "An anonymous French listing for restaurant food ordering. The whole description is a food-ordering tool without the AI. Founded 11 May 2026. The listing does not give a product site or a company name beyond Private Sas.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,991, up 57.7%. 49 subscriptions. Last 30 days $2,016, up 51.5%. All-time $4,597. 2,921 visitors and 52,908 Google impressions in the last 30 days. Revenue synced 29 October 2026 ~06:21 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/foodsas"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "A commission-free ordering page for restaurants in one city, sold door to door.",
+      "whyItPrints": "Independent restaurants already hate marketplace commissions. A flat-fee ordering page is an easy yes. The pitch is that it is not an AI product.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "dougs",
+      "name": "Dougs",
+      "listingNote": null,
+      "description": "A Lyon accounting firm with its own software. Founded in 2015 by chartered accountants. A subscription with no commitment covers bookkeeping, VAT, the year-end accounts, and legal questions, with bank feeds and a client app. A chartered accountant still signs every file. About 100 engineers in house. The CEO says there are more legal staff (180) than accountants (150) answering questions.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated. More than €50M ARR and more than 50,000 businesses, growing about 50% a year for 10 years, from the CEO blog on 26 October 2026. A March 2026 podcast said €35M ARR, 40,000 clients, 430 staff, and profitable since day one. TechCrunch in 2023 said €15M ARR and 14,000 clients. Bootstrapped until a €25M round in 2023. Raised €50M from Expedition Growth Capital, announced 15 October 2026. The target they state is €100M ARR and 100,000 clients.",
+      "sources": [
+        {
+          "label": "Dougs blog",
+          "url": "https://www.dougs.fr/blog/levee-fonds-dougs/"
+        },
+        {
+          "label": "Method to Scale",
+          "url": "https://www.methodtoscale.fr/episodes/83-comment-dougs-a-atteint-35-millions-arr-sans-lever-de-fonds-avec-patrick-maurice-ceo-et-cofondateur-de-dougs"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2023/07/04/after-bootstrapping-for-8-years-accounting-startup-dougs-raises-27-million/"
+        }
+      ],
+      "homepage": "https://www.dougs.fr/",
+      "indieAngle": "Start with one kind of client and automate the accountant's production work.",
+      "whyItPrints": "Every French company has to file accounts. They automated the production of the books, so the margin can rise while the price stays low. This is not a one-person tool. It is an accounting firm that built the software.",
+      "image": "/blog/2026-10-29/dougs.webp",
+      "imageAlt": "Dougs product image",
+      "imageWidth": 680,
+      "imageHeight": 355
+    },
+    {
+      "slug": "excel-exercises",
+      "name": "Excel Exercises",
+      "listingNote": null,
+      "description": "Hands-on drills for Excel functions and keyboard shortcuts. A few lessons are free, then a hard paywall. Solo founder Jake, a finance graduate who taught himself to code. He built it at night, five or six years ago.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, shown in a Starter Story interview on 28 October 2026. Not independently checked. $30,000 to $35,000 a month. A little over $30,000 in the past four weeks. About 2,500 paying subscribers. About 50,000 visitors in the past four weeks. He says it grew about five times since he quit his job two years ago, and that doubling the monthly price, while leaving the annual price alone, is what made growth take off.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/i-make-30k-month-from-the-most-boring-website-on-the-internet"
+        }
+      ],
+      "homepage": "https://excelexercises.com/",
+      "indieAngle": "Drills for one office tool, a hard paywall, search first, then a boss buying seats.",
+      "whyItPrints": "New graduates, and people who overstated Excel on a CV, need to get competent fast. He says growth came from long search pages, then ads, then bosses buying fifty seats and universities buying a class. He says the hosting bill is under $100 a month.",
+      "image": "/blog/2026-10-29/excel-exercises.webp",
+      "imageAlt": "Excel Exercises product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "lcptracker",
+      "name": "LCPtracker",
+      "listingNote": null,
+      "description": "Labor-compliance software for large public construction projects: certified payroll, prevailing wage, and workforce reporting. Customers are government agencies, big contractors, and their subcontractors. The example in the talk is LAX's $14 billion program.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, from a March 2023 talk. This is a 2023 snapshot, not a current figure. $25M revenue in 2023, up from $1M in 2011. 100% bootstrapped, zero debt. 97% gross revenue retention. More than 2,000 clients. $200B of active projects in the system. He said the plan was $1M to $2M of profit a year, with the rest reinvested, and about 20% of the target market.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/lcptracker/interviews/lcptracker-mark-douglas-2023"
+        }
+      ],
+      "homepage": "https://lcptracker.com/",
+      "indieAngle": "A form the government already requires, and the portal everyone on the job has to use.",
+      "whyItPrints": "On a public job, every subcontractor has to file certified payroll or nobody gets paid. Agencies make the tool mandatory. He says customers stay 12 to 15 years.",
+      "image": "/blog/2026-10-29/lcptracker.webp",
+      "imageAlt": "LCPtracker product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    }
+  ],
+  "honorableMentions": []
+}

@@ -14,17 +14,10 @@ type EditionSummary = {
   hero: Pick<Hero, 'src' | 'alt' | 'width' | 'height'>
 }
 
-type CompanySummary = {
-  slug: string
-  name: string
-  description: string
-}
-
 type BlogIndexProps = {
   latest: EditionSummary
   hero: Hero
   older: EditionSummary[]
-  companies: CompanySummary[]
 }
 
 const EditionCard = ({
@@ -68,11 +61,7 @@ const EditionCard = ({
   )
 }
 
-const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
-  latest,
-  older,
-  companies,
-}) => {
+const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({ latest, older }) => {
   return (
     <div className="flex w-full flex-col gap-12">
       <header className="flex w-full flex-col gap-3">
@@ -88,6 +77,15 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
           The link sits next to it.
         </p>
         <p className="flex flex-wrap gap-4 text-sm">
+          <a href="/blog/companies" className="text-link">
+            The companies
+          </a>
+          <a href="/blog/companies/for-sale" className="text-link">
+            For sale
+          </a>
+          <a href="/blog/companies/again" className="text-link">
+            Noted again
+          </a>
           <a href="/blog/about" className="text-link">
             How these notes work
           </a>
@@ -141,7 +139,10 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
             Tailride
           </a>{' '}
           if you want to see an older number stay put when I write about a
-          company again.{' '}
+          company again. The rest of those are on{' '}
+          <a href="/blog/companies/again" className="text-link">
+            Noted again
+          </a>.{' '}
           <a href="/blog/2026-10-15" className="text-link">
             15 October
           </a>{' '}
@@ -175,26 +176,23 @@ const BlogIndex: tNextPageWithLayout<BlogIndexProps> = ({
         </section>
       ) : null}
 
-      <section id="companies" className="flex w-full scroll-mt-8 flex-col gap-4">
+      <section id="companies" className="flex w-full scroll-mt-8 flex-col gap-3">
         <h2 className="font-serif text-2xl font-normal">The companies</h2>
-        <p className="max-w-[65ch] text-sm leading-relaxed text-muted-foreground">
-          Click a name. The line under it is what they sell.
+        <p className="max-w-[65ch] leading-relaxed text-muted-foreground">
+          The names are on their own page. For sale is the listings that say so.
+          Noted again is a company I wrote down more than once.
         </p>
-        <ul className="grid gap-2 sm:grid-cols-2">
-          {companies.map((company) => (
-            <li key={company.slug}>
-              <a
-                href={`/blog/companies/${company.slug}`}
-                className="flex min-h-11 flex-col gap-1 rounded-lg p-3 fine-hover:bg-muted"
-              >
-                <span className="font-medium">{company.name}</span>
-                <span className="text-sm leading-relaxed text-muted-foreground">
-                  {company.description}
-                </span>
-              </a>
-            </li>
-          ))}
-        </ul>
+        <p className="flex flex-wrap gap-4 text-sm">
+          <a href="/blog/companies" className="text-link">
+            The companies
+          </a>
+          <a href="/blog/companies/for-sale" className="text-link">
+            For sale
+          </a>
+          <a href="/blog/companies/again" className="text-link">
+            Noted again
+          </a>
+        </p>
       </section>
     </div>
   )
@@ -220,7 +218,7 @@ BlogIndex.getLayout = function getLayout(
 export default BlogIndex
 
 export async function getStaticProps() {
-  const { getCompanies, getEditions, getHero } = await import('../../lib/blog')
+  const { getEditions, getHero } = await import('../../lib/blog')
   const editions = getEditions()
   const latestEdition = editions[0]
   if (!latestEdition) return { notFound: true }
@@ -246,11 +244,6 @@ export async function getStaticProps() {
       latest: summarize(latestEdition),
       hero,
       older: editions.slice(1).map(summarize),
-      companies: getCompanies().map((company) => ({
-        slug: company.slug,
-        name: company.name,
-        description: company.description,
-      })),
     },
   }
 }

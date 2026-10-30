@@ -449,7 +449,7 @@ export function companyCrumbs(company: Company): Crumb[] {
   return [
     { name: 'Home', path: '/' },
     { name: 'Blog', path: '/blog' },
-    { name: 'Companies', path: '/blog#companies' },
+    { name: 'Companies', path: '/blog/companies' },
     { name: company.name, path: `/blog/companies/${company.slug}` },
   ]
 }

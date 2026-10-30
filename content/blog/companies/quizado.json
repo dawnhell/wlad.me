@@ -1,0 +1,27 @@
+{
+  "slug": "quizado",
+  "name": "Quizado",
+  "listingNote": null,
+  "description": "Pub-quiz and game-show software for pubs, bars, restaurants, hotels, DJs, and event hosts. Guests join on their phones. There is no buzzer hardware. It handles answers, scoring, and a big-screen leaderboard. It also does music bingo, a family face-off, leagues, and seasons. Apps for web, iOS, Android, and TV. Founded 6 April 2025. Estonia.",
+  "homepage": "https://quizado.com/",
+  "image": "/blog/2026-10-29/quizado.webp",
+  "imageAlt": "Quizado product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $4,472, up 84% in 30 days. 32 subscriptions. Last 30 days $4,187, up 24.6%. All-time $16,730. Revenue synced 29 October 2026 ~01:56 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/quizado"
+        }
+      ],
+      "indieAngle": "A weekly night out, sold to the host. Quiz, bingo, or a darts league."
+    }
+  ],
+  "whyItPrints": "Quiz night is how a venue fills a slow Tuesday. The host pays monthly for the tool that runs the night, and they do not switch in the middle of a season.",
+  "whyThisMatters": "Quizado runs quiz night. A pub, a bar, a hotel, a DJ, or an event host puts the questions up. Guests join on their phones. There are no buzzers to buy. Scoring and the big-screen leaderboard are in the software. It also does music bingo, a family game, and a season of leagues. Web, phone, and TV. It started in April 2025, in Estonia.\n\nThirty-two Stripe subscriptions. The monthly line jumped hard in the last 30 days. The cash for those 30 days is close to the subscription line, and the all-time total is still small, which fits a young product. Hosts pay because Tuesday is quiet and the quiz is how they fill it. Switching tools in the middle of a season is a mess.\n\nYou pay so the regulars have a reason to come on a slow night."
+}

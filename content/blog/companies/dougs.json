@@ -1,0 +1,35 @@
+{
+  "slug": "dougs",
+  "name": "Dougs",
+  "listingNote": null,
+  "description": "A Lyon accounting firm with its own software. Founded in 2015 by chartered accountants. A subscription with no commitment covers bookkeeping, VAT, the year-end accounts, and legal questions, with bank feeds and a client app. A chartered accountant still signs every file. About 100 engineers in house. The CEO says there are more legal staff (180) than accountants (150) answering questions.",
+  "homepage": "https://www.dougs.fr/",
+  "image": "/blog/2026-10-29/dougs.webp",
+  "imageAlt": "Dougs product image",
+  "imageWidth": 680,
+  "imageHeight": 355,
+  "mentions": [
+    {
+      "date": "2026-10-29",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated. More than €50M ARR and more than 50,000 businesses, growing about 50% a year for 10 years, from the CEO blog on 26 October 2026. A March 2026 podcast said €35M ARR, 40,000 clients, 430 staff, and profitable since day one. TechCrunch in 2023 said €15M ARR and 14,000 clients. Bootstrapped until a €25M round in 2023. Raised €50M from Expedition Growth Capital, announced 15 October 2026. The target they state is €100M ARR and 100,000 clients.",
+      "sources": [
+        {
+          "label": "Dougs blog",
+          "url": "https://www.dougs.fr/blog/levee-fonds-dougs/"
+        },
+        {
+          "label": "Method to Scale",
+          "url": "https://www.methodtoscale.fr/episodes/83-comment-dougs-a-atteint-35-millions-arr-sans-lever-de-fonds-avec-patrick-maurice-ceo-et-cofondateur-de-dougs"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2023/07/04/after-bootstrapping-for-8-years-accounting-startup-dougs-raises-27-million/"
+        }
+      ],
+      "indieAngle": "Start with one kind of client and automate the accountant's production work."
+    }
+  ],
+  "whyItPrints": "Every French company has to file accounts. They automated the production of the books, so the margin can rise while the price stays low. This is not a one-person tool. It is an accounting firm that built the software.",
+  "whyThisMatters": "Dougs is an accounting firm in Lyon that built its own software. Chartered accountants started it in 2015. The subscription covers the books, VAT, the year-end accounts, and legal questions. Bank feeds and a client app are in it. A chartered accountant still signs the file. About a hundred engineers work on the production of the books. The CEO says the legal team that answers clients is larger than the accountant team.\n\nThree yearly figures are on the page, and they are not the same year. The October 2026 blog is the newest and the largest. The March 2026 podcast is lower, with a staff count and a claim of profit from the start. The 2023 article is lower still. I am not averaging them. They raised once in 2023 and again in October 2026. The target they publish is larger than either number. This is a firm, not a solo tool.\n\nYou pay because the accounts have to be filed, and a person still signs them."
+}

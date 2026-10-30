@@ -1,0 +1,27 @@
+{
+  "slug": "emailengine",
+  "name": "EmailEngine",
+  "listingNote": null,
+  "description": "A self-hosted email API. It connects to a mailbox over IMAP and SMTP, the Gmail API, or Microsoft Graph, and exposes all of them through one REST API. Webhooks fire for new, changed, and deleted messages, bounces, and sent mail. Built by Postal Systems, the Nodemailer team. Founded 18 May 2020. Estonia.",
+  "homepage": "https://emailengine.app/",
+  "image": "/blog/2026-10-29/emailengine.webp",
+  "imageAlt": "EmailEngine product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $19,419, up 8.6% in 30 days. 237 subscriptions. Last 30 days $32,658, up 14.5%. Last 12 months $238,289. All-time $616,476. Last-30-day margin 90% claimed. Revenue synced 29 October 2026 ~07:53 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/emailengine"
+        }
+      ],
+      "indieAngle": "One painful protocol, a licence, and a webhook. Sell it to developers who do not want to learn the protocol."
+    }
+  ],
+  "whyItPrints": "A CRM, a helpdesk, or an applicant tracker eventually has to read the user's inbox. IMAP and MIME are miserable to write. Teams pay for the licence instead. It runs on their own server, so the margin stays high.",
+  "whyThisMatters": "EmailEngine is the pipe between a product and someone's mailbox. IMAP, the Gmail API, and Microsoft Graph all come out as one REST API, with webhooks when a message arrives, changes, or bounces. Postal Systems built it. They are the Nodemailer people. It has been around since May 2020, in Estonia.\n\nTeams pay because writing that code themselves is a miserable project, and the inbox sync is not the product they are selling. The software sits on the customer's own server, which is why the margin they claim is so high. Two hundred thirty-seven Stripe subscriptions. The last 30 days of cash sit above the monthly subscription line.\n\nYou pay so the inbox sync is someone else's problem."
+}

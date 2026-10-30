@@ -1,0 +1,27 @@
+{
+  "slug": "private-sas",
+  "name": "Private Sas",
+  "listingNote": null,
+  "description": "An anonymous French listing for restaurant food ordering. The whole description is a food-ordering tool without the AI. Founded 11 May 2026. The listing does not give a product site or a company name beyond Private Sas.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,991, up 57.7%. 49 subscriptions. Last 30 days $2,016, up 51.5%. All-time $4,597. 2,921 visitors and 52,908 Google impressions in the last 30 days. Revenue synced 29 October 2026 ~06:21 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/foodsas"
+        }
+      ],
+      "indieAngle": "A commission-free ordering page for restaurants in one city, sold door to door."
+    }
+  ],
+  "whyItPrints": "Independent restaurants already hate marketplace commissions. A flat-fee ordering page is an easy yes. The pitch is that it is not an AI product.",
+  "whyThisMatters": "The listing is called Private Sas. It is a French tool for restaurant food ordering, and the only description is that it does the ordering without the AI. It started in May 2026. There is no product site on the listing, and I am not guessing one. There is no company name beyond the words on the profile.\n\nForty-nine Stripe subscriptions. The monthly line and the last 30 days are both around a couple of thousand, and both are up by about half. The all-time total is still small. Search impressions in the last 30 days are in the tens of thousands, which is a lot of looking for a young listing. Independent restaurants already pay marketplaces a cut of every order. A flat fee is the alternative they are buying.\n\nYou pay so the order page is yours, and the commission is not.\n\nThe TrustMRR slug is foodsas. That is a source address, not a homepage, and I am not turning it into one."
+}

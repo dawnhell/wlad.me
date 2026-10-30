@@ -328,5 +328,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Na_Pali_Coast%2C_Kauai%2C_Hawaii.jpg",
     "license": "CC BY-SA 2.0",
     "subject": "nature"
+  },
+  {
+    "id": "hallstatt",
+    "src": "/blog/heroes/hallstatt.webp",
+    "alt": "Hallstatt on the lake in Austria",
+    "width": 1440,
+    "height": 960,
+    "credit": "Theo Crazzolara",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Hallstatt_-_Flickr_-_Theo_Crazzolara.jpg",
+    "license": "CC BY 2.0",
+    "subject": "nature"
   }
 ]

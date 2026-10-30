@@ -1,0 +1,27 @@
+{
+  "slug": "catering-funnels",
+  "name": "Catering Funnels",
+  "listingNote": null,
+  "description": "Lead generation and follow-up for restaurants that already do catering. It finds corporate catering leads and follows up with them. Founded 18 November 2025. US. Sold as a done-for-you service with software around it.",
+  "homepage": "https://cateringfunnels.com/",
+  "image": "/blog/2026-10-29/catering-funnels.webp",
+  "imageAlt": "Catering Funnels product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-29",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $3,182, up 30.7%. 6 subscriptions. Last 30 days $4,115, up 152.2%. All-time $28,367. 449 visitors in the last 30 days, and $9.16 of revenue per visitor. Revenue synced 29 October 2026 ~05:04 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/catering-funnels"
+        }
+      ],
+      "indieAngle": "One revenue line of one kind of small business. Few clients, a high ticket."
+    }
+  ],
+  "whyItPrints": "A catering order is a large ticket for a restaurant, and the owner does not have time to call office managers. A few customers on a retainer is the whole model.",
+  "whyThisMatters": "Catering Funnels finds corporate catering leads for a restaurant that already does catering, and it follows up. It started in November 2025. Six Stripe subscriptions. The monthly line is a few thousand, so each customer is a large retainer, not a ten-dollar seat. The last 30 days of cash are above that monthly line and more than doubled. The all-time total is larger than a year of the current pace would suggest, so some of the money came in lumps.\n\nA few hundred visitors and a high revenue per visitor fit a sales motion that is closer to a service than a signup form. The owner of the restaurant is not the one calling office managers.\n\nYou pay so the catering calendar fills without the owner doing the prospecting.\n\nSix customers is the whole Stripe count. The per-customer size is why a handful of restaurants can be the business. Founded in November 2025, so the all-time total covers less than a year."
+}
