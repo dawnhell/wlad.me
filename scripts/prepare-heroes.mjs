@@ -256,6 +256,22 @@ const picks = [
     license: 'CC BY 2.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Hallstatt_-_Flickr_-_Theo_Crazzolara.jpg',
   },
+  {
+    id: 'quiraing',
+    subject: 'nature',
+    alt: 'The Quiraing on the Isle of Skye',
+    credit: 'Diliff',
+    license: 'CC BY-SA 3.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/7/72/Quiraing%2C_Isle_of_Skye%2C_Scotland_-_Diliff.jpg',
+  },
+  {
+    id: 'peyto-lake',
+    subject: 'nature',
+    alt: 'Peyto Lake in Banff National Park',
+    credit: 'Tobias Alt, Tobi 87',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/9/91/Peyto_Lake-Banff_NP-Canada.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

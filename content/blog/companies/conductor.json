@@ -2,9 +2,9 @@
   "slug": "conductor",
   "name": "Conductor",
   "listingNote": null,
-  "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 27 October listing is still for sale. Stripe is a bit higher than the 24 October note.",
+  "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 30 October listing is still for sale. Stripe is a bit higher than the 27 October note.",
   "homepage": "https://conductor.is/",
-  "image": "/blog/2026-10-20/conductor.webp",
+  "image": "/blog/2026-10-30/conductor.webp",
   "imageAlt": "Conductor product image",
   "imageWidth": 1200,
   "imageHeight": 610,
@@ -65,6 +65,18 @@
       "date": "2026-10-27",
       "evidenceKind": "stripe-verified",
       "evidence": "MRR $44,662. Last 30 days $43,611. Still listed for sale at $1,250,000. Noted 27 October 2026. The 24 October note was $44,349 a month.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe number moved up a little, and it is still for sale."
+    },
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $45,524. 302 subscriptions. Last 30 days $44,395, up 14.8%. All-time $504,399. Last-30-day margin 95% claimed. Still listed for sale at $1,250,000 (2.3x), 27 offers. Revenue synced 30 October 2026 ~09:24 Warsaw. The 27 October note was $44,662 a month and last 30 days $43,611.",
       "sources": [
         {
           "label": "TrustMRR",

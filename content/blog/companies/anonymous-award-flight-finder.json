@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-award-flight-finder",
+  "name": "Anonymous award-flight finder",
+  "listingNote": null,
+  "description": "It searches airline seats you can book with miles, and it alerts people who collect points. The TrustMRR username is storstein. Founded 14 December 2025. Norway. The listing does not give a product site.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-31",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $22,528. 1,187 subscriptions. Last-30-day margin 80% claimed. Last 30 days $27,814, down 27.1%. All-time and last 12 months $145,833. June $11,530, July $15,571, August $33,941, September $38,652, October $27,825 so far. Revenue synced 30 October 2026 ~23:13 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/flight-award"
+        }
+      ],
+      "indieAngle": "Search the thing the official site makes painful, then send the alert."
+    }
+  ],
+  "whyItPrints": "The airline site makes the search painful. Points collectors pay monthly for the alert. The margin is high.",
+  "whyThisMatters": "It looks for seats you can book with miles, and it tells the people who collect points. The TrustMRR name on the account is storstein. Started in December 2025. Norway. No public site on the listing. I am not inventing one.\n\nA bit over a thousand Stripe subscriptions. The cash climbed hard into August and September, then October is lower, which is why the last thirty days are down. The all-time total is the same as the last twelve months, so this is the whole history. Margin is claimed at eighty percent. Scraping airline sites is the fragile part, and the listing does not describe how they keep it running.\n\nYou pay so you do not refresh the airline page yourself.\n\nJune was the small month. August and September were the spike. October is off that peak and still well above June. The username on the listing is not a company name. Founded in the middle of December 2025, so the twelve-month total is the whole life of the Stripe account."
+}

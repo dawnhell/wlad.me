@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-reseller-deal-alerts",
+  "name": "Anonymous reseller deal alerts",
+  "listingNote": null,
+  "description": "Resellers of second-hand fashion and collectibles set filters for brand, price, and condition. New marketplace listings arrive within seconds, with prices in euros and one-click buying. Plans are €79, €129, and €299 a month, plus yearly and quarterly options. The seller says 79 of the subscribers are mostly French, and that it runs on one server. Founded 15 August 2026. The listing does not name the company or give a product site.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $14,534. 99 subscriptions. Last 30 days $13,554, up 29.1%. All-time $35,396. Monthly cash: August $11,501, September $12,312, October $11,583. Last-30-day margin 85% claimed. Listed for sale at $399,000 (2.5x), 3 offers. The seller's subscriber count of 79 does not match the 99 Stripe subscriptions. Revenue synced 30 October 2026 ~07:52 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hidden-business-86"
+        }
+      ],
+      "indieAngle": "Filters, then a push within seconds, for one second-hand marketplace."
+    }
+  ],
+  "whyItPrints": "The first person to see an underpriced listing wins. Pros pay tool prices for a scraper and a notification. The seller says the support load is small.",
+  "whyThisMatters": "Resellers set a brand, a price, and a condition. A new listing on a second-hand marketplace shows up in seconds, in euros, with a button to buy. Plans sit in a professional range, not a hobby price. The seller says most of the customers are in France, and that one server runs it. Founded in August 2026. No company name. No site. I am not guessing either.\n\nStripe shows ninety-nine subscriptions. The seller says seventy-nine. I am leaving both. Monthly cash has been flat from August through October, a bit under the subscription line. Margin is claimed at eighty-five percent. The listing is for sale, with three offers.\n\nYou pay so you see the underpriced item first."
+}

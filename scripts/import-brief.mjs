@@ -89,6 +89,8 @@ function evidenceKindFromLabel(label) {
   if (/revenuecat/i.test(label)) return 'revenuecat-verified'
   if (/shopify/i.test(label)) return 'shopify-verified'
   if (/dodo/i.test(label)) return 'dodo-verified'
+  if (/razorpay/i.test(label)) return 'razorpay-verified'
+  if (/whop/i.test(label)) return 'whop-verified'
   if (/creem/i.test(label)) return 'creem-verified'
   if (/polar/i.test(label)) return 'polar-verified'
   if (/paddle/i.test(label)) return 'paddle-verified'
@@ -281,6 +283,8 @@ function editionDek(companies, formatted) {
     ['revenuecat-verified', 'RevenueCat-verified'],
     ['shopify-verified', 'Shopify-verified'],
     ['dodo-verified', 'Dodo-verified'],
+    ['whop-verified', 'Whop-verified'],
+    ['razorpay-verified', 'Razorpay-verified'],
     ['self-reported', 'self-reported'],
   ]
   const parts = labels
@@ -307,6 +311,8 @@ function evidenceLabel(kind) {
   if (kind === 'revenuecat-verified') return 'RevenueCat-verified'
   if (kind === 'shopify-verified') return 'Shopify-verified'
   if (kind === 'dodo-verified') return 'Dodo-verified'
+  if (kind === 'whop-verified') return 'Whop-verified'
+  if (kind === 'razorpay-verified') return 'Razorpay-verified'
   return 'Self-reported'
 }
 

@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-31",
+  "title": "Saturday's boring SaaS, 31 October 2026",
+  "dek": "Saturday, 31 October 2026. Four are Stripe-verified. DirectRoles is Whop-verified, so that listing is connected to Whop. WhoGoes is Razorpay-verified, so that listing is connected to Razorpay. Attributer, ClearSync, Schedulicity, and Cairde Designs are self-reported. ClearSync did not give a number.",
+  "heroId": "peyto-lake",
+  "companies": [
+    {
+      "slug": "attributer",
+      "name": "Attributer",
+      "listingNote": null,
+      "description": "A script that remembers where a visitor came from. When they fill in a form, it writes that into hidden fields, so HubSpot, Salesforce, or another CRM gets the channel. Aaron Beashel launched it at the end of 2021. The front end is built in Bubble. Australia. He is the only person in the company.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story. Not independently checked. The header shows $100,000 of revenue a month, 1 founder, 0 employees. About five months after launch in 2022 he said he had just crossed $60,000 a year, adding $10,000 to $15,000 a year each month. A 2023 update said $400,000 a year, bootstrapped and profitable, and that it was his full-time job. A 2024 update said they were over $1 million a year, still just him, aiming at $2 million while staying solo. Growth from search, plus the multisite plans.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/attributer"
+        },
+        {
+          "label": "2023 update",
+          "url": "https://www.starterstory.com/stories/attributer-0a5ef6f5-a401-4077-a10b-ffc9f88b9c71"
+        },
+        {
+          "label": "2024 update",
+          "url": "https://www.starterstory.com/stories/attributer-7d21872d-bcc8-4468-8e1e-d9847e999180"
+        }
+      ],
+      "homepage": "https://attributer.io/",
+      "indieAngle": "One missing field on the lead form, filled by a script, found through search.",
+      "whyItPrints": "Marketers want the lead tagged with the channel, and they do not want to build that themselves. An agency installs it for one client, then rolls it out. Agency plans grew to about 20% of revenue after more than 100 agencies had upgraded.",
+      "image": "/blog/2026-10-31/attributer.webp",
+      "imageAlt": "Attributer product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "clearsync",
+      "name": "ClearSync",
+      "listingNote": null,
+      "description": "It copies Stripe customers, subscriptions, revenue, and the subscription history into HubSpot, so sales and support can see the billing next to the deal. Rachel Decker and Joss Poulton, both ex-HubSpot, in Boston. Joss says he lived with the problem for 15 years.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 30 October 2026. The founders say the company is profitable and fully bootstrapped. The interview does not give a revenue number, so this page does not invent one. A sidebar on the page shows an $8,000 a month label that is not clearly this company, so it is not used.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/clearsync-ai"
+        }
+      ],
+      "homepage": "https://clearsync.ai/",
+      "indieAngle": "One billing system piped into one CRM.",
+      "whyItPrints": "Every company on Stripe and HubSpot has this gap. They say a marketplace listing gave them credibility and almost no customers. About half of customers in the last year came from search, chatbots, and YouTube, which is their claim.",
+      "image": "/blog/2026-10-31/clearsync.webp",
+      "imageAlt": "ClearSync product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "schedulicity",
+      "name": "Schedulicity",
+      "listingNote": null,
+      "description": "Online booking for hairstylists, trainers, and other small service businesses. Jerry Nettuno started it in Bozeman, Montana in 2009, after he could not book his own haircut. It launched at $29 a month with about a hundred local customers. Sold to Vagaro. The deal closed in early 2025.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, episode published 29 October 2026. 15,000 to 20,000 small businesses. Almost 40 million consumers. $10 million to $20 million of revenue. About 100 employees. About $28M raised from angels and one large private investor, no venture fund. Growth stalled after COVID. Sold to Vagaro, closing early 2025. He says he would not have raised that much, and that today it could run with a fraction of the staff.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/you-can-skip-venture-capital-and-still-raise-too-much-jerry-nettuno/"
+        }
+      ],
+      "homepage": "https://www.schedulicity.com/",
+      "indieAngle": "One trade, about $29 a month, and a small team.",
+      "whyItPrints": "A salon appointment book is a dull product, and it still got to eight figures. One stylist whose problems they fixed brought more than 200 customers on for free, which is his story.",
+      "image": "/blog/2026-10-31/schedulicity.webp",
+      "imageAlt": "Schedulicity product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "anonymous-award-flight-finder",
+      "name": "Anonymous award-flight finder",
+      "listingNote": null,
+      "description": "It searches airline seats you can book with miles, and it alerts people who collect points. The TrustMRR username is storstein. Founded 14 December 2025. Norway. The listing does not give a product site.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $22,528. 1,187 subscriptions. Last-30-day margin 80% claimed. Last 30 days $27,814, down 27.1%. All-time and last 12 months $145,833. June $11,530, July $15,571, August $33,941, September $38,652, October $27,825 so far. Revenue synced 30 October 2026 ~23:13 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/flight-award"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Search the thing the official site makes painful, then send the alert.",
+      "whyItPrints": "The airline site makes the search painful. Points collectors pay monthly for the alert. The margin is high.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "directroles",
+      "name": "DirectRoles",
+      "listingNote": null,
+      "description": "Jobs that are posted on company websites, not on LinkedIn or Indeed. The pitch is to apply direct and skip the recruiter. Aimed at people looking for work. Founded 14 July 2026.",
+      "evidenceKind": "whop-verified",
+      "evidence": "Whop-verified, not Stripe. MRR $13,426, up 3.1%. 512 subscriptions. Last 30 days $27,406, up 68.5%. All-time $56,917 in about 3.5 months. Revenue synced 30 October 2026 ~19:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/directroles"
+        }
+      ],
+      "homepage": "https://directroles.net/",
+      "indieAngle": "One kind of careers page, a filter, and a subscription for the person job hunting.",
+      "whyItPrints": "It is a crawler of careers pages, sold as a subscription. The payment connection is Whop, not Stripe.",
+      "image": "/blog/2026-10-31/directroles.webp",
+      "imageAlt": "DirectRoles product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "textrahost",
+      "name": "TextraHost",
+      "listingNote": null,
+      "description": "Shared hosting, WordPress hosting, reseller hosting, VPS, dedicated servers, domains, and colocation, aimed at India. Cloud servers from $4 a month. Founder Ritik Barnwal. Founded 23 December 2019.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 and 0 subscriptions. Billing is invoices and renewals, not Stripe subscriptions. Last 30 days $9,947, up 29.7%. Last 12 months $59,505. All-time $68,646. Last-30-day margin 55% claimed. Revenue synced 30 October 2026 ~10:24 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/textrahost"
+        }
+      ],
+      "homepage": "https://textrahost.com/",
+      "indieAngle": "Hosting for one country, in the local language, with someone who answers.",
+      "whyItPrints": "Hosting is a recurring bill. People stay because moving a site is annoying. The Stripe subscription line is zero. The cash is renewals and invoices.",
+      "image": "/blog/2026-10-31/textrahost.webp",
+      "imageAlt": "TextraHost product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "anonymous-proxy-reseller",
+      "name": "Anonymous proxy reseller",
+      "listingNote": null,
+      "description": "Residential, ISP, and mobile proxies, bought from two upstream providers and resold. The seller says provisioning, payments, support, fraud checks, and renewals are automated. More than 8,000 registered users and more than 200 paying subscribers, which is the seller's count and does not match the Stripe subscription count. Founded 19 July 2023. The listing does not name the company or give a product site.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $12,876. 360 subscriptions. Last-30-day margin 60% claimed. Last 30 days $22,201, down 25.8%. Last 12 months $221,936. All-time $338,205. March $17,397, July $27,176, September $30,182, October $21,964. Listed for sale since 16 April 2026 at $400,000 (1.5x), 15 offers. Revenue synced 30 October 2026 ~16:39 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/b2c-b2b-proxy-company"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Resell the infrastructure. The work is fraud and abuse, not a new product.",
+      "whyItPrints": "Bandwidth bought wholesale and sold by the gigabyte, with a dashboard on top.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "cairde-designs",
+      "name": "Cairde Designs",
+      "listingNote": null,
+      "description": "Websites for home-service businesses and some nonprofits. Cameron Denny, Austin, since 2018. A five-page site is $150 a month for 24 months, then $50 a month to maintain it, instead of a few thousand up front. His first site sold for $500.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 30 October 2026. Not independently checked. $6,000 of revenue a month. An average of $72,000 a year. 1 founder, 2 employees.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/cairdedesigns-com"
+        }
+      ],
+      "homepage": "https://cairdedesigns.com/",
+      "indieAngle": "A website for one trade, billed every month instead of once.",
+      "whyItPrints": "A plumber's website, sold as a subscription. The 24-month contract turns a one-off project into a monthly bill.",
+      "image": "/blog/2026-10-31/cairde-designs.webp",
+      "imageAlt": "Cairde Designs product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "whogoes",
+      "name": "WhoGoes",
+      "listingNote": null,
+      "description": "Attendee lists for trade shows, built from public LinkedIn posts about the event. Each contact has a name, title, company, profile, a work email when one exists, and the post as the proof. Credits are $29 for 200, $79 for 750, and $149 for 2,000, plus 20 free credits. Lists refresh daily until the event. There is an API. Founded 19 March 2026. India.",
+      "evidenceKind": "razorpay-verified",
+      "evidence": "Razorpay-verified. People buy credits, so there is no monthly subscription line. Last 30 days $1,857, up 16.9%. All-time $8,823. Last-30-day margin 60% claimed. Revenue synced 30 October 2026 ~15:27 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/whogoes"
+        }
+      ],
+      "homepage": "https://whogoes.co/",
+      "indieAngle": "One kind of conference, a list, sold per event.",
+      "whyItPrints": "Salespeople buy a list before a show. The show calendar makes the demand come back. The payment connection is Razorpay. There is no monthly subscription line.",
+      "image": "/blog/2026-10-31/whogoes.webp",
+      "imageAlt": "WhoGoes product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "anonymous-marketplace-alerts",
+      "name": "Anonymous marketplace alerts",
+      "listingNote": null,
+      "description": "Mobile and email alerts when a new item is listed on one large marketplace. There is also an API, and webhooks, so a reseller can plug the feed into a buying tool. Plans are $3 to $20 a month. Founded 1 December 2025. UK. The listing does not name the company or give a product site. The 30 October note is a French reseller tool at much higher prices. This is the cheap version of that idea.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "The sync is Stripe and the App Store. MRR $382, up 20.3%. 29 subscriptions. Last-30-day margin 50% claimed. Last 30 days $1,159, up 38%. Last 12 months $3,270. Listed for sale on 30 October 2026 at $70,000 (5.0x), 0 offers. Revenue synced 30 October 2026 ~12:42 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/anonymous-startup-40"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "The same alert, priced for a hobbyist, is a much smaller Stripe number than the professional listing from 30 October.",
+      "whyItPrints": "A polling job and a notification. The price is hobbyist money, not professional-reseller money.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Anonymous TCF listing",
+      "note": "no product description. RevenueCat-verified. MRR $23,964, 1,216 subscriptions, last 30 days $22,792, all-time $197,973. Synced 30 October 2026 ~17:56 Warsaw. The address looks like a French exam used for Canadian immigration, and that is not confirmed. TrustMRR (https://trustmrr.com/startup/freetcf)",
+      "homepage": null
+    },
+    {
+      "name": "Anonymous unnamed listing",
+      "note": "no description of the product at all. Stripe-verified. MRR $66,362, 844 subscriptions, last 30 days $53,044, all-time $467,738, margin 70% claimed. Listed 27 October at $1,200,000 (1.8x), 4 offers. TrustMRR (https://trustmrr.com/startup/unnamed-company-62)",
+      "homepage": null
+    }
+  ]
+}

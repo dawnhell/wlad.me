@@ -1,0 +1,27 @@
+{
+  "slug": "directroles",
+  "name": "DirectRoles",
+  "listingNote": null,
+  "description": "Jobs that are posted on company websites, not on LinkedIn or Indeed. The pitch is to apply direct and skip the recruiter. Aimed at people looking for work. Founded 14 July 2026.",
+  "homepage": "https://directroles.net/",
+  "image": "/blog/2026-10-31/directroles.webp",
+  "imageAlt": "DirectRoles product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-31",
+      "evidenceKind": "whop-verified",
+      "evidence": "Whop-verified, not Stripe. MRR $13,426, up 3.1%. 512 subscriptions. Last 30 days $27,406, up 68.5%. All-time $56,917 in about 3.5 months. Revenue synced 30 October 2026 ~19:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/directroles"
+        }
+      ],
+      "indieAngle": "One kind of careers page, a filter, and a subscription for the person job hunting."
+    }
+  ],
+  "whyItPrints": "It is a crawler of careers pages, sold as a subscription. The payment connection is Whop, not Stripe.",
+  "whyThisMatters": "DirectRoles collects jobs that companies post on their own sites, and skips the big boards. The person looking for work is the customer. Apply direct, skip the recruiter. Started in July 2026.\n\nThe money label is Whop. I am not logging into Whop to re-check it, and it is not a Stripe connection. A few hundred subscriptions. The last thirty days of cash are about double the monthly subscription line, in a product that is only a few months old. The all-time total is the whole life of it.\n\nYou pay so the job list is the company's own posting.\n\nLinkedIn and Indeed are what it claims to skip. The last thirty days rose much faster than the subscription line, which fits people paying outside a flat monthly seat. About three and a half months is the age of the all-time total. Whop is the processor on the label.\n\nApply direct is the pitch, and the recruiter is who they say you skip. The subscription count and the cash are both still young. I am not calling Whop a Stripe connection."
+}

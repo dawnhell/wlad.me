@@ -1,0 +1,35 @@
+{
+  "slug": "attributer",
+  "name": "Attributer",
+  "listingNote": null,
+  "description": "A script that remembers where a visitor came from. When they fill in a form, it writes that into hidden fields, so HubSpot, Salesforce, or another CRM gets the channel. Aaron Beashel launched it at the end of 2021. The front end is built in Bubble. Australia. He is the only person in the company.",
+  "homepage": "https://attributer.io/",
+  "image": "/blog/2026-10-31/attributer.webp",
+  "imageAlt": "Attributer product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-31",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story. Not independently checked. The header shows $100,000 of revenue a month, 1 founder, 0 employees. About five months after launch in 2022 he said he had just crossed $60,000 a year, adding $10,000 to $15,000 a year each month. A 2023 update said $400,000 a year, bootstrapped and profitable, and that it was his full-time job. A 2024 update said they were over $1 million a year, still just him, aiming at $2 million while staying solo. Growth from search, plus the multisite plans.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/attributer"
+        },
+        {
+          "label": "2023 update",
+          "url": "https://www.starterstory.com/stories/attributer-0a5ef6f5-a401-4077-a10b-ffc9f88b9c71"
+        },
+        {
+          "label": "2024 update",
+          "url": "https://www.starterstory.com/stories/attributer-7d21872d-bcc8-4468-8e1e-d9847e999180"
+        }
+      ],
+      "indieAngle": "One missing field on the lead form, filled by a script, found through search."
+    }
+  ],
+  "whyItPrints": "Marketers want the lead tagged with the channel, and they do not want to build that themselves. An agency installs it for one client, then rolls it out. Agency plans grew to about 20% of revenue after more than 100 agencies had upgraded.",
+  "whyThisMatters": "Attributer is a script. It remembers whether someone arrived from search, an ad, or a social post. When they submit a form, those details land in hidden fields, and the CRM gets them. Aaron Beashel launched it at the end of 2021. He built the front in Bubble. He is the only person there.\n\nThe numbers are a trail, not one figure. A few months in, a small yearly number. Then a few hundred thousand a year. Then over a million a year, still just him, with a target higher than that. The page header shows a monthly number that is in the same range as the later yearly claim. I am not picking one and deleting the others. Agencies became about a fifth of the money after a contact-form plan turned into a real tier. Search is how people find it. All of this is Starter Story. I did not check a processor.\n\nYou pay so the lead arrives already tagged."
+}

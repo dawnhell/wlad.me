@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-global-job-board",
+  "name": "Anonymous global job board",
+  "listingNote": null,
+  "description": "A global job board, founded 1 May 2020. The seller says it has more than a million job seekers, that big organisations use it, and that an Ubersuggest traffic valuation is $395,000. They are selling because they are bored of monetising it. This is a different listing from the UK job board already on this site. The listing does not name the company or give a product site.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,372. 1,101 subscriptions. Last 30 days $5,064, up 3.4%. Last 12 months $62,512. All-time $222,563. Monthly cash sits around $4,900 to $5,600 through 2026. Last-30-day margin 60% claimed. Listed for sale since 23 January 2026 at $500,000 (8.2x), 11 offers. Revenue synced 30 October 2026 ~09:33 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stealth-company-global-job-board"
+        }
+      ],
+      "indieAngle": "One dull job category, a fee to post, and a featured slot."
+    }
+  ],
+  "whyItPrints": "Employers pay to post. Search traffic compounds. 1,101 subscriptions is a lot of small posting plans, with no sales team mentioned.",
+  "whyThisMatters": "Employers pay to post. The seller says the database has more than a million job seekers, and that large organisations use it. An outside tool's traffic valuation is on the listing. They want to sell because they are bored of it. Founded in May 2020. No name. No site. This is not the UK job board already written up here.\n\nA bit over a thousand Stripe subscriptions. The monthly cash has sat in a narrow band all year. The all-time total is several times the last twelve months, so this has been charging for a while. The asking price is a high multiple, and it has been listed since January, with offers.\n\nYou pay to put a job in front of people who already search there."
+}

@@ -5,7 +5,21 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:17:55 GMT</lastBuildDate>
+    <item>
+      <title>Saturday's boring SaaS, 31 October 2026</title>
+      <link>https://www.wlad.me/blog/2026-10-31</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Saturday, 31 October 2026. Four are Stripe-verified. DirectRoles is Whop-verified, so that listing is connected to Whop. WhoGoes is Razorpay-verified, so that listing is connected to Razorpay. Attributer, ClearSync, Schedulicity, and Cairde Designs are self-reported. ClearSync did not give a number.</description>
+    </item>
+    <item>
+      <title>Friday's boring SaaS, 30 October 2026</title>
+      <link>https://www.wlad.me/blog/2026-10-30</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Friday, 30 October 2026. Five are Stripe-verified, including a newer Conductor number. BlitzenX, SubscriptionFlow, InVintory, PadSplit, and Froda are self-reported. Store Stock Checker's money all landed in its first week.</description>
+    </item>
     <item>
       <title>Thursday's boring SaaS, 29 October 2026</title>
       <link>https://www.wlad.me/blog/2026-10-29</link>

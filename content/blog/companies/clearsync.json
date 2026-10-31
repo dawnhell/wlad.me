@@ -1,0 +1,27 @@
+{
+  "slug": "clearsync",
+  "name": "ClearSync",
+  "listingNote": null,
+  "description": "It copies Stripe customers, subscriptions, revenue, and the subscription history into HubSpot, so sales and support can see the billing next to the deal. Rachel Decker and Joss Poulton, both ex-HubSpot, in Boston. Joss says he lived with the problem for 15 years.",
+  "homepage": "https://clearsync.ai/",
+  "image": "/blog/2026-10-31/clearsync.webp",
+  "imageAlt": "ClearSync product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-31",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 30 October 2026. The founders say the company is profitable and fully bootstrapped. The interview does not give a revenue number, so this page does not invent one. A sidebar on the page shows an $8,000 a month label that is not clearly this company, so it is not used.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/clearsync-ai"
+        }
+      ],
+      "indieAngle": "One billing system piped into one CRM."
+    }
+  ],
+  "whyItPrints": "Every company on Stripe and HubSpot has this gap. They say a marketplace listing gave them credibility and almost no customers. About half of customers in the last year came from search, chatbots, and YouTube, which is their claim.",
+  "whyThisMatters": "ClearSync copies Stripe customers, subscriptions, and the revenue history into HubSpot. Sales and support see what the customer actually pays, next to the deal. Rachel Decker and Joss Poulton used to work at HubSpot. They are in Boston. Joss says the gap has annoyed him for fifteen years.\n\nThey say a listing in a marketplace made them look real and did not bring the customers. About half of the last year's customers, they say, came from search, from chat answers, and from YouTube. They say the company is profitable and that they did not raise. They do not say how much. A card on the interview page shows a monthly figure that is not clearly theirs, so it is not on this page.\n\nYou pay so the CRM and the billing system stop disagreeing.\n\nCustomers, subscriptions, revenue, and the history of those subscriptions are the four things the sync moves. Sales, customer success, and the revenue-operations seat are who they say it is for. Fifteen years is how long one founder says he has wanted this. Boston is where they are."
+}

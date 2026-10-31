@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-30",
+  "title": "Friday's boring SaaS, 30 October 2026",
+  "dek": "Friday, 30 October 2026. Five are Stripe-verified, including a newer Conductor number. BlitzenX, SubscriptionFlow, InVintory, PadSplit, and Froda are self-reported. Store Stock Checker's money all landed in its first week.",
+  "heroId": "quiraing",
+  "companies": [
+    {
+      "slug": "store-stock-checker",
+      "name": "Store Stock Checker",
+      "listingNote": null,
+      "description": "It tells you the moment an Apple product is in stock at a store. Plans are Starter $5 a month, Plus $10, and Max $20. Founded 23 October 2026 by Bryce.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $17,610. 2,338 subscriptions. The last 7 days, the last 30 days, and the all-time total are the same $17,700, so all of the money arrived in the first week. Last-30-day margin 99% claimed. 2,672 visitors and 26,512 Google impressions in the last 30 days. Listed for sale at $75,000 (0.4x), 0 offers. Revenue synced 30 October 2026 ~07:55 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/store-stock-checker"
+        }
+      ],
+      "homepage": "https://www.storestockchecker.com/",
+      "indieAngle": "An alert for one scarce thing, treated as a cash burst.",
+      "whyItPrints": "It is a polling job and a notification, sold while a product is hard to find. A 99% margin means there is almost no cost. The seller listed it cheap, which reads as not expecting the spike to last.",
+      "image": "/blog/2026-10-30/store-stock-checker.webp",
+      "imageAlt": "Store Stock Checker product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "anonymous-reseller-deal-alerts",
+      "name": "Anonymous reseller deal alerts",
+      "listingNote": null,
+      "description": "Resellers of second-hand fashion and collectibles set filters for brand, price, and condition. New marketplace listings arrive within seconds, with prices in euros and one-click buying. Plans are €79, €129, and €299 a month, plus yearly and quarterly options. The seller says 79 of the subscribers are mostly French, and that it runs on one server. Founded 15 August 2026. The listing does not name the company or give a product site.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $14,534. 99 subscriptions. Last 30 days $13,554, up 29.1%. All-time $35,396. Monthly cash: August $11,501, September $12,312, October $11,583. Last-30-day margin 85% claimed. Listed for sale at $399,000 (2.5x), 3 offers. The seller's subscriber count of 79 does not match the 99 Stripe subscriptions. Revenue synced 30 October 2026 ~07:52 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hidden-business-86"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Filters, then a push within seconds, for one second-hand marketplace.",
+      "whyItPrints": "The first person to see an underpriced listing wins. Pros pay tool prices for a scraper and a notification. The seller says the support load is small.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "anonymous-global-job-board",
+      "name": "Anonymous global job board",
+      "listingNote": null,
+      "description": "A global job board, founded 1 May 2020. The seller says it has more than a million job seekers, that big organisations use it, and that an Ubersuggest traffic valuation is $395,000. They are selling because they are bored of monetising it. This is a different listing from the UK job board already on this site. The listing does not name the company or give a product site.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,372. 1,101 subscriptions. Last 30 days $5,064, up 3.4%. Last 12 months $62,512. All-time $222,563. Monthly cash sits around $4,900 to $5,600 through 2026. Last-30-day margin 60% claimed. Listed for sale since 23 January 2026 at $500,000 (8.2x), 11 offers. Revenue synced 30 October 2026 ~09:33 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stealth-company-global-job-board"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "One dull job category, a fee to post, and a featured slot.",
+      "whyItPrints": "Employers pay to post. Search traffic compounds. 1,101 subscriptions is a lot of small posting plans, with no sales team mentioned.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "clinicvi",
+      "name": "ClinicVi",
+      "listingNote": null,
+      "description": "A panel for medical-tourism clinics. Patient requests come in. There is no commission and no required subscription. The clinic pays only for the requests it opens, with optional credit packs. Founded 4 June 2026 by Umut Deniz Yorulmaz. Germany.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0. The money is credit packs, not subscriptions. Last 30 days $2,729, down 12.7%. All-time $10,013. July $2,124, August $2,034, September $3,126, October $2,729. Last-30-day margin 90% claimed. Revenue synced 30 October 2026 ~07:55 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/clinicvi"
+        }
+      ],
+      "homepage": "https://www.clinicvi.com/",
+      "indieAngle": "Credits for one kind of cross-border patient request.",
+      "whyItPrints": "The clinic pays when a patient request is there, not for an empty seat.",
+      "image": "/blog/2026-10-30/clinicvi.webp",
+      "imageAlt": "ClinicVi product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "blitzenx",
+      "name": "BlitzenX",
+      "listingNote": null,
+      "description": "A system integrator that only works on Guidewire, the core platform for property and casualty insurers. Implementations, enhancements, managed services, and production support. Teams in North America, Europe, and India. Founded June 2020 in Austin by Avinash Mukund. Bootstrapped. This is services, not a software subscription.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 9 September 2026. Not independently checked. $1,075,000 of revenue a month. 109 employees, 1 founder. Starter Story says the company averages $12.9M a year. The founder says it generates multi-million-dollar annual recurring revenue. The first project cut a client's delivery time by 30% and defects by 25%, which is his claim.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/blitzenx-guidewire-system-integrator-p-c-insurtech-partner"
+        }
+      ],
+      "homepage": "https://blitzenx.com/",
+      "indieAngle": "The tool the Guidewire consultancy needs, priced per project, not the consultancy itself.",
+      "whyItPrints": "Insurers have multi-year Guidewire programs that stall. A specialist who ships on time turns a pilot into a multi-year contract.",
+      "image": "/blog/2026-10-30/blitzenx.webp",
+      "imageAlt": "BlitzenX product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "subscriptionflow",
+      "name": "SubscriptionFlow",
+      "listingNote": null,
+      "description": "An API for the subscription bill: usage metering, failed-payment retries, revenue recognition, and the reports. Aimed at business software and fintechs with tiered or metered prices. Founded February 2019 by Kashif Saleem.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 11 September 2026. Not independently checked. The header says $25,000 of revenue a month. In the interview the founder says around $20,000 a month in recurring revenue. Starter Story puts the average at $300,000 a year. 50 employees. A 90% gross margin is a Starter Story category estimate, not a figure from the company. The revenue is small next to 50 people.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/subscriptionflow"
+        }
+      ],
+      "homepage": "https://www.subscriptionflow.com/",
+      "indieAngle": "One billing chore, not a fight with the big billing platforms.",
+      "whyItPrints": "Once the invoices run through it, finance does not rip it out.",
+      "image": "/blog/2026-10-30/subscriptionflow.webp",
+      "imageAlt": "SubscriptionFlow product image",
+      "imageWidth": 181,
+      "imageHeight": 54
+    },
+    {
+      "slug": "invintory",
+      "name": "InVintory",
+      "listingNote": null,
+      "description": "A catalogue for wine collectors. The database has more than 2 million wines, and the app shows a 3D view of the cellar so you can find a bottle. It also has an assistant that suggests wine. Founded July 2018 in Toronto by Josh Daiter and his dad.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 20 October 2026. Not independently checked. About $250,000 of revenue a month. 11 employees. Starter Story puts the average at $3M a year. The paid tier, Prestige, is $149.99 a year, which converted better than $124.99 (10.9% versus 7.1%). About $81,000 a month on ads. Blended cost to acquire a customer about $80, and a predicted 2-year value of $225 to $270. Stripe web checkout is now 40% of revenue. Stripe subscribers renew at about 91%, versus 62 to 65% on the App Store. About 500,000 collectors and more than $3 billion of wine in the app are company-stated.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/invintory-com"
+        }
+      ],
+      "homepage": "https://invintory.com/",
+      "indieAngle": "An inventory and a value for one collector hobby, with the checkout on the web.",
+      "whyItPrints": "Collectors already keep an inventory. Once the cellar is in the app, they do not leave it.",
+      "image": "/blog/2026-10-30/invintory.webp",
+      "imageAlt": "InVintory product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "padsplit",
+      "name": "PadSplit",
+      "listingNote": null,
+      "description": "A marketplace that turns a house into furnished rooms, rented by the week to people who work, for under $30 a night. PadSplit does not own the houses. Landlords list them. Founded 2017. CEO Atticus LeBlanc.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Latka interview recorded 19 May 2026, published 27 October 2026. 34,000 rentable units, 25,000 filled. Over $250M a year of rent going through the marketplace, growing about 70% a year for about 3 years. That is rent, not PadSplit's revenue. 240 staff, 100 of them in customer service. $40M of equity raised.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/padsplit/interviews/padsplit-atticus-leblanc-2026"
+        }
+      ],
+      "homepage": "https://www.padsplit.com/",
+      "indieAngle": "Weekly rent, an ID check, and a cut of the payment, for landlords who rent rooms to workers.",
+      "whyItPrints": "The take is the first 10 days of rent plus 8% of the rent after that. The average stay is 9.5 months. The big number in the interview is rent flowing through, not PadSplit's own revenue.",
+      "image": "/blog/2026-10-30/padsplit.webp",
+      "imageAlt": "PadSplit product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "froda",
+      "name": "Froda",
+      "listingNote": null,
+      "description": "Loans for small businesses, offered inside banks and inside accounting software. Froda is a licensed bank in 7 markets. The rate in the interview is 16% APR. CEO Oliver Mohseni. Sweden.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Latka, 28 April 2026. 2025 revenue $57M. A 2026 run rate of $80M. Profitable. 150,000 small businesses. A $500M loan book. Average loan $23,000 at 16% APR. $49M raised.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/froda.se/interviews/froda-oliver-mohseni-2026"
+        }
+      ],
+      "homepage": "https://www.froda.se/",
+      "indieAngle": "A plugin inside the accounting tool, with a share of the revenue, not a new bank.",
+      "whyItPrints": "The accounting software already has the books. Froda turns that into a loan. This is a bank, not a seat on a website.",
+      "image": "/blog/2026-10-30/froda.webp",
+      "imageAlt": "Froda product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 30 October listing is still for sale. Stripe is a bit higher than the 27 October note.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $45,524. 302 subscriptions. Last 30 days $44,395, up 14.8%. All-time $504,399. Last-30-day margin 95% claimed. Still listed for sale at $1,250,000 (2.3x), 27 offers. Revenue synced 30 October 2026 ~09:24 Warsaw. The 27 October note was $44,662 a month and last 30 days $43,611.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe number moved up a little, and it is still for sale.",
+      "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The new number is a little higher, and the listing is still for sale.",
+      "image": "/blog/2026-10-30/conductor.webp",
+      "imageAlt": "Conductor product image",
+      "imageWidth": 1200,
+      "imageHeight": 610
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Flossy",
+      "note": "an AI receptionist for dental clinics. Company-stated $500 a location a month, 300 to 500 brands, about 70% growth a month. The founder says they are close to a $4 million to $5 million run rate, and not there yet. Not written up in full. Latka (https://getlatka.com/companies/flossy/interviews/flossy-miles-beckett-2026)",
+      "homepage": null
+    },
+    {
+      "name": "Spice delivery routes",
+      "note": "a wholesale spice route to supermarkets, not software. The portal has done about $35,000 in sales. Self-reported. Reddit (https://www.reddit.com/r/sweatystartup/comments/1x7tazo/i_run_spice_delivery_routes_to_supermarkets_in/)",
+      "homepage": null
+    }
+  ]
+}

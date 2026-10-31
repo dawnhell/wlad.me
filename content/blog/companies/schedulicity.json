@@ -1,0 +1,27 @@
+{
+  "slug": "schedulicity",
+  "name": "Schedulicity",
+  "listingNote": null,
+  "description": "Online booking for hairstylists, trainers, and other small service businesses. Jerry Nettuno started it in Bozeman, Montana in 2009, after he could not book his own haircut. It launched at $29 a month with about a hundred local customers. Sold to Vagaro. The deal closed in early 2025.",
+  "homepage": "https://www.schedulicity.com/",
+  "image": "/blog/2026-10-31/schedulicity.webp",
+  "imageAlt": "Schedulicity product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-31",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Practical Founders, episode published 29 October 2026. 15,000 to 20,000 small businesses. Almost 40 million consumers. $10 million to $20 million of revenue. About 100 employees. About $28M raised from angels and one large private investor, no venture fund. Growth stalled after COVID. Sold to Vagaro, closing early 2025. He says he would not have raised that much, and that today it could run with a fraction of the staff.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/you-can-skip-venture-capital-and-still-raise-too-much-jerry-nettuno/"
+        }
+      ],
+      "indieAngle": "One trade, about $29 a month, and a small team."
+    }
+  ],
+  "whyItPrints": "A salon appointment book is a dull product, and it still got to eight figures. One stylist whose problems they fixed brought more than 200 customers on for free, which is his story.",
+  "whyThisMatters": "Schedulicity is the online book for a hairstylist, a trainer, or another one-person service business. Jerry Nettuno started it in Bozeman in 2009 because he could not get a haircut booked. The first price was a flat monthly fee, with about a hundred local customers. One stylist they helped brought a couple of hundred more, for free, which is his story.\n\nThe interview gives a range of businesses, a very large count of consumers, and a revenue range in the eight figures. About a hundred employees. Money from angels and one large investor, not a venture fund. Growth stalled after COVID. Sold to Vagaro, closing early 2025. He says he raised too much, and that he would run it with far fewer people now. Published 29 October 2026. Company-stated.\n\nYou pay so the appointment book is not a paper diary.\n\nBozeman, Montana is where it started. About a hundred local customers at launch. The consumer count and the business count are both ranges or round numbers from the episode, not a census. Early 2025 is the close of the sale. The \"fraction of the employees\" line is what he says he would do now, not a current headcount."
+}

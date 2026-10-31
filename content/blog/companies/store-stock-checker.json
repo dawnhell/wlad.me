@@ -1,0 +1,27 @@
+{
+  "slug": "store-stock-checker",
+  "name": "Store Stock Checker",
+  "listingNote": null,
+  "description": "It tells you the moment an Apple product is in stock at a store. Plans are Starter $5 a month, Plus $10, and Max $20. Founded 23 October 2026 by Bryce.",
+  "homepage": "https://www.storestockchecker.com/",
+  "image": "/blog/2026-10-30/store-stock-checker.webp",
+  "imageAlt": "Store Stock Checker product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $17,610. 2,338 subscriptions. The last 7 days, the last 30 days, and the all-time total are the same $17,700, so all of the money arrived in the first week. Last-30-day margin 99% claimed. 2,672 visitors and 26,512 Google impressions in the last 30 days. Listed for sale at $75,000 (0.4x), 0 offers. Revenue synced 30 October 2026 ~07:55 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/store-stock-checker"
+        }
+      ],
+      "indieAngle": "An alert for one scarce thing, treated as a cash burst."
+    }
+  ],
+  "whyItPrints": "It is a polling job and a notification, sold while a product is hard to find. A 99% margin means there is almost no cost. The seller listed it cheap, which reads as not expecting the spike to last.",
+  "whyThisMatters": "Store Stock Checker watches Apple stores and pings you when a product is in stock. Three plans, from a few dollars to twenty. Bryce started it on 23 October 2026.\n\nStripe shows a couple of thousand subscriptions, and every dollar so far landed in the first week. The last seven days, the last thirty days, and the all-time total are the same number. Margin is claimed at ninety-nine percent, which fits a notification with almost no cost. The asking price is low for that monthly line, and there are no offers. That reads as a seller who does not think the spike holds.\n\nYou pay for a ping during a shortage. The page is not treating this as a settled business.\n\nStarter, Plus, and Max are the three plan names. Google impressions in the last thirty days are in the tens of thousands, against a couple of thousand visitors. Zero offers on a low asking price is part of the same first-week story. The founding date and the sync date are a week apart."
+}

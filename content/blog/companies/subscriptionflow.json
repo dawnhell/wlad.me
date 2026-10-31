@@ -1,0 +1,27 @@
+{
+  "slug": "subscriptionflow",
+  "name": "SubscriptionFlow",
+  "listingNote": null,
+  "description": "An API for the subscription bill: usage metering, failed-payment retries, revenue recognition, and the reports. Aimed at business software and fintechs with tiered or metered prices. Founded February 2019 by Kashif Saleem.",
+  "homepage": "https://www.subscriptionflow.com/",
+  "image": "/blog/2026-10-30/subscriptionflow.webp",
+  "imageAlt": "SubscriptionFlow product image",
+  "imageWidth": 181,
+  "imageHeight": 54,
+  "mentions": [
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 11 September 2026. Not independently checked. The header says $25,000 of revenue a month. In the interview the founder says around $20,000 a month in recurring revenue. Starter Story puts the average at $300,000 a year. 50 employees. A 90% gross margin is a Starter Story category estimate, not a figure from the company. The revenue is small next to 50 people.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/subscriptionflow"
+        }
+      ],
+      "indieAngle": "One billing chore, not a fight with the big billing platforms."
+    }
+  ],
+  "whyItPrints": "Once the invoices run through it, finance does not rip it out.",
+  "whyThisMatters": "SubscriptionFlow sends the bill for a product that charges by the seat, by the use, or by both. Failed payments, the accounting recognition, and the reports are in it. Kashif Saleem started it in February 2019.\n\nThree figures sit next to each other, and they are not identical. The page header is one monthly number. The founder says a lower monthly number. The site's average is a yearly number that is in the same neighborhood as twelve of those months. Fifty employees is a lot of people for that revenue, which is why the brief says to read it as proof the niche exists. The ninety percent margin is the site's category guess, not the company's books. September 2026. Self-reported.\n\nYou pay so the invoice and the books agree.\n\nUsage metering, dunning, and revenue recognition are the pieces beyond the subscription itself. Tiered, metered, and hybrid pricing are who it is aimed at. February 2019 is the start. The category margin is not a company filing. Fifty people is the staff line that makes the revenue look small."
+}

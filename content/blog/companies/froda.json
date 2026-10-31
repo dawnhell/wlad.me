@@ -1,0 +1,27 @@
+{
+  "slug": "froda",
+  "name": "Froda",
+  "listingNote": null,
+  "description": "Loans for small businesses, offered inside banks and inside accounting software. Froda is a licensed bank in 7 markets. The rate in the interview is 16% APR. CEO Oliver Mohseni. Sweden.",
+  "homepage": "https://www.froda.se/",
+  "image": "/blog/2026-10-30/froda.webp",
+  "imageAlt": "Froda product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Latka, 28 April 2026. 2025 revenue $57M. A 2026 run rate of $80M. Profitable. 150,000 small businesses. A $500M loan book. Average loan $23,000 at 16% APR. $49M raised.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/froda.se/interviews/froda-oliver-mohseni-2026"
+        }
+      ],
+      "indieAngle": "A plugin inside the accounting tool, with a share of the revenue, not a new bank."
+    }
+  ],
+  "whyItPrints": "The accounting software already has the books. Froda turns that into a loan. This is a bank, not a seat on a website.",
+  "whyThisMatters": "Froda lends to small businesses from inside a bank's product or an accounting tool. It is a licensed bank, in seven markets. The books are already in the software, and the loan is offered there. Oliver Mohseni is the CEO.\n\nRevenue for 2025 and a higher run rate for 2026 are both in the interview, and they say it is profitable. A large count of businesses, a loan book, a typical loan size, and a stated interest rate. Money was raised. April 2026. Company-stated. This is not a small tool with a monthly seat.\n\nYou do not pay for software. A business pays interest on a loan that showed up inside the books they already use.\n\nSeven markets is the license footprint in the interview. Sixteen percent is the stated rate, and the typical loan size is in the low five figures. The loan book and the revenue are different numbers. I am not adding them together. Raised money is part of the story, and so is the claim that it is profitable."
+}

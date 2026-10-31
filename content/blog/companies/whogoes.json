@@ -1,0 +1,27 @@
+{
+  "slug": "whogoes",
+  "name": "WhoGoes",
+  "listingNote": null,
+  "description": "Attendee lists for trade shows, built from public LinkedIn posts about the event. Each contact has a name, title, company, profile, a work email when one exists, and the post as the proof. Credits are $29 for 200, $79 for 750, and $149 for 2,000, plus 20 free credits. Lists refresh daily until the event. There is an API. Founded 19 March 2026. India.",
+  "homepage": "https://whogoes.co/",
+  "image": "/blog/2026-10-31/whogoes.webp",
+  "imageAlt": "WhoGoes product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-31",
+      "evidenceKind": "razorpay-verified",
+      "evidence": "Razorpay-verified. People buy credits, so there is no monthly subscription line. Last 30 days $1,857, up 16.9%. All-time $8,823. Last-30-day margin 60% claimed. Revenue synced 30 October 2026 ~15:27 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/whogoes"
+        }
+      ],
+      "indieAngle": "One kind of conference, a list, sold per event."
+    }
+  ],
+  "whyItPrints": "Salespeople buy a list before a show. The show calendar makes the demand come back. The payment connection is Razorpay. There is no monthly subscription line.",
+  "whyThisMatters": "WhoGoes builds a list of people who said, in public, that they are going to a trade show. Name, title, company, profile, a work email when one can be checked, and the post itself as the proof. You buy credits. A small pack, a middle pack, a larger pack, plus a few free credits. The list updates until the event. There is an API. Started in March 2026, in India.\n\nThe money label is Razorpay. There is no subscription line, because the purchase is credits. The last thirty days and the all-time total are both still small. Margin is claimed. Demand comes back when the next show is on the calendar.\n\nYou pay for a list before the event, not for a seat all year.\n\nTwo hundred, seven hundred fifty, and two thousand contacts are the three pack sizes, plus twenty free credits. A verified work email is included only when one exists. The original post is the proof they attach. Daily refresh runs until the event. March 2026 is the start. Sixty percent is the claimed margin."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "blitzenx",
+  "name": "BlitzenX",
+  "listingNote": null,
+  "description": "A system integrator that only works on Guidewire, the core platform for property and casualty insurers. Implementations, enhancements, managed services, and production support. Teams in North America, Europe, and India. Founded June 2020 in Austin by Avinash Mukund. Bootstrapped. This is services, not a software subscription.",
+  "homepage": "https://blitzenx.com/",
+  "image": "/blog/2026-10-30/blitzenx.webp",
+  "imageAlt": "BlitzenX product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 9 September 2026. Not independently checked. $1,075,000 of revenue a month. 109 employees, 1 founder. Starter Story says the company averages $12.9M a year. The founder says it generates multi-million-dollar annual recurring revenue. The first project cut a client's delivery time by 30% and defects by 25%, which is his claim.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/blitzenx-guidewire-system-integrator-p-c-insurtech-partner"
+        }
+      ],
+      "indieAngle": "The tool the Guidewire consultancy needs, priced per project, not the consultancy itself."
+    }
+  ],
+  "whyItPrints": "Insurers have multi-year Guidewire programs that stall. A specialist who ships on time turns a pilot into a multi-year contract.",
+  "whyThisMatters": "BlitzenX only works on Guidewire, the system property and casualty insurers already run. Implementations, changes, and the support after go-live. People in North America, Europe, and India. Avinash Mukund started it in Austin in June 2020. No outside funding in the interview. This is a services firm. It is not a subscription product.\n\nHe says a bit over a million a month, with about a hundred people. The interview page also shows that as a yearly average. He calls the work recurring. The first project, he says, shortened a delivery and cut defects. Those percentages are his. September 2026 interview. I did not check a payment account.\n\nYou pay a specialist so the insurer's core system actually ships.\n\nNorth America, Europe, and India are the delivery regions. Managed services and production support sit next to the implementation, which is why he can call it recurring. Bootstrapped is the funding line. One hundred and nine employees and one founder are the headcount in the interview."
+}

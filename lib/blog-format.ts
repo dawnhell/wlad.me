@@ -13,6 +13,8 @@ export type EvidenceKind =
   | 'revenuecat-verified'
   | 'shopify-verified'
   | 'dodo-verified'
+  | 'whop-verified'
+  | 'razorpay-verified'
   | 'self-reported'
 
 export type BlogSource = {
@@ -105,6 +107,8 @@ export function evidenceLabel(kind: EvidenceKind) {
   if (kind === 'revenuecat-verified') return 'RevenueCat-verified'
   if (kind === 'shopify-verified') return 'Shopify-verified'
   if (kind === 'dodo-verified') return 'Dodo-verified'
+  if (kind === 'whop-verified') return 'Whop-verified'
+  if (kind === 'razorpay-verified') return 'Razorpay-verified'
   return 'Self-reported'
 }
 
@@ -151,6 +155,8 @@ function processorName(kind: EvidenceKind) {
   if (kind === 'revenuecat-verified') return 'RevenueCat'
   if (kind === 'shopify-verified') return 'Shopify'
   if (kind === 'dodo-verified') return 'Dodo'
+  if (kind === 'whop-verified') return 'Whop'
+  if (kind === 'razorpay-verified') return 'Razorpay'
   return null
 }
 

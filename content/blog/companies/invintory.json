@@ -1,0 +1,27 @@
+{
+  "slug": "invintory",
+  "name": "InVintory",
+  "listingNote": null,
+  "description": "A catalogue for wine collectors. The database has more than 2 million wines, and the app shows a 3D view of the cellar so you can find a bottle. It also has an assistant that suggests wine. Founded July 2018 in Toronto by Josh Daiter and his dad.",
+  "homepage": "https://invintory.com/",
+  "image": "/blog/2026-10-30/invintory.webp",
+  "imageAlt": "InVintory product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 20 October 2026. Not independently checked. About $250,000 of revenue a month. 11 employees. Starter Story puts the average at $3M a year. The paid tier, Prestige, is $149.99 a year, which converted better than $124.99 (10.9% versus 7.1%). About $81,000 a month on ads. Blended cost to acquire a customer about $80, and a predicted 2-year value of $225 to $270. Stripe web checkout is now 40% of revenue. Stripe subscribers renew at about 91%, versus 62 to 65% on the App Store. About 500,000 collectors and more than $3 billion of wine in the app are company-stated.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/invintory-com"
+        }
+      ],
+      "indieAngle": "An inventory and a value for one collector hobby, with the checkout on the web."
+    }
+  ],
+  "whyItPrints": "Collectors already keep an inventory. Once the cellar is in the app, they do not leave it.",
+  "whyThisMatters": "InVintory is the list of bottles, plus a picture of the cellar so you can find one. The database is large. There is also a suggestion feature. Josh Daiter and his dad started it in Toronto in 2018.\n\nHe says about a quarter of a million a month, with eleven people. The yearly average on the interview page matches that pace. The paid plan is a yearly fee, and a higher price converted better than the cheaper one. Ad spend is large. The cost to get a customer and the value they expect over two years are both in the interview. Checkout on the web is now a big share of the money, and those subscribers stay longer than the ones who pay through the app store. Half a million collectors and a huge cellar value are his counts. October 2026. Self-reported.\n\nYou pay so the collection is a catalogue, not a spreadsheet.\n\nThe cheaper yearly price converted worse than the higher one. That comparison is in the interview. App Store renewals in the low sixties, against about ninety percent on the web checkout, is the other comparison. Ad spend is a large monthly cost next to an eleven-person team. The dad is a cofounder."
+}

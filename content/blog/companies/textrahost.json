@@ -1,0 +1,27 @@
+{
+  "slug": "textrahost",
+  "name": "TextraHost",
+  "listingNote": null,
+  "description": "Shared hosting, WordPress hosting, reseller hosting, VPS, dedicated servers, domains, and colocation, aimed at India. Cloud servers from $4 a month. Founder Ritik Barnwal. Founded 23 December 2019.",
+  "homepage": "https://textrahost.com/",
+  "image": "/blog/2026-10-31/textrahost.webp",
+  "imageAlt": "TextraHost product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-10-31",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0 and 0 subscriptions. Billing is invoices and renewals, not Stripe subscriptions. Last 30 days $9,947, up 29.7%. Last 12 months $59,505. All-time $68,646. Last-30-day margin 55% claimed. Revenue synced 30 October 2026 ~10:24 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/textrahost"
+        }
+      ],
+      "indieAngle": "Hosting for one country, in the local language, with someone who answers."
+    }
+  ],
+  "whyItPrints": "Hosting is a recurring bill. People stay because moving a site is annoying. The Stripe subscription line is zero. The cash is renewals and invoices.",
+  "whyThisMatters": "TextraHost sells the usual hosting pile to people in India: shared sites, WordPress, reseller plans, a virtual server, a dedicated machine, a domain, and a rack. Cloud servers start cheap. Ritik Barnwal started it at the end of 2019.\n\nStripe shows no subscriptions. The cash is invoices and renewals. The last thirty days are higher than a flat twelfth of the last year, and the all-time total is not much older than that year, so the recent pace is most of the history on this connection. Margin is claimed at a bit over half. Hosting sticks because moving the site is the annoying part.\n\nYou pay so the site stays up, and someone local answers.\n\nShared, WordPress, reseller, virtual, dedicated, domains, and colocation are the menu. Four dollars a month is the cloud starting price on the site. December 2019 is the founding date. Fifty-five percent is the claimed margin on the recent month. Zero Stripe subscriptions is why the invoice total is the figure that matters.\n\nIndia is the market. Local language and someone who answers are the reason a hosting reseller sticks. The invoice total is the number, because the subscription count is zero."
+}

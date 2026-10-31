@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-marketplace-alerts",
+  "name": "Anonymous marketplace alerts",
+  "listingNote": null,
+  "description": "Mobile and email alerts when a new item is listed on one large marketplace. There is also an API, and webhooks, so a reseller can plug the feed into a buying tool. Plans are $3 to $20 a month. Founded 1 December 2025. UK. The listing does not name the company or give a product site. The 30 October note is a French reseller tool at much higher prices. This is the cheap version of that idea.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-31",
+      "evidenceKind": "stripe-verified",
+      "evidence": "The sync is Stripe and the App Store. MRR $382, up 20.3%. 29 subscriptions. Last-30-day margin 50% claimed. Last 30 days $1,159, up 38%. Last 12 months $3,270. Listed for sale on 30 October 2026 at $70,000 (5.0x), 0 offers. Revenue synced 30 October 2026 ~12:42 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/anonymous-startup-40"
+        }
+      ],
+      "indieAngle": "The same alert, priced for a hobbyist, is a much smaller Stripe number than the professional listing from 30 October."
+    }
+  ],
+  "whyItPrints": "A polling job and a notification. The price is hobbyist money, not professional-reseller money.",
+  "whyThisMatters": "A phone alert and an email when one big marketplace lists something new. Plans are a few dollars to twenty. There is also an API and a webhook, so a reseller can feed a buying tool. Started in December 2025. UK. No name. No site. The 30 October note is a French tool that does the same job at a much higher price. This is the cheap one.\n\nStripe and the App Store are both in the sync. I am not relabeling it as only one of them. A few dozen subscriptions. The last thirty days of cash are higher than the monthly line. The asking price is a high multiple of that small line, and nobody has offered. The lesson in the brief is the price: hobbyist plans and professional plans are not the same business.\n\nYou pay a few dollars so a new listing does not sit there unseen."
+}

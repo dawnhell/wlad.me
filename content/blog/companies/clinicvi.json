@@ -1,0 +1,27 @@
+{
+  "slug": "clinicvi",
+  "name": "ClinicVi",
+  "listingNote": null,
+  "description": "A panel for medical-tourism clinics. Patient requests come in. There is no commission and no required subscription. The clinic pays only for the requests it opens, with optional credit packs. Founded 4 June 2026 by Umut Deniz Yorulmaz. Germany.",
+  "homepage": "https://www.clinicvi.com/",
+  "image": "/blog/2026-10-30/clinicvi.webp",
+  "imageAlt": "ClinicVi product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $0. The money is credit packs, not subscriptions. Last 30 days $2,729, down 12.7%. All-time $10,013. July $2,124, August $2,034, September $3,126, October $2,729. Last-30-day margin 90% claimed. Revenue synced 30 October 2026 ~07:55 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/clinicvi"
+        }
+      ],
+      "indieAngle": "Credits for one kind of cross-border patient request."
+    }
+  ],
+  "whyItPrints": "The clinic pays when a patient request is there, not for an empty seat.",
+  "whyThisMatters": "ClinicVi is the inbox for a clinic that treats patients who travel for care. A request comes in. The clinic pays to open it. There is no required monthly seat and no commission on the treatment. Credit packs are optional. Umut Deniz Yorulmaz started it in June 2026, in Germany.\n\nStripe subscriptions are zero. The cash is the credits. A few thousand a month since July, with September the high one. Margin is claimed, not checked. The clinic is buying a patient lead, not software they have to log into every day.\n\nYou pay when a request is worth opening.\n\nNo commission on the treatment is the other half of the pricing. Optional credit packs include bonuses, which is the listing line, and I am not inventing the bonus size. July through October is the whole cash history on this sync. Germany is the base. The founder's name is on the listing.\n\nOpening a request is the purchase. A seat you pay for whether or not a patient writes in is what they say they do not sell. September was the busiest of the four months on the sync."
+}

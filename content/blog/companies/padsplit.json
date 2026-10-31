@@ -1,0 +1,27 @@
+{
+  "slug": "padsplit",
+  "name": "PadSplit",
+  "listingNote": null,
+  "description": "A marketplace that turns a house into furnished rooms, rented by the week to people who work, for under $30 a night. PadSplit does not own the houses. Landlords list them. Founded 2017. CEO Atticus LeBlanc.",
+  "homepage": "https://www.padsplit.com/",
+  "image": "/blog/2026-10-30/padsplit.webp",
+  "imageAlt": "PadSplit product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-10-30",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, Latka interview recorded 19 May 2026, published 27 October 2026. 34,000 rentable units, 25,000 filled. Over $250M a year of rent going through the marketplace, growing about 70% a year for about 3 years. That is rent, not PadSplit's revenue. 240 staff, 100 of them in customer service. $40M of equity raised.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/padsplit/interviews/padsplit-atticus-leblanc-2026"
+        }
+      ],
+      "indieAngle": "Weekly rent, an ID check, and a cut of the payment, for landlords who rent rooms to workers."
+    }
+  ],
+  "whyItPrints": "The take is the first 10 days of rent plus 8% of the rent after that. The average stay is 9.5 months. The big number in the interview is rent flowing through, not PadSplit's own revenue.",
+  "whyThisMatters": "PadSplit lists rooms in other people's houses. The tenant pays by the week, under a nightly cap. PadSplit does not own the property. It takes the first stretch of the rent and then a percentage. Stays run most of a year. Atticus LeBlanc started it in 2017.\n\nThe interview's big number is rent going through the marketplace, not PadSplit's fee. I am not writing the rent down as their revenue. Tens of thousands of rooms, most of them filled. A few hundred staff, many of them in support. Equity was raised. The interview was recorded in May 2026 and published in late October. Company-stated.\n\nYou pay the rent. The company takes a cut of a payment that was going to happen anyway.\n\nUnder thirty dollars a night is the cap they advertise. Weekly billing is the cadence. Nine and a half months is the average stay. One hundred of the two hundred forty staff are in customer service. The equity raised is forty million. None of that turns the rent total into the company's revenue."
+}

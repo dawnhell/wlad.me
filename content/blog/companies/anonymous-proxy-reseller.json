@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-proxy-reseller",
+  "name": "Anonymous proxy reseller",
+  "listingNote": null,
+  "description": "Residential, ISP, and mobile proxies, bought from two upstream providers and resold. The seller says provisioning, payments, support, fraud checks, and renewals are automated. More than 8,000 registered users and more than 200 paying subscribers, which is the seller's count and does not match the Stripe subscription count. Founded 19 July 2023. The listing does not name the company or give a product site.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-10-31",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $12,876. 360 subscriptions. Last-30-day margin 60% claimed. Last 30 days $22,201, down 25.8%. Last 12 months $221,936. All-time $338,205. March $17,397, July $27,176, September $30,182, October $21,964. Listed for sale since 16 April 2026 at $400,000 (1.5x), 15 offers. Revenue synced 30 October 2026 ~16:39 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/b2c-b2b-proxy-company"
+        }
+      ],
+      "indieAngle": "Resell the infrastructure. The work is fraud and abuse, not a new product."
+    }
+  ],
+  "whyItPrints": "Bandwidth bought wholesale and sold by the gigabyte, with a dashboard on top.",
+  "whyThisMatters": "Residential, datacenter-style, and mobile proxies, bought from two big upstreams and resold. The seller says signup, payment, support, fraud checks, and renewals run themselves. They also say more than eight thousand accounts and a bit over two hundred paying customers. Stripe shows more subscriptions than that paying-customer line. I am leaving both. Started in July 2023. No name. No site.\n\nThe monthly subscription line is well under the cash in a typical month. September was the high one. October is down. The last year is a large share of the all-time total. Margin is claimed at sixty percent. For sale since April, with a lot of offers. The work in this business is abuse and fraud, not a feature list.\n\nYou pay by the gigabyte for an address that is not a datacenter everyone already blocked."
+}
