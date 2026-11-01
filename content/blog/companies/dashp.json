@@ -1,0 +1,27 @@
+{
+  "slug": "dashp",
+  "name": "DASHP",
+  "listingNote": null,
+  "description": "It started as commission and performance tracking for door-to-door pest-control sales teams. The site now pitches a fuller pest-control platform, with technicians, routing, and field sales. Solo founder Isaac Z Tai. Started October 2022. US.",
+  "homepage": "https://dashp.io/",
+  "image": "/blog/2026-11-01/dashp.webp",
+  "imageAlt": "DASHP product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 17 December 2024. Not independently checked. \"Just over 100k ARR.\" The page header says $8,333 of revenue a month, 1 founder, and 0 employees. The stack moved from Retool to Expo and Supabase.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/dashp"
+        }
+      ],
+      "indieAngle": "One trade, one spreadsheet, and a yearly seat."
+    }
+  ],
+  "whyItPrints": "Commission spreadsheets in a seasonal door-to-door trade. Seats come with a 12-month commitment. Month-to-month flex seats cost twice as much and are capped at 30% of seats. Standard seats are $10 to $30 a month. No funding.",
+  "whyThisMatters": "DASHP started as the commission sheet for a door-to-door pest-control team. The site now talks about technicians, routing, and field sales as well. Isaac Z Tai started it in October 2022. He is the only founder, and the header says no employees. No funding.\n\nThe December 2024 interview says just over a hundred thousand a year. The header's monthly figure is the same neighborhood, and I am leaving both lines. A standard seat is ten to thirty a month, on a twelve-month commitment. A month-to-month seat costs twice as much and can only be thirty percent of the seats. The stack moved from Retool to Expo and Supabase, which is a build note, not a revenue note.\n\nYou pay for the year so Saturday's commissions are not a spreadsheet.\n\nDoor-to-door pest control is seasonal, which is why a twelve-month seat is the contract. Flex seats are the exception, and they are capped. October 2022 is the start. The fuller platform pitch is what the site says now. The interview number is still the commission-tracking story."
+}

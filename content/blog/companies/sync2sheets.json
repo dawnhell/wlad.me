@@ -1,0 +1,27 @@
+{
+  "slug": "sync2sheets",
+  "name": "Sync2Sheets",
+  "listingNote": null,
+  "description": "A Google Workspace add-on that syncs Notion databases into Google Sheets for reporting, formulas, and charts. Solo founder Leandro Zubrezki, Buenos Aires. Started May 2021. He also builds Coda integrations.",
+  "homepage": "https://sync2sheets.com/",
+  "image": "/blog/2026-11-01/sync2sheets.webp",
+  "imageAlt": "Sync2Sheets product image",
+  "imageWidth": 750,
+  "imageHeight": 392,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 7 May 2024. Not independently checked. $9,000 a month, with more than 400 paying customers. The page header says $9K of revenue a month, 1 founder, and 0 employees. Costs are about $500 a month. LTV is about $300. Churn is about 7%.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/sync2sheets-give-notion-the-superpowers-of-google-sheets"
+        }
+      ],
+      "indieAngle": "Two tools people already live in, and a paid sync between them."
+    }
+  ],
+  "whyItPrints": "People pay for a spreadsheet export. The interview says customers run from small businesses to Canva and Wix. Switching from a free plan to paid-only, with a trial, took him from about 15 to more than 40 new paying customers a month.",
+  "whyThisMatters": "Sync2Sheets is a Google add-on. A Notion database lands in a Sheet, and then the formulas and the charts are the normal spreadsheet ones. Leandro Zubrezki started it in Buenos Aires in May 2021. He also builds Coda integrations. He is the only person.\n\nThe May 2024 interview says about nine thousand a month and more than four hundred paying customers. The header matches that monthly figure. Costs are a few hundred a month. The value of a customer and the churn are both in the interview, and the churn is about seven percent. He says customers run from small businesses up to Canva and Wix. Dropping the free plan, and keeping a trial, took new paying customers from about fifteen a month to more than forty.\n\nYou pay so the database and the spreadsheet stay the same list.\n\nCoda integrations are the other work, not a second revenue line I can split out. May 2021 is the start. Buenos Aires is the base. About five hundred a month of costs, a customer value around a few hundred, and about seven percent churn are all in the same interview."
+}

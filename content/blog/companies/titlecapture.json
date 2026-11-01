@@ -1,0 +1,27 @@
+{
+  "slug": "titlecapture",
+  "name": "TitleCapture",
+  "listingNote": null,
+  "description": "Each US title company gets its own white-label app. Its real-estate agents and lenders use it to make title quotes, seller net sheets, and buyer estimates without calling a title rep. Miami. Started October 2013.",
+  "homepage": "https://titlecapture.com/",
+  "image": "/blog/2026-11-01/titlecapture.webp",
+  "imageAlt": "TitleCapture product image",
+  "imageWidth": 1200,
+  "imageHeight": 1019,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 20 November 2023. Not independently checked. \"$300K+ MRR (close to $4m ARR)\". The page header says $333K of revenue a month, 2 founders, and 35 employees. More than 1,500 title companies, \"close to 10% of the entire title company market.\" Around 30% profitability, and they have never taken funding. About $300 a month per title company.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/titlecapture"
+        }
+      ],
+      "indieAngle": "A back-office industry where the customer gives your tool to its own customers."
+    }
+  ],
+  "whyItPrints": "A title company hands \"their app\" to its agents. The founder says churn is very low, because taking the app back is hard. The fee is about $300 a month. One industry partnership took them from 1 customer to more than 150 in the first year.",
+  "whyThisMatters": "A title company in the US gets an app with its own name on it. Agents and lenders use that app for a title quote, a seller's net sheet, and a buyer's estimate. They do not have to call a rep for the arithmetic. The company is in Miami, and it started in October 2013.\n\nThe interview is from November 2023. I am not treating it as this week's number. The story says more than three hundred thousand a month, close to four million a year. The page header is a bit higher than that phrase, with two founders and thirty-five people. More than fifteen hundred title companies, which the founder calls close to a tenth of that market. About thirty percent profit, and no funding. The fee is about three hundred a month per company.\n\nThe lock-in is the handoff. Once the agents have \"their\" app, taking it away is awkward. The first year went from one customer to more than a hundred and fifty through one industry partnership. You pay so the quote happens in the company's own app."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "textmagic",
+  "name": "TextMagic",
+  "listingNote": null,
+  "description": "A web app and an API for a business to send and receive SMS: reminders, notifications, campaigns, surveys, and a Zapier integration. Most features came from support tickets. Tallinn. CEO Priit Vaikmaa. Founded 2001.",
+  "homepage": "https://www.textmagic.com/",
+  "image": "/blog/2026-11-01/textmagic.webp",
+  "imageAlt": "TextMagic product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 21 June 2022. Not independently checked. \"Our revenue in 2021 was just short of €11 million.\" The page header says $1.2M of revenue a month and 51 employees. Those two figures are both on the page. This interview is from 2022, so the number is 2021, not today.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/textmagic"
+        }
+      ],
+      "indieAngle": "A 20-year-old SMS business. A smaller version is texting for one trade."
+    }
+  ],
+  "whyItPrints": "The company bills for every message. The CEO says they never really had to convince people that a text was an easier way to reach a customer.",
+  "whyThisMatters": "TextMagic sends and receives business texts. Reminders, notifications, campaigns, surveys, and a Zapier hook. The CEO, Priit Vaikmaa, says most features came from support tickets. The company is in Tallinn, and it was founded in 2001.\n\nThe interview is from June 2022, and the revenue line is for 2021. Just short of eleven million euros. The page header shows a monthly dollar figure and fifty-one employees. I am not adding those into one number, and I am not calling a 2021 year \"now.\" He says they never had to convince people that a text was an easier way to reach a customer. The bill is per message.\n\nYou pay each time a message goes out. A smaller version of this is texting for one trade.\n\nReminders, campaigns, surveys, and the Zapier hook are the product list. Support tickets are where he says the features came from. Fifty-one employees is the header. 2001 is the founding year. 2021 is the year the revenue sentence belongs to."
+}

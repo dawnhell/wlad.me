@@ -1,0 +1,27 @@
+{
+  "slug": "stagetimer",
+  "name": "Stagetimer",
+  "listingNote": null,
+  "description": "A browser countdown for a stage. The producer controls it remotely, and speakers see the time left on any screen. Lukas Hermann and Liz, Stuttgart. Started November 2021.",
+  "homepage": "https://stagetimer.io/",
+  "image": "/blog/2026-11-01/stagetimer.webp",
+  "imageAlt": "Stagetimer product image",
+  "imageWidth": 1200,
+  "imageHeight": 627,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story. Not independently checked. The interview of 6 January 2023 says $8,000 in monthly revenue on average. The page header now shows $25K of revenue a month, 2 founders, and 0 employees. That header figure is not explained in the story text. Both numbers stay.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/stagetimer-io-11b472c9-5746-4fea-ae5f-8c82cd389346"
+        }
+      ],
+      "indieAngle": "A crew will pay for one reliable screen backstage."
+    }
+  ],
+  "whyItPrints": "One job, a clock, for conference crews. Growth came from Reddit, search, and word of mouth. Customers buy 2 to 6 licenses a year.",
+  "whyThisMatters": "Stagetimer is a clock in the browser. The producer runs it from somewhere else, and the speaker sees the time left on whatever screen is in the room. Lukas Hermann and Liz run it, in Stuttgart. It started in November 2021.\n\nThe January 2023 interview says about eight thousand a month on average. The page header now says a much higher monthly number, with two founders and no employees. The story does not explain the header, so both numbers stay and neither one gets to erase the other. Customers buy two to six licenses a year. The interview credits Reddit, search, and people telling each other.\n\nYou pay so the crew is not holding up fingers from the side of the stage.\n\nTwo to six licenses a year is the buying pattern in the interview. Reddit, search, and word of mouth are the channels he names. November 2021 is the start. Stuttgart is the base. The header and the 2023 average are different sentences. Liz is the other person on it. The clock is the whole product, and a conference crew is the buyer."
+}

@@ -272,6 +272,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/9/91/Peyto_Lake-Banff_NP-Canada.jpg',
   },
+  {
+    id: 'lysefjord',
+    subject: 'nature',
+    alt: 'Lysefjord and Preikestolen in Norway',
+    credit: 'Clementp.fr',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/8/85/Lyse_Fjord_et_Preikestolen.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

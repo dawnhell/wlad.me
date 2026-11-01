@@ -5,7 +5,14 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 09:17:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:30:31 GMT</lastBuildDate>
+    <item>
+      <title>Sunday's boring SaaS, 1 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-01</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Sunday, 1 November 2026. Obscreen and a newer Conductor number are Stripe-verified. The other ten are self-reported. Several of those interviews are a few years old, so the number is from that date.</description>
+    </item>
     <item>
       <title>Saturday's boring SaaS, 31 October 2026</title>
       <link>https://www.wlad.me/blog/2026-10-31</link>

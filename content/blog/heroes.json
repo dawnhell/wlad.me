@@ -361,5 +361,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Peyto_Lake-Banff_NP-Canada.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "lysefjord",
+    "src": "/blog/heroes/lysefjord.webp",
+    "alt": "Lysefjord and Preikestolen in Norway",
+    "width": 1600,
+    "height": 863,
+    "credit": "Clementp.fr",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Lyse_Fjord_et_Preikestolen.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

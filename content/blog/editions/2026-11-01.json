@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-01",
+  "title": "Sunday's boring SaaS, 1 November 2026",
+  "dek": "Sunday, 1 November 2026. Obscreen and a newer Conductor number are Stripe-verified. The other ten are self-reported. Several of those interviews are a few years old, so the number is from that date.",
+  "heroId": "lysefjord",
+  "companies": [
+    {
+      "slug": "titlecapture",
+      "name": "TitleCapture",
+      "listingNote": null,
+      "description": "Each US title company gets its own white-label app. Its real-estate agents and lenders use it to make title quotes, seller net sheets, and buyer estimates without calling a title rep. Miami. Started October 2013.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 20 November 2023. Not independently checked. \"$300K+ MRR (close to $4m ARR)\". The page header says $333K of revenue a month, 2 founders, and 35 employees. More than 1,500 title companies, \"close to 10% of the entire title company market.\" Around 30% profitability, and they have never taken funding. About $300 a month per title company.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/titlecapture"
+        }
+      ],
+      "homepage": "https://titlecapture.com/",
+      "indieAngle": "A back-office industry where the customer gives your tool to its own customers.",
+      "whyItPrints": "A title company hands \"their app\" to its agents. The founder says churn is very low, because taking the app back is hard. The fee is about $300 a month. One industry partnership took them from 1 customer to more than 150 in the first year.",
+      "image": "/blog/2026-11-01/titlecapture.webp",
+      "imageAlt": "TitleCapture product image",
+      "imageWidth": 1200,
+      "imageHeight": 1019
+    },
+    {
+      "slug": "data-fetcher",
+      "name": "Data Fetcher",
+      "listingNote": null,
+      "description": "An Airtable extension that imports data from REST APIs, Stripe, Google Search Console, and other ready-made sources into Airtable on a schedule, without code. Solo founder Andy Cloke, London. Started August 2020.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story. Not independently checked. The 2022 interview says 190 paying customers and $6,500 a month. The 2024 update says $23,000 a month, growing from $6,000 to $23,000, with churn down to 7%. The goal is 1,000 customers and $500,000 a year. The page header says $23K of revenue a month, 1 founder, and 0 employees.",
+      "sources": [
+        {
+          "label": "Starter Story 2024",
+          "url": "https://www.starterstory.com/stories/data-fetcher"
+        },
+        {
+          "label": "Starter Story 2022",
+          "url": "https://www.starterstory.com/stories/how-i-built-an-airtable-plugin-will-lets-users-visualize-and-manage-their-data-better-60k-year"
+        }
+      ],
+      "homepage": "https://datafetcher.com/",
+      "indieAngle": "A solo founder became the default importer inside one product, and that product can change the rules.",
+      "whyItPrints": "Operations people pay so they do not have to write a script between Airtable and the other system. The founder names the risk himself: Airtable pricing and platform changes.",
+      "image": "/blog/2026-11-01/data-fetcher.webp",
+      "imageAlt": "Data Fetcher product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "sync2sheets",
+      "name": "Sync2Sheets",
+      "listingNote": null,
+      "description": "A Google Workspace add-on that syncs Notion databases into Google Sheets for reporting, formulas, and charts. Solo founder Leandro Zubrezki, Buenos Aires. Started May 2021. He also builds Coda integrations.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 7 May 2024. Not independently checked. $9,000 a month, with more than 400 paying customers. The page header says $9K of revenue a month, 1 founder, and 0 employees. Costs are about $500 a month. LTV is about $300. Churn is about 7%.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/sync2sheets-give-notion-the-superpowers-of-google-sheets"
+        }
+      ],
+      "homepage": "https://sync2sheets.com/",
+      "indieAngle": "Two tools people already live in, and a paid sync between them.",
+      "whyItPrints": "People pay for a spreadsheet export. The interview says customers run from small businesses to Canva and Wix. Switching from a free plan to paid-only, with a trial, took him from about 15 to more than 40 new paying customers a month.",
+      "image": "/blog/2026-11-01/sync2sheets.webp",
+      "imageAlt": "Sync2Sheets product image",
+      "imageWidth": 750,
+      "imageHeight": 392
+    },
+    {
+      "slug": "textmagic",
+      "name": "TextMagic",
+      "listingNote": null,
+      "description": "A web app and an API for a business to send and receive SMS: reminders, notifications, campaigns, surveys, and a Zapier integration. Most features came from support tickets. Tallinn. CEO Priit Vaikmaa. Founded 2001.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 21 June 2022. Not independently checked. \"Our revenue in 2021 was just short of €11 million.\" The page header says $1.2M of revenue a month and 51 employees. Those two figures are both on the page. This interview is from 2022, so the number is 2021, not today.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/textmagic"
+        }
+      ],
+      "homepage": "https://www.textmagic.com/",
+      "indieAngle": "A 20-year-old SMS business. A smaller version is texting for one trade.",
+      "whyItPrints": "The company bills for every message. The CEO says they never really had to convince people that a text was an easier way to reach a customer.",
+      "image": "/blog/2026-11-01/textmagic.webp",
+      "imageAlt": "TextMagic product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "diesel-laptops",
+      "name": "Diesel Laptops",
+      "listingNote": null,
+      "description": "Diagnostic kits for truck and off-highway mechanics: a laptop, software, and cables, plus repair information, its own software, and tech support. Sold to repair shops and fleets. It started as eBay bundles in 2012. Irmo, South Carolina.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 18 December 2018. Not independently checked. Sales were $3.5 million in 2015, almost $8 million in 2016, and $16 million in 2017. The page headline says $20 million a year, and the header says $4.2 million of revenue a month and 180 employees. Those header figures are as shown on the page, not the 2017 sales line. Over $1 million that year on paid search. Profitable, with every penny reinvested. This is a 2018 interview.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/diesel-laptops-from-selling-on-ebay-to-making-20m-year"
+        }
+      ],
+      "homepage": "https://www.diesellaptops.com/",
+      "indieAngle": "The hardware kit is the sale. The software and the repair data on top of it are the part that can recur.",
+      "whyItPrints": "Shops pay $2,000 to $8,000 or more for a tool that saves technician hours. Support and updates are why they keep buying. Leads come from paid search at about $50 for a high-quality lead, and most sales close by phone.",
+      "image": "/blog/2026-11-01/diesel-laptops.webp",
+      "imageAlt": "Diesel Laptops product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "dashp",
+      "name": "DASHP",
+      "listingNote": null,
+      "description": "It started as commission and performance tracking for door-to-door pest-control sales teams. The site now pitches a fuller pest-control platform, with technicians, routing, and field sales. Solo founder Isaac Z Tai. Started October 2022. US.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 17 December 2024. Not independently checked. \"Just over 100k ARR.\" The page header says $8,333 of revenue a month, 1 founder, and 0 employees. The stack moved from Retool to Expo and Supabase.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/dashp"
+        }
+      ],
+      "homepage": "https://dashp.io/",
+      "indieAngle": "One trade, one spreadsheet, and a yearly seat.",
+      "whyItPrints": "Commission spreadsheets in a seasonal door-to-door trade. Seats come with a 12-month commitment. Month-to-month flex seats cost twice as much and are capped at 30% of seats. Standard seats are $10 to $30 a month. No funding.",
+      "image": "/blog/2026-11-01/dashp.webp",
+      "imageAlt": "DASHP product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "stagetimer",
+      "name": "Stagetimer",
+      "listingNote": null,
+      "description": "A browser countdown for a stage. The producer controls it remotely, and speakers see the time left on any screen. Lukas Hermann and Liz, Stuttgart. Started November 2021.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story. Not independently checked. The interview of 6 January 2023 says $8,000 in monthly revenue on average. The page header now shows $25K of revenue a month, 2 founders, and 0 employees. That header figure is not explained in the story text. Both numbers stay.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/stagetimer-io-11b472c9-5746-4fea-ae5f-8c82cd389346"
+        }
+      ],
+      "homepage": "https://stagetimer.io/",
+      "indieAngle": "A crew will pay for one reliable screen backstage.",
+      "whyItPrints": "One job, a clock, for conference crews. Growth came from Reddit, search, and word of mouth. Customers buy 2 to 6 licenses a year.",
+      "image": "/blog/2026-11-01/stagetimer.webp",
+      "imageAlt": "Stagetimer product image",
+      "imageWidth": 1200,
+      "imageHeight": 627
+    },
+    {
+      "slug": "mysignature",
+      "name": "MySignature",
+      "listingNote": null,
+      "description": "An HTML email-signature builder for a person or a team. It started in 2015 and was acquired in 2019 by Vol Zastavny's company Solva. The team is of Ukrainian origin.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 11 January 2024. Not independently checked. Almost $700,000 a year, fully bootstrapped, 500,000-plus users, about half of Solva's revenue. The page header says $55K of revenue a month.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/mysignature-84b72d95-8f5a-474d-aeb0-f295e20dddcf"
+        }
+      ],
+      "homepage": "https://mysignature.io/",
+      "indieAngle": "They bought a tool that already existed, then worked on search and the signup.",
+      "whyItPrints": "A signature at the bottom of an email. The interview treats search and the Gmail integration as the way people find it.",
+      "image": "/blog/2026-11-01/mysignature.webp",
+      "imageAlt": "MySignature product image",
+      "imageWidth": 400,
+      "imageHeight": 400
+    },
+    {
+      "slug": "craftmypdf",
+      "name": "CraftMyPDF",
+      "listingNote": null,
+      "description": "A drag-and-drop template editor, plus an API and Zapier and Make, that turns JSON into invoices, certificates, labels, and reports as PDFs. Solo founder Jacky Tan, Singapore. Started November 2020, using a $300 boilerplate.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 4 April 2023. Not independently checked. $15,000 a month for both products combined. The page header says $15K of revenue a month, 1 founder, and 1 employee. More than 2 million PDF documents and images generated over two years. The interview does not name the second product.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/craftmypdf"
+        }
+      ],
+      "homepage": "https://craftmypdf.com/",
+      "indieAngle": "An API for a document a developer would rather rent than keep running.",
+      "whyItPrints": "A back office needs a document made from data. Growth came from search after ads did not work. Churn is mostly customers who no longer needed the service.",
+      "image": "/blog/2026-11-01/craftmypdf.webp",
+      "imageAlt": "CraftMyPDF product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "obscreen",
+      "name": "Obscreen",
+      "listingNote": "for sale",
+      "description": "Digital signage. It organises media and plays it on a TV, a computer, a tablet, or any browser, in the cloud or self-hosted. Restaurants, retail, logistics, gyms, hospitals, and offices. One person. Founded September 2024. Bootstrapped. The profile says it is used in 30-plus countries. France.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $482. 26 subscriptions. Last 30 days $395. All-time $15,388. Last-30-day margin 80% claimed. Listed for sale at $25,000. Revenue synced 1 November 2026 ~07:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/obscreen"
+        }
+      ],
+      "homepage": "https://obscreen.io/",
+      "indieAngle": "Signage money is usually a price per screen for a business with more than one location. This listing is the small end of that.",
+      "whyItPrints": "Menu boards and lobby screens. A self-host option is how it gets around. The listing is for sale.",
+      "image": "/blog/2026-11-01/obscreen.webp",
+      "imageAlt": "Obscreen product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "screenshotone",
+      "name": "ScreenshotOne",
+      "listingNote": null,
+      "description": "A screenshot, PDF, and video API. Solo founder Dmytro Krasun. Pricing is subscriptions plus pay-as-you-go. No funding. A target of $50,000 a month is a goal, not a current figure.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported. Not independently checked. A late-September brief put it near $12,000 a month, from Starter Story. That note is not on this site. Indie Hackers, 5 March 2026, says over 800 paying customers and over $25,000 a month. SoloBiz, 27 October 2026, repeats more than $25,000 a month and more than 800 customers. The $25,000 figure is from March 2026, so it is not necessarily today's number.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/tech/hitting-25k-mrr-by-making-his-goals-less-ambitious-jQRZDnzwm8DFAaS4Xrq0"
+        },
+        {
+          "label": "SoloBiz",
+          "url": "https://solobiz.cc/stories/dmytro-krasun/"
+        }
+      ],
+      "homepage": "https://screenshotone.com/",
+      "indieAngle": "An unsexy API that is easier to rent than to maintain.",
+      "whyItPrints": "Developers pay so they do not have to keep a screenshot service running themselves.",
+      "image": "/blog/2026-11-01/screenshotone.webp",
+      "imageAlt": "ScreenshotOne product image",
+      "imageWidth": 1200,
+      "imageHeight": 593
+    },
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 1 November listing is still for sale. The monthly Stripe line is a bit higher than the 30 October note, and the last 30 days are a bit lower.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $45,770. 305 subscriptions. Last 30 days $43,642. All-time $505,682. Last-30-day margin 95% claimed. Still listed for sale at $1,250,000. Revenue synced 1 November 2026 ~09:24 Warsaw. The 30 October note was MRR $45,524, 302 subscriptions, last 30 days $44,395, and all-time $504,399.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The monthly Stripe line moved up a little, the last 30 days moved down a little, and it is still for sale.",
+      "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The monthly line is a little higher, the last 30 days are a little lower, and the listing is still for sale.",
+      "image": "/blog/2026-11-01/conductor.webp",
+      "imageAlt": "Conductor product image",
+      "imageWidth": 1200,
+      "imageHeight": 610
+    }
+  ],
+  "honorableMentions": []
+}

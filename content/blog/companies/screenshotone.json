@@ -1,0 +1,31 @@
+{
+  "slug": "screenshotone",
+  "name": "ScreenshotOne",
+  "listingNote": null,
+  "description": "A screenshot, PDF, and video API. Solo founder Dmytro Krasun. Pricing is subscriptions plus pay-as-you-go. No funding. A target of $50,000 a month is a goal, not a current figure.",
+  "homepage": "https://screenshotone.com/",
+  "image": "/blog/2026-11-01/screenshotone.webp",
+  "imageAlt": "ScreenshotOne product image",
+  "imageWidth": 1200,
+  "imageHeight": 593,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported. Not independently checked. A late-September brief put it near $12,000 a month, from Starter Story. That note is not on this site. Indie Hackers, 5 March 2026, says over 800 paying customers and over $25,000 a month. SoloBiz, 27 October 2026, repeats more than $25,000 a month and more than 800 customers. The $25,000 figure is from March 2026, so it is not necessarily today's number.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/tech/hitting-25k-mrr-by-making-his-goals-less-ambitious-jQRZDnzwm8DFAaS4Xrq0"
+        },
+        {
+          "label": "SoloBiz",
+          "url": "https://solobiz.cc/stories/dmytro-krasun/"
+        }
+      ],
+      "indieAngle": "An unsexy API that is easier to rent than to maintain."
+    }
+  ],
+  "whyItPrints": "Developers pay so they do not have to keep a screenshot service running themselves.",
+  "whyThisMatters": "ScreenshotOne takes a URL and sends back a screenshot, a PDF, or a short video. Dmytro Krasun runs it alone. You can subscribe, or you can pay for what you use. He has not raised. Fifty thousand a month is a target he has said out loud, not a figure on a payment account.\n\nTwo public write-ups carry the same claim. Indie Hackers in March 2026 says more than eight hundred paying customers and more than twenty-five thousand a month. SoloBiz in late October 2026 repeats that. The monthly figure is the March one, so it is not a sync from this morning. A late-September brief had a lower number, from Starter Story, and that note never became a page here. I am not backfilling a mention I do not have.\n\nYou pay so the screenshot job is someone else's server.\n\nPay-as-you-go sits next to the subscription. No funding is part of the recap. The fifty-thousand target is his, and it is not the March figure. SoloBiz is a retelling of the interview, not a new sync."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mysignature",
+  "name": "MySignature",
+  "listingNote": null,
+  "description": "An HTML email-signature builder for a person or a team. It started in 2015 and was acquired in 2019 by Vol Zastavny's company Solva. The team is of Ukrainian origin.",
+  "homepage": "https://mysignature.io/",
+  "image": "/blog/2026-11-01/mysignature.webp",
+  "imageAlt": "MySignature product image",
+  "imageWidth": 400,
+  "imageHeight": 400,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 11 January 2024. Not independently checked. Almost $700,000 a year, fully bootstrapped, 500,000-plus users, about half of Solva's revenue. The page header says $55K of revenue a month.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/mysignature-84b72d95-8f5a-474d-aeb0-f295e20dddcf"
+        }
+      ],
+      "indieAngle": "They bought a tool that already existed, then worked on search and the signup."
+    }
+  ],
+  "whyItPrints": "A signature at the bottom of an email. The interview treats search and the Gmail integration as the way people find it.",
+  "whyThisMatters": "MySignature builds the block at the bottom of an email, for one person or for a team. It started in 2015. In 2019 Vol Zastavny's company, Solva, bought it. The team is of Ukrainian origin.\n\nThe January 2024 interview says almost seven hundred thousand a year, bootstrapped, with more than five hundred thousand users, and about half of Solva's revenue. The page header is a monthly figure in the same range as that year. I am not picking one and deleting the other. Search and a Gmail hook are how the interview says people arrive.\n\nYou pay so every email leaves with the same signature. The interesting part of the story is that they bought it instead of starting from a blank page.\n\nSolva is the buyer, and about half of that company's revenue is the claim. Five hundred thousand users is the user count, which is not the same as paying teams. January 2024 is the interview. The header monthly figure and the yearly figure stay side by side. The signature is HTML, so it is a block of markup rather than a picture that some mail clients drop."
+}

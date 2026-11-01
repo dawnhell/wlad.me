@@ -1,0 +1,27 @@
+{
+  "slug": "obscreen",
+  "name": "Obscreen",
+  "listingNote": "for sale",
+  "description": "Digital signage. It organises media and plays it on a TV, a computer, a tablet, or any browser, in the cloud or self-hosted. Restaurants, retail, logistics, gyms, hospitals, and offices. One person. Founded September 2024. Bootstrapped. The profile says it is used in 30-plus countries. France.",
+  "homepage": "https://obscreen.io/",
+  "image": "/blog/2026-11-01/obscreen.webp",
+  "imageAlt": "Obscreen product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $482. 26 subscriptions. Last 30 days $395. All-time $15,388. Last-30-day margin 80% claimed. Listed for sale at $25,000. Revenue synced 1 November 2026 ~07:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/obscreen"
+        }
+      ],
+      "indieAngle": "Signage money is usually a price per screen for a business with more than one location. This listing is the small end of that."
+    }
+  ],
+  "whyItPrints": "Menu boards and lobby screens. A self-host option is how it gets around. The listing is for sale.",
+  "whyThisMatters": "Obscreen puts pictures and video on a screen: a TV, a computer, a tablet, or a browser. Cloud, or on the customer's own machine. Restaurants, shops, warehouses, gyms, hospitals, offices. One person, in France, started in September 2024, no outside money. The profile says thirty-plus countries.\n\nStripe shows a few dozen subscriptions and a monthly line under five hundred. The last thirty days are in the same small range. The all-time total is the whole life of a young listing, and it is much larger than one month, so the early months were not zero. Margin is claimed at eighty percent. The asking price is twenty-five thousand. Nobody's offer count is in the brief, so I am not writing one.\n\nYou pay so the menu or the lobby notice is a screen, not a piece of paper. The money in signage is usually per screen, at a chain. This is the small end."
+}

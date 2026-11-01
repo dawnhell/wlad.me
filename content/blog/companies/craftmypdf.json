@@ -1,0 +1,27 @@
+{
+  "slug": "craftmypdf",
+  "name": "CraftMyPDF",
+  "listingNote": null,
+  "description": "A drag-and-drop template editor, plus an API and Zapier and Make, that turns JSON into invoices, certificates, labels, and reports as PDFs. Solo founder Jacky Tan, Singapore. Started November 2020, using a $300 boilerplate.",
+  "homepage": "https://craftmypdf.com/",
+  "image": "/blog/2026-11-01/craftmypdf.webp",
+  "imageAlt": "CraftMyPDF product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 4 April 2023. Not independently checked. $15,000 a month for both products combined. The page header says $15K of revenue a month, 1 founder, and 1 employee. More than 2 million PDF documents and images generated over two years. The interview does not name the second product.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/craftmypdf"
+        }
+      ],
+      "indieAngle": "An API for a document a developer would rather rent than keep running."
+    }
+  ],
+  "whyItPrints": "A back office needs a document made from data. Growth came from search after ads did not work. Churn is mostly customers who no longer needed the service.",
+  "whyThisMatters": "CraftMyPDF is a template you drag together, and an API that fills it. JSON goes in. An invoice, a certificate, a label, or a report comes out as a PDF. Zapier and Make are in the path too. Jacky Tan started it in Singapore in November 2020. He used a boilerplate that cost a few hundred dollars. The header says one founder and one employee.\n\nThe April 2023 interview says fifteen thousand a month for both products combined. The header matches that monthly figure. The interview does not name the second product, so this page does not invent one. More than two million PDFs and images over two years is his count. Ads did not work. Search did. People leave mostly because they no longer need the documents.\n\nYou pay so a developer does not keep a PDF renderer alive.\n\nInvoices, certificates, labels, and reports are the examples he gives. Zapier and Make sit next to the API. November 2020 is the start, and the boilerplate was a one-time purchase. Two million documents is his count over two years, not a monthly rate."
+}

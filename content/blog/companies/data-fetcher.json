@@ -1,0 +1,31 @@
+{
+  "slug": "data-fetcher",
+  "name": "Data Fetcher",
+  "listingNote": null,
+  "description": "An Airtable extension that imports data from REST APIs, Stripe, Google Search Console, and other ready-made sources into Airtable on a schedule, without code. Solo founder Andy Cloke, London. Started August 2020.",
+  "homepage": "https://datafetcher.com/",
+  "image": "/blog/2026-11-01/data-fetcher.webp",
+  "imageAlt": "Data Fetcher product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-01",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story. Not independently checked. The 2022 interview says 190 paying customers and $6,500 a month. The 2024 update says $23,000 a month, growing from $6,000 to $23,000, with churn down to 7%. The goal is 1,000 customers and $500,000 a year. The page header says $23K of revenue a month, 1 founder, and 0 employees.",
+      "sources": [
+        {
+          "label": "Starter Story 2024",
+          "url": "https://www.starterstory.com/stories/data-fetcher"
+        },
+        {
+          "label": "Starter Story 2022",
+          "url": "https://www.starterstory.com/stories/how-i-built-an-airtable-plugin-will-lets-users-visualize-and-manage-their-data-better-60k-year"
+        }
+      ],
+      "indieAngle": "A solo founder became the default importer inside one product, and that product can change the rules."
+    }
+  ],
+  "whyItPrints": "Operations people pay so they do not have to write a script between Airtable and the other system. The founder names the risk himself: Airtable pricing and platform changes.",
+  "whyThisMatters": "Data Fetcher sits inside Airtable and pulls from a REST API, from Stripe, from Google Search Console, or from another ready-made source. It runs on a schedule. Nobody writes a script. Andy Cloke started it in London in August 2020, and he is still the only person.\n\nTwo interviews, and they do not get collapsed. In 2022 he had about a hundred and ninety paying customers and a much smaller monthly number. In 2024 he says the monthly number is several times that, and churn is down to seven percent. The page header matches the later monthly figure, with one founder and no employees. A thousand customers and half a million a year is a goal, not a result. He says the risk out loud: Airtable can change its price or its platform.\n\nYou pay so the base fills itself. The product you depend on is someone else's.\n\nStripe and Google Search Console are named sources, not the only ones. A REST API is the general case. August 2020 is the start. Seven percent churn is the 2024 line. The thousand-customer goal stays a goal."
+}
