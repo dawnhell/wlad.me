@@ -1,7 +1,7 @@
 import { Analytics } from '@vercel/analytics/react'
 import type { NextPage } from 'next'
 import type { AppProps } from 'next/app'
-import { Newsreader, Source_Sans_3 } from 'next/font/google'
+import localFont from 'next/font/local'
 import Head from 'next/head'
 import { useRouter } from 'next/router'
 import Script from 'next/script'
@@ -11,18 +11,26 @@ import { ThemeProvider } from '@/components/ui/theme-provider'
 import { Insights } from '../components/Insights'
 import '../styles/globals.css'
 
-const sourceSans = Source_Sans_3({
-  subsets: ['latin'],
-  weight: ['400', '500', '600'],
+const sourceSans = localFont({
+  src: [
+    { path: '../fonts/source-sans-3-latin-400.woff2', weight: '400', style: 'normal' },
+    { path: '../fonts/source-sans-3-latin-500.woff2', weight: '500', style: 'normal' },
+    { path: '../fonts/source-sans-3-latin-600.woff2', weight: '600', style: 'normal' },
+  ],
   display: 'swap',
   variable: '--font-source-sans',
+  adjustFontFallback: 'Arial',
 })
 
-const newsreader = Newsreader({
-  subsets: ['latin'],
-  weight: ['300', '400', '500'],
+const newsreader = localFont({
+  src: [
+    { path: '../fonts/newsreader-latin-300.woff2', weight: '300', style: 'normal' },
+    { path: '../fonts/newsreader-latin-400.woff2', weight: '400', style: 'normal' },
+    { path: '../fonts/newsreader-latin-500.woff2', weight: '500', style: 'normal' },
+  ],
   display: 'swap',
   variable: '--font-newsreader',
+  adjustFontFallback: 'Times New Roman',
 })
 
 export type tNextPageWithLayout<P = Record<string, never>> = NextPage<P> & {
