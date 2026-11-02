@@ -1,0 +1,27 @@
+{
+  "slug": "instikit",
+  "name": "InstiKit",
+  "listingNote": "School ERP",
+  "description": "School and college software for classes, admissions, fees, HR, and payroll. Sold as a licence, from $49 to $5,000, including white-label, partner, and developer editions. Laravel and Vue. Solo founder Vinay Kesharwani. About 600 users. Bootstrapped since September 2019. India.",
+  "homepage": "https://instikit.com/",
+  "image": "/blog/2026-11-02/instikit.webp",
+  "imageAlt": "InstiKit product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-02",
+      "evidenceKind": "razorpay-verified",
+      "evidence": "Razorpay-verified. No active subscriptions, because the purchase is a one-time licence. All-time revenue $105,130. Last 30 days $299. Revenue synced 2 November 2026 ~06:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/instikit-school-erp"
+        }
+      ],
+      "indieAngle": "A vertical system sold as a licence to local resellers, who do the selling and the support."
+    }
+  ],
+  "whyItPrints": "A school needs the records. A local reseller can put their own name on the software and sell it. The revenue comes in lumps, because the purchase is a licence, not a seat every month.",
+  "whyThisMatters": "InstiKit is the records for a school or a college. Classes, admissions, fees, HR, and payroll. You buy a licence. The cheap one is a few dozen dollars. The expensive one is five thousand. White-label, partner, and developer editions are how a local company puts their name on it. Laravel and Vue. Vinay Kesharwani, alone, since September 2019. About six hundred users. India. No outside money.\n\nThe money label is Razorpay. There are no active subscriptions, because a licence is a one-time sale. The all-time total is a bit over a hundred thousand. The last thirty days are a few hundred, which is the lumpy part the brief warned about. A quiet month does not rewrite the life of the product, and a quiet month is also not a run rate.\n\nYou pay once for the software. A reseller pays so they can sell it locally under their own name."
+}

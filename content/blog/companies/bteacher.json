@@ -1,0 +1,27 @@
+{
+  "slug": "bteacher",
+  "name": "Bteacher",
+  "listingNote": null,
+  "description": "Teachers in Spain pay once to have a CV sent to private schools and to publicly funded private schools, called concertados. The site claims more than 10,000 schools. The price is €20 for one autonomous community, or €99 for the whole country. Solo founder Carlos. About 3,900 users. Bootstrapped. Founded May 2023.",
+  "homepage": "https://bteacher.es/",
+  "image": "/blog/2026-11-02/bteacher.webp",
+  "imageAlt": "Bteacher product image",
+  "imageWidth": 253,
+  "imageHeight": 252,
+  "mentions": [
+    {
+      "date": "2026-11-02",
+      "evidenceKind": "shopify-verified",
+      "evidence": "Shopify-verified, not Stripe. People pay once, so there is no monthly subscription line. All-time revenue $195,992. Last 30 days $2,796. Revenue synced 2 November 2026 ~07:44 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/bteacher"
+        }
+      ],
+      "indieAngle": "Send a CV to every employer of one profession in one region, where a public directory already exists."
+    }
+  ],
+  "whyItPrints": "A list of schools and a mail-out, sold to people looking for a teaching job. Hiring has a season.",
+  "whyThisMatters": "A teacher in Spain pays once. Bteacher sends the CV to private schools and to concertados, the publicly funded private schools. The site says more than ten thousand schools. Twenty euros covers one autonomous community. Ninety-nine euros covers the country. Carlos runs it alone. About thirty-nine hundred users. No outside money. Started in May 2023.\n\nThe money label is Shopify. I am not logging into Shopify to re-check it, and it is not a Stripe connection. There is no subscription line, because the purchase does not repeat on a monthly seat. The all-time total is the whole history on this connection, and the last thirty days are a small slice of it, which fits a fee people pay when they are job hunting, not every month.\n\nYou pay so the CV goes to the schools, instead of you emailing them one by one."
+}

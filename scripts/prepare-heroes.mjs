@@ -280,6 +280,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/8/85/Lyse_Fjord_et_Preikestolen.jpg',
   },
+  {
+    id: 'lake-louise',
+    subject: 'nature',
+    alt: 'Lake Louise in Banff National Park',
+    credit: 'Chensiyuan',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/1_lake_louise_pano_2019.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

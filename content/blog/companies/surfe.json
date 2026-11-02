@@ -1,0 +1,27 @@
+{
+  "slug": "surfe",
+  "name": "Surfe",
+  "listingNote": null,
+  "description": "Formerly Leadjet. A Chrome extension that pushes LinkedIn profiles and conversations into HubSpot, Pipedrive, or Salesforce, plus email and phone enrichment, and an API. France. CEO David Chevalier. Founded 2020.",
+  "homepage": "https://www.surfe.com/",
+  "image": "/blog/2026-11-02/surfe.webp",
+  "imageAlt": "Surfe product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-02",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, CEO David Chevalier to Latka. The page is dated 23 June 2026, and the metrics are labelled as a founder interview from August 2026. Not a Stripe connection. $15 million a year in 2026. $9 million at the end of 2025. $4.5 million at the end of 2024. The first $1 million took 18 months. 10,000 paying customers, 50,000 seats, about $1,500 a year for a self-serve customer. About a third of revenue from the API, credits, and MCP. The largest customer pays more than $1 million a year. $10 million raised, about 70 staff. Not bootstrapped.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/surfe.com/interviews/surfe-david-chevalier-2026"
+        }
+      ],
+      "indieAngle": "A sync from one source into a CRM, for a source this product does not cover."
+    }
+  ],
+  "whyItPrints": "Glue between two systems a salesperson already pays for. It is distributed through CRM marketplaces, including 12,000 HubSpot installs, and the Chrome store, 40,000 users. Usage credits sit on top of seats.",
+  "whyThisMatters": "Surfe used to be called Leadjet. A salesperson is on LinkedIn. The extension puts the profile and the conversation into HubSpot, Pipedrive, or Salesforce. It also finds an email or a phone number, and there is an API. David Chevalier is the CEO. France. Founded in 2020.\n\nThe numbers are what he told Latka. The page is dated June 2026, and the metrics are labelled as an August 2026 interview. Fifteen million a year in 2026, nine million at the end of 2025, four and a half million at the end of 2024. The first million took eighteen months. Ten thousand paying customers, fifty thousand seats, and a self-serve customer at about fifteen hundred a year. About a third of the money is the API, the credits, and the MCP connection. One customer pays more than a million a year. They raised ten million, and there are about seventy people. This is not a one-person tool, and it is not a Stripe sync.\n\nYou pay so the profile does not get pasted into the CRM by hand. Twelve thousand HubSpot installs and forty thousand Chrome users are the distribution he cites."
+}

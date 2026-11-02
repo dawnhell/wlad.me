@@ -1,0 +1,27 @@
+{
+  "slug": "standout-cv",
+  "name": "StandOut CV",
+  "listingNote": null,
+  "description": "Andrew Fennell's UK site of CV advice, since 2015. It started on advertising from search traffic, then added a subscription CV builder. The builder was sold in April 2026.",
+  "homepage": "https://standout-cv.com/",
+  "image": "/blog/2026-11-02/standout-cv.webp",
+  "imageAlt": "StandOut CV product image",
+  "imageWidth": 1200,
+  "imageHeight": 626,
+  "mentions": [
+    {
+      "date": "2026-11-02",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 9 September 2026. Not independently checked. The article body says the CV builder grew to $40,000 a month and was sold for a mid-six-figure sum in April 2026. 18 million visitors in total, peaking at 300,000 a month, and 140,000 YouTube subscribers. The page header says $360,000 of revenue a month, and the FAQ says $4.32 million a year. Neither matches the article body. The founder's number is the $40,000 a month, and that business was sold.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/standout-cv-create-a-winning-cv-in-minutes-with-our-simple-cv-builder"
+        }
+      ],
+      "indieAngle": "The articles came first. The tool was sold. The brief does not say what happened to the site after the sale."
+    }
+  ],
+  "whyItPrints": "People searching for how to write a CV. The articles brought the visitors, and the builder charged them.",
+  "whyThisMatters": "StandOut CV is Andrew Fennell's site about how to write a CV, in the UK, since 2015. The articles ran on ads. Then he added a builder people could subscribe to. In April 2026 that builder was sold.\n\nThe September 2026 article says the builder reached forty thousand a month and sold for a mid-six-figure sum. Eighteen million visitors over the life of the site, a peak of three hundred thousand in a month, and a hundred and forty thousand people on YouTube. The page header says a monthly figure nine times the article, and the FAQ turns that header into a yearly number. Neither matches the body. The founder's number is the one in the article, and it describes a product that has been sold. This page does not know what the content site earns now.\n\nYou used to pay so the CV was built for you. The interesting part is that the articles and the tool were two different assets, and he sold the tool."
+}

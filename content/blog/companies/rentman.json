@@ -1,0 +1,27 @@
+{
+  "slug": "rentman",
+  "name": "Rentman",
+  "listingNote": null,
+  "description": "The back office for a company that rents audio, lighting, and staging gear, and that staffs events. Inventory and availability, crew scheduling, quotes, logistics, and invoicing. Founder Roy van den Broek ran an AV rental company from age 16 and built this for himself first. Netherlands.",
+  "homepage": "https://rentman.io/",
+  "image": "/blog/2026-11-02/rentman.webp",
+  "imageAlt": "Rentman product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-02",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Indie Hackers, 29 April 2026. Not independently checked. Between $15 million and $20 million a year. The page header says more than $1.25 million a month. I am not picking one number inside that range. Bootstrapped for the first eight years.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/HFriCBQLHukAmdXVEj1q"
+        }
+      ],
+      "indieAngle": "Inventory, crew, and a quote, for a rental trade."
+    }
+  ],
+  "whyItPrints": "It replaces spreadsheets and a whiteboard in a trade most software people never think about. Bootstrapped for its first eight years.",
+  "whyThisMatters": "Rentman is the office for a company that owns speakers, lights, and staging, and that sends people to run the event. What is in the warehouse, who is working, the quote, the trucks, and the invoice. Roy van den Broek ran an AV rental company from the age of sixteen and built the tool for that company first. The Netherlands.\n\nThe April 2026 interview gives a range, fifteen to twenty million a year, and the header says more than one and a quarter million a month. I am not choosing a point inside the range. Bootstrapped for the first eight years is the funding line. The interview does not say what happened after those eight years, so this page does not invent a round.\n\nYou pay so the gear, the crew, and the quote live in one system instead of a spreadsheet and a whiteboard.\n\nAvailability of speakers and lights is the warehouse question. Trucks and crew calls sit in the same job."
+}

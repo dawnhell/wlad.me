@@ -1,0 +1,27 @@
+{
+  "slug": "recruit-crm",
+  "name": "Recruit CRM",
+  "listingNote": null,
+  "description": "One tool for recruitment and executive-search firms. It combines an applicant tracker, for candidates and pipelines, with a sales CRM for the client companies the agency bills. A father and son, Sean Mallapurkar, have run it since 2017. Fully bootstrapped, and profitable.",
+  "homepage": "https://recruitcrm.io/",
+  "image": "/blog/2026-11-02/recruit-crm.webp",
+  "imageAlt": "Recruit CRM product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-02",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Indie Hackers, 29 May 2026. Not independently checked. Nearly $11 million a year. The page header says $915,000 a month. About 40% growth year over year, and about 40% free-cash-flow margins. About 2,000 recruitment firms in more than 100 countries. The first $1 million a year was in early 2021. They have never raised outside money.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/61O715V0AXD6kZ1j8hsc"
+        }
+      ],
+      "indieAngle": "An applicant tracker and a CRM in one product, for a trade that bills per placement."
+    }
+  ],
+  "whyItPrints": "An agency lives in the candidate database every day, so leaving is painful. The price is per seat. The niche is ordinary staffing work.",
+  "whyThisMatters": "Recruitment firms and executive-search firms get one place for the candidates and one place for the companies that pay the fee. Pipelines on one side, the client relationship on the other. Sean Mallapurkar and his father have run it since 2017. No outside money, and the interview says it is profitable.\n\nThe May 2026 case study says nearly eleven million a year. The page header is a monthly figure in the same range, and I am leaving both lines. About forty percent growth, and about forty percent of the cash left after the costs they count as free cash flow. About two thousand firms, in more than a hundred countries. The first million a year was early 2021.\n\nYou pay per seat because the candidate list is the business. Taking it out later is the annoying part.\n\nStaffing agencies bill the client company, not the job seeker."
+}

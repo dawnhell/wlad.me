@@ -372,5 +372,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Lyse_Fjord_et_Preikestolen.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "lake-louise",
+    "src": "/blog/heroes/lake-louise.webp",
+    "alt": "Lake Louise in Banff National Park",
+    "width": 1440,
+    "height": 808,
+    "credit": "Chensiyuan",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

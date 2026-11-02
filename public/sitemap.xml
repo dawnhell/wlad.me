@@ -14,33 +14,39 @@
   </url>
   <url>
     <loc>https://www.wlad.me/blog</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/about</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/companies</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/companies/for-sale</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/companies/again</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/2026-11-02</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/2026-11-01</loc>
@@ -415,6 +421,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/barn2-media</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/bbcs</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -459,6 +471,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/boosterhub</loc>
     <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/bteacher</loc>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1033,6 +1051,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/instikit</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/interactive-video-software</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -1525,6 +1549,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/recruit-crm</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/reddit-agency</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -1533,6 +1563,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/refined-listings</loc>
     <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/rentman</loc>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1705,6 +1741,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/speedy-squirrel</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/sportsapi-pro</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -1713,6 +1755,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/stack-influence</loc>
     <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/stagebuilder-pro</loc>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1731,6 +1779,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/stan</loc>
     <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/standout-cv</loc>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1779,6 +1833,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/supliful</loc>
     <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/surfe</loc>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

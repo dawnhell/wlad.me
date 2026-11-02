@@ -1,0 +1,27 @@
+{
+  "slug": "speedy-squirrel",
+  "name": "Speedy Squirrel",
+  "listingNote": null,
+  "description": "A Shopify app, also called ShipMagic, that calculates checkout shipping rates from weight, zones, product tags, and other rules, and connects a store to carriers such as USPS, FedEx, and Australia Post. Founder Aditya Malani, Bangalore.",
+  "homepage": "https://speedysquirrel.xyz/",
+  "image": "/blog/2026-11-02/speedy-squirrel.webp",
+  "imageAlt": "Speedy Squirrel product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-11-02",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 13 December 2024. Not independently checked. About $11,000 a month. The same page references a 2025 podcast with the founder at $12,000 a month. Both figures stay. I am not treating the podcast line as a newer check.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/speedy-squirrel-meticulously-engineered-shopify-apps"
+        }
+      ],
+      "indieAngle": "One painful Shopify setting, and the app-store search term for it."
+    }
+  ],
+  "whyItPrints": "Shipping rules are tedious, and once they are set nobody wants to touch them. It is an install-and-leave subscription. The page says ranking in the top five for \"Shipping Calculator\" in the Shopify App Store brings more than 15 installs a day. Starting cost was about $200.",
+  "whyThisMatters": "Speedy Squirrel, also called ShipMagic, is a Shopify app. At checkout it prices the shipping from weight, zones, product tags, and a long list of other rules, then talks to carriers such as USPS, FedEx, and Australia Post. Aditya Malani, in Bangalore, runs it.\n\nThe December 2024 article says about eleven thousand a month. The same page points at a 2025 podcast where he said twelve thousand a month. I am not replacing one with the other, and I am not calling the podcast a fresh check. Starting out cost about two hundred. He says a top-five place in the Shopify App Store for \"Shipping Calculator\" brings more than fifteen installs a day.\n\nYou pay so the rate at checkout is a rule, not a guess the merchant retypes. Once it works, nobody opens it."
+}

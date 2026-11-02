@@ -1,0 +1,27 @@
+{
+  "slug": "barn2-media",
+  "name": "Barn2 Media",
+  "listingNote": null,
+  "description": "Katie Keith's set of 19 premium WordPress and WooCommerce plugins, including product tables, wholesale pricing, and restaurant ordering, plus a Shopify app. UK.",
+  "homepage": "https://barn2.com/",
+  "image": "/blog/2026-11-02/barn2-media.webp",
+  "imageAlt": "Barn2 Media product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-02",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Indie Hackers, 9 June 2026. Not independently checked. About $1.6 million a year. $10 million of plugin sales over the life of the business, a milestone in March 2026. A 15-person remote team. She works about 30 hours a week.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/D8QDyPuDzSuOQS7ux9nR"
+        }
+      ],
+      "indieAngle": "A small, specific WooCommerce or Shopify add-on, billed every year."
+    }
+  ],
+  "whyItPrints": "A store owner pays each year for one WooCommerce behaviour. Nineteen plugins means one of them can stall without the whole business stalling. Growth has plateaued. She says AI search is eating the traffic that used to find the plugins.",
+  "whyThisMatters": "Barn2 is nineteen WordPress and WooCommerce plugins, plus one Shopify app. Product tables, wholesale prices, restaurant ordering, and the rest of that list. Katie Keith. A store owner pays for the year because they need one behaviour WooCommerce does not do by itself. UK.\n\nThe June 2026 interview says about one point six million a year. Ten million of plugin sales, as a lifetime total, was a milestone in March 2026. Fifteen people, remote. She says she works about thirty hours a week. Growth has flattened, and she blames AI answers for taking the search traffic that used to land on the plugin pages. That is her explanation. I am not turning it into a verdict on search.\n\nYou pay each year so the shop does one specific thing. Nineteen products means one of them can go quiet.\n\nWholesale catalogues and restaurant menus are two of the nineteen. A separate Shopify app sits beside the WordPress set. Plateau is her word for the recent stretch, and discovery traffic is what she says the chat answers took."
+}

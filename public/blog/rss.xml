@@ -5,7 +5,14 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 09:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:59:53 GMT</lastBuildDate>
+    <item>
+      <title>Monday's boring SaaS, 2 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-02</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Monday, 2 November 2026. StageBuilder Pro is Stripe-verified. Bteacher is Shopify-verified, so that listing is connected to Shopify. InstiKit is Razorpay-verified, so that listing is connected to Razorpay. The other six are self-reported. StandOut CV's header does not match the founder's number.</description>
+    </item>
     <item>
       <title>Sunday's boring SaaS, 1 November 2026</title>
       <link>https://www.wlad.me/blog/2026-11-01</link>

@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-02",
+  "title": "Monday's boring SaaS, 2 November 2026",
+  "dek": "Monday, 2 November 2026. StageBuilder Pro is Stripe-verified. Bteacher is Shopify-verified, so that listing is connected to Shopify. InstiKit is Razorpay-verified, so that listing is connected to Razorpay. The other six are self-reported. StandOut CV's header does not match the founder's number.",
+  "heroId": "lake-louise",
+  "companies": [
+    {
+      "slug": "recruit-crm",
+      "name": "Recruit CRM",
+      "listingNote": null,
+      "description": "One tool for recruitment and executive-search firms. It combines an applicant tracker, for candidates and pipelines, with a sales CRM for the client companies the agency bills. A father and son, Sean Mallapurkar, have run it since 2017. Fully bootstrapped, and profitable.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Indie Hackers, 29 May 2026. Not independently checked. Nearly $11 million a year. The page header says $915,000 a month. About 40% growth year over year, and about 40% free-cash-flow margins. About 2,000 recruitment firms in more than 100 countries. The first $1 million a year was in early 2021. They have never raised outside money.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/61O715V0AXD6kZ1j8hsc"
+        }
+      ],
+      "homepage": "https://recruitcrm.io/",
+      "indieAngle": "An applicant tracker and a CRM in one product, for a trade that bills per placement.",
+      "whyItPrints": "An agency lives in the candidate database every day, so leaving is painful. The price is per seat. The niche is ordinary staffing work.",
+      "image": "/blog/2026-11-02/recruit-crm.webp",
+      "imageAlt": "Recruit CRM product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "rentman",
+      "name": "Rentman",
+      "listingNote": null,
+      "description": "The back office for a company that rents audio, lighting, and staging gear, and that staffs events. Inventory and availability, crew scheduling, quotes, logistics, and invoicing. Founder Roy van den Broek ran an AV rental company from age 16 and built this for himself first. Netherlands.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Indie Hackers, 29 April 2026. Not independently checked. Between $15 million and $20 million a year. The page header says more than $1.25 million a month. I am not picking one number inside that range. Bootstrapped for the first eight years.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/HFriCBQLHukAmdXVEj1q"
+        }
+      ],
+      "homepage": "https://rentman.io/",
+      "indieAngle": "Inventory, crew, and a quote, for a rental trade.",
+      "whyItPrints": "It replaces spreadsheets and a whiteboard in a trade most software people never think about. Bootstrapped for its first eight years.",
+      "image": "/blog/2026-11-02/rentman.webp",
+      "imageAlt": "Rentman product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "surfe",
+      "name": "Surfe",
+      "listingNote": null,
+      "description": "Formerly Leadjet. A Chrome extension that pushes LinkedIn profiles and conversations into HubSpot, Pipedrive, or Salesforce, plus email and phone enrichment, and an API. France. CEO David Chevalier. Founded 2020.",
+      "evidenceKind": "self-reported",
+      "evidence": "Company-stated, CEO David Chevalier to Latka. The page is dated 23 June 2026, and the metrics are labelled as a founder interview from August 2026. Not a Stripe connection. $15 million a year in 2026. $9 million at the end of 2025. $4.5 million at the end of 2024. The first $1 million took 18 months. 10,000 paying customers, 50,000 seats, about $1,500 a year for a self-serve customer. About a third of revenue from the API, credits, and MCP. The largest customer pays more than $1 million a year. $10 million raised, about 70 staff. Not bootstrapped.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/surfe.com/interviews/surfe-david-chevalier-2026"
+        }
+      ],
+      "homepage": "https://www.surfe.com/",
+      "indieAngle": "A sync from one source into a CRM, for a source this product does not cover.",
+      "whyItPrints": "Glue between two systems a salesperson already pays for. It is distributed through CRM marketplaces, including 12,000 HubSpot installs, and the Chrome store, 40,000 users. Usage credits sit on top of seats.",
+      "image": "/blog/2026-11-02/surfe.webp",
+      "imageAlt": "Surfe product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "speedy-squirrel",
+      "name": "Speedy Squirrel",
+      "listingNote": null,
+      "description": "A Shopify app, also called ShipMagic, that calculates checkout shipping rates from weight, zones, product tags, and other rules, and connects a store to carriers such as USPS, FedEx, and Australia Post. Founder Aditya Malani, Bangalore.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 13 December 2024. Not independently checked. About $11,000 a month. The same page references a 2025 podcast with the founder at $12,000 a month. Both figures stay. I am not treating the podcast line as a newer check.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/speedy-squirrel-meticulously-engineered-shopify-apps"
+        }
+      ],
+      "homepage": "https://speedysquirrel.xyz/",
+      "indieAngle": "One painful Shopify setting, and the app-store search term for it.",
+      "whyItPrints": "Shipping rules are tedious, and once they are set nobody wants to touch them. It is an install-and-leave subscription. The page says ranking in the top five for \"Shipping Calculator\" in the Shopify App Store brings more than 15 installs a day. Starting cost was about $200.",
+      "image": "/blog/2026-11-02/speedy-squirrel.webp",
+      "imageAlt": "Speedy Squirrel product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "bteacher",
+      "name": "Bteacher",
+      "listingNote": null,
+      "description": "Teachers in Spain pay once to have a CV sent to private schools and to publicly funded private schools, called concertados. The site claims more than 10,000 schools. The price is €20 for one autonomous community, or €99 for the whole country. Solo founder Carlos. About 3,900 users. Bootstrapped. Founded May 2023.",
+      "evidenceKind": "shopify-verified",
+      "evidence": "Shopify-verified, not Stripe. People pay once, so there is no monthly subscription line. All-time revenue $195,992. Last 30 days $2,796. Revenue synced 2 November 2026 ~07:44 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/bteacher"
+        }
+      ],
+      "homepage": "https://bteacher.es/",
+      "indieAngle": "Send a CV to every employer of one profession in one region, where a public directory already exists.",
+      "whyItPrints": "A list of schools and a mail-out, sold to people looking for a teaching job. Hiring has a season.",
+      "image": "/blog/2026-11-02/bteacher.webp",
+      "imageAlt": "Bteacher product image",
+      "imageWidth": 253,
+      "imageHeight": 252
+    },
+    {
+      "slug": "stagebuilder-pro",
+      "name": "StageBuilder Pro",
+      "listingNote": null,
+      "description": "A 2D and 3D stage plot and technical rider for bands, DJs, and production crews, with a library of more than 200 production items. Plans are free, $10 a month, or $20 a month, or $400 once. Solo founder. Launched March 2026. About 6,546 users. US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,398. 177 subscriptions. Last 30 days $2,043. All-time $13,696, in about 8 months. The last 30 days are above the subscription line. There is also a $400 lifetime plan. Revenue synced 2 November 2026 ~06:58 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stagebuilder-pro"
+        }
+      ],
+      "homepage": "https://www.stagebuilderpro.com/",
+      "indieAngle": "One document a trade has to hand over before the job.",
+      "whyItPrints": "A gigging act needs a stage plot and an input list. A lot of them still draw it in a document.",
+      "image": "/blog/2026-11-02/stagebuilder-pro.webp",
+      "imageAlt": "StageBuilder Pro product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "instikit",
+      "name": "InstiKit",
+      "listingNote": "School ERP",
+      "description": "School and college software for classes, admissions, fees, HR, and payroll. Sold as a licence, from $49 to $5,000, including white-label, partner, and developer editions. Laravel and Vue. Solo founder Vinay Kesharwani. About 600 users. Bootstrapped since September 2019. India.",
+      "evidenceKind": "razorpay-verified",
+      "evidence": "Razorpay-verified. No active subscriptions, because the purchase is a one-time licence. All-time revenue $105,130. Last 30 days $299. Revenue synced 2 November 2026 ~06:57 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/instikit-school-erp"
+        }
+      ],
+      "homepage": "https://instikit.com/",
+      "indieAngle": "A vertical system sold as a licence to local resellers, who do the selling and the support.",
+      "whyItPrints": "A school needs the records. A local reseller can put their own name on the software and sell it. The revenue comes in lumps, because the purchase is a licence, not a seat every month.",
+      "image": "/blog/2026-11-02/instikit.webp",
+      "imageAlt": "InstiKit product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "barn2-media",
+      "name": "Barn2 Media",
+      "listingNote": null,
+      "description": "Katie Keith's set of 19 premium WordPress and WooCommerce plugins, including product tables, wholesale pricing, and restaurant ordering, plus a Shopify app. UK.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Indie Hackers, 9 June 2026. Not independently checked. About $1.6 million a year. $10 million of plugin sales over the life of the business, a milestone in March 2026. A 15-person remote team. She works about 30 hours a week.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/D8QDyPuDzSuOQS7ux9nR"
+        }
+      ],
+      "homepage": "https://barn2.com/",
+      "indieAngle": "A small, specific WooCommerce or Shopify add-on, billed every year.",
+      "whyItPrints": "A store owner pays each year for one WooCommerce behaviour. Nineteen plugins means one of them can stall without the whole business stalling. Growth has plateaued. She says AI search is eating the traffic that used to find the plugins.",
+      "image": "/blog/2026-11-02/barn2-media.webp",
+      "imageAlt": "Barn2 Media product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "standout-cv",
+      "name": "StandOut CV",
+      "listingNote": null,
+      "description": "Andrew Fennell's UK site of CV advice, since 2015. It started on advertising from search traffic, then added a subscription CV builder. The builder was sold in April 2026.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Starter Story, 9 September 2026. Not independently checked. The article body says the CV builder grew to $40,000 a month and was sold for a mid-six-figure sum in April 2026. 18 million visitors in total, peaking at 300,000 a month, and 140,000 YouTube subscribers. The page header says $360,000 of revenue a month, and the FAQ says $4.32 million a year. Neither matches the article body. The founder's number is the $40,000 a month, and that business was sold.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/standout-cv-create-a-winning-cv-in-minutes-with-our-simple-cv-builder"
+        }
+      ],
+      "homepage": "https://standout-cv.com/",
+      "indieAngle": "The articles came first. The tool was sold. The brief does not say what happened to the site after the sale.",
+      "whyItPrints": "People searching for how to write a CV. The articles brought the visitors, and the builder charged them.",
+      "image": "/blog/2026-11-02/standout-cv.webp",
+      "imageAlt": "StandOut CV product image",
+      "imageWidth": 1200,
+      "imageHeight": 626
+    }
+  ],
+  "honorableMentions": []
+}

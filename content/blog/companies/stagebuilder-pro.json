@@ -1,0 +1,27 @@
+{
+  "slug": "stagebuilder-pro",
+  "name": "StageBuilder Pro",
+  "listingNote": null,
+  "description": "A 2D and 3D stage plot and technical rider for bands, DJs, and production crews, with a library of more than 200 production items. Plans are free, $10 a month, or $20 a month, or $400 once. Solo founder. Launched March 2026. About 6,546 users. US.",
+  "homepage": "https://www.stagebuilderpro.com/",
+  "image": "/blog/2026-11-02/stagebuilder-pro.webp",
+  "imageAlt": "StageBuilder Pro product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-02",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $1,398. 177 subscriptions. Last 30 days $2,043. All-time $13,696, in about 8 months. The last 30 days are above the subscription line. There is also a $400 lifetime plan. Revenue synced 2 November 2026 ~06:58 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/stagebuilder-pro"
+        }
+      ],
+      "indieAngle": "One document a trade has to hand over before the job."
+    }
+  ],
+  "whyItPrints": "A gigging act needs a stage plot and an input list. A lot of them still draw it in a document.",
+  "whyThisMatters": "StageBuilder Pro draws the stage and writes the technical rider. Bands, DJs, and the crew. Two dimensions or three, and a library of more than two hundred items you would actually put on a stage. Free, ten a month, twenty a month, or four hundred once. One founder. It launched in March 2026. He says about sixty-five hundred users. US.\n\nStripe shows a bit under two hundred subscriptions. The monthly subscription line is under the last thirty days of cash. A lifetime plan is on the site, which is a plausible reason, and the listing does not itemise the invoices. Eight months of history is the all-time total. The user count is far above the paying subscriptions, so most people are on the free plan.\n\nYou pay so the venue gets a plot and an input list, instead of a drawing in a word processor.\n\nAn input list is the other document a venue demands before load-in. DJs sit alongside bands as buyers."
+}
