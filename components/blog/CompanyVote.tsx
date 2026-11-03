@@ -1,7 +1,7 @@
 'use client'
 
 import { ThumbsDown, ThumbsUp } from 'lucide-react'
-import { motion, useReducedMotion } from 'motion/react'
+import { motion, useAnimation, useReducedMotion } from 'motion/react'
 import { useEffect, useState } from 'react'
 
 import { Button } from '@/components/ui/button'
@@ -131,6 +131,18 @@ const VoteButton = ({
 }) => {
   const Icon = side === 'up' ? ThumbsUp : ThumbsDown
   const animatePop = pop && !reduceMotion
+  const controls = useAnimation()
+
+  useEffect(() => {
+    if (!animatePop) {
+      controls.set({ scale: 1 })
+      return
+    }
+    void controls.start({
+      scale: [0.55, 1.18, 1],
+      transition: { type: 'spring', duration: 0.35, bounce: 0.45 },
+    })
+  }, [animatePop, controls, popId])
 
   return (
     <Button
@@ -151,13 +163,7 @@ const VoteButton = ({
           'border-destructive bg-[color-mix(in_oklch,var(--destructive)_14%,transparent)] text-destructive fine-hover:bg-[color-mix(in_oklch,var(--destructive)_20%,transparent)] fine-hover:text-destructive'
       )}
     >
-      <motion.span
-        key={animatePop ? popId : 'idle'}
-        className="inline-flex"
-        initial={animatePop ? { scale: 0.55 } : false}
-        animate={{ scale: 1 }}
-        transition={{ type: 'spring', duration: 0.35, bounce: 0.45 }}
-      >
+      <motion.span className="inline-flex" initial={false} animate={controls}>
         <Icon className={cn('size-4', pressed && 'fill-current')} strokeWidth={2} />
       </motion.span>
       {animatePop ? <Burst key={popId} tone={side} /> : null}
