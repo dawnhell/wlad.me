@@ -1,0 +1,27 @@
+{
+  "slug": "wpfunnels",
+  "name": "WPFunnels",
+  "listingNote": null,
+  "description": "A visual funnel builder for WordPress and WooCommerce. Landing page, checkout, order bump, upsell, bundled with the Mail Mint email plugin. Founder Lincoln Islam. Founded July 2022. The listing says about 10,000 users. US.",
+  "homepage": "https://getwpfunnels.com/",
+  "image": "/blog/2026-11-03/wpfunnels.webp",
+  "imageAlt": "WPFunnels product image",
+  "imageWidth": 1024,
+  "imageHeight": 538,
+  "mentions": [
+    {
+      "date": "2026-11-03",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time revenue $583,384. Last 30 days $3,368. No active Stripe subscriptions, so there is no monthly subscription line. About 10,000 users on the listing. Founded July 2022. Revenue synced 3 November 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/wpfunnels-llc"
+        }
+      ],
+      "indieAngle": "One WooCommerce job, such as a checkout bump, on a yearly licence."
+    }
+  ],
+  "whyItPrints": "People who will not leave WordPress pay for a funnel, instead of ClickFunnels. The licence is the old plugin model. The last 30 days are small next to the all-time total.",
+  "whyThisMatters": "WPFunnels is a funnel that stays inside WordPress. You drag a landing page, a checkout, an order bump, and an upsell. Mail Mint, the email plugin, comes with it. Lincoln Islam. Started in July 2022. The listing says about ten thousand users. People who will not move off WooCommerce are the customer. ClickFunnels is the thing they are refusing.\n\nStripe shows a large all-time total and a small last thirty days. There is no subscription count, so the cash is licences and renewals, not a seat that bills every month. A quiet month next to a big lifetime total is the shape of a plugin that sells in bursts. I am not dividing the lifetime total by the months since 2022 and calling that a run rate.\n\nYou pay for the year so the checkout can offer one more thing before the thank-you page.\n\nOrder bumps and upsells are the extra steps after the landing page. Mail Mint is the email half of the bundle. Lincoln Islam is the founder. July 2022 is the start. A licence that sells in bursts explains a fat lifetime total beside a thin recent month."
+}

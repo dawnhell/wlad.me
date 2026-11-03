@@ -1,0 +1,35 @@
+{
+  "slug": "leadsbridge",
+  "name": "LeadsBridge",
+  "listingNote": null,
+  "description": "It started as a WordPress site plus an app talking to Facebook's API, and it pushed Facebook Lead Ads into a customer's CRM in real time. Today the site says 380-plus marketing integrations, syncing leads, audiences, and offline conversions between Facebook, Google, LinkedIn, TikTok, and CRMs. Two Italian founders. Started 2015. Bootstrapped. ActiveProspect acquired it in February 2021. The terms were not disclosed.",
+  "homepage": "https://leadsbridge.com/",
+  "image": "/blog/2026-11-03/leadsbridge.webp",
+  "imageAlt": "LeadsBridge product image",
+  "imageWidth": 1200,
+  "imageHeight": 771,
+  "mentions": [
+    {
+      "date": "2026-11-03",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, co-founder Stefan Des, Failory, 21 February 2019. Not independently checked. More than $150,000 a month after 3 years. Their first project was generating $10,000 a month within months. They said they had helped more than ten thousand small and medium businesses and enterprises collect over 25 million leads. Company-stated, ActiveProspect, 11 February 2021: acquired, terms not disclosed. This is not a current revenue figure.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/leadsbridge"
+        },
+        {
+          "label": "ActiveProspect",
+          "url": "https://activeprospect.com/blog/activeprospect-acquires-leadsbridge/"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/leadsbridge-674923"
+        }
+      ],
+      "indieAngle": "A lead form on one ad platform, into one CRM, for a source this product is weak on."
+    }
+  ],
+  "whyItPrints": "A company running lead ads has the same problem: the leads are stuck in the ad platform. Once the sync is on, nobody turns it off. The $150,000 figure is from a 2019 interview, not from after the sale.",
+  "whyThisMatters": "LeadsBridge takes a lead from an ad and puts it in the CRM while the person is still warm. It started as a WordPress site talking to Facebook. The current pitch is hundreds of connectors: Facebook, Google, LinkedIn, TikTok, into the sales tools and the email tools. Audiences go one way. Offline conversions go back. Two founders in Italy. They started in 2015 and did not raise.\n\nThe February 2019 interview is the money. More than a hundred and fifty thousand a month, after three years. An earlier project of theirs was already at ten thousand a month. They claimed more than ten thousand businesses and twenty-five million leads collected. I am not treating any of that as this year's books. In February 2021 ActiveProspect bought the company. The post does not say the price.\n\nYou pay so the lead form and the CRM are the same list. Once that pipe is on, turning it off means going back to copying rows."
+}

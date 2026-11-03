@@ -1,0 +1,31 @@
+{
+  "slug": "rent-round",
+  "name": "Rent Round",
+  "listingNote": null,
+  "description": "A landlord in the UK types a postcode and compares letting agents' fees and ratings. The agents get the leads as part of a subscription. Founder Raj Dosanjh. Launched 2019.",
+  "homepage": "https://rentround.com/",
+  "image": "/blog/2026-11-03/rent-round.webp",
+  "imageAlt": "Rent Round product image",
+  "imageWidth": 1200,
+  "imageHeight": 633,
+  "mentions": [
+    {
+      "date": "2026-11-03",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, founder Raj Dosanjh, Failory, 8 July 2020. Not independently checked. More than £5,000 a month, about a year after the 2019 launch. That interview is from 2020, so it is not a current figure.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/rent-round"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/rentround"
+        }
+      ],
+      "indieAngle": "Compare local providers, and charge the providers for the leads, in a trade where the fees are hard to see."
+    }
+  ],
+  "whyItPrints": "Comparing agents is a dull property decision. He said it grew through Google Ads and search.",
+  "whyThisMatters": "Rent Round is a postcode box. A landlord in the UK compares letting agents on fees and ratings. The agent pays a subscription and receives the lead. Raj Dosanjh launched it in 2019. He said the traffic came from ads and from search.\n\nThe July 2020 interview says more than five thousand pounds a month, about a year after launch. That is the whole money sentence. I am not updating it to this year, because nobody published a later figure in this brief.\n\nYou pay, if you are the agent, so a landlord who is already comparing you can send the instruction. The landlord is not the one being billed.\n\nFees and ratings are what the landlord compares. The agent is the paying side, and the package is a subscription. Ads plus search is the growth story he told. A postcode is the whole query. Letting is the trade, and the UK is the country. Nothing later than that 2020 interview is in this brief, so the page does not invent a newer total."
+}

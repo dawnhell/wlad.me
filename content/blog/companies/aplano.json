@@ -1,0 +1,35 @@
+{
+  "slug": "aplano",
+  "name": "Aplano",
+  "listingNote": null,
+  "description": "Shift plans, holiday approvals, and punch-in time tracking for German small businesses. The pitch is no Excel and no WhatsApp groups. Founder Tadeus Gregorian got the idea while working in a pharmacy. Germany. The site is in German.",
+  "homepage": "https://aplano.de/",
+  "image": "/blog/2026-11-03/aplano.webp",
+  "imageAlt": "Aplano product image",
+  "imageWidth": 1200,
+  "imageHeight": 771,
+  "mentions": [
+    {
+      "date": "2026-11-03",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Failory, 17 August 2021. Not independently checked. They had surpassed five figures of revenue a month. A Superframeworks blog post on 22 September 2023 says $3 million a year. The blogger gives no source, so that figure is an estimate, not the company's number. I am not treating five figures and $3 million as the same fact.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/aplano"
+        },
+        {
+          "label": "Superframeworks",
+          "url": "https://superframeworks.com/blog/aplano"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/aplano"
+        }
+      ],
+      "indieAngle": "The same simple rota, in another language, found through the local search term."
+    }
+  ],
+  "whyItPrints": "A shop with shift workers needs a rota. He described a strong focus on search, in a market full of old software.",
+  "whyThisMatters": "Aplano is the rota for a German shop. Who works which shift, who is on holiday, and when someone punched in. The pitch is that the plan is not an Excel file and the changes are not a WhatsApp group. Tadeus Gregorian thought of it while working in a pharmacy. The site is in German, and he talked about search as the way people find it.\n\nThe August 2021 interview says they had passed five figures a month. That is the founder's line, and it is a range, not a precise total. A blog in September 2023 prints three million a year and does not say where the number came from. I am leaving it on the page as an unsourced estimate. It does not replace the interview.\n\nYou pay so Tuesday's shifts are a schedule, not a chat thread.\n\nHoliday approvals and punch-in times sit next to the rota. Pharmacy work is where the idea started. German search is the channel he described. Five figures is a band, not a single total."
+}

@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-03",
+  "title": "Tuesday's boring SaaS, 3 November 2026",
+  "dek": "Tuesday, 3 November 2026. WPFunnels is Stripe-verified. The other seven are self-reported. Several of those interviews are from 2019 to 2021, so the number is from that date. Salonist did not give a revenue figure.",
+  "heroId": "kirkjufell",
+  "companies": [
+    {
+      "slug": "leadsbridge",
+      "name": "LeadsBridge",
+      "listingNote": null,
+      "description": "It started as a WordPress site plus an app talking to Facebook's API, and it pushed Facebook Lead Ads into a customer's CRM in real time. Today the site says 380-plus marketing integrations, syncing leads, audiences, and offline conversions between Facebook, Google, LinkedIn, TikTok, and CRMs. Two Italian founders. Started 2015. Bootstrapped. ActiveProspect acquired it in February 2021. The terms were not disclosed.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, co-founder Stefan Des, Failory, 21 February 2019. Not independently checked. More than $150,000 a month after 3 years. Their first project was generating $10,000 a month within months. They said they had helped more than ten thousand small and medium businesses and enterprises collect over 25 million leads. Company-stated, ActiveProspect, 11 February 2021: acquired, terms not disclosed. This is not a current revenue figure.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/leadsbridge"
+        },
+        {
+          "label": "ActiveProspect",
+          "url": "https://activeprospect.com/blog/activeprospect-acquires-leadsbridge/"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/leadsbridge-674923"
+        }
+      ],
+      "homepage": "https://leadsbridge.com/",
+      "indieAngle": "A lead form on one ad platform, into one CRM, for a source this product is weak on.",
+      "whyItPrints": "A company running lead ads has the same problem: the leads are stuck in the ad platform. Once the sync is on, nobody turns it off. The $150,000 figure is from a 2019 interview, not from after the sale.",
+      "image": "/blog/2026-11-03/leadsbridge.webp",
+      "imageAlt": "LeadsBridge product image",
+      "imageWidth": 1200,
+      "imageHeight": 771
+    },
+    {
+      "slug": "scalefusion",
+      "name": "Scalefusion",
+      "listingNote": null,
+      "description": "It locks down company phones, tablets, and laptops. Kiosk mode, app and website allowlists, and blocking copies of data, without an IT team. Typical uses are self-ordering kiosks, delivery-driver handhelds, and classroom tablets. CEO Harishanker Kannan. Pune, India.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, CEO Harishanker Kannan, Failory, 12 February 2020. Not independently checked. $400,000 a month, grown organically. By the end of November 2015 they had 120-plus paying customers in 50-plus countries, managing 50,000-plus devices. Those two dates are not the same snapshot. A Starter Story profile, citing 2024 sources, lists prices from $2 a device a month (Essentials), $3.50 (Growth), and $5 (Business). The $400,000 figure is from 2020, not from this week.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/scalefusion"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/scalefusion-mdm-unified-mobile-device-and-endpoint-management-solution"
+        }
+      ],
+      "homepage": "https://scalefusion.com/",
+      "indieAngle": "A lockdown tool for one kind of tablet, sold through the reseller who installs the hardware.",
+      "whyItPrints": "The price is per device, per month, on hardware the customer already bought, often on an annual contract. Devices get added. They do not get removed.",
+      "image": "/blog/2026-11-03/scalefusion.webp",
+      "imageAlt": "Scalefusion product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "qwaiting",
+      "name": "Qwaiting",
+      "listingNote": null,
+      "description": "It replaces paper tickets with virtual tickets, appointments, walk-in queues, and a view of every branch. Sold to banks, clinics, retail, and government offices. Founder Rohit Garg. Singapore.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported. Not independently checked. Starter Story, 18 October 2021: $66,000 of revenue a month. The headline says $790,000 a year. A team of 50-plus. Failory, 10 September 2019: more than 10,000 customers. The homepage in November 2026 says 10,000-plus businesses. The 2019 customer line and the 2021 revenue line are not the same snapshot, and neither one is a figure from this week.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/launching-a-790k-year-queue-management-system-from-singapore"
+        },
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/qwaiting"
+        }
+      ],
+      "homepage": "https://qwaiting.com/",
+      "indieAngle": "A virtual queue for one trade that has a rush hour, with a text when you are next.",
+      "whyItPrints": "Take a number. Every place with more than one branch already does this, and nobody wants to rebuild it.",
+      "image": "/blog/2026-11-03/qwaiting.webp",
+      "imageAlt": "Qwaiting product image",
+      "imageWidth": 1200,
+      "imageHeight": 771
+    },
+    {
+      "slug": "aplano",
+      "name": "Aplano",
+      "listingNote": null,
+      "description": "Shift plans, holiday approvals, and punch-in time tracking for German small businesses. The pitch is no Excel and no WhatsApp groups. Founder Tadeus Gregorian got the idea while working in a pharmacy. Germany. The site is in German.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Failory, 17 August 2021. Not independently checked. They had surpassed five figures of revenue a month. A Superframeworks blog post on 22 September 2023 says $3 million a year. The blogger gives no source, so that figure is an estimate, not the company's number. I am not treating five figures and $3 million as the same fact.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/aplano"
+        },
+        {
+          "label": "Superframeworks",
+          "url": "https://superframeworks.com/blog/aplano"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/aplano"
+        }
+      ],
+      "homepage": "https://aplano.de/",
+      "indieAngle": "The same simple rota, in another language, found through the local search term.",
+      "whyItPrints": "A shop with shift workers needs a rota. He described a strong focus on search, in a market full of old software.",
+      "image": "/blog/2026-11-03/aplano.webp",
+      "imageAlt": "Aplano product image",
+      "imageWidth": 1200,
+      "imageHeight": 771
+    },
+    {
+      "slug": "salonist",
+      "name": "Salonist",
+      "listingNote": null,
+      "description": "Booking, a till, inventory, staff pay, more than one location, and marketing, for salons, spas, tattoo studios, and med-spas. Founder Neeraj Gupta. Singapore and India. The site now says unlimited staff, one price.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, founder Neeraj Gupta, Failory, 16 March 2021. He said an exact revenue figure cannot be disclosed. 10,000 customers and 90-plus employees in that interview. GetLatka, October 2024, estimates about $3.4 million a year, and Latka says Salonist has not published its revenue. That estimate is not the company's number. The homepage in November 2026 says trusted by 15,000-plus salons and spas. The customer counts and the estimate stay separate.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/salonist"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/salonistio"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/salonist-software"
+        }
+      ],
+      "homepage": "https://salonist.io/",
+      "indieAngle": "Booking and a till for one kind of shop, in one country, with local payments and text reminders.",
+      "whyItPrints": "A salon lives in the calendar and the till. Leaving is annoying. It competes with Fresha and Vagaro on price.",
+      "image": "/blog/2026-11-03/salonist.webp",
+      "imageAlt": "Salonist product image",
+      "imageWidth": 1200,
+      "imageHeight": 771
+    },
+    {
+      "slug": "wpfunnels",
+      "name": "WPFunnels",
+      "listingNote": null,
+      "description": "A visual funnel builder for WordPress and WooCommerce. Landing page, checkout, order bump, upsell, bundled with the Mail Mint email plugin. Founder Lincoln Islam. Founded July 2022. The listing says about 10,000 users. US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time revenue $583,384. Last 30 days $3,368. No active Stripe subscriptions, so there is no monthly subscription line. About 10,000 users on the listing. Founded July 2022. Revenue synced 3 November 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/wpfunnels-llc"
+        }
+      ],
+      "homepage": "https://getwpfunnels.com/",
+      "indieAngle": "One WooCommerce job, such as a checkout bump, on a yearly licence.",
+      "whyItPrints": "People who will not leave WordPress pay for a funnel, instead of ClickFunnels. The licence is the old plugin model. The last 30 days are small next to the all-time total.",
+      "image": "/blog/2026-11-03/wpfunnels.webp",
+      "imageAlt": "WPFunnels product image",
+      "imageWidth": 1024,
+      "imageHeight": 538
+    },
+    {
+      "slug": "rent-round",
+      "name": "Rent Round",
+      "listingNote": null,
+      "description": "A landlord in the UK types a postcode and compares letting agents' fees and ratings. The agents get the leads as part of a subscription. Founder Raj Dosanjh. Launched 2019.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, founder Raj Dosanjh, Failory, 8 July 2020. Not independently checked. More than £5,000 a month, about a year after the 2019 launch. That interview is from 2020, so it is not a current figure.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/rent-round"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/rentround"
+        }
+      ],
+      "homepage": "https://rentround.com/",
+      "indieAngle": "Compare local providers, and charge the providers for the leads, in a trade where the fees are hard to see.",
+      "whyItPrints": "Comparing agents is a dull property decision. He said it grew through Google Ads and search.",
+      "image": "/blog/2026-11-03/rent-round.webp",
+      "imageAlt": "Rent Round product image",
+      "imageWidth": 1200,
+      "imageHeight": 633
+    },
+    {
+      "slug": "anonymous-dealership-software",
+      "name": "Anonymous dealership software",
+      "listingNote": null,
+      "description": "Built by someone who spent 10 years as a car-dealership finance and sales director. A CRM, call grading, desking, a marketplace lister, and mobile apps, plus a tool that answers dealership leads and books appointments. A certified CDK integration, and other dealer-system integrations. Colorado, US. No product name and no site. I am not guessing either.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Reddit, 2 November 2026. Not independently checked. $5,700 a month, profitable, nothing raised. 6 live stores, 5 paying, 57 dealership users. 5 more stores verbally committed for November. Verbal commitments are not revenue.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/SaaS/comments/1xm6xx9/usacotech_bootstrapped_dealership_software_with/"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "A narrow tool that reads or writes the dealer system, sold per rooftop. The certification is the hard part.",
+      "whyItPrints": "Once the software is certified against the dealer system, it can be sold to any store that runs that system. The founder is looking for a sales cofounder, with a cash buy-in of up to 30 percent.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Anonymous French private venture",
+      "note": "Stripe-verified. MRR $40,072, 1,208 subscriptions, last 30 days $59,915, all-time $1,753,414. Synced 3 November 2026. Bootstrapped, founded April 2023. No product description. TrustMRR (https://trustmrr.com/startup/private-venture-84).",
+      "homepage": null
+    },
+    {
+      "name": "Reel On Demand",
+      "note": "White-label design subscription for agencies, from $249 a month. Stripe-verified all-time $1,015,512, but the API key expired and the data was last synced 13 August 2026. Last 30 days then $285. MRR $500. Stale. TrustMRR (https://trustmrr.com/startup/reelondemand).",
+      "homepage": null
+    }
+  ]
+}

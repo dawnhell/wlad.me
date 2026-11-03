@@ -383,5 +383,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "kirkjufell",
+    "src": "/blog/heroes/kirkjufell.webp",
+    "alt": "Kirkjufell in Iceland",
+    "width": 1600,
+    "height": 1065,
+    "credit": "Jakub Hałun",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kirkjufell%2C_Iceland%2C_20240714_1631_0713.jpg",
+    "license": "CC BY 4.0",
+    "subject": "nature"
   }
 ]

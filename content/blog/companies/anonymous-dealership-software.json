@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-dealership-software",
+  "name": "Anonymous dealership software",
+  "listingNote": null,
+  "description": "Built by someone who spent 10 years as a car-dealership finance and sales director. A CRM, call grading, desking, a marketplace lister, and mobile apps, plus a tool that answers dealership leads and books appointments. A certified CDK integration, and other dealer-system integrations. Colorado, US. No product name and no site. I am not guessing either.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-03",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, Reddit, 2 November 2026. Not independently checked. $5,700 a month, profitable, nothing raised. 6 live stores, 5 paying, 57 dealership users. 5 more stores verbally committed for November. Verbal commitments are not revenue.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/SaaS/comments/1xm6xx9/usacotech_bootstrapped_dealership_software_with/"
+        }
+      ],
+      "indieAngle": "A narrow tool that reads or writes the dealer system, sold per rooftop. The certification is the hard part."
+    }
+  ],
+  "whyItPrints": "Once the software is certified against the dealer system, it can be sold to any store that runs that system. The founder is looking for a sales cofounder, with a cash buy-in of up to 30 percent.",
+  "whyThisMatters": "Someone who spent ten years inside car dealerships, on the finance desk and as a sales director, built the software the store uses after the customer walks in. A CRM, grading of phone calls, the desk where the deal is written, a marketplace listing, and phone apps. A separate piece answers the leads and books the appointment. The part that matters for the sale is a certified link to CDK, the system a lot of dealers already run, plus other dealer-system links. Colorado. No company name. No website. The Reddit post is the only source.\n\nThe post says a bit under six thousand a month, profitable, and no money raised. Six stores are live. Five of them pay. Fifty-seven people inside those stores use it. Five more stores have said they will start in November. A verbal yes is not a subscription. He is also looking for a sales cofounder who would buy in, up to thirty percent, with cash. That search is not revenue either.\n\nYou pay per rooftop so the dealer system and the CRM agree. The certification is what makes the next store possible."
+}

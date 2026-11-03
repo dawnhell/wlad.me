@@ -288,6 +288,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/1_lake_louise_pano_2019.jpg',
   },
+  {
+    id: 'kirkjufell',
+    subject: 'nature',
+    alt: 'Kirkjufell in Iceland',
+    credit: 'Jakub Hałun',
+    license: 'CC BY 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Kirkjufell%2C_Iceland%2C_20240714_1631_0713.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

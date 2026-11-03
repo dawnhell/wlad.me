@@ -1,0 +1,35 @@
+{
+  "slug": "salonist",
+  "name": "Salonist",
+  "listingNote": null,
+  "description": "Booking, a till, inventory, staff pay, more than one location, and marketing, for salons, spas, tattoo studios, and med-spas. Founder Neeraj Gupta. Singapore and India. The site now says unlimited staff, one price.",
+  "homepage": "https://salonist.io/",
+  "image": "/blog/2026-11-03/salonist.webp",
+  "imageAlt": "Salonist product image",
+  "imageWidth": 1200,
+  "imageHeight": 771,
+  "mentions": [
+    {
+      "date": "2026-11-03",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, founder Neeraj Gupta, Failory, 16 March 2021. He said an exact revenue figure cannot be disclosed. 10,000 customers and 90-plus employees in that interview. GetLatka, October 2024, estimates about $3.4 million a year, and Latka says Salonist has not published its revenue. That estimate is not the company's number. The homepage in November 2026 says trusted by 15,000-plus salons and spas. The customer counts and the estimate stay separate.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/salonist"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/salonistio"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/salonist-software"
+        }
+      ],
+      "indieAngle": "Booking and a till for one kind of shop, in one country, with local payments and text reminders."
+    }
+  ],
+  "whyItPrints": "A salon lives in the calendar and the till. Leaving is annoying. It competes with Fresha and Vagaro on price.",
+  "whyThisMatters": "Salonist is the day for a salon or a spa. The calendar, the till, the stock, what the staff are paid, a second location, and the messages that bring people back. Tattoo studios and med-spas are on the list too. Neeraj Gupta. The company sits between Singapore and India. The site now sells unlimited staff for one price, and it names Fresha and Vagaro as the expensive neighbors.\n\nHe would not give a revenue number in March 2021. He did give ten thousand customers and more than ninety employees. A data site later guessed a yearly figure and, in the same breath, said the company has not published revenue. I am not writing that guess down as theirs. The homepage in November 2026 says fifteen thousand-plus salons. That is a customer count, five years after the interview's ten thousand, and it is still not a revenue figure.\n\nYou pay so the appointment book and the till are the same system."
+}

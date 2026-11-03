@@ -1,0 +1,31 @@
+{
+  "slug": "qwaiting",
+  "name": "Qwaiting",
+  "listingNote": null,
+  "description": "It replaces paper tickets with virtual tickets, appointments, walk-in queues, and a view of every branch. Sold to banks, clinics, retail, and government offices. Founder Rohit Garg. Singapore.",
+  "homepage": "https://qwaiting.com/",
+  "image": "/blog/2026-11-03/qwaiting.webp",
+  "imageAlt": "Qwaiting product image",
+  "imageWidth": 1200,
+  "imageHeight": 771,
+  "mentions": [
+    {
+      "date": "2026-11-03",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported. Not independently checked. Starter Story, 18 October 2021: $66,000 of revenue a month. The headline says $790,000 a year. A team of 50-plus. Failory, 10 September 2019: more than 10,000 customers. The homepage in November 2026 says 10,000-plus businesses. The 2019 customer line and the 2021 revenue line are not the same snapshot, and neither one is a figure from this week.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/launching-a-790k-year-queue-management-system-from-singapore"
+        },
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/qwaiting"
+        }
+      ],
+      "indieAngle": "A virtual queue for one trade that has a rush hour, with a text when you are next."
+    }
+  ],
+  "whyItPrints": "Take a number. Every place with more than one branch already does this, and nobody wants to rebuild it.",
+  "whyThisMatters": "Qwaiting is the ticket machine, without the paper. You take a virtual number, or you book a time. Walk-ins and appointments share the queue. Someone at head office can see every branch. Banks, clinics, shops, and government counters are who they sell to. Rohit Garg. Singapore.\n\nTwo interviews, and a homepage line, and they are not one number. October 2021 says sixty-six thousand a month, with a yearly headline in the same neighborhood, and a team of fifty-plus. September 2019 says more than ten thousand customers. The site in November 2026 still says ten thousand-plus businesses. The customer count did not obviously move between 2019 and 2026, which is why I am not calling the 2021 revenue \"now.\"\n\nYou pay so the line is a screen and a text, not a roll of paper tickets.\n\nWalk-ins and booked times share one queue. Head office can see every branch at once. Banks, clinics, shops, and government counters are the buyers he names. Fifty people is the 2021 team size."
+}

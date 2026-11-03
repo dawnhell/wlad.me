@@ -1,0 +1,31 @@
+{
+  "slug": "scalefusion",
+  "name": "Scalefusion",
+  "listingNote": null,
+  "description": "It locks down company phones, tablets, and laptops. Kiosk mode, app and website allowlists, and blocking copies of data, without an IT team. Typical uses are self-ordering kiosks, delivery-driver handhelds, and classroom tablets. CEO Harishanker Kannan. Pune, India.",
+  "homepage": "https://scalefusion.com/",
+  "image": "/blog/2026-11-03/scalefusion.webp",
+  "imageAlt": "Scalefusion product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-03",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, CEO Harishanker Kannan, Failory, 12 February 2020. Not independently checked. $400,000 a month, grown organically. By the end of November 2015 they had 120-plus paying customers in 50-plus countries, managing 50,000-plus devices. Those two dates are not the same snapshot. A Starter Story profile, citing 2024 sources, lists prices from $2 a device a month (Essentials), $3.50 (Growth), and $5 (Business). The $400,000 figure is from 2020, not from this week.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/scalefusion"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/scalefusion-mdm-unified-mobile-device-and-endpoint-management-solution"
+        }
+      ],
+      "indieAngle": "A lockdown tool for one kind of tablet, sold through the reseller who installs the hardware."
+    }
+  ],
+  "whyItPrints": "The price is per device, per month, on hardware the customer already bought, often on an annual contract. Devices get added. They do not get removed.",
+  "whyThisMatters": "Scalefusion is the lock on a company device. A phone, a tablet, or a laptop stays on the apps and sites you allowed. Kiosk mode for a self-order screen. A handheld for a driver. A tablet in a classroom. Copying data off the device can be blocked. The pitch is that you do not need an IT department to do it. Harishanker Kannan. Pune.\n\nThe February 2020 interview says four hundred thousand a month, grown without ads doing the work. A separate line, from the end of 2015, is a hundred and twenty paying customers, fifty countries, and fifty thousand devices. I am not stapling the 2015 headcount onto the 2020 revenue. A later profile, pointing at 2024 sources, lists three prices per device per month: a cheap plan, a middle plan, and a business plan. Those prices are not the 2020 interview.\n\nYou pay for each device, usually for the year. The pile of devices gets bigger. It does not get smaller."
+}
