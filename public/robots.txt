@@ -1,5 +1,57 @@
+# Answer and grounding crawlers. Cloudflare may prepend Disallow: / for these
+# names. Allow: /* is the longer match, so these groups stay allowed.
+
+User-agent: GPTBot
+Allow: /
+Allow: /*
+
+User-agent: ChatGPT-User
+Allow: /
+Allow: /*
+
+User-agent: OAI-SearchBot
+Allow: /
+Allow: /*
+
+User-agent: ClaudeBot
+Allow: /
+Allow: /*
+
+User-agent: Claude-SearchBot
+Allow: /
+Allow: /*
+
+User-agent: Claude-User
+Allow: /
+Allow: /*
+
+User-agent: anthropic-ai
+Allow: /
+Allow: /*
+
+User-agent: Claude-Web
+Allow: /
+Allow: /*
+
+User-agent: Google-Extended
+Allow: /
+Allow: /*
+
+User-agent: PerplexityBot
+Allow: /
+Allow: /*
+
+User-agent: Perplexity-User
+Allow: /
+Allow: /*
+
+User-agent: bingbot
+Allow: /
+Allow: /*
+
 # *
 User-agent: *
+Content-Signal: search=yes, ai-input=yes
 Allow: /
 Allow: /*.pdf$
 
@@ -7,4 +59,3 @@ Allow: /*.pdf$
 Sitemap: https://www.wlad.me/sitemap.xml
 
 # PDF crawling is allowed so the resume can be indexed.
-
