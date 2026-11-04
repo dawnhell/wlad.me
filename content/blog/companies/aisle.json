@@ -1,0 +1,27 @@
+{
+  "slug": "aisle",
+  "name": "Aisle",
+  "listingNote": null,
+  "description": "A website for a destination wedding. RSVPs, the schedule, travel notes, and guest hotel payments in one place. $19.99 a month to publish, plus 5% of the guest payments. Founded March 2026. US.",
+  "homepage": "https://aisle.wedding/",
+  "image": "/blog/2026-11-04/aisle.webp",
+  "imageAlt": "Aisle product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,599, up 54.8%. 130 subscriptions. Last 24 hours $1,605. Last 7 days $10,672. Last 30 days $28,673, up 216.5%. All-time $48,057. The last 30 days are far above the subscription line because guests pay for rooms. Revenue synced 4 November 2026 ~01:37 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/aisle"
+        }
+      ],
+      "indieAngle": "A fee on the group payment, with a simple site wrapped around it, for another kind of trip."
+    }
+  ],
+  "whyItPrints": "It replaces a spreadsheet, a chat group, and a hotel room block. The 5% is why the cash is much larger than the subscription line.",
+  "whyThisMatters": "Aisle is the page for a wedding that is not in the couple's home town. Guests see the schedule, how to get there, and where they are sleeping. They can also pay for the room. Publishing costs a flat monthly fee. Guest payments carry a five percent cut. It started in March 2026.\n\nThe subscription line is a couple of thousand, from about a hundred and thirty couples. The last thirty days of cash are more than ten times that, and the last week is already a large chunk of the month. That is the room money, not a sudden pile of new subscriptions. The all-time total is not much older than those thirty days, which fits a product that only started this year.\n\nYou pay so the hotel block is a checkout, not a spreadsheet and a group chat.\n\nRSVPs and the travel notes sit on the same page as the room payment. March 2026 is the start. A flat publish fee plus a cut of guest charges is the whole price."
+}

@@ -385,6 +385,17 @@
     "subject": "nature"
   },
   {
+    "id": "perito-moreno",
+    "src": "/blog/heroes/perito-moreno.webp",
+    "alt": "Perito Moreno Glacier in Patagonia",
+    "width": 1440,
+    "height": 960,
+    "credit": "Valentinamaur",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Glaciar_Perito_Moreno%2C_enero_2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
+  },
+  {
     "id": "kirkjufell",
     "src": "/blog/heroes/kirkjufell.webp",
     "alt": "Kirkjufell in Iceland",

@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-04",
+  "title": "Wednesday's boring SaaS, 4 November 2026",
+  "dek": "Wednesday, 4 November 2026. Seven are Stripe-verified, including a newer French automotive number. Figmentor is Paddle-verified, so that listing is connected to Paddle. thecontentcook is Polar-verified, so that listing is connected to Polar. Swokei and Encharge are self-reported. Encharge's monthly figure is an estimate. PHONILAB's Stripe account shows nothing in the last year.",
+  "heroId": "perito-moreno",
+  "companies": [
+    {
+      "slug": "linguana",
+      "name": "Linguana",
+      "listingNote": null,
+      "description": "Translation for no-code sites: Webflow, Framer, Carrd, Wix, WordPress, and Kajabi. It translates the page, the URLs, and the search metadata, so each language can be indexed. Plans are $25, $59, or $129 a month, or $19, $49, or $99 billed yearly. Founded June 2024. One person. No outside money. US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,914, up 8.4%. 80 subscriptions. Last 30 days $3,014, down 36.5%. Last 12 months $40,230. All-time $114,206. Last-30-day margin 60% claimed. Listed for sale at $97,000 (2.7x). Solo founder, bootstrapped. Revenue synced 4 November 2026 ~01:58 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/linguana"
+        }
+      ],
+      "homepage": "https://www.linguana.io/",
+      "indieAngle": "The same translation layer for a site builder this one does not cover.",
+      "whyItPrints": "An agency wires a client's site in once. Switching means redoing every translated URL. The listing is for sale.",
+      "image": "/blog/2026-11-04/linguana.webp",
+      "imageAlt": "Linguana product image",
+      "imageWidth": 1200,
+      "imageHeight": 629
+    },
+    {
+      "slug": "aisle",
+      "name": "Aisle",
+      "listingNote": null,
+      "description": "A website for a destination wedding. RSVPs, the schedule, travel notes, and guest hotel payments in one place. $19.99 a month to publish, plus 5% of the guest payments. Founded March 2026. US.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,599, up 54.8%. 130 subscriptions. Last 24 hours $1,605. Last 7 days $10,672. Last 30 days $28,673, up 216.5%. All-time $48,057. The last 30 days are far above the subscription line because guests pay for rooms. Revenue synced 4 November 2026 ~01:37 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/aisle"
+        }
+      ],
+      "homepage": "https://aisle.wedding/",
+      "indieAngle": "A fee on the group payment, with a simple site wrapped around it, for another kind of trip.",
+      "whyItPrints": "It replaces a spreadsheet, a chat group, and a hotel room block. The 5% is why the cash is much larger than the subscription line.",
+      "image": "/blog/2026-11-04/aisle.webp",
+      "imageAlt": "Aisle product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "jobhuntify",
+      "name": "Jobhuntify",
+      "listingNote": null,
+      "description": "A paid job-search product. The pitch is more interviews. The TrustMRR description talks about tools, calculators, and converters, which does not match that pitch. Read it as free utility pages leading into a paid plan. Founder Anthony Tran. Founded 2014, per the listing. Singapore.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,016. 213 subscriptions. Last 30 days $2,049, down 10.1%. Last 12 months $27,160. All-time $249,985. Revenue synced 4 November 2026 ~09:28 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/jobhuntify-com"
+        }
+      ],
+      "homepage": "https://jobhuntify.com/",
+      "indieAngle": "Free calculators in a dull trade, then a paid workflow for the people who stay.",
+      "whyItPrints": "Free pages catch search traffic. A small slice pays. It has been charging for years.",
+      "image": "/blog/2026-11-04/jobhuntify.webp",
+      "imageAlt": "Jobhuntify product image",
+      "imageWidth": 1200,
+      "imageHeight": 703
+    },
+    {
+      "slug": "thecontentcook",
+      "name": "thecontentcook",
+      "listingNote": null,
+      "description": "Ready-made recipe books and nutrition guides. Fitness and nutrition coaches put their own name on them and hand them to clients. Founder Ronan O Brien. Founded November 2024.",
+      "evidenceKind": "polar-verified",
+      "evidence": "The sync is Polar and Stripe. MRR $391. 28 subscriptions. Last 30 days $1,763, down 33.3%. Last 12 months $37,517. All-time $118,110. Last-30-day margin 70% claimed. Listed for sale at $80,000 (3.8x). Revenue synced 4 November 2026 ~05:11 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/thecontentcook"
+        }
+      ],
+      "homepage": "https://thecontentcook.co/",
+      "indieAngle": "A finished client handout, for another kind of coach, sold with their name on it.",
+      "whyItPrints": "The book is made once and sold many times. A coach buys hours back. The listing is for sale, and the last 30 days are down.",
+      "image": "/blog/2026-11-04/thecontentcook.webp",
+      "imageAlt": "thecontentcook product image",
+      "imageWidth": 1200,
+      "imageHeight": 900
+    },
+    {
+      "slug": "encharge",
+      "name": "Encharge",
+      "listingNote": null,
+      "description": "Email that sends itself when something happens in a CRM, in billing, or in the product. Co-founded by Kalo Yankulov after an earlier tool, HeadReach, lost a Google API. Bulgaria.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, and one estimate that is not the founder's number. Failory, 20 June 2019: $4,000 in pre-orders, 50 pre-orders of $89 lifetime access in 2 weeks. HeadReach, the earlier product, was at $2,000 a month. Starter Story, summarising a YouTube video: the AppSumo lifetime deal made nearly $1 million in about a month, and about $50,000 went to a content team that wrote 200 to 300 articles. Starter Story estimates about $35,000 a month as of January 2024, triangulated from one public source. That estimate is not a founder figure and not a payment-company sync. The sale is mentioned. The buyer and the price are not.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/encharge"
+        },
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/encharge"
+        }
+      ],
+      "homepage": "https://encharge.io/",
+      "indieAngle": "The same triggered email for a payment company the big tools ignore.",
+      "whyItPrints": "Glue between the billing system and the inbox. An AppSumo lifetime deal filled the early list. Search is the later channel. A later video title says he sold the business. I did not find the buyer or the terms, so this page does not name either.",
+      "image": "/blog/2026-11-04/encharge.webp",
+      "imageAlt": "Encharge product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "figmentor",
+      "name": "Figmentor",
+      "listingNote": null,
+      "description": "A Figma plugin and a WordPress plugin. A Figma frame becomes Elementor JSON you can import. Plans are $9, $19, or $49 a month. Founded August 2025.",
+      "evidenceKind": "paddle-verified",
+      "evidence": "Paddle-verified, not Stripe. MRR $1,823, down 21.2%. 137 subscriptions. Last 30 days $1,644, down 38.9%. Last 12 months $37,883. All-time $42,679. Last-30-day margin 95% claimed. The seller says 6,335 registered users, about 6,400 Figma plugin users, and 158 paying. That 158 and the 137 subscriptions are both left as written. Listed for sale at $42,500 (2.2x). Revenue synced 4 November 2026 ~07:50 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/figmentor"
+        }
+      ],
+      "homepage": "https://figmentor.io/",
+      "indieAngle": "The same file conversion, into a different site builder.",
+      "whyItPrints": "Designers live in Figma. The site is built in Elementor. An agency does that handoff every week. The seller says they stepped back for 2 or 3 months, which matches the drop. The listing is for sale.",
+      "image": "/blog/2026-11-04/figmentor.webp",
+      "imageAlt": "Figmentor product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "swokei",
+      "name": "Swokei",
+      "listingNote": null,
+      "description": "Cold email for web agencies. It opens the prospect's site, finds something wrong, and writes the email about that. It also finds the leads, checks the addresses, sends, and tracks replies. Built by someone who used to run a web-design agency.",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, the founder, Reddit, 3 November 2026. Not independently checked. $40,000 a month. A small team. This is not a Stripe connection.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xn5skz/how_i_grew_my_saas_to_40k_mrr/"
+        }
+      ],
+      "homepage": "https://www.swokei.com/",
+      "indieAngle": "Audit one public page, then pitch the person who owns it, for a different service trade.",
+      "whyItPrints": "Agencies pay every month for the next client. He says the growth came from LinkedIn, X, short videos, and search.",
+      "image": "/blog/2026-11-04/swokei.webp",
+      "imageAlt": "Swokei product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "anonymous-spain-relocation-service",
+      "name": "Anonymous Spain relocation service",
+      "listingNote": null,
+      "description": "Paperwork for moving to Spain. Digital nomad visas, NIE, TIE, and residency. Fees run from €199 to €3,000 a case. Marketed with Meta ads. One person. No outside money. Founded March 2024. No company name and no site. I am not guessing either.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Most of the money is a fee per case, so the subscription line is only $78.45 from 2 subscriptions. Last 30 days $1,237. Last 12 months $18,159. All-time $41,381. Last-30-day margin 55% claimed. Listed for sale at $45,000 (3.0x). Revenue synced 4 November 2026 ~02:00 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/unnamed-company-54"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "A fixed fee for one painful form, in one country.",
+      "whyItPrints": "People pay so they do not have to do the forms. Most of the money is a fee per case, not a seat every month. The listing is for sale.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "anonymous-bot",
+      "name": "Anonymous Bot",
+      "listingNote": null,
+      "description": "A Slack app. Someone types a command and the message shows up in an allowed channel without a name. Plans are free, $50, or $100 a month. Founder Fernando Falci. Running since 2020.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $891. 11 subscriptions. Last 30 days $791. Last 12 months $12,540. All-time $51,083. Last-30-day margin 99% claimed. Listed for sale at $100,000 (10.5x). Revenue synced 4 November 2026 ~04:23 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/anonymous-bot-for-slack"
+        }
+      ],
+      "homepage": "https://anonymousbot.com/",
+      "indieAngle": "One Slack command a workplace actually uses, priced per workspace.",
+      "whyItPrints": "One command, and it has been on since 2020. The seller says nothing was spent on marketing and about $10 on servers. The asking price is a high multiple.",
+      "image": "/blog/2026-11-04/anonymous-bot.webp",
+      "imageAlt": "Anonymous Bot product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "phonilab",
+      "name": "PHONILAB",
+      "listingNote": null,
+      "description": "Software for phone and electronics repair shops. Repairs, sales, and subscriptions. It files Qualirépar bonus claims, supports French e-invoicing, and is a certified cash-register system. The homepage cites LNE certificate number 41047. The listing prices it at $45 a month with Qualirépar and $65 without. Founder Thomas. Founded July 2024. France.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time $7,515. Last 12 months $0. There is no monthly subscription line. Stripe is probably not how they bill now, so current revenue is unknown. Revenue synced 4 November 2026 ~08:00 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/phonilab"
+        }
+      ],
+      "homepage": "https://www.phonilab.fr/",
+      "indieAngle": "Certified invoicing, plus the government claim, for one repair trade in one country.",
+      "whyItPrints": "French shops need certified checkout software, and the bonus scheme needs a claim. They buy it because the rules say so. The Stripe account is not showing current sales.",
+      "image": "/blog/2026-11-04/phonilab.webp",
+      "imageAlt": "PHONILAB product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "anonymous-french-automotive-saas",
+      "name": "Anonymous French automotive SaaS",
+      "listingNote": null,
+      "description": "A French business-to-business tool for garages or dealers. The 8 October note only said \"B2B SAAS AUTOMOTIVE FR.\" There is still no product name and no site. I am not guessing either. That October note was an honorable mention, not a full page.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $10,253, down 14.7%. 146 subscriptions. Last 30 days $13,760. A snapshot on the listing says last 30 days $14,095, down 10.9%. All-time $126,326. Last-30-day margin 80% claimed. Still listed for sale at $500,000. Revenue synced 4 November 2026 ~05:41 Warsaw. The 8 October honorable mention was about $11,984 a month, 161 subscriptions, last 30 days about $16,388, and all-time about $114,381.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/private-enterprise-22"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Same garage software as the October mention. The monthly line is lower, and it is still for sale.",
+      "whyItPrints": "Dealer and garage software is dull, and the listing is still for sale at the same asking price while the Stripe number has slipped.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Driving-instructor booking app",
+      "note": "Self-reported, Reddit, 3 November 2026. 60 instructors pay $15 a month, so $900. Lesson booking, plus a count of practice hours for the licence paperwork. Built over a couple of weekends, then it spread through a regional association. No product name and no site. Reddit (https://www.reddit.com/r/SaaS/comments/1xn1a5j/driving_instructors_pay_me_900_a_month_and_i/).",
+      "homepage": null
+    },
+    {
+      "name": "JuggleHire",
+      "note": "Recruitment CRM for permanent-placement agencies. Solo founder Zakir, Bangladesh. Stripe-verified. Last 30 days $472, down 25.6%. Last 12 months $8,190. All-time $39,056. MRR $521. 9 subscriptions. A $149 lifetime deal sits beside the subscription line. Listed for sale at $24,000 (4.2x). TrustMRR (https://trustmrr.com/startup/jugglehire).",
+      "homepage": "https://jugglehire.com/"
+    },
+    {
+      "name": "PA Crunch",
+      "note": "Instagram growth software. Third-party write-ups say $18,000 a month and $9,000 a month of profit, founder Kenny Schumacher, sold for $300,000 through FE International. Not the founder's own page. They Got Acquired (https://theygotacquired.com/saas/pa-crunch-acquired/). FounderSold (https://foundersold.com/exits/pa-crunch).",
+      "homepage": null
+    }
+  ]
+}

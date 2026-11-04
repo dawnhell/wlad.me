@@ -1,0 +1,27 @@
+{
+  "slug": "swokei",
+  "name": "Swokei",
+  "listingNote": null,
+  "description": "Cold email for web agencies. It opens the prospect's site, finds something wrong, and writes the email about that. It also finds the leads, checks the addresses, sends, and tracks replies. Built by someone who used to run a web-design agency.",
+  "homepage": "https://www.swokei.com/",
+  "image": "/blog/2026-11-04/swokei.webp",
+  "imageAlt": "Swokei product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-04",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, the founder, Reddit, 3 November 2026. Not independently checked. $40,000 a month. A small team. This is not a Stripe connection.",
+      "sources": [
+        {
+          "label": "Reddit",
+          "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xn5skz/how_i_grew_my_saas_to_40k_mrr/"
+        }
+      ],
+      "indieAngle": "Audit one public page, then pitch the person who owns it, for a different service trade."
+    }
+  ],
+  "whyItPrints": "Agencies pay every month for the next client. He says the growth came from LinkedIn, X, short videos, and search.",
+  "whyThisMatters": "Swokei writes cold email for people who sell websites. It opens the prospect's site, names something that is wrong, and the email is about that thing. It also finds the address, checks it, sends, and watches for a reply. The person who built it used to run a web agency.\n\nThe only figure is his, on Reddit, on 3 November 2026. Forty thousand a month, and a small team. Nobody connected a payment company to this page. He says the customers came from LinkedIn, from X, from short videos, and from search. Ordinary channels, which is the point he is making.\n\nYou pay so the first email already mentions the slow homepage, instead of a generic pitch.\n\nLead finding, address checks, sending, and reply tracking sit next to the audit. LinkedIn, short videos, and search are the channels he names. A former agency owner is the builder. A small team is the headcount, and there is no processor behind the figure."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "figmentor",
+  "name": "Figmentor",
+  "listingNote": null,
+  "description": "A Figma plugin and a WordPress plugin. A Figma frame becomes Elementor JSON you can import. Plans are $9, $19, or $49 a month. Founded August 2025.",
+  "homepage": "https://figmentor.io/",
+  "image": "/blog/2026-11-04/figmentor.webp",
+  "imageAlt": "Figmentor product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-04",
+      "evidenceKind": "paddle-verified",
+      "evidence": "Paddle-verified, not Stripe. MRR $1,823, down 21.2%. 137 subscriptions. Last 30 days $1,644, down 38.9%. Last 12 months $37,883. All-time $42,679. Last-30-day margin 95% claimed. The seller says 6,335 registered users, about 6,400 Figma plugin users, and 158 paying. That 158 and the 137 subscriptions are both left as written. Listed for sale at $42,500 (2.2x). Revenue synced 4 November 2026 ~07:50 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/figmentor"
+        }
+      ],
+      "indieAngle": "The same file conversion, into a different site builder."
+    }
+  ],
+  "whyItPrints": "Designers live in Figma. The site is built in Elementor. An agency does that handoff every week. The seller says they stepped back for 2 or 3 months, which matches the drop. The listing is for sale.",
+  "whyThisMatters": "Figmentor turns a frame in Figma into a file Elementor can import. One plugin in Figma, one plugin in WordPress. Nine, nineteen, or forty-nine a month. Started in August 2025.\n\nThe money label is Paddle. I am not calling it a Stripe connection. A bit over a hundred subscriptions. The monthly line and the last thirty days are both down, by about a fifth and about two fifths. The seller says they stepped away for two or three months, which is the same story as the chart. They also say about sixty-four hundred people use the Figma plugin and a hundred and fifty-eight pay. Paddle says a hundred and thirty-seven subscriptions. Both counts stay. The asking price is forty-two thousand five hundred. Margin is claimed at ninety-five percent.\n\nYou pay so the design handoff is an import, not an afternoon of rebuilding the page.\n\nNine, nineteen, and forty-nine are the three plan prices. August 2025 is the start. Elementor JSON is the file that comes out. Stepping back for two or three months is the seller's own explanation for the drop."
+}

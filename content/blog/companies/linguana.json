@@ -1,0 +1,27 @@
+{
+  "slug": "linguana",
+  "name": "Linguana",
+  "listingNote": null,
+  "description": "Translation for no-code sites: Webflow, Framer, Carrd, Wix, WordPress, and Kajabi. It translates the page, the URLs, and the search metadata, so each language can be indexed. Plans are $25, $59, or $129 a month, or $19, $49, or $99 billed yearly. Founded June 2024. One person. No outside money. US.",
+  "homepage": "https://www.linguana.io/",
+  "image": "/blog/2026-11-04/linguana.webp",
+  "imageAlt": "Linguana product image",
+  "imageWidth": 1200,
+  "imageHeight": 629,
+  "mentions": [
+    {
+      "date": "2026-11-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,914, up 8.4%. 80 subscriptions. Last 30 days $3,014, down 36.5%. Last 12 months $40,230. All-time $114,206. Last-30-day margin 60% claimed. Listed for sale at $97,000 (2.7x). Solo founder, bootstrapped. Revenue synced 4 November 2026 ~01:58 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/linguana"
+        }
+      ],
+      "indieAngle": "The same translation layer for a site builder this one does not cover."
+    }
+  ],
+  "whyItPrints": "An agency wires a client's site in once. Switching means redoing every translated URL. The listing is for sale.",
+  "whyThisMatters": "Linguana translates a site that was built in Webflow, Framer, Carrd, Wix, WordPress, or Kajabi. The words are one part. The address of each page, and the bits Google reads, are the other part. Each language can show up as its own page. Plans sit in a normal agency range, monthly or yearly. One person, started in June 2024, no outside money.\n\nEighty Stripe subscriptions. The monthly line is a bit under three thousand. The last thirty days are down by about a third, which is the sort of drop that puts a listing up for sale. The asking price is under a hundred thousand. The all-time total is the whole life of a young product, and the last year is a large share of it.\n\nYou pay so the second language is not a duplicate site someone has to maintain by hand."
+}

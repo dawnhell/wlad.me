@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-bot",
+  "name": "Anonymous Bot",
+  "listingNote": null,
+  "description": "A Slack app. Someone types a command and the message shows up in an allowed channel without a name. Plans are free, $50, or $100 a month. Founder Fernando Falci. Running since 2020.",
+  "homepage": "https://anonymousbot.com/",
+  "image": "/blog/2026-11-04/anonymous-bot.webp",
+  "imageAlt": "Anonymous Bot product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $891. 11 subscriptions. Last 30 days $791. Last 12 months $12,540. All-time $51,083. Last-30-day margin 99% claimed. Listed for sale at $100,000 (10.5x). Revenue synced 4 November 2026 ~04:23 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/anonymous-bot-for-slack"
+        }
+      ],
+      "indieAngle": "One Slack command a workplace actually uses, priced per workspace."
+    }
+  ],
+  "whyItPrints": "One command, and it has been on since 2020. The seller says nothing was spent on marketing and about $10 on servers. The asking price is a high multiple.",
+  "whyThisMatters": "Anonymous Bot posts into Slack without attaching a name. The command is short. Channels can be limited. Free, fifty a month, or a hundred a month. Fernando Falci has run it since 2020.\n\nEleven Stripe subscriptions, a bit under nine hundred a month. The last year is about twelve thousand, and the all-time total is about fifty thousand, so the early years were not empty and the recent pace is not a spike. Margin is claimed at ninety-nine percent. He says marketing spend was zero and servers cost about ten dollars. The asking price is a hundred thousand, more than ten times the monthly line. That multiple is the odd part. The product itself is a small command that people leave installed.\n\nYou pay so a message can land in the channel without a name on it.\n\nAllowed channels are the limit. Fernando Falci is the founder. Zero marketing spend and about ten dollars of servers are his costs. Ten and a half times is the asking multiple."
+}

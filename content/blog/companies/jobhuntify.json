@@ -1,0 +1,27 @@
+{
+  "slug": "jobhuntify",
+  "name": "Jobhuntify",
+  "listingNote": null,
+  "description": "A paid job-search product. The pitch is more interviews. The TrustMRR description talks about tools, calculators, and converters, which does not match that pitch. Read it as free utility pages leading into a paid plan. Founder Anthony Tran. Founded 2014, per the listing. Singapore.",
+  "homepage": "https://jobhuntify.com/",
+  "image": "/blog/2026-11-04/jobhuntify.webp",
+  "imageAlt": "Jobhuntify product image",
+  "imageWidth": 1200,
+  "imageHeight": 703,
+  "mentions": [
+    {
+      "date": "2026-11-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,016. 213 subscriptions. Last 30 days $2,049, down 10.1%. Last 12 months $27,160. All-time $249,985. Revenue synced 4 November 2026 ~09:28 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/jobhuntify-com"
+        }
+      ],
+      "indieAngle": "Free calculators in a dull trade, then a paid workflow for the people who stay."
+    }
+  ],
+  "whyItPrints": "Free pages catch search traffic. A small slice pays. It has been charging for years.",
+  "whyThisMatters": "Jobhuntify charges people who are looking for work. The public pitch is more interviews. The listing text talks about calculators and converters. Those two descriptions do not match, so I am not picking one and deleting the other. Anthony Tran. The listing says 2014. Singapore.\n\nA bit over two hundred Stripe subscriptions, around two thousand a month. The last year is a small slice of the all-time total, which is about a quarter of a million. That is what a long-running search site looks like: years of small payments, not one spike. The last thirty days are slightly down.\n\nYou pay so the job search is a plan, not a pile of bookmarks. The free tools, if that is what the listing means, are how strangers arrive.\n\nAnthony Tran is the name on the listing. 2014 is the founding year it gives. Calculators and converters are the other description, and they stay beside the interview pitch."
+}

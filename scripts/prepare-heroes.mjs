@@ -289,6 +289,14 @@ const picks = [
     url: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/1_lake_louise_pano_2019.jpg',
   },
   {
+    id: 'perito-moreno',
+    subject: 'nature',
+    alt: 'Perito Moreno Glacier in Patagonia',
+    credit: 'Valentinamaur',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Glaciar_Perito_Moreno%2C_enero_2024.jpg',
+  },
+  {
     id: 'kirkjufell',
     subject: 'nature',
     alt: 'Kirkjufell in Iceland',

@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-french-automotive-saas",
+  "name": "Anonymous French automotive SaaS",
+  "listingNote": null,
+  "description": "A French business-to-business tool for garages or dealers. The 8 October note only said \"B2B SAAS AUTOMOTIVE FR.\" There is still no product name and no site. I am not guessing either. That October note was an honorable mention, not a full page.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $10,253, down 14.7%. 146 subscriptions. Last 30 days $13,760. A snapshot on the listing says last 30 days $14,095, down 10.9%. All-time $126,326. Last-30-day margin 80% claimed. Still listed for sale at $500,000. Revenue synced 4 November 2026 ~05:41 Warsaw. The 8 October honorable mention was about $11,984 a month, 161 subscriptions, last 30 days about $16,388, and all-time about $114,381.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/private-enterprise-22"
+        }
+      ],
+      "indieAngle": "Same garage software as the October mention. The monthly line is lower, and it is still for sale."
+    }
+  ],
+  "whyItPrints": "Dealer and garage software is dull, and the listing is still for sale at the same asking price while the Stripe number has slipped.",
+  "whyThisMatters": "A French tool for garages or car dealers. On 8 October the whole description was one line, \"B2B SAAS AUTOMOTIVE FR,\" and it sat in the honorable mentions. There is still no name and no site. This is the first full page, and the October figures stay next to the new ones.\n\nStripe is lower than that October note. About ten thousand a month now, from a hundred and forty-six subscriptions, against about twelve thousand and a hundred and sixty-one then. The last thirty days are also lower. The listing shows two last-thirty-day numbers that are close but not identical, so both stay. The all-time total is higher, which is what happens when a business keeps charging while the monthly line slips. Margin is claimed at eighty percent. The asking price is still five hundred thousand. A lower monthly line against the same price is a richer multiple than it was in October.\n\nYou pay so the garage software talks to the rest of the shop. The page still cannot say which job it actually does."
+}

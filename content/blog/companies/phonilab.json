@@ -1,0 +1,27 @@
+{
+  "slug": "phonilab",
+  "name": "PHONILAB",
+  "listingNote": null,
+  "description": "Software for phone and electronics repair shops. Repairs, sales, and subscriptions. It files Qualirépar bonus claims, supports French e-invoicing, and is a certified cash-register system. The homepage cites LNE certificate number 41047. The listing prices it at $45 a month with Qualirépar and $65 without. Founder Thomas. Founded July 2024. France.",
+  "homepage": "https://www.phonilab.fr/",
+  "image": "/blog/2026-11-04/phonilab.webp",
+  "imageAlt": "PHONILAB product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-04",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time $7,515. Last 12 months $0. There is no monthly subscription line. Stripe is probably not how they bill now, so current revenue is unknown. Revenue synced 4 November 2026 ~08:00 Warsaw.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/phonilab"
+        }
+      ],
+      "indieAngle": "Certified invoicing, plus the government claim, for one repair trade in one country."
+    }
+  ],
+  "whyItPrints": "French shops need certified checkout software, and the bonus scheme needs a claim. They buy it because the rules say so. The Stripe account is not showing current sales.",
+  "whyThisMatters": "PHONILAB is the till and the job list for a shop that fixes phones and other electronics. It also files the French repair-bonus claim, Qualirépar, and it is set up for the coming e-invoicing rules. The homepage cites a cash-register certificate, LNE number 41047. Thomas started it in July 2024. The listing price is forty-five a month if the bonus scheme is included, sixty-five if it is not.\n\nStripe shows about seventy-five hundred all-time, nothing in the last twelve months, and no subscription line. I am not turning the old total into a current monthly figure. The likely reading is that they bill somewhere else now, or they stopped billing on this account. Current revenue is unknown.\n\nYou pay so the repair ticket, the invoice, and the state bonus claim are the same system. The certificate is why a French shop cannot just use a generic till."
+}

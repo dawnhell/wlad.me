@@ -1,0 +1,31 @@
+{
+  "slug": "encharge",
+  "name": "Encharge",
+  "listingNote": null,
+  "description": "Email that sends itself when something happens in a CRM, in billing, or in the product. Co-founded by Kalo Yankulov after an earlier tool, HeadReach, lost a Google API. Bulgaria.",
+  "homepage": "https://encharge.io/",
+  "image": "/blog/2026-11-04/encharge.webp",
+  "imageAlt": "Encharge product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-04",
+      "evidenceKind": "self-reported",
+      "evidence": "Self-reported, and one estimate that is not the founder's number. Failory, 20 June 2019: $4,000 in pre-orders, 50 pre-orders of $89 lifetime access in 2 weeks. HeadReach, the earlier product, was at $2,000 a month. Starter Story, summarising a YouTube video: the AppSumo lifetime deal made nearly $1 million in about a month, and about $50,000 went to a content team that wrote 200 to 300 articles. Starter Story estimates about $35,000 a month as of January 2024, triangulated from one public source. That estimate is not a founder figure and not a payment-company sync. The sale is mentioned. The buyer and the price are not.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/businesses/encharge"
+        },
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/encharge"
+        }
+      ],
+      "indieAngle": "The same triggered email for a payment company the big tools ignore."
+    }
+  ],
+  "whyItPrints": "Glue between the billing system and the inbox. An AppSumo lifetime deal filled the early list. Search is the later channel. A later video title says he sold the business. I did not find the buyer or the terms, so this page does not name either.",
+  "whyThisMatters": "Encharge sends email when a billing event or a product event happens. It connects to the CRM and to the payment system, then runs the sequence. Kalo Yankulov started it after HeadReach, an earlier product, lost a Google API it depended on. Bulgaria.\n\nThe numbers are a pile, and they are not one business at one date. In June 2019 he had four thousand dollars of pre-orders: fifty people buying lifetime access at eighty-nine dollars, in two weeks. HeadReach, the previous product, was at two thousand a month. A YouTube recap, as Starter Story tells it, says an AppSumo lifetime deal brought in nearly a million in about a month, and that about fifty thousand was spent on a writing team and a few hundred articles. Starter Story also prints an estimate of about thirty-five thousand a month as of January 2024, from one public source. That line is an estimate. A later video title says he sold the company. I did not find who bought it or what they paid, so those stay blank.\n\nYou pay so the email goes out when the subscription changes, without someone pressing send."
+}
