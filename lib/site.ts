@@ -14,6 +14,18 @@ function withFounderRef(url: string): string {
 }
 
 export const FOUNDER_PRODUCTS = {
+  gamezz: {
+    name: 'Gamezz Studio',
+    summary: 'Free browser games',
+    url: withFounderRef('https://gamezz.studio'),
+    logo: 'https://gamezz.studio/favicon.png',
+  },
+  numby: {
+    name: 'Numby',
+    summary: 'Bank statement converter',
+    url: withFounderRef('https://www.numby.app'),
+    logo: 'https://www.numby.app/favicon.ico',
+  },
   complience: {
     name: 'Complience.app',
     summary: 'Website accessibility checker',

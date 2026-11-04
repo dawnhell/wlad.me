@@ -4,6 +4,8 @@ import { FOUNDER_PRODUCTS } from '../lib/site'
 import CompanyMark from './CompanyMark'
 
 const products = [
+  FOUNDER_PRODUCTS.gamezz,
+  FOUNDER_PRODUCTS.numby,
   FOUNDER_PRODUCTS.complience,
   FOUNDER_PRODUCTS.nextbento,
   FOUNDER_PRODUCTS.eventdash,

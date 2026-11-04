@@ -9,7 +9,7 @@ import { SITE_URL, canonicalPath } from '../lib/site'
 import Header from './Header'
 
 const PERSON_DESCRIPTION =
-  'Senior UI engineer with 9+ years in React and TypeScript. Creator of Complience.app, NextBento, and EventDash. Building fast, accessible interfaces with clean architecture.'
+  'Senior UI engineer with 9+ years in React and TypeScript. Creator of Numby, Gamezz Studio, Complience.app, NextBento, and EventDash. Building fast, accessible interfaces with clean architecture.'
 
 interface ILayout {
   children: ReactElement
@@ -29,7 +29,7 @@ const Layout = ({
   children,
   withHeader = true,
   title = 'Senior UI Engineer Portfolio | Wlad',
-  description = 'Senior UI engineer with 9+ years in React and TypeScript. Creator of Complience.app, NextBento, and EventDash. Building fast, accessible interfaces with clean architecture.',
+  description = 'Senior UI engineer with 9+ years in React and TypeScript. Creator of Numby, Gamezz Studio, Complience.app, NextBento, and EventDash. Building fast, accessible interfaces with clean architecture.',
   image = '/circle_me.jpg',
   mainAlign = 'center',
   ogType = 'website',

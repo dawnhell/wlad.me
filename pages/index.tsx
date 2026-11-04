@@ -23,7 +23,7 @@ Home.getLayout = function getLayout(page: ReactElement) {
     <Layout
       atmosphere
       title="Senior UI Engineer Portfolio | Wlad"
-      description="Senior UI engineer with 9+ years in React and TypeScript. Creator of Complience.app, NextBento, and EventDash. Building fast, accessible interfaces with clean architecture."
+      description="Senior UI engineer with 9+ years in React and TypeScript. Creator of Numby, Gamezz Studio, Complience.app, NextBento, and EventDash. Building fast, accessible interfaces with clean architecture."
     >
       {page}
     </Layout>

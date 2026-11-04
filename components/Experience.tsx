@@ -68,6 +68,46 @@ const MY_EXPERIENCE: ExperienceItem[] = [
   },
   {
     title: 'Founder',
+    details: 'Indie Product',
+    period: 'Oct 2026 - Present',
+    company: FOUNDER_PRODUCTS.gamezz.name,
+    companyUrl: FOUNDER_PRODUCTS.gamezz.url,
+    logo: FOUNDER_PRODUCTS.gamezz.logo,
+    description: (
+      <>
+        <span>
+          Free browser games. Puzzles, arcade, racing, and platform. Open one
+          in the tab. No account, and the score stays in the browser.
+        </span>
+      </>
+    ),
+    technologies: ['TanStack Start, React 19', 'Tailwind CSS', 'shadcn/ui'],
+  },
+  {
+    title: 'Founder',
+    details: 'Indie Product',
+    period: 'Sep 2026 - Present',
+    company: FOUNDER_PRODUCTS.numby.name,
+    companyUrl: FOUNDER_PRODUCTS.numby.url,
+    logo: FOUNDER_PRODUCTS.numby.logo,
+    description: (
+      <>
+        <span>
+          Bank statement and invoice converter. Drop a PDF, check the rows,
+          then download Excel, CSV, or an e-invoice. The file is deleted when
+          the conversion finishes.
+        </span>
+      </>
+    ),
+    technologies: [
+      'Next.js 16, React 19',
+      'Supabase, Resend',
+      'shadcn/ui',
+      'PDF, Excel, CSV, e-invoice',
+    ],
+  },
+  {
+    title: 'Founder',
     details: 'Indie Product • SaaS',
     period: 'Sep 2026 - Present',
     company: FOUNDER_PRODUCTS.complience.name,
