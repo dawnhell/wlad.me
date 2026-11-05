@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-hotel-booking-for-business-travellers",
+  "name": "Anonymous hotel booking for business travellers",
+  "listingNote": null,
+  "description": "Hotel rooms for business travellers, event organisers, and trade-show exhibitors in the USA, Europe, and the Middle East. Room blocks, rooming lists, transfers, and the booking sit on one platform. The customer pays a one-night deposit when they book, and the rest 7 to 15 days before check-in. Founded August 2025. The listing says 6 to 10 people. No company name and no site.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last 30 days were $17,218 L30, up 293.1%, synced 5 November 2026 around 07:02. Last 12 months $85,846. All-time $91,895. There is no monthly subscription line, because the charge is a deposit and then the balance. The listing also shows 2,697 visitors in those 30 days, and $6.38 of revenue per visitor.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/startup-af15723456d9"
+        }
+      ],
+      "indieAngle": "Housing for one trade-show circuit is a small repeatable job. A rooming list sold to the organiser is the software version of the same headache."
+    }
+  ],
+  "whyItPrints": "Trade-show housing still runs on spreadsheets. The deposit lands well before the stay. Stripe shows no subscription, because this is a booking, not a monthly plan.",
+  "whyThisMatters": "Booking rooms for a trade show is still a spreadsheet, a rooming list, and a stack of transfers. This listing, which does not name the company or the site, says it does that for business travellers, organisers, and exhibitors in the USA, Europe, and the Middle East. The guest pays one night when they book, and the balance a week or two before they arrive, so the cash shows up before the stay. Stripe, synced the morning of 5 November 2026, has no subscription because there is nothing to subscribe to. The last month is a few times the month before it, on the listing's own percentage. The twelve-month and all-time totals are larger, and the company only dates to August 2025, with a team the listing puts between six and ten people. It also publishes a visitor count and a revenue-per-visitor figure for those thirty days. There is no homepage to open."
+}

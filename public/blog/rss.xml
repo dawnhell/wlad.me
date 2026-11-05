@@ -5,7 +5,14 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:02:59 GMT</lastBuildDate>
+    <item>
+      <title>Thursday's boring SaaS, 5 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-05</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Thursday, 5 November 2026. TheMailSupply and an unnamed hotel listing are Stripe-verified, so those listings are connected to Stripe, and the other eight are self-reported. Several of those self-reported numbers are from an older interview or from an estimate, so the date in the note is the date of the number.</description>
+    </item>
     <item>
       <title>Wednesday's boring SaaS, 4 November 2026</title>
       <link>https://www.wlad.me/blog/2026-11-04</link>

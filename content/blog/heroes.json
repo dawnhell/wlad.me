@@ -405,5 +405,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kirkjufell%2C_Iceland%2C_20240714_1631_0713.jpg",
     "license": "CC BY 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "skaftafell",
+    "src": "/blog/heroes/skaftafell.webp",
+    "alt": "Skaftafell and the glacier in Iceland",
+    "width": 1600,
+    "height": 634,
+    "credit": "Eysteinn Guðni Guðnason",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Skaftafell_Aerial_Panorama_2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

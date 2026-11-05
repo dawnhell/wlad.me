@@ -1,0 +1,31 @@
+{
+  "slug": "zenmaid",
+  "name": "ZenMaid",
+  "listingNote": null,
+  "description": "Scheduling, reminders, payments, and staff for house-cleaning companies. The price now is $49 to start, plus $9 per employee a month. Older prices ran from $49 to $500 a month, and the interview put the average around $220. It also runs the Maid Summit.",
+  "homepage": "https://www.zenmaid.com/",
+  "image": "/blog/2026-11-05/zenmaid.webp",
+  "imageAlt": "ZenMaid product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-05",
+      "evidenceKind": "self-reported",
+      "evidence": "A Failory interview on 7 December 2021 puts the business at $1.5 million ARR. It took more than 3 years to reach $10,000 a month, then 4 more years to reach $100,000 a month. A 2017 redesign outage dropped the monthly number from $18,000 to $12,000. It spent about $20,000 a month on paid ads. The team then was 6 full-time people plus 20 to 25 freelancers.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/zenmaid"
+        },
+        {
+          "label": "ZenMaid",
+          "url": "https://www.zenmaid.com/"
+        }
+      ],
+      "indieAngle": "The same per-person price fits other house-call trades that still run on texts and a calendar. Window cleaning, pool service, dog walking. Especially outside the US, where this product is not localised."
+    }
+  ],
+  "whyItPrints": "Cleaning companies are a huge pile of small businesses. The revenue number below is from a December 2021 interview, so it is not a check of this week.",
+  "whyThisMatters": "A cleaning company lives on a calendar. Who is at which house, whether the client got a reminder, and whether the cleaner got paid. ZenMaid is that calendar, plus the payments and the staff list. The price on the site now starts with a base and then adds a bit for each employee. Older prices were a wide band, and the interview put a typical bill in the middle of that band. The yearly figure is from a Failory interview on 7 December 2021, so it is not a reading of this week. The same interview says the first ten thousand a month took more than three years, and the next jump took four more. A redesign in 2017 took the site down and the monthly number fell, then they spent heavily on ads. The team then was six full-time people and a larger freelance group. They also run a conference for the trade, which is how a niche product stays in front of the buyers. None of that updates the 2021 total."
+}

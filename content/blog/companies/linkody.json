@@ -1,0 +1,31 @@
+{
+  "slug": "linkody",
+  "name": "Linkody",
+  "listingNote": null,
+  "description": "It watches a site's backlinks and sends an alert when one is new, lost, or no longer a normal link. SEO agencies use it to show a client that the links they paid for are still there. Smaller sites use it too. A solo founder in the Netherlands shipped the first version in three weeks.",
+  "homepage": "https://www.linkody.com/",
+  "image": "/blog/2026-11-05/linkody.webp",
+  "imageAlt": "Linkody product image",
+  "imageWidth": 1200,
+  "imageHeight": 558,
+  "mentions": [
+    {
+      "date": "2026-11-05",
+      "evidenceKind": "self-reported",
+      "evidence": "A Failory interview on 10 December 2020 puts it at about $140,000 ARR, with several hundred customers, growing slowly. The page headline says $145,000 a year. Solo and bootstrapped. That interview is the source, so the number is from then.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/linkody"
+        },
+        {
+          "label": "Linkody",
+          "url": "https://www.linkody.com/"
+        }
+      ],
+      "indieAngle": "The same job is \"watch that the thing you paid for is still there.\" Directory listings for a local business, affiliate links, review-site placements, sponsored posts."
+    }
+  ],
+  "whyItPrints": "An agency needs proof the links still exist. It is a check that runs on a schedule, plus a screen. The interview says growth came from free tools, a backlink checker and a Google index checker, and from people telling each other.",
+  "whyThisMatters": "An agency that sold a client a batch of links has to show, later, that the links are still up. Linkody checks and sends an alert when a link appears, disappears, or stops passing the usual signal. François Mommens, a solo founder in the Netherlands, said the first version took three weeks. The Failory interview is 10 December 2020. The body says one yearly figure and the headline says another, close but not the same, with several hundred customers and slow growth. He was bootstrapped and on his own. The interview credits free tools, a backlink checker and an index checker, plus word of mouth. That is a 2020 conversation. It is not a count of what the product makes this month."
+}

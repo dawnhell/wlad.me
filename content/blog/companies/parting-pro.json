@@ -1,0 +1,31 @@
+{
+  "slug": "parting-pro",
+  "name": "Parting Pro",
+  "listingNote": null,
+  "description": "Funeral homes use it so a family can plan and pay online, and the director can run the case and the merchandise. The founders describe it as a shop for funeral homes.",
+  "homepage": "https://www.partingpro.com/",
+  "image": "/blog/2026-11-05/parting-pro.webp",
+  "imageAlt": "Parting Pro product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-05",
+      "evidenceKind": "self-reported",
+      "evidence": "Tyler Yamasaki's SaaStr talk puts growth through late 2023 past $2 million without a traditional funding round. They raised a seed round in 2021 and later used Founderpath for non-dilutive capital. Founderpath's resource page, which has no date, lists company revenue of $2.5 million. Those are two figures, not one.",
+      "sources": [
+        {
+          "label": "Founderpath",
+          "url": "https://founderpath.com/resources/the-silent-majority-how-we-ve-bootstrapped-our-unsexy-funeral-management-saas-to-1m"
+        },
+        {
+          "label": "Parting Pro",
+          "url": "https://www.partingpro.com/"
+        }
+      ],
+      "indieAngle": "The same online package picker shows up anywhere a family has to choose a bundle and add-ons for a hard week. Cemeteries, pet cremation, monument makers."
+    }
+  ],
+  "whyItPrints": "People still die in a slow economy. The founders said they looked unfundable in 2022. They cut costs. The talk says runway went from 4 months in August 2022 to about 150 months by late 2023.",
+  "whyThisMatters": "A funeral home still has to take a family's choices and their payment, then run the case. Parting Pro puts the arrangement and the merchandise online, and gives the director the file. Tyler Yamasaki's SaaStr talk covers the story through late 2023 and frames the growth as past a couple of million, without a traditional funding round. They did raise a seed round in 2021, and later borrowed through Founderpath, so \"without traditional funding\" is the talk's phrase, not a claim that no one ever put money in. The Founderpath page lists a revenue figure and does not date it. It is not the same sentence as the talk, so both stay. The talk also says they looked unfundable in 2022, cut costs, and stretched runway from a few months in August 2022 to a much longer stretch by late 2023. That runway story is not a revenue figure."
+}

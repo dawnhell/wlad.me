@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-05",
+  "title": "Thursday's boring SaaS, 5 November 2026",
+  "dek": "Thursday, 5 November 2026. TheMailSupply and an unnamed hotel listing are Stripe-verified, so those listings are connected to Stripe, and the other eight are self-reported. Several of those self-reported numbers are from an older interview or from an estimate, so the date in the note is the date of the number.",
+  "heroId": "skaftafell",
+  "companies": [
+    {
+      "slug": "saasant",
+      "name": "SaasAnt",
+      "listingNote": null,
+      "description": "Bookkeepers use it to push a spreadsheet into QuickBooks or Xero, and to pull the rows back out. The main tool, SaasAnt Transactions, imports, exports, and deletes Excel, CSV, and IIF files in QuickBooks Online, QuickBooks Desktop, and Xero. PayTraQer copies payment-processor and shop sales into the books. A newer feature reads receipts, invoices, bills, checks, and bank statements from a PDF or a photo. Founded 2015. Lewes, Delaware, with a team in India.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka's September 2025 page estimates about $4.7 million a year and lists 43 employees. That is GetLatka's estimate, not a number SaasAnt published. The company site, checked 5 November 2026, says it is trusted by 20,000+ accounting firms. The LinkedIn page says 25,000+.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/saasant.com"
+        },
+        {
+          "label": "SaasAnt",
+          "url": "https://www.saasant.com/"
+        }
+      ],
+      "homepage": "https://www.saasant.com/",
+      "indieAngle": "The same missing pipe shows up in other bookkeeping tools, including Sage, FreshBooks, Wave, MYOB, and local ones. The product to sell is bulk import and undo, to the bookkeepers who already live in that tool.",
+      "whyItPrints": "QuickBooks' own importer stops at 1,000 rows. SaasAnt sells the pipe that takes 50,000, with an undo. An accounting firm pays, then uses it on every client.",
+      "image": "/blog/2026-11-05/saasant.webp",
+      "imageAlt": "SaasAnt product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "link-my-books",
+      "name": "Link My Books",
+      "listingNote": null,
+      "description": "It turns Amazon, eBay, Shopify, Etsy, and other shop payouts into a short, VAT-correct entry in Xero or QuickBooks, matched to the money that actually hit the bank. Founded 2018 in the UK. A2X, in New Zealand since 2014, does the same job for Shopify, Amazon, BigCommerce, Etsy, Walmart, and eBay, into QuickBooks, Xero, and Sage. Jamie McDonald is A2X's CEO.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka's September 2025 estimate for Link My Books is about $660,000 a year, with 6 employees. The site, checked 5 November 2026, says it is trusted by 10,000+ businesses in the UK, the US, and Australia, and by hundreds of accounting firms. Plans run from $24 a month for 1 channel and 200 orders, and $47 for 1,000 orders, up to $380 for 10 channels and 30,000 orders. A2X has a separate GetLatka estimate from July 2025 of about $7.3 million a year, with 66 employees.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/linkmybooks.com"
+        },
+        {
+          "label": "Link My Books vs A2X",
+          "url": "https://linkmybooks.com/a2x-versus-link-my-books"
+        },
+        {
+          "label": "A2X",
+          "url": "https://www.a2xaccounting.com/"
+        },
+        {
+          "label": "Latka on A2X",
+          "url": "https://getlatka.com/companies/a2xaccounting.com"
+        }
+      ],
+      "homepage": "https://linkmybooks.com/",
+      "indieAngle": "A2X is the bigger product and Link My Books is the smaller one, in the same job. The gap the note points at is narrower still: one marketplace, one ledger, one country.",
+      "whyItPrints": "A marketplace payout is a pile of fees, refunds, reserves, and currencies. The accountant does not want to type that by hand. Once a client's books are wired up, they tend to stay. The price follows how many orders the seller has, so the bill grows when the seller grows.",
+      "image": "/blog/2026-11-05/link-my-books.webp",
+      "imageAlt": "Link My Books product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "fieldflo",
+      "name": "FieldFlō",
+      "listingNote": null,
+      "description": "Software for demolition, asbestos-abatement, and cleanup crews. It tracks the job, who on the crew is still certified, the compliance paperwork, and the estimate.",
+      "evidenceKind": "self-reported",
+      "evidence": "Roni Szigeti told Latka on 29 June 2026 that there were 470 customers at about $14,000 average contract value. First-year revenue in 2017 was $140,000. Gross churn was 0%. The biggest customer pays $1 million a year. Staff was 70. It raised $35 million from Mainsail in October 2025. Latka multiplied the customer count into a roughly $6.5 million run rate. The founder said the actual figure is lower because of discounts.",
+      "sources": [
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/interviews/fieldflo-roni-szigeti-2026"
+        },
+        {
+          "label": "FieldFlō",
+          "url": "https://fieldflo.com/"
+        }
+      ],
+      "homepage": "https://fieldflo.com/",
+      "indieAngle": "Other trades have the same paperwork and the same expiring certificates. Lead paint, mold, elevator inspection, fire-door inspection. The first piece is crew certificates and the compliance file, not a whole operations suite.",
+      "whyItPrints": "That work is buried in paperwork, and the crew has to stay certified. The founder said the first 10 beta clients from 2017 are all still paying, and that gross churn is 0%. It was bootstrapped from 2017 to 2023.",
+      "image": "/blog/2026-11-05/fieldflo.webp",
+      "imageAlt": "FieldFlō product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "zenmaid",
+      "name": "ZenMaid",
+      "listingNote": null,
+      "description": "Scheduling, reminders, payments, and staff for house-cleaning companies. The price now is $49 to start, plus $9 per employee a month. Older prices ran from $49 to $500 a month, and the interview put the average around $220. It also runs the Maid Summit.",
+      "evidenceKind": "self-reported",
+      "evidence": "A Failory interview on 7 December 2021 puts the business at $1.5 million ARR. It took more than 3 years to reach $10,000 a month, then 4 more years to reach $100,000 a month. A 2017 redesign outage dropped the monthly number from $18,000 to $12,000. It spent about $20,000 a month on paid ads. The team then was 6 full-time people plus 20 to 25 freelancers.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/zenmaid"
+        },
+        {
+          "label": "ZenMaid",
+          "url": "https://www.zenmaid.com/"
+        }
+      ],
+      "homepage": "https://www.zenmaid.com/",
+      "indieAngle": "The same per-person price fits other house-call trades that still run on texts and a calendar. Window cleaning, pool service, dog walking. Especially outside the US, where this product is not localised.",
+      "whyItPrints": "Cleaning companies are a huge pile of small businesses. The revenue number below is from a December 2021 interview, so it is not a check of this week.",
+      "image": "/blog/2026-11-05/zenmaid.webp",
+      "imageAlt": "ZenMaid product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "financial-cents",
+      "name": "Financial Cents",
+      "listingNote": null,
+      "description": "A checklist for small accounting firms. Who is closing which client's month, and when it is due. Founded 2018 in Nashville by Shahram Zarshenas and Abdullah Almsaeed.",
+      "evidenceKind": "self-reported",
+      "evidence": "An Indie Hackers post on 10 November 2020 put accrual MRR at $8,000, with $12,000 to $16,000 a month in cash because of annual plans. There were 150 paying customers. About 20 new firms and $1,000 to $1,500 of new MRR a month. A LinkedIn post from around early 2025 says it was bootstrapped to multi-millions in revenue, without a precise total. GetLatka lists 1,000 customers and 26 employees as of October 2024. That customer count is GetLatka's, not the 2020 post.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/just-reached-8k-in-mrr-1a56a9498a"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/shahramzarshenas_99-of-saas-startups-shouldnt-raise-money-activity-7298359867122077697-mILQ"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/financial-cents"
+        }
+      ],
+      "homepage": "https://financial-cents.com/",
+      "indieAngle": "A webinar that grants continuing-education credit is a channel for any job that requires those credits. Lawyers, nurses, real-estate agents, pharmacists. Teach the hour, and the workflow tool is on the last slide.",
+      "whyItPrints": "Accountants live by the same deadlines every month. In the 2020 post, 70% of customers paid for the year up front, so the cash arrived ahead of the monthly number. The channel he named was webinars that give accountants their continuing-education credits, with 400 to 1,500 accountants on a webinar.",
+      "image": "/blog/2026-11-05/financial-cents.webp",
+      "imageAlt": "Financial Cents product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "parting-pro",
+      "name": "Parting Pro",
+      "listingNote": null,
+      "description": "Funeral homes use it so a family can plan and pay online, and the director can run the case and the merchandise. The founders describe it as a shop for funeral homes.",
+      "evidenceKind": "self-reported",
+      "evidence": "Tyler Yamasaki's SaaStr talk puts growth through late 2023 past $2 million without a traditional funding round. They raised a seed round in 2021 and later used Founderpath for non-dilutive capital. Founderpath's resource page, which has no date, lists company revenue of $2.5 million. Those are two figures, not one.",
+      "sources": [
+        {
+          "label": "Founderpath",
+          "url": "https://founderpath.com/resources/the-silent-majority-how-we-ve-bootstrapped-our-unsexy-funeral-management-saas-to-1m"
+        },
+        {
+          "label": "Parting Pro",
+          "url": "https://www.partingpro.com/"
+        }
+      ],
+      "homepage": "https://www.partingpro.com/",
+      "indieAngle": "The same online package picker shows up anywhere a family has to choose a bundle and add-ons for a hard week. Cemeteries, pet cremation, monument makers.",
+      "whyItPrints": "People still die in a slow economy. The founders said they looked unfundable in 2022. They cut costs. The talk says runway went from 4 months in August 2022 to about 150 months by late 2023.",
+      "image": "/blog/2026-11-05/parting-pro.webp",
+      "imageAlt": "Parting Pro product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "towbook",
+      "name": "Towbook",
+      "listingNote": null,
+      "description": "Dispatch, the impound lot, police-call rotation, motor-club jobs, invoices, and a driver phone app for towing companies. Founded 2007 in Saint Clair, Michigan, by Dan Smith.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $2.9 million a year as of October 2024, up from about $1.4 million in December 2023. The same page also lists $839,000 for April 2021, and it records no source for that older number. Employees are listed as 37 in October 2024, up from 13 in April 2021.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/towbook"
+        },
+        {
+          "label": "Towbook",
+          "url": "https://towbook.com/"
+        }
+      ],
+      "homepage": "https://towbook.com/",
+      "indieAngle": "Impound and private-property towing have their own paperwork: photos, release forms, and state caps on fees. That slice could be its own product, including in countries that do not have this one.",
+      "whyItPrints": "A tow company runs all night off the dispatch screen. Once the drivers' phones and the impound records are in it, it tends to stay. It has been around since 2007.",
+      "image": "/blog/2026-11-05/towbook.webp",
+      "imageAlt": "Towbook product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "themailsupply",
+      "name": "TheMailSupply",
+      "listingNote": "for sale",
+      "description": "It sets up and resells Google Workspace and Microsoft mailboxes for cold email. Domains, DNS, and the deliverability setup. The price is per mailbox per month: $5.27 for 1 to 50 users, $4.97 once there are more than 50, or $5.07 a user if you only want the setup. It is a Google Workspace and Microsoft partner reseller. Founded February 2023 by Horia. The site refused the connection when this note was checked, around 10:05 CET on 5 November 2026.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $617 from 8 active subscriptions, synced 5 November 2026 around 09:44. Last 30 days $617. Last 12 months $19,310. All-time $375,327. Margin 75%. The listing text, which is the seller and not the Stripe sync, says over $250,000 in sales in 2024, most of it profit. Asking $240,000 (32.4x).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/themailsupply"
+        }
+      ],
+      "homepage": "https://www.themailsupply.com/",
+      "indieAngle": "A lot of all-time revenue in a mailbox-resale lane that got crowded. The piece that is still a product, if you go near this, is watching whether the mail still lands, not the margin on the mailbox itself.",
+      "whyItPrints": "Cold-email shops buy mailboxes by the seat. It grew on people telling each other, with no ads. The Stripe account is much quieter now than the all-time total.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "linkody",
+      "name": "Linkody",
+      "listingNote": null,
+      "description": "It watches a site's backlinks and sends an alert when one is new, lost, or no longer a normal link. SEO agencies use it to show a client that the links they paid for are still there. Smaller sites use it too. A solo founder in the Netherlands shipped the first version in three weeks.",
+      "evidenceKind": "self-reported",
+      "evidence": "A Failory interview on 10 December 2020 puts it at about $140,000 ARR, with several hundred customers, growing slowly. The page headline says $145,000 a year. Solo and bootstrapped. That interview is the source, so the number is from then.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/linkody"
+        },
+        {
+          "label": "Linkody",
+          "url": "https://www.linkody.com/"
+        }
+      ],
+      "homepage": "https://www.linkody.com/",
+      "indieAngle": "The same job is \"watch that the thing you paid for is still there.\" Directory listings for a local business, affiliate links, review-site placements, sponsored posts.",
+      "whyItPrints": "An agency needs proof the links still exist. It is a check that runs on a schedule, plus a screen. The interview says growth came from free tools, a backlink checker and a Google index checker, and from people telling each other.",
+      "image": "/blog/2026-11-05/linkody.webp",
+      "imageAlt": "Linkody product image",
+      "imageWidth": 1200,
+      "imageHeight": 558
+    },
+    {
+      "slug": "anonymous-hotel-booking-for-business-travellers",
+      "name": "Anonymous hotel booking for business travellers",
+      "listingNote": null,
+      "description": "Hotel rooms for business travellers, event organisers, and trade-show exhibitors in the USA, Europe, and the Middle East. Room blocks, rooming lists, transfers, and the booking sit on one platform. The customer pays a one-night deposit when they book, and the rest 7 to 15 days before check-in. Founded August 2025. The listing says 6 to 10 people. No company name and no site.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last 30 days were $17,218 L30, up 293.1%, synced 5 November 2026 around 07:02. Last 12 months $85,846. All-time $91,895. There is no monthly subscription line, because the charge is a deposit and then the balance. The listing also shows 2,697 visitors in those 30 days, and $6.38 of revenue per visitor.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/startup-af15723456d9"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "Housing for one trade-show circuit is a small repeatable job. A rooming list sold to the organiser is the software version of the same headache.",
+      "whyItPrints": "Trade-show housing still runs on spreadsheets. The deposit lands well before the stay. Stripe shows no subscription, because this is a booking, not a monthly plan.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "SmartCondo",
+      "note": "Condominium administration in Portugal. Stripe-verified on TrustMRR, synced with the other listings: last 30 days $454, all-time $1,532, MRR $666, 4 subscriptions. Small. https://trustmrr.com/startup/smartcondo",
+      "homepage": "https://smartcondo.pt/"
+    },
+    {
+      "name": "Anonymous funeral-home arrangement platform",
+      "note": "A podcast transcript says a solo founder has 40 paying funeral homes at $149 a month. That was not checked against a payment company. https://spoken.md/episode/how-a-solo-founder-built-saas-selling-to-funeral-homes-1000775936891",
+      "homepage": null
+    },
+    {
+      "name": "GrowSurf",
+      "note": "Referral software. Failory, May 2021, self-reported $25,000 MRR. Older, and less of a dull operations job.",
+      "homepage": null
+    },
+    {
+      "name": "JustReachOut",
+      "note": "PR outreach. Failory, August 2019, self-reported $30,000 MRR. Older, and less of a dull operations job.",
+      "homepage": null
+    }
+  ]
+}

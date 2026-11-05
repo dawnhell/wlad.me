@@ -1,0 +1,35 @@
+{
+  "slug": "financial-cents",
+  "name": "Financial Cents",
+  "listingNote": null,
+  "description": "A checklist for small accounting firms. Who is closing which client's month, and when it is due. Founded 2018 in Nashville by Shahram Zarshenas and Abdullah Almsaeed.",
+  "homepage": "https://financial-cents.com/",
+  "image": "/blog/2026-11-05/financial-cents.webp",
+  "imageAlt": "Financial Cents product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-05",
+      "evidenceKind": "self-reported",
+      "evidence": "An Indie Hackers post on 10 November 2020 put accrual MRR at $8,000, with $12,000 to $16,000 a month in cash because of annual plans. There were 150 paying customers. About 20 new firms and $1,000 to $1,500 of new MRR a month. A LinkedIn post from around early 2025 says it was bootstrapped to multi-millions in revenue, without a precise total. GetLatka lists 1,000 customers and 26 employees as of October 2024. That customer count is GetLatka's, not the 2020 post.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/just-reached-8k-in-mrr-1a56a9498a"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/shahramzarshenas_99-of-saas-startups-shouldnt-raise-money-activity-7298359867122077697-mILQ"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/financial-cents"
+        }
+      ],
+      "indieAngle": "A webinar that grants continuing-education credit is a channel for any job that requires those credits. Lawyers, nurses, real-estate agents, pharmacists. Teach the hour, and the workflow tool is on the last slide."
+    }
+  ],
+  "whyItPrints": "Accountants live by the same deadlines every month. In the 2020 post, 70% of customers paid for the year up front, so the cash arrived ahead of the monthly number. The channel he named was webinars that give accountants their continuing-education credits, with 400 to 1,500 accountants on a webinar.",
+  "whyThisMatters": "A small accounting firm is a stack of deadlines with client names on them. Financial Cents is the board that says who owns which close. Shahram Zarshenas and Abdullah Almsaeed started it in Nashville in 2018. The Indie Hackers post is from 10 November 2020. In it, most customers paid for a year up front, so the cash in the bank was ahead of the monthly accrual number. He also said the firms were arriving through webinars that hand out continuing-education credits, with hundreds or more than a thousand accountants in the room. A LinkedIn post from around early 2025 says the company was bootstrapped into multi-millions. It does not give the total, so it cannot be lined up with the 2020 month. GetLatka, as of October 2024, lists a customer count and a staff count, and that customer count is not the one from 2020. Three snapshots, three dates."
+}

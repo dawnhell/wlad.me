@@ -304,6 +304,14 @@ const picks = [
     license: 'CC BY 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Kirkjufell%2C_Iceland%2C_20240714_1631_0713.jpg',
   },
+  {
+    id: 'skaftafell',
+    subject: 'nature',
+    alt: 'Skaftafell and the glacier in Iceland',
+    credit: 'Eysteinn Guðni Guðnason',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/9/91/Skaftafell_Aerial_Panorama_2023.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

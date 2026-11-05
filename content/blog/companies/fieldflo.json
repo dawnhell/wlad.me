@@ -1,0 +1,31 @@
+{
+  "slug": "fieldflo",
+  "name": "FieldFlō",
+  "listingNote": null,
+  "description": "Software for demolition, asbestos-abatement, and cleanup crews. It tracks the job, who on the crew is still certified, the compliance paperwork, and the estimate.",
+  "homepage": "https://fieldflo.com/",
+  "image": "/blog/2026-11-05/fieldflo.webp",
+  "imageAlt": "FieldFlō product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-05",
+      "evidenceKind": "self-reported",
+      "evidence": "Roni Szigeti told Latka on 29 June 2026 that there were 470 customers at about $14,000 average contract value. First-year revenue in 2017 was $140,000. Gross churn was 0%. The biggest customer pays $1 million a year. Staff was 70. It raised $35 million from Mainsail in October 2025. Latka multiplied the customer count into a roughly $6.5 million run rate. The founder said the actual figure is lower because of discounts.",
+      "sources": [
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/interviews/fieldflo-roni-szigeti-2026"
+        },
+        {
+          "label": "FieldFlō",
+          "url": "https://fieldflo.com/"
+        }
+      ],
+      "indieAngle": "Other trades have the same paperwork and the same expiring certificates. Lead paint, mold, elevator inspection, fire-door inspection. The first piece is crew certificates and the compliance file, not a whole operations suite."
+    }
+  ],
+  "whyItPrints": "That work is buried in paperwork, and the crew has to stay certified. The founder said the first 10 beta clients from 2017 are all still paying, and that gross churn is 0%. It was bootstrapped from 2017 to 2023.",
+  "whyThisMatters": "Asbestos and demolition work stops if the paperwork is wrong or a certificate has lapsed. The software keeps the job, the crew's certificates, the compliance file, and the estimate in one place. Roni Szigeti told Latka, in June 2026, that the first ten beta clients from 2017 were all still paying and that nobody had been lost to gross churn. The biggest customer, on his account, is a very large annual bill. The company was bootstrapped from 2017 until 2023, then took a large investment from Mainsail in October 2025, and he put the staff at seventy. Latka took the customer count times the average contract and published a run rate. He also wrote that the founder said the real figure is lower, because of discounts. So the interview's pieces and the multiplied total are not the same number, and this note keeps them apart. The average contract is a year, not a monthly seat."
+}

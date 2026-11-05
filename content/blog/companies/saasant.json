@@ -1,0 +1,31 @@
+{
+  "slug": "saasant",
+  "name": "SaasAnt",
+  "listingNote": null,
+  "description": "Bookkeepers use it to push a spreadsheet into QuickBooks or Xero, and to pull the rows back out. The main tool, SaasAnt Transactions, imports, exports, and deletes Excel, CSV, and IIF files in QuickBooks Online, QuickBooks Desktop, and Xero. PayTraQer copies payment-processor and shop sales into the books. A newer feature reads receipts, invoices, bills, checks, and bank statements from a PDF or a photo. Founded 2015. Lewes, Delaware, with a team in India.",
+  "homepage": "https://www.saasant.com/",
+  "image": "/blog/2026-11-05/saasant.webp",
+  "imageAlt": "SaasAnt product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-05",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka's September 2025 page estimates about $4.7 million a year and lists 43 employees. That is GetLatka's estimate, not a number SaasAnt published. The company site, checked 5 November 2026, says it is trusted by 20,000+ accounting firms. The LinkedIn page says 25,000+.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/saasant.com"
+        },
+        {
+          "label": "SaasAnt",
+          "url": "https://www.saasant.com/"
+        }
+      ],
+      "indieAngle": "The same missing pipe shows up in other bookkeeping tools, including Sage, FreshBooks, Wave, MYOB, and local ones. The product to sell is bulk import and undo, to the bookkeepers who already live in that tool."
+    }
+  ],
+  "whyItPrints": "QuickBooks' own importer stops at 1,000 rows. SaasAnt sells the pipe that takes 50,000, with an undo. An accounting firm pays, then uses it on every client.",
+  "whyThisMatters": "A bookkeeper's ugly afternoon is a file of invoices that has to land in the ledger before the month can close. QuickBooks will take a small file. Past that, someone is copying rows, and a mistake means doing it again. SaasAnt is that missing pipe, including a way to undo the import. The buyer is usually a firm, not one shop, so the same login gets used on client after client. There is a second product that pulls card and shop sales into the books, and a newer one that reads a photo of a receipt. The company is in Delaware, with the team in India, and it dates to 2015. The yearly figure in this note is an estimate from a data site in September 2025, not a number the company put out. The firm counts do not match each other either. The site says one total and the LinkedIn page says a higher one. Both stay, because they are two claims."
+}

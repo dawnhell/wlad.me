@@ -1,0 +1,27 @@
+{
+  "slug": "themailsupply",
+  "name": "TheMailSupply",
+  "listingNote": "for sale",
+  "description": "It sets up and resells Google Workspace and Microsoft mailboxes for cold email. Domains, DNS, and the deliverability setup. The price is per mailbox per month: $5.27 for 1 to 50 users, $4.97 once there are more than 50, or $5.07 a user if you only want the setup. It is a Google Workspace and Microsoft partner reseller. Founded February 2023 by Horia. The site refused the connection when this note was checked, around 10:05 CET on 5 November 2026.",
+  "homepage": "https://www.themailsupply.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-05",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $617 from 8 active subscriptions, synced 5 November 2026 around 09:44. Last 30 days $617. Last 12 months $19,310. All-time $375,327. Margin 75%. The listing text, which is the seller and not the Stripe sync, says over $250,000 in sales in 2024, most of it profit. Asking $240,000 (32.4x).",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/themailsupply"
+        }
+      ],
+      "indieAngle": "A lot of all-time revenue in a mailbox-resale lane that got crowded. The piece that is still a product, if you go near this, is watching whether the mail still lands, not the margin on the mailbox itself."
+    }
+  ],
+  "whyItPrints": "Cold-email shops buy mailboxes by the seat. It grew on people telling each other, with no ads. The Stripe account is much quieter now than the all-time total.",
+  "whyThisMatters": "People who send cold email burn through domains and inboxes, because the mail stops landing. TheMailSupply sets those inboxes up and resells them, Google or Microsoft, and charges by the mailbox. The bands are a few dollars per user, with a slightly different price if you only want the setup. Horia started it in February 2023. It is a partner reseller, and the listing says it grew by word of mouth with no ads. Stripe, on 5 November 2026, shows a quiet current month against a large all-time total, eight subscriptions, and a high margin. The seller's own line about 2024 sales is not that Stripe sync. The asking price is many times the current month, which is the listing's multiple, not a judgment. The site itself refused the connection the morning this note was written, so the homepage is recorded and was not readable that day."
+}
