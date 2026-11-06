@@ -4,7 +4,7 @@
   "listingNote": null,
   "description": "UK fire & security compliance software for contractors: asset registers built from panel/CSV exports, locked + hashed certificates (BS 5839-1/-6, BS 5266 emergency lighting, BS 5306 extinguishers, PD 6662 intruder, CCTV, access control, dry risers), QR asset tags, visit reminders, client portal, Xero integration. £79/mo Professional, £129/mo Business. Founded Feb 2026, UK. Company-stated 4.9/5 from 47 customers.",
   "homepage": "https://firecert.uk/",
-  "image": "/blog/2026-10-05/firecert.webp",
+  "image": "/blog/2026-11-06/firecert.webp",
   "imageAlt": "FireCert product image",
   "imageWidth": 1024,
   "imageHeight": 1024,
@@ -24,8 +24,20 @@
         }
       ],
       "indieAngle": "Find one national standard that tradespeople must certify against (PL fire-protection inspections, gas/electrical periodic checks, lift inspections, F-gas logs) and ship certificate generation + asset register + reminders + Xero/accounting sync. SEO on \"<standard> certificate template\" is the free acquisition channel."
+    },
+    {
+      "date": "2026-11-06",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $4,875.27 from 41 active subscriptions, synced 6 November 2026 around 05:43. The 5 October note was about $4,515 from 39 subscriptions. Last 30 days $4,603. All-time $21,668. Margin 95% on the last 30 days, and that 30-day revenue was up about 1.5%.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/firecert"
+        }
+      ],
+      "indieAngle": "Pick one national inspection standard, such as Polish fire protection, German checks next to TÜV, lift inspections, or F-gas logs, and ship the certificate, the asset register, and the accounting sync."
     }
   ],
-  "whyItPrints": "British Standards paperwork that fire contractors legally must produce and keep, and that has lived in Word templates and spreadsheets until now. ~$4.5k MRR within ~7 months of founding and a 95% margin. This is the Conforme/NDISCompliant shape, but with real money.",
+  "whyItPrints": "British Standards paperwork that fire contractors legally must produce and keep, and that has lived in Word templates and spreadsheets until now. This is the Conforme/NDISCompliant shape, but with real money.",
   "whyThisMatters": "Fire contractors type the same device list into a certificate and a spreadsheet. You import the panel export instead. That list becomes the register, and the certificate uses it.\n\nIt covers the standards they already work to. Fire alarms, domestic fire, emergency lighting, extinguishers, intruder, CCTV, access control, dry risers, smoke control, and PAT. The signed certificate is locked and hashed. The client opens theirs in a portal. A QR label on the device pulls up the history on a phone.\n\nVisits send a reminder when something's due. There's a battery check against the reading you took. Xero can pull the clients in. The smaller plan stops at five users. The bigger one adds quotes, email from your own address, and an API. They launched in February 2026. You can try it for 14 days."
 }

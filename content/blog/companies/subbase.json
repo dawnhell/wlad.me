@@ -1,0 +1,27 @@
+{
+  "slug": "subbase",
+  "name": "SubBase",
+  "listingNote": null,
+  "description": "Material buying for construction subcontractors and general contractors. Purchase orders, vendor coordination, and matching an invoice to the purchase order, so the job cost is not an email thread. Founded 2021 by Eric Helitzer, who came from construction management at the University of Florida.",
+  "homepage": "https://www.subbase.com/",
+  "image": "/blog/2026-11-06/subbase.webp",
+  "imageAlt": "SubBase product image",
+  "imageWidth": 1150,
+  "imageHeight": 695,
+  "mentions": [
+    {
+      "date": "2026-11-06",
+      "evidenceKind": "self-reported",
+      "evidence": "Starter Story, 22 February 2025, says $50,000 a month, about $600,000 a year, profitable, with 1 founder listed, started 2021. The same write-up says the company raised a $4 million seed and an additional $5 million. That funding is the company's account in the write-up, not a payment sync.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/subbase-breakdown"
+        }
+      ],
+      "indieAngle": "Matching the invoice to the order, for one trade, sold as a sidecar to QuickBooks, Xero, or Sage. Electrical, HVAC, or concrete."
+    }
+  ],
+  "whyItPrints": "A subcontractor drowns in supplier invoices that do not match the order. This sits between the job site and the accounting system. Construction runs on who you know, so referrals and industry partnerships do more than ads.",
+  "whyThisMatters": "A job site orders material. The invoice shows up later and does not match. SubBase is the purchase order, the vendor, and the match, so the job cost is not a pile of email. Eric Helitzer started it in 2021. He came from construction management at the University of Florida. Starter Story, 22 February 2025, gives a monthly figure, calls it profitable, and lists one founder. The same page says the company raised a seed round and a later round. That is the company's account inside the write-up, not a bank sync. Construction sales run through people the buyer already knows, which is why the note talks about referrals and partnerships rather than ads. A smaller version of the same job is one trade, electrical or concrete, plugged into the ledger the contractor already uses."
+}

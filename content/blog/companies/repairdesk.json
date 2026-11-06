@@ -1,0 +1,31 @@
+{
+  "slug": "repairdesk",
+  "name": "RepairDesk",
+  "listingNote": null,
+  "description": "A till and a ticket system for phone and device repair shops. Intake, parts, customer records, more than one store, a franchise, and a mail-in depot, plus RepairDesk Payments. Usman Butt built it after working in his brother's phone repair shop. Founded around 2014 or 2015. Latka lists the headquarters in Wilmington, Illinois.",
+  "homepage": "https://repairdesk.co/",
+  "image": "/blog/2026-11-06/repairdesk.webp",
+  "imageAlt": "RepairDesk product image",
+  "imageWidth": 1200,
+  "imageHeight": 801,
+  "mentions": [
+    {
+      "date": "2026-11-06",
+      "evidenceKind": "self-reported",
+      "evidence": "Failory, 15 October 2020, headlines $100,000 a month. The founder said \"+$1M in AAR\", and that page treats AAR as ARR. A LinkedIn post by COO Fahad Saif, covering a stretch in 2025, says ARR grew from $2.7 million to $4.5 million, and churn fell from 3.6% to 1.9%. GetLatka's October 2024 estimate is about $2.1 million a year, with 135 employees, and a $40,000 seed in 2016. The estimate and the COO's range are not the same figure.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/repairdesk"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/repairdesk"
+        }
+      ],
+      "indieAngle": "The same counter still runs on a notebook in other trades. Bike shops, watchmakers, appliance repair, instrument techs. The first version is a ticket, the parts, and card payments, for one trade in one country."
+    }
+  ],
+  "whyItPrints": "A repair counter needs a ticket, a part, and a payment. Supplier deals, including MobileSentrix and Injured Gadgets, and trade-show demos, are how shops find it. Once the tickets and the stock live there, the shop does not retrain everyone for a cheaper tool.",
+  "whyThisMatters": "A phone-repair counter is a ticket, a part from the drawer, and a card payment. RepairDesk is that, for one shop or a chain, including a mail-in depot. Usman Butt built it after working in his brother's shop. The founding is around 2014 or 2015, and Latka lists Wilmington, Illinois. The October 2020 Failory page has a headline monthly figure, and the founder wrote a yearly figure as AAR, which that page reads as a yearly total. Years later the COO, Fahad Saif, posted a 2025 stretch where the yearly total moved from one band to a higher one, and churn fell. GetLatka's October 2024 page is an estimate, with a staff count and a small 2016 seed, and it does not match the COO's range. Supplier names in the interview, MobileSentrix and Injured Gadgets, plus trade shows, are how shops hear about it. Once the tickets live there, retraining the counter is the reason they stay."
+}

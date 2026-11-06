@@ -1,0 +1,31 @@
+{
+  "slug": "softledger",
+  "name": "SoftLedger",
+  "listingNote": null,
+  "description": "A cloud ledger for mid-sized companies that have outgrown QuickBooks and do not want NetSuite or Intacct prices. It consolidates more than one company, handles more than one currency including crypto, and has an API so the ledger can sit behind another product. Founded 2016 by CPA Ben Taylor and Jeff Ostrega.",
+  "homepage": "https://softledger.com/",
+  "image": "/blog/2026-11-06/softledger.webp",
+  "imageAlt": "SoftLedger product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-06",
+      "evidenceKind": "self-reported",
+      "evidence": "Starter Story, 9 February 2025, says $23,100 a month, profitable, about 10 employees as an estimate on that page, started 2016, and about $2 million to start. GetLatka estimates about $277,300 a year. Twelve times the monthly figure is close to that annual estimate, and they are still two sources. The homepage, checked 6 November 2026, says trusted by 2,000+ organizations globally and 50+ countries.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/softledger-com-breakdown"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/softledger"
+        }
+      ],
+      "indieAngle": "The same gap, for one region or one kind of company this product does not serve. A group of Polish companies that needs a ledger aware of KSeF, or a European fund that holds crypto."
+    }
+  ],
+  "whyItPrints": "Closing the month does not go away. This sits in the gap Intuit leaves and Oracle prices above. Search and accountant partnerships bring the demos. Once the ledger is the book of record, nobody moves it for fun.",
+  "whyThisMatters": "QuickBooks runs out when you have several companies, several currencies, or a close that takes too long. NetSuite is the expensive answer. SoftLedger is the product in between, including crypto on the currency list, and an API so another system can sit on top of the ledger. CPA Ben Taylor and Jeff Ostrega started it in 2016. Starter Story, 9 February 2025, gives a monthly figure, says it is profitable, guesses about ten people, and mentions a large starting cost. GetLatka's annual estimate is almost exactly that month times twelve. Close is not the same as identical, so both stay, with their sources. The homepage, the day of this note, says two thousand organizations and fifty countries. Search and introductions from accountants are how the demos arrive. Moving the ledger later is the reason they stay."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "binderr",
+  "name": "Binderr",
+  "listingNote": null,
+  "description": "Client onboarding and anti-money-laundering paperwork for accounting firms, law firms, and financial companies. The founders had a Bolt franchise, then a driver-accounting app that failed, then an attempt to replace the firm's ledger that failed, and this is what they kept. Based in Malta. The interview says they are expanding in the UAE and the wider Middle East through a Dubai private-office partnership.",
+  "homepage": "https://binderr.com/",
+  "image": "/blog/2026-11-06/binderr.webp",
+  "imageAlt": "Binderr product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-06",
+      "evidenceKind": "self-reported",
+      "evidence": "Starter Story, 22 June 2024, says about $10,000 a month at the time of writing, 2 founders, 19 employees, and about €4 million mostly self-funded from the earlier exit. Average customer value about €20,000 a year. They said they anticipated €1.5 million annualized by the end of 2024, and a goal of €5 million by the end of 2025. Those two are targets stated then, not results. The same interview says 10 law and accounting firms had signed, and that 15 active customers was the target by the end of May of that year.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/binderr"
+        }
+      ],
+      "indieAngle": "Not a whole practice system. The pack is the identity check, the anti-money-laundering file, and the audit trail, for one regulated job in one country."
+    }
+  ],
+  "whyItPrints": "The rules keep getting tighter. A firm that onboards a client the wrong way can be fined. This sells the process they already know they need. The interview puts a typical contract around €20,000 a year.",
+  "whyThisMatters": "A firm can be fined for onboarding a client badly. Binderr is the checklist, the identity check, and the trail, for accountants, lawyers, and financial companies. The founders had a Bolt franchise. They tried a driver-accounting app and it failed. They tried to replace the firm's ledger and that failed too. This is the one they kept. They are in Malta, and the interview says a Dubai private office is how they are going into the Gulf. Starter Story, 22 June 2024, is the money source. About ten thousand dollars a month then. Two founders and nineteen employees. Most of the funding was their own, from the earlier exit, on the order of four million euros. A typical customer was worth about twenty thousand euros a year. They had ten firms signed. Fifteen active customers was a target for the end of May that year. They also said they hoped for a much larger annualized total by the end of 2024, and a larger goal for the end of 2025. Those last two were hopes, stated in June 2024. They are not a later result."
+}

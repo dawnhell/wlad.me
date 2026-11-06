@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-06",
+  "title": "Friday's boring SaaS, 6 November 2026",
+  "dek": "Friday, 6 November 2026. FireCert is Stripe-verified, so that listing is connected to Stripe, and the other eight are self-reported. Several of those self-reported numbers are from an older interview or an estimate, so the date in the note is the date of the number.",
+  "heroId": "dead-vlei",
+  "companies": [
+    {
+      "slug": "eworkorders",
+      "name": "eWorkOrders",
+      "listingNote": null,
+      "description": "Cloud software for maintenance. Work orders, preventive maintenance, the asset, the parts, and an app for the technician. It is aimed at factories, buildings, and retail chains with more than one site. It started as a side project of a consulting firm in 1995. The software itself launched in 2004. Jeff and Brian Roscher still own all of it.",
+      "evidenceKind": "self-reported",
+      "evidence": "In a Latka interview on 11 August 2026, Jeff Roscher said the company crossed $3 million ARR the day before the recording. 300 paying customers. About $10,200 average contract value. The largest customer pays $185,000 a year across about 45 locations. Team of 9. Still bootstrapped, and the two of them own 100%. The first eWorkOrders revenue was $11,000 in 2005. Subscription revenue reached $1 million ARR in 2018. He said growth in 2025 was 15%, and that they beat the Rule of 40. He did not give the exact margin.",
+      "sources": [
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/companies/eworkorders.com/interviews/eworkorderscom-jeff-roscher-2026"
+        },
+        {
+          "label": "eWorkOrders",
+          "url": "https://eworkorders.com/"
+        }
+      ],
+      "homepage": "https://eworkorders.com/",
+      "indieAngle": "A full maintenance suite is already crowded. The narrower job is one trade that still gets a work order from a sensor, such as elevator inspection, fire-door checks, or cold-storage refrigeration.",
+      "whyItPrints": "A factory cannot sit idle. Once the technician's phone and the history of every machine live in this, switching is a bad week. About 40% of customers came through Capterra, where it sits at 4.9 out of 5. They moved from a flat price for unlimited users to a price per user, which is how the average contract grew.",
+      "image": "/blog/2026-11-06/eworkorders.webp",
+      "imageAlt": "eWorkOrders product image",
+      "imageWidth": 888,
+      "imageHeight": 430
+    },
+    {
+      "slug": "limble-cmms",
+      "name": "Limble CMMS",
+      "listingNote": null,
+      "description": "Cloud maintenance software for work orders, preventive and predictive maintenance, assets, and parts. Founded 2015 in Lehi, Utah, by Bryan Christiansen. Gary Specter is CEO. It sits further upmarket than UpKeep, MaintainX, and eWorkOrders.",
+      "evidenceKind": "self-reported",
+      "evidence": "Limble's own LinkedIn post, around 4 August 2026, for a Times Square celebration, says $50 million ARR. That is the company speaking, not a payment sync. GetLatka lists a Series B in June 2023 at a $450 million valuation, with Goldman Sachs Growth Equity, about $94.4 million raised in total, and 176 employees as of October 2024 on LinkedIn. A Latka interview in October 2020, while it was still largely bootstrapped, put it at about $160,000 a month, about a $1.9 million run rate, and 470 customers. Those are three dates, not one number.",
+      "sources": [
+        {
+          "label": "Limble on LinkedIn",
+          "url": "https://www.linkedin.com/posts/limble_50m-arr-times-square-one-unforgettable-activity-7490502047180431360-VCne"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/limble-cmms"
+        },
+        {
+          "label": "Latka interview, 2020",
+          "url": "https://getlatka.com/companies/limble-cmms/interviews/limble-cmms-bryan-christiansen-2020"
+        }
+      ],
+      "homepage": "https://limblecmms.com/",
+      "indieAngle": "The company-stated total shows the category is real. The smaller path is still the narrow, bootstrapped one: one vertical, such as food plants or a cold chain, and reviews, before a funding round.",
+      "whyItPrints": "Same job as keeping the machines running. Limble took growth equity and went after larger plants. Once the sensors and the work-order history are in it, the plant does not pull it out for a nicer screen.",
+      "image": "/blog/2026-11-06/limble-cmms.webp",
+      "imageAlt": "Limble CMMS product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "repairdesk",
+      "name": "RepairDesk",
+      "listingNote": null,
+      "description": "A till and a ticket system for phone and device repair shops. Intake, parts, customer records, more than one store, a franchise, and a mail-in depot, plus RepairDesk Payments. Usman Butt built it after working in his brother's phone repair shop. Founded around 2014 or 2015. Latka lists the headquarters in Wilmington, Illinois.",
+      "evidenceKind": "self-reported",
+      "evidence": "Failory, 15 October 2020, headlines $100,000 a month. The founder said \"+$1M in AAR\", and that page treats AAR as ARR. A LinkedIn post by COO Fahad Saif, covering a stretch in 2025, says ARR grew from $2.7 million to $4.5 million, and churn fell from 3.6% to 1.9%. GetLatka's October 2024 estimate is about $2.1 million a year, with 135 employees, and a $40,000 seed in 2016. The estimate and the COO's range are not the same figure.",
+      "sources": [
+        {
+          "label": "Failory",
+          "url": "https://www.failory.com/interview/repairdesk"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/repairdesk"
+        }
+      ],
+      "homepage": "https://repairdesk.co/",
+      "indieAngle": "The same counter still runs on a notebook in other trades. Bike shops, watchmakers, appliance repair, instrument techs. The first version is a ticket, the parts, and card payments, for one trade in one country.",
+      "whyItPrints": "A repair counter needs a ticket, a part, and a payment. Supplier deals, including MobileSentrix and Injured Gadgets, and trade-show demos, are how shops find it. Once the tickets and the stock live there, the shop does not retrain everyone for a cheaper tool.",
+      "image": "/blog/2026-11-06/repairdesk.webp",
+      "imageAlt": "RepairDesk product image",
+      "imageWidth": 1200,
+      "imageHeight": 801
+    },
+    {
+      "slug": "verito",
+      "name": "Verito",
+      "listingNote": null,
+      "description": "Private-cloud hosting and managed IT only for tax preparers, CPAs, and bookkeepers. It hosts desktop tax apps, the Drake and UltraTax kind of workload, plus Office 365, backups, and controls lined up with the FTC Safeguards Rule and IRS Publication 4557. Founded 2016 by Jatin Narang. Company pages describe plans from roughly $69 per user a month. The site blocked this check with a Cloudflare challenge on 6 November 2026 around 10:27 CET, so there is no screenshot.",
+      "evidenceKind": "self-reported",
+      "evidence": "The about page, checked 6 November 2026, says 1,000+ tax, accounting, and bookkeeping firms, 100% uptime since 2016 including tax season, 92% first-touch resolution, a 95 NPS, and a G2 score of 4.9 from 170+ reviews. The data centres are SOC 2 Type II. Prospeo estimates about $2.4 million a year, 21 to 50 employees, and no outside funding listed. The estimate is not the company's own revenue line.",
+      "sources": [
+        {
+          "label": "Verito about",
+          "url": "https://verito.com/about/"
+        },
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/how-we-built-a-profitable-paas-by-serving-only-0-4-of-us-businesses-4927bc5f68"
+        },
+        {
+          "label": "Prospeo",
+          "url": "https://prospeo.io/c/verito-revenue"
+        }
+      ],
+      "homepage": "https://verito.com/",
+      "indieAngle": "The same job is hosting one painful desktop tax or accounting program, for one country, and selling it only through the firms that already use that program.",
+      "whyItPrints": "A general IT shop does not treat Drake crashing on 14 April as an emergency. Verito sells staying online through tax season. The note puts the US market at about 90,000 firms, and the Indie Hackers write-up says Verito still has only about 0.4% of that. Once the tax apps and the client files are on this cloud, they tend to stay from one year to the next.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "softledger",
+      "name": "SoftLedger",
+      "listingNote": null,
+      "description": "A cloud ledger for mid-sized companies that have outgrown QuickBooks and do not want NetSuite or Intacct prices. It consolidates more than one company, handles more than one currency including crypto, and has an API so the ledger can sit behind another product. Founded 2016 by CPA Ben Taylor and Jeff Ostrega.",
+      "evidenceKind": "self-reported",
+      "evidence": "Starter Story, 9 February 2025, says $23,100 a month, profitable, about 10 employees as an estimate on that page, started 2016, and about $2 million to start. GetLatka estimates about $277,300 a year. Twelve times the monthly figure is close to that annual estimate, and they are still two sources. The homepage, checked 6 November 2026, says trusted by 2,000+ organizations globally and 50+ countries.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/softledger-com-breakdown"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/softledger"
+        }
+      ],
+      "homepage": "https://softledger.com/",
+      "indieAngle": "The same gap, for one region or one kind of company this product does not serve. A group of Polish companies that needs a ledger aware of KSeF, or a European fund that holds crypto.",
+      "whyItPrints": "Closing the month does not go away. This sits in the gap Intuit leaves and Oracle prices above. Search and accountant partnerships bring the demos. Once the ledger is the book of record, nobody moves it for fun.",
+      "image": "/blog/2026-11-06/softledger.webp",
+      "imageAlt": "SoftLedger product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "binderr",
+      "name": "Binderr",
+      "listingNote": null,
+      "description": "Client onboarding and anti-money-laundering paperwork for accounting firms, law firms, and financial companies. The founders had a Bolt franchise, then a driver-accounting app that failed, then an attempt to replace the firm's ledger that failed, and this is what they kept. Based in Malta. The interview says they are expanding in the UAE and the wider Middle East through a Dubai private-office partnership.",
+      "evidenceKind": "self-reported",
+      "evidence": "Starter Story, 22 June 2024, says about $10,000 a month at the time of writing, 2 founders, 19 employees, and about €4 million mostly self-funded from the earlier exit. Average customer value about €20,000 a year. They said they anticipated €1.5 million annualized by the end of 2024, and a goal of €5 million by the end of 2025. Those two are targets stated then, not results. The same interview says 10 law and accounting firms had signed, and that 15 active customers was the target by the end of May of that year.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/stories/binderr"
+        }
+      ],
+      "homepage": "https://binderr.com/",
+      "indieAngle": "Not a whole practice system. The pack is the identity check, the anti-money-laundering file, and the audit trail, for one regulated job in one country.",
+      "whyItPrints": "The rules keep getting tighter. A firm that onboards a client the wrong way can be fined. This sells the process they already know they need. The interview puts a typical contract around €20,000 a year.",
+      "image": "/blog/2026-11-06/binderr.webp",
+      "imageAlt": "Binderr product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "subbase",
+      "name": "SubBase",
+      "listingNote": null,
+      "description": "Material buying for construction subcontractors and general contractors. Purchase orders, vendor coordination, and matching an invoice to the purchase order, so the job cost is not an email thread. Founded 2021 by Eric Helitzer, who came from construction management at the University of Florida.",
+      "evidenceKind": "self-reported",
+      "evidence": "Starter Story, 22 February 2025, says $50,000 a month, about $600,000 a year, profitable, with 1 founder listed, started 2021. The same write-up says the company raised a $4 million seed and an additional $5 million. That funding is the company's account in the write-up, not a payment sync.",
+      "sources": [
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/subbase-breakdown"
+        }
+      ],
+      "homepage": "https://www.subbase.com/",
+      "indieAngle": "Matching the invoice to the order, for one trade, sold as a sidecar to QuickBooks, Xero, or Sage. Electrical, HVAC, or concrete.",
+      "whyItPrints": "A subcontractor drowns in supplier invoices that do not match the order. This sits between the job site and the accounting system. Construction runs on who you know, so referrals and industry partnerships do more than ads.",
+      "image": "/blog/2026-11-06/subbase.webp",
+      "imageAlt": "SubBase product image",
+      "imageWidth": 1150,
+      "imageHeight": 695
+    },
+    {
+      "slug": "leal",
+      "name": "Leal",
+      "listingNote": null,
+      "description": "Customer marketing for shops in Latin America, both the physical store and the online one. It connects to about 350 point-of-sale, shop, and payment systems, builds one view of the customer, and runs messages by SMS, WhatsApp, and push. Founded 2016 in Colombia by Camilo Martinez and Florence Bretch.",
+      "evidenceKind": "self-reported",
+      "evidence": "A Latka interview in June 2026 with Camilo Martinez says 700 paying retail merchants across 13 countries, about $2,000 average revenue per merchant a month, 120% net revenue retention, and monthly gross churn of 0.3% or less. They broke $1 million ARR in 2018 and $5 million ARR in 2024. He said they were north of $5 million, and roughly in line with 700 times $2,000, about $1.4 million a month, when pressed. He confirmed that arithmetic directionally. Profitable in 2026. The team went from 200 in 2024 to 38. $21 million raised in total. The multiplied month and the north-of-$5-million line are both his, and they are not the same sentence.",
+      "sources": [
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/interviews/leal-camilo-martinez-2026"
+        }
+      ],
+      "homepage": "https://leal.co/",
+      "indieAngle": "The same glue between a till and a loyalty message, for one kind of shop in one European country. Pharmacies, petrol stations, a regional grocer.",
+      "whyItPrints": "A physical retailer still underuses the purchases it already has. This plugs into the till they already run. The interview says monthly gross churn of 0.3% or less, and 120% net revenue retention, so the existing book grows without a heroic number of new logos. COVID wiped about 90% of revenue once. They climbed back by selling to larger customers.",
+      "image": "/blog/2026-11-06/leal.webp",
+      "imageAlt": "Leal product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "firecert",
+      "name": "FireCert",
+      "listingNote": null,
+      "description": "UK fire & security compliance software for contractors: asset registers built from panel/CSV exports, locked + hashed certificates (BS 5839-1/-6, BS 5266 emergency lighting, BS 5306 extinguishers, PD 6662 intruder, CCTV, access control, dry risers), QR asset tags, visit reminders, client portal, Xero integration. £79/mo Professional, £129/mo Business. Founded Feb 2026, UK. Company-stated 4.9/5 from 47 customers.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $4,875.27 from 41 active subscriptions, synced 6 November 2026 around 05:43. The 5 October note was about $4,515 from 39 subscriptions. Last 30 days $4,603. All-time $21,668. Margin 95% on the last 30 days, and that 30-day revenue was up about 1.5%.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/firecert"
+        }
+      ],
+      "homepage": "https://firecert.uk/",
+      "indieAngle": "Pick one national inspection standard, such as Polish fire protection, German checks next to TÜV, lift inspections, or F-gas logs, and ship the certificate, the asset register, and the accounting sync.",
+      "whyItPrints": "British Standards paperwork that fire contractors legally must produce and keep, and that has lived in Word templates and spreadsheets until now. This is the Conforme/NDISCompliant shape, but with real money.",
+      "image": "/blog/2026-11-06/firecert.webp",
+      "imageAlt": "FireCert product image",
+      "imageWidth": 1024,
+      "imageHeight": 1024
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Kassenmeister",
+      "note": "TSE and KassenSichV till software in Germany. Stripe showed about $10,825 in a 30-day window and about $215,000 all-time, but the API key is expired. Last sync 26 November 2025. It was already on the 8 October note. https://trustmrr.com/startup/kassenmeister-ak-software-gmbh",
+      "homepage": "https://www.kassenmeister.de/"
+    },
+    {
+      "name": "PrintPigeon",
+      "note": "Prints and posts letters online, in the UK, since 2016. Stripe all-time about $35,200. The current 30-day window and the subscription line both show $0 on today's sync, because the work is a letter, not a plan. https://trustmrr.com/startup/printpigeon-ltd",
+      "homepage": "https://printpigeon.co.uk/"
+    },
+    {
+      "name": "Anonymous UK hormone-prescribing practice",
+      "note": "Stripe-verified on TrustMRR: $170,000 a month, $240,000 in the last 30 days, $6.7 million all-time, 2,379 subscriptions. Left off the main list because it is a clinic and a consulting agency, not a software product. https://trustmrr.com/startup/medical-practice-medical-consulting-agency",
+      "homepage": null
+    }
+  ]
+}

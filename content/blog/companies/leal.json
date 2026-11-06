@@ -1,0 +1,27 @@
+{
+  "slug": "leal",
+  "name": "Leal",
+  "listingNote": null,
+  "description": "Customer marketing for shops in Latin America, both the physical store and the online one. It connects to about 350 point-of-sale, shop, and payment systems, builds one view of the customer, and runs messages by SMS, WhatsApp, and push. Founded 2016 in Colombia by Camilo Martinez and Florence Bretch.",
+  "homepage": "https://leal.co/",
+  "image": "/blog/2026-11-06/leal.webp",
+  "imageAlt": "Leal product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-06",
+      "evidenceKind": "self-reported",
+      "evidence": "A Latka interview in June 2026 with Camilo Martinez says 700 paying retail merchants across 13 countries, about $2,000 average revenue per merchant a month, 120% net revenue retention, and monthly gross churn of 0.3% or less. They broke $1 million ARR in 2018 and $5 million ARR in 2024. He said they were north of $5 million, and roughly in line with 700 times $2,000, about $1.4 million a month, when pressed. He confirmed that arithmetic directionally. Profitable in 2026. The team went from 200 in 2024 to 38. $21 million raised in total. The multiplied month and the north-of-$5-million line are both his, and they are not the same sentence.",
+      "sources": [
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/interviews/leal-camilo-martinez-2026"
+        }
+      ],
+      "indieAngle": "The same glue between a till and a loyalty message, for one kind of shop in one European country. Pharmacies, petrol stations, a regional grocer."
+    }
+  ],
+  "whyItPrints": "A physical retailer still underuses the purchases it already has. This plugs into the till they already run. The interview says monthly gross churn of 0.3% or less, and 120% net revenue retention, so the existing book grows without a heroic number of new logos. COVID wiped about 90% of revenue once. They climbed back by selling to larger customers.",
+  "whyThisMatters": "A shop already knows what each person bought. Leal connects to the till, the online store, or the payment system, about three hundred and fifty of those, and then sends SMS, WhatsApp, or a push. Camilo Martinez and Florence Bretch started it in Colombia in 2016. The Latka interview is June 2026. Seven hundred paying merchants in thirteen countries. About two thousand dollars a merchant each month. Net revenue retention of 120 percent. Monthly gross churn of 0.3 percent or less. They passed a million a year in 2018 and five million a year in 2024. Pressed on the current total, he said north of five million, and also that seven hundred times two thousand, about 1.4 million a month, was directionally right. Those are both his words, and they are not one number. Profitable in 2026. The staff count fell from two hundred in 2024 to thirty-eight. Twenty-one million raised. COVID took about ninety percent of revenue at one point. They came back by selling to larger retailers. This is an interview, not a payment sync."
+}

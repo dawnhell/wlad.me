@@ -1,0 +1,31 @@
+{
+  "slug": "eworkorders",
+  "name": "eWorkOrders",
+  "listingNote": null,
+  "description": "Cloud software for maintenance. Work orders, preventive maintenance, the asset, the parts, and an app for the technician. It is aimed at factories, buildings, and retail chains with more than one site. It started as a side project of a consulting firm in 1995. The software itself launched in 2004. Jeff and Brian Roscher still own all of it.",
+  "homepage": "https://eworkorders.com/",
+  "image": "/blog/2026-11-06/eworkorders.webp",
+  "imageAlt": "eWorkOrders product image",
+  "imageWidth": 888,
+  "imageHeight": 430,
+  "mentions": [
+    {
+      "date": "2026-11-06",
+      "evidenceKind": "self-reported",
+      "evidence": "In a Latka interview on 11 August 2026, Jeff Roscher said the company crossed $3 million ARR the day before the recording. 300 paying customers. About $10,200 average contract value. The largest customer pays $185,000 a year across about 45 locations. Team of 9. Still bootstrapped, and the two of them own 100%. The first eWorkOrders revenue was $11,000 in 2005. Subscription revenue reached $1 million ARR in 2018. He said growth in 2025 was 15%, and that they beat the Rule of 40. He did not give the exact margin.",
+      "sources": [
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/companies/eworkorders.com/interviews/eworkorderscom-jeff-roscher-2026"
+        },
+        {
+          "label": "eWorkOrders",
+          "url": "https://eworkorders.com/"
+        }
+      ],
+      "indieAngle": "A full maintenance suite is already crowded. The narrower job is one trade that still gets a work order from a sensor, such as elevator inspection, fire-door checks, or cold-storage refrigeration."
+    }
+  ],
+  "whyItPrints": "A factory cannot sit idle. Once the technician's phone and the history of every machine live in this, switching is a bad week. About 40% of customers came through Capterra, where it sits at 4.9 out of 5. They moved from a flat price for unlimited users to a price per user, which is how the average contract grew.",
+  "whyThisMatters": "A plant keeps a history of every machine, every part, and every visit. eWorkOrders is that history, plus the job the technician sees on a phone. Jeff and Brian Roscher still own all of it. The consulting side goes back to 1995. The software launched in 2004. The first revenue he named was a small year in 2005, and the subscription line reached a million a year in 2018. The August 2026 interview is the current claim: three hundred paying customers, an average contract a bit over ten thousand a year, and one customer at the high end across about forty-five locations. He said 2025 grew fifteen percent and that they beat a common profit-and-growth rule, and he would not give the margin. About forty percent of customers arrived through Capterra, where the score is 4.9 out of 5. They used to charge a flat price for as many users as you wanted. They now charge per person, which is how the average deal got bigger. None of this is a payment-company sync."
+}

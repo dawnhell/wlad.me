@@ -1,0 +1,35 @@
+{
+  "slug": "verito",
+  "name": "Verito",
+  "listingNote": null,
+  "description": "Private-cloud hosting and managed IT only for tax preparers, CPAs, and bookkeepers. It hosts desktop tax apps, the Drake and UltraTax kind of workload, plus Office 365, backups, and controls lined up with the FTC Safeguards Rule and IRS Publication 4557. Founded 2016 by Jatin Narang. Company pages describe plans from roughly $69 per user a month. The site blocked this check with a Cloudflare challenge on 6 November 2026 around 10:27 CET, so there is no screenshot.",
+  "homepage": "https://verito.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-06",
+      "evidenceKind": "self-reported",
+      "evidence": "The about page, checked 6 November 2026, says 1,000+ tax, accounting, and bookkeeping firms, 100% uptime since 2016 including tax season, 92% first-touch resolution, a 95 NPS, and a G2 score of 4.9 from 170+ reviews. The data centres are SOC 2 Type II. Prospeo estimates about $2.4 million a year, 21 to 50 employees, and no outside funding listed. The estimate is not the company's own revenue line.",
+      "sources": [
+        {
+          "label": "Verito about",
+          "url": "https://verito.com/about/"
+        },
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/how-we-built-a-profitable-paas-by-serving-only-0-4-of-us-businesses-4927bc5f68"
+        },
+        {
+          "label": "Prospeo",
+          "url": "https://prospeo.io/c/verito-revenue"
+        }
+      ],
+      "indieAngle": "The same job is hosting one painful desktop tax or accounting program, for one country, and selling it only through the firms that already use that program."
+    }
+  ],
+  "whyItPrints": "A general IT shop does not treat Drake crashing on 14 April as an emergency. Verito sells staying online through tax season. The note puts the US market at about 90,000 firms, and the Indie Hackers write-up says Verito still has only about 0.4% of that. Once the tax apps and the client files are on this cloud, they tend to stay from one year to the next.",
+  "whyThisMatters": "Tax software still lives on a desktop. Drake crashing on 14 April is not a normal IT ticket. Verito hosts that stack, and Office 365, and the backups, only for tax preparers, CPAs, and bookkeepers. Jatin Narang started it in 2016. The about page, read on 6 November 2026, talks about more than a thousand firms, uptime through every tax season since the start, a first-touch resolution rate, a promoter score, and a G2 score from more than 170 reviews. The data centres are SOC 2 Type II. Plans on the marketing pages start around a per-user monthly price. Prospeo publishes an annual estimate, a staff band, and no outside funding. That estimate is a data site, not the about page. An Indie Hackers write-up frames the US market as about ninety thousand firms and this company's share as a fraction of a percent. The homepage would not load for the screenshot. Cloudflare challenged the request."
+}

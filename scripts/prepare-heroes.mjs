@@ -312,6 +312,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/9/91/Skaftafell_Aerial_Panorama_2023.jpg',
   },
+  {
+    id: 'dead-vlei',
+    subject: 'nature',
+    alt: 'Dead Vlei in Sossusvlei, Namibia',
+    credit: 'Diego Delso',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Dead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_086.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

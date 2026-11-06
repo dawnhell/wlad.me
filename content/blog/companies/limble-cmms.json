@@ -1,0 +1,35 @@
+{
+  "slug": "limble-cmms",
+  "name": "Limble CMMS",
+  "listingNote": null,
+  "description": "Cloud maintenance software for work orders, preventive and predictive maintenance, assets, and parts. Founded 2015 in Lehi, Utah, by Bryan Christiansen. Gary Specter is CEO. It sits further upmarket than UpKeep, MaintainX, and eWorkOrders.",
+  "homepage": "https://limblecmms.com/",
+  "image": "/blog/2026-11-06/limble-cmms.webp",
+  "imageAlt": "Limble CMMS product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-06",
+      "evidenceKind": "self-reported",
+      "evidence": "Limble's own LinkedIn post, around 4 August 2026, for a Times Square celebration, says $50 million ARR. That is the company speaking, not a payment sync. GetLatka lists a Series B in June 2023 at a $450 million valuation, with Goldman Sachs Growth Equity, about $94.4 million raised in total, and 176 employees as of October 2024 on LinkedIn. A Latka interview in October 2020, while it was still largely bootstrapped, put it at about $160,000 a month, about a $1.9 million run rate, and 470 customers. Those are three dates, not one number.",
+      "sources": [
+        {
+          "label": "Limble on LinkedIn",
+          "url": "https://www.linkedin.com/posts/limble_50m-arr-times-square-one-unforgettable-activity-7490502047180431360-VCne"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/limble-cmms"
+        },
+        {
+          "label": "Latka interview, 2020",
+          "url": "https://getlatka.com/companies/limble-cmms/interviews/limble-cmms-bryan-christiansen-2020"
+        }
+      ],
+      "indieAngle": "The company-stated total shows the category is real. The smaller path is still the narrow, bootstrapped one: one vertical, such as food plants or a cold chain, and reviews, before a funding round."
+    }
+  ],
+  "whyItPrints": "Same job as keeping the machines running. Limble took growth equity and went after larger plants. Once the sensors and the work-order history are in it, the plant does not pull it out for a nicer screen.",
+  "whyThisMatters": "Limble does work orders, preventive maintenance, and the parts cupboard, for a bigger plant than the bootstrapped tools. Bryan Christiansen started it in Lehi, Utah, in 2015. Gary Specter is the CEO. The number people are repeating is the company's own, from a LinkedIn post around 4 August 2026, tied to a Times Square celebration. That is not a Stripe reading. GetLatka's page is a different set of facts: a Series B in June 2023, Goldman Sachs Growth Equity, a valuation, a total raised, and a staff count from October 2024. An older Latka interview, October 2020, is a third date, from when the company was still largely bootstrapped, with a monthly figure, a run rate, and 470 customers. Those three do not get averaged. The plant stays because the sensors and the history are already in it."
+}
