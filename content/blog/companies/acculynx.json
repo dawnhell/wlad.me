@@ -1,0 +1,27 @@
+{
+  "slug": "acculynx",
+  "name": "AccuLynx",
+  "listingNote": null,
+  "description": "Production software and a CRM for roofing contractors. Estimates, the job, and the crew. Founded 2008. It sits in the same lane as JobNimbus.",
+  "homepage": "https://www.acculynx.com/",
+  "image": "/blog/2026-11-07/acculynx.webp",
+  "imageAlt": "AccuLynx product image",
+  "imageWidth": 728,
+  "imageHeight": 677,
+  "mentions": [
+    {
+      "date": "2026-11-07",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $14.4 million a year as of October 2024, and lists 154 employees on that page. That revenue figure is the estimate, not a number the company published.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/acculynx"
+        }
+      ],
+      "indieAngle": "If two tools in roofing are already this far along, the gap is the next trade with the same workflow. Siding, gutters, or restoration."
+    }
+  ],
+  "whyItPrints": "Same roofing job file. Two companies at this size, in the same trade, is the sign the niche pays for software.",
+  "whyThisMatters": "AccuLynx is the other roofing system on this note. Estimates, the production schedule, and the job. It dates to 2008. GetLatka's page, as of October 2024, estimates a yearly total in the mid teens of millions and lists a staff count around one hundred and fifty. The company did not publish that revenue number. Two tools in the same trade, both large enough to show up on a data site, is the reason the niche is in the notebook. I am not ranking them. I am not saying the estimate is the company's books. A smaller version of the same workflow is siding, gutters, or restoration, where the lead, the photo, and the invoice are still a spreadsheet. The homepage is the product site. The Latka page is the source of the estimate. Starting in 2008 means it has been in roofing shops longer than the other roofing tool on this same day's note. I still do not add the two estimates into one market size. Each page keeps its own date."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "barbrain",
+  "name": "BarBrain",
+  "listingNote": null,
+  "description": "Stocktaking for bars, restaurants, and hotels. People count on their phones at the same time, a delivery note can be scanned, and the recipes feed a cost of goods. Focused on Germany, Austria, and Switzerland. The site prices it at about €52 to €99 per venue a month, net, billed annually.",
+  "homepage": "https://www.barbrain.com/en",
+  "image": "/blog/2026-11-07/barbrain.webp",
+  "imageAlt": "BarBrain product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-07",
+      "evidenceKind": "self-reported",
+      "evidence": "An Indie Hackers post says €50,000 a month, 1,000+ paying businesses, a team of about 10, and a Meta ads cost to acquire a customer of about €140 blended. The homepage also says 1,000+ venues across Germany, Austria, and Switzerland. The post does not date itself on this brief, so the month is the post's figure, not a new sync.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/we-went-from-knocking-on-bar-doors-to-50k-mrr-heres-what-we-learned-selling-software-to-an-industry-that-hates-software-DsJJD4Fb7QWH0Rm0VtWq"
+        }
+      ],
+      "indieAngle": "Walk into a trade that hates software and solve the one weekly chore. Then the cost of goods and the till variance can come later."
+    }
+  ],
+  "whyItPrints": "Bars hate the stocktake. Once the bottles and the recipes are in, they stay. The founders sold it by walking into bars that hate software.",
+  "whyThisMatters": "A bar stocktake is a night of counting bottles. BarBrain lets several people count on their phones at once, scan a delivery note, and turn recipes into a cost of goods. The price on the site is a monthly band per venue, net, billed for the year, aimed at Germany, Austria, and Switzerland. The Indie Hackers post is the money source. Fifty thousand euros a month. More than a thousand paying businesses. A team of about ten. Ads on Meta, with a blended cost to win a customer around one hundred and forty euros. The homepage repeats the thousand-venue claim for those three countries. The brief does not give the post a date, so this is not a November 2026 sync. The founders sold it by walking into bars that hate software. Once the bottle list and the recipes are in, the next stocktake is much harder to do on paper. That lock-in is the whole product."
+}

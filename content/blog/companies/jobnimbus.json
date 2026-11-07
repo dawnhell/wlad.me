@@ -1,0 +1,27 @@
+{
+  "slug": "jobnimbus",
+  "name": "JobNimbus",
+  "listingNote": null,
+  "description": "A job file for roofing and exterior contractors. Leads, the sale, the job board, the invoice, and a phone app. Founded 2011 by Ben Hodson in Utah.",
+  "homepage": "https://www.jobnimbus.com/",
+  "image": "/blog/2026-11-07/jobnimbus.webp",
+  "imageAlt": "JobNimbus product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-07",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $25 million a year as of June 2024. The company has not published that figure. LinkedIn lists 233 employees as of October 2024. The homepage says it is trusted by over 8,000 roofing businesses. That 8,000 is a customer count, not revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/jobnimbus"
+        }
+      ],
+      "indieAngle": "Own one trade's job file from the lead to the invoice, and plug it into the ledger and the material supplier. Roofing, fencing, or a solar add-on."
+    }
+  ],
+  "whyItPrints": "A roofing shop after a storm needs one place for the lead, the photo, the material order, and the invoice. Once the jobs and the photos live there, they tend to stay.",
+  "whyThisMatters": "After a storm, a roofing shop is a pile of leads, photos, material orders, and invoices. JobNimbus is that pile in one place, including a phone app. Ben Hodson started it in Utah in 2011. The revenue number is a GetLatka estimate from June 2024, about twenty-five million a year, and the brief is explicit that the company has not published it. LinkedIn, in October 2024, lists a couple of hundred employees. The homepage says it is trusted by over eight thousand roofing businesses. That is a customer count. It is not the revenue estimate, and it is not a payment sync. Once the jobs and the photos live in the file, moving shops is a bad week in the middle of a storm season. The same shape shows up in fencing and in solar add-ons. This note does not pick a winner between JobNimbus and the other roofing tool on the same day."
+}

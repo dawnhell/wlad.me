@@ -4,10 +4,10 @@
   "listingNote": null,
   "description": "Dispatch, the impound lot, police-call rotation, motor-club jobs, invoices, and a driver phone app for towing companies. Founded 2007 in Saint Clair, Michigan, by Dan Smith.",
   "homepage": "https://towbook.com/",
-  "image": "/blog/2026-11-05/towbook.webp",
+  "image": "/blog/2026-11-07/towbook.webp",
   "imageAlt": "Towbook product image",
   "imageWidth": 1200,
-  "imageHeight": 750,
+  "imageHeight": 692,
   "mentions": [
     {
       "date": "2026-11-05",
@@ -24,8 +24,20 @@
         }
       ],
       "indieAngle": "Impound and private-property towing have their own paperwork: photos, release forms, and state caps on fees. That slice could be its own product, including in countries that do not have this one."
+    },
+    {
+      "date": "2026-11-07",
+      "evidenceKind": "self-reported",
+      "evidence": "Same GetLatka estimates as the 5 November note. About $2.9 million a year as of October 2024, about $1.4 million in December 2023, and $839,000 for April 2021 with no source recorded. 37 employees in October 2024, up from 13 in April 2021. No newer figure in this brief.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/towbook"
+        }
+      ],
+      "indieAngle": "Dispatch plus the paperwork, for a local fleet that is already regulated. Towing, roadside, or a city contractor."
     }
   ],
   "whyItPrints": "A tow company runs all night off the dispatch screen. Once the drivers' phones and the impound records are in it, it tends to stay. It has been around since 2007.",
-  "whyThisMatters": "Towing does not keep office hours. A call comes in, a truck goes out, and the car may sit in an impound lot until someone pays to release it. Towbook is the dispatch screen, the lot, the police rotation, the motor-club jobs, the invoice, and the app on the driver's phone. Dan Smith started it in 2007 in Saint Clair, Michigan. Once the records and the phones live there, ripping it out is a bad night for the whole yard, which is why a product from 2007 can still be the one they use. The yearly numbers are GetLatka estimates at three dates, and they do not agree with each other because they are not the same year. The oldest one has no source written on the page. The staff count moves too, from the teens in 2021 to the high thirties in 2024. None of these is a payment-company sync."
+  "whyThisMatters": "Towing does not keep office hours. A call comes in, a truck goes out, and the car may sit in an impound lot until someone pays to release it. Towbook is the dispatch screen, the lot, the police rotation, the motor-club jobs, the invoice, and the app on the driver's phone. Dan Smith started it in 2007 in Saint Clair, Michigan. Once the records and the phones live there, ripping it out is a bad night for the whole yard, which is why a product from 2007 can still be the one they use. The yearly numbers are GetLatka estimates at three dates, and they do not agree with each other because they are not the same year. The oldest one has no source written on the page. The staff count moves too, from the teens in 2021 to the high thirties in 2024. None of these is a payment-company sync. Saturday's note does not replace those three estimates with a newer reading. The homepage is still the product site, and the Latka page is still the source."
 }

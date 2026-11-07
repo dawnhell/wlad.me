@@ -4,7 +4,7 @@
   "listingNote": null,
   "description": "Software that helps a dental practice sell a membership to patients, instead of living only on insurance. The founder came from a family dental lab. Bootstrapped. He says it has been profitable since 2016.",
   "homepage": "https://www.boomcloudapps.com/",
-  "image": "/blog/2026-10-27/boomcloud.webp",
+  "image": "/blog/2026-11-07/boomcloud.webp",
   "imageAlt": "BoomCloud product image",
   "imageWidth": 1200,
   "imageHeight": 675,
@@ -13,6 +13,18 @@
       "date": "2026-10-27",
       "evidenceKind": "self-reported",
       "evidence": "Company-stated, Practical Founders, January 2026. About $3M ARR. About 600 dental practices. An 11-person team. Profitable since 2016. No outside funding mentioned.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/why-systems-with-ai-scale-better-than-people-saas-jordon-comstock/"
+        }
+      ],
+      "indieAngle": "An in-house plan for a clinic that is tired of the insurance paperwork."
+    },
+    {
+      "date": "2026-11-07",
+      "evidenceKind": "self-reported",
+      "evidence": "Same Practical Founders episode, January 2026, already on the 27 October note. About $3 million ARR, about 600 dental practices, an 11-person team, profitable since 2016, and no outside funding mentioned. The homepage mentions software at $197 and $397 a month. No newer revenue figure in this brief.",
       "sources": [
         {
           "label": "Practical Founders",

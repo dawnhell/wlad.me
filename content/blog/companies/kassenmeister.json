@@ -1,0 +1,27 @@
+{
+  "slug": "kassenmeister",
+  "name": "Kassenmeister",
+  "listingNote": null,
+  "description": "German till software with the certified security module the KassenSichV rules require. It supports a Swissbit USB device and fiskaly's cloud module. AK Software GmbH. Founder Amir Koklan. TrustMRR lists the founding as December 2023.",
+  "homepage": "https://www.kassenmeister.de/",
+  "image": "/blog/2026-11-07/kassenmeister.webp",
+  "imageAlt": "Kassenmeister product image",
+  "imageWidth": 500,
+  "imageHeight": 54,
+  "mentions": [
+    {
+      "date": "2026-11-07",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Stripe-verified, and the API key is expired. Last sync 26 November 2025. Last 30 days about $10,825. All-time about $215,172. That is the last sync, not a live reading for November 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kassenmeister-ak-software-gmbh"
+        }
+      ],
+      "indieAngle": "The smallest certified tool a new rule just forced onto a country's small shops. Tills, e-invoicing, or a fiscal printer."
+    }
+  ],
+  "whyItPrints": "Germany requires a certified till. This is a purchase the rule forces, not a nice extra.",
+  "whyThisMatters": "Germany tells a shop what the till has to do. Kassenmeister is that till, with the certified security piece, either a Swissbit stick or fiskaly's cloud version. AK Software GmbH. Amir Koklan is the founder. TrustMRR lists December 2023 as the start. The Stripe connection is real, and the key is expired. The last sync is 26 November 2025. The thirty-day figure and the all-time total on this page are from that sync. They are not a reading of this week. It was an honorable mention on 8 October, and again on 6 November, for the same expired key. This is the first full note, because the product and the homepage are now written down. A rule that forces every shop to buy a certified till is a dull, repeating purchase. The number stays dated to the last sync, with the expired key in the same sentence."
+}

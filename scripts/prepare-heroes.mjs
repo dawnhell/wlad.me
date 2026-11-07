@@ -320,6 +320,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Dead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_086.jpg',
   },
+  {
+    id: 'moraine-lake',
+    subject: 'nature',
+    alt: 'Moraine Lake in Banff National Park at sunrise',
+    credit: 'Jakub Fryš',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Moraine_Lake_sunrise.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

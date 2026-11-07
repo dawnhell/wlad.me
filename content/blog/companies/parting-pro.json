@@ -4,7 +4,7 @@
   "listingNote": null,
   "description": "Funeral homes use it so a family can plan and pay online, and the director can run the case and the merchandise. The founders describe it as a shop for funeral homes.",
   "homepage": "https://www.partingpro.com/",
-  "image": "/blog/2026-11-05/parting-pro.webp",
+  "image": "/blog/2026-11-07/parting-pro.webp",
   "imageAlt": "Parting Pro product image",
   "imageWidth": 1200,
   "imageHeight": 675,
@@ -24,6 +24,18 @@
         }
       ],
       "indieAngle": "The same online package picker shows up anywhere a family has to choose a bundle and add-ons for a hard week. Cemeteries, pet cremation, monument makers."
+    },
+    {
+      "date": "2026-11-07",
+      "evidenceKind": "self-reported",
+      "evidence": "Same figures as the 5 November note. Tyler Yamasaki's SaaStr talk puts growth through late 2023 past $2 million without a traditional funding round. They raised a seed round in 2021 and later used Founderpath. Founderpath's undated page lists $2.5 million. No newer figure in this brief.",
+      "sources": [
+        {
+          "label": "Founderpath",
+          "url": "https://founderpath.com/resources/the-silent-majority-how-we-ve-bootstrapped-our-unsexy-funeral-management-saas-to-1m"
+        }
+      ],
+      "indieAngle": "Digitize the arrangement and the catalog for a hard week. Funeral, pet cremation, a cemetery, or monuments."
     }
   ],
   "whyItPrints": "People still die in a slow economy. The founders said they looked unfundable in 2022. They cut costs. The talk says runway went from 4 months in August 2022 to about 150 months by late 2023.",

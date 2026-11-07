@@ -427,5 +427,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Dead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_086.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "moraine-lake",
+    "src": "/blog/heroes/moraine-lake.webp",
+    "alt": "Moraine Lake in Banff National Park at sunrise",
+    "width": 1440,
+    "height": 954,
+    "credit": "Jakub Fryš",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_sunrise.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

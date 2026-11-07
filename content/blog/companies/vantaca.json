@@ -2,12 +2,12 @@
   "slug": "vantaca",
   "name": "Vantaca",
   "listingNote": null,
-  "description": "HOA management software priced per home. The company says $85M revenue at the end of 2025, after about 5 years bootstrapped. Company-stated, from a Latka article. The article is not a product site.",
-  "homepage": null,
-  "image": "/blog/2026-10-24/vantaca.webp",
+  "description": "Software for companies that manage HOAs and condos in the US. Work orders, the books, a portal, and a price per door. Founded 2015 by Ben Currin in Wilmington, North Carolina.",
+  "homepage": "https://vantaca.com/",
+  "image": "/blog/2026-11-07/vantaca.webp",
   "imageAlt": "Vantaca product image",
   "imageWidth": 1200,
-  "imageHeight": 675,
+  "imageHeight": 927,
   "mentions": [
     {
       "date": "2026-10-24",
@@ -20,8 +20,24 @@
         }
       ],
       "indieAngle": "Per home, not per login. The association is the customer."
+    },
+    {
+      "date": "2026-11-07",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka, with the CEO confirming it, puts annual revenue at $85 million as of December 2025. That is the same company-stated figure already on the 24 October note. On camera the company also put $7.5 million in 2022, $1 million in 2019, and $100,000 in 2018. About 500 customers. Press coverage references about 6 million doors. LinkedIn lists 186 employees as of December 2024.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/Vantaca"
+        },
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/blog/how-vantaca-hit-10m-revenue-using-strategic-partnerships-and-customer-centric-innovations"
+        }
+      ],
+      "indieAngle": "Charge by the door, in a niche where the buyer already bills by the door. The customer is the company that manages the associations, not the homeowner."
     }
   ],
-  "whyItPrints": "A homeowner association already pays someone to run the dues, the repairs, and the letters. The software is priced per home.",
-  "whyThisMatters": "A homeowner association runs the dues, the repairs, and the letters. Vantaca is software for the company that does that work, priced per home. A Latka article says revenue was eighty-five million at the end of 2025, after about five years without outside funding. That is the company talking. It is not a payment-processor connection. The article is not the product site, so this page does not link one.\n\nI am not adding a customer list or a per-home price the article did not give. The number is large, and it is self-reported.\n\nYou pay per home so the association's books are someone's product, not a volunteer's evening.\n\nFive years without outside funding is the claim next to the revenue number. Both come from the same article. Priced per home is the only packaging detail it gives.\n\nHOA management is the job. The software is what the management company uses, and the price is per home rather than per login. End of 2025 is the date on the revenue figure. I am not adding a newer one.\n\nBootstrapped for about five years is the other half of that sentence. Both halves stay dated to the article."
+  "whyItPrints": "The management company already gets paid per door. The software sits in the middle of the dues, the violation letters, and the vendor work. Once millions of doors are on it, switching hurts.",
+  "whyThisMatters": "A homeowner association runs the dues, the repairs, and the letters. Vantaca is software for the company that does that work, priced per door. Ben Currin started it in Wilmington, North Carolina, in 2015. The large figure is still the company-stated total from the end of 2025, and it is the same one as the 24 October note. On camera they also walked through earlier years: a small year in 2018, a million-scale year in 2019, and a larger one in 2022. Those are not the 2025 total. The customer count is about five hundred. Coverage of the company talks about millions of doors. LinkedIn, in December 2024, lists a staff count in the high one-eighties. The product site is linked on this page. None of this is a payment-company sync.\n\nYou pay per door so the association's books are someone's product, not a volunteer's evening.\n\nThe 2025 total and the earlier years stay as separate claims. I am not averaging them. The door count is from press coverage. There is no payment-company connection on this page.\n\nHOA management is the job. The software is what the management company uses. End of 2025 is the date on the large figure. The October note had that figure and did not have the earlier years, the customer count, or the doors."
 }

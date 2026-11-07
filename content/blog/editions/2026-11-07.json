@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-07",
+  "title": "Saturday's boring SaaS, 7 November 2026",
+  "dek": "Saturday, 7 November 2026. Conductor is Stripe-verified, so that listing is connected to Stripe, and Kassenmeister's Stripe sync is from 26 November 2025 because the key has expired. The other seven are self-reported, including Vantaca's company-stated figure from December 2025.",
+  "heroId": "moraine-lake",
+  "companies": [
+    {
+      "slug": "vantaca",
+      "name": "Vantaca",
+      "listingNote": null,
+      "description": "Software for companies that manage HOAs and condos in the US. Work orders, the books, a portal, and a price per door. Founded 2015 by Ben Currin in Wilmington, North Carolina.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka, with the CEO confirming it, puts annual revenue at $85 million as of December 2025. That is the same company-stated figure already on the 24 October note. On camera the company also put $7.5 million in 2022, $1 million in 2019, and $100,000 in 2018. About 500 customers. Press coverage references about 6 million doors. LinkedIn lists 186 employees as of December 2024.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/Vantaca"
+        },
+        {
+          "label": "Latka interview",
+          "url": "https://getlatka.com/blog/how-vantaca-hit-10m-revenue-using-strategic-partnerships-and-customer-centric-innovations"
+        }
+      ],
+      "homepage": "https://vantaca.com/",
+      "indieAngle": "Charge by the door, in a niche where the buyer already bills by the door. The customer is the company that manages the associations, not the homeowner.",
+      "whyItPrints": "The management company already gets paid per door. The software sits in the middle of the dues, the violation letters, and the vendor work. Once millions of doors are on it, switching hurts.",
+      "image": "/blog/2026-11-07/vantaca.webp",
+      "imageAlt": "Vantaca product image",
+      "imageWidth": 1200,
+      "imageHeight": 927
+    },
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 7 November listing is still for sale. The monthly Stripe line and the last 30 days are both a bit higher than the 1 November note.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $47,229 from 314 active subscriptions, synced 7 November 2026. Last 30 days $44,012. All-time $511,099. The 1 November note was MRR $45,770, 305 subscriptions, last 30 days $43,642, and all-time $505,682. The founder, on the listing, says about $350,000 ARR, about 7% a month, Ramp as an enterprise customer, and virtually no churn. That yearly line is the founder, not the Stripe sync. Production is $49 per company file a month. Still listed for sale.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe number moved up, and it is still for sale.",
+      "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The monthly line and the last 30 days are both a little higher than the 1 November note, and the listing is still for sale.",
+      "image": "/blog/2026-11-07/conductor.webp",
+      "imageAlt": "Conductor product image",
+      "imageWidth": 1200,
+      "imageHeight": 610
+    },
+    {
+      "slug": "boomcloud",
+      "name": "BoomCloud",
+      "listingNote": null,
+      "description": "Software that helps a dental practice sell a membership to patients, instead of living only on insurance. The founder came from a family dental lab. Bootstrapped. He says it has been profitable since 2016.",
+      "evidenceKind": "self-reported",
+      "evidence": "Same Practical Founders episode, January 2026, already on the 27 October note. About $3 million ARR, about 600 dental practices, an 11-person team, profitable since 2016, and no outside funding mentioned. The homepage mentions software at $197 and $397 a month. No newer revenue figure in this brief.",
+      "sources": [
+        {
+          "label": "Practical Founders",
+          "url": "https://practicalfounders.com/podcast/why-systems-with-ai-scale-better-than-people-saas-jordon-comstock/"
+        }
+      ],
+      "homepage": "https://www.boomcloudapps.com/",
+      "indieAngle": "An in-house plan for a clinic that is tired of the insurance paperwork.",
+      "whyItPrints": "A membership is recurring cash for the clinic. The software sits in the middle of that change. Dentistry moves slowly, which suits a small team.",
+      "image": "/blog/2026-11-07/boomcloud.webp",
+      "imageAlt": "BoomCloud product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "jobnimbus",
+      "name": "JobNimbus",
+      "listingNote": null,
+      "description": "A job file for roofing and exterior contractors. Leads, the sale, the job board, the invoice, and a phone app. Founded 2011 by Ben Hodson in Utah.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $25 million a year as of June 2024. The company has not published that figure. LinkedIn lists 233 employees as of October 2024. The homepage says it is trusted by over 8,000 roofing businesses. That 8,000 is a customer count, not revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/jobnimbus"
+        }
+      ],
+      "homepage": "https://www.jobnimbus.com/",
+      "indieAngle": "Own one trade's job file from the lead to the invoice, and plug it into the ledger and the material supplier. Roofing, fencing, or a solar add-on.",
+      "whyItPrints": "A roofing shop after a storm needs one place for the lead, the photo, the material order, and the invoice. Once the jobs and the photos live there, they tend to stay.",
+      "image": "/blog/2026-11-07/jobnimbus.webp",
+      "imageAlt": "JobNimbus product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "acculynx",
+      "name": "AccuLynx",
+      "listingNote": null,
+      "description": "Production software and a CRM for roofing contractors. Estimates, the job, and the crew. Founded 2008. It sits in the same lane as JobNimbus.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $14.4 million a year as of October 2024, and lists 154 employees on that page. That revenue figure is the estimate, not a number the company published.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/acculynx"
+        }
+      ],
+      "homepage": "https://www.acculynx.com/",
+      "indieAngle": "If two tools in roofing are already this far along, the gap is the next trade with the same workflow. Siding, gutters, or restoration.",
+      "whyItPrints": "Same roofing job file. Two companies at this size, in the same trade, is the sign the niche pays for software.",
+      "image": "/blog/2026-11-07/acculynx.webp",
+      "imageAlt": "AccuLynx product image",
+      "imageWidth": 728,
+      "imageHeight": 677
+    },
+    {
+      "slug": "parting-pro",
+      "name": "Parting Pro",
+      "listingNote": null,
+      "description": "Funeral homes use it so a family can plan and pay online, and the director can run the case and the merchandise. The founders describe it as a shop for funeral homes.",
+      "evidenceKind": "self-reported",
+      "evidence": "Same figures as the 5 November note. Tyler Yamasaki's SaaStr talk puts growth through late 2023 past $2 million without a traditional funding round. They raised a seed round in 2021 and later used Founderpath. Founderpath's undated page lists $2.5 million. No newer figure in this brief.",
+      "sources": [
+        {
+          "label": "Founderpath",
+          "url": "https://founderpath.com/resources/the-silent-majority-how-we-ve-bootstrapped-our-unsexy-funeral-management-saas-to-1m"
+        }
+      ],
+      "homepage": "https://www.partingpro.com/",
+      "indieAngle": "Digitize the arrangement and the catalog for a hard week. Funeral, pet cremation, a cemetery, or monuments.",
+      "whyItPrints": "People still die in a slow economy. The founders said they looked unfundable in 2022. They cut costs. The talk says runway went from 4 months in August 2022 to about 150 months by late 2023.",
+      "image": "/blog/2026-11-07/parting-pro.webp",
+      "imageAlt": "Parting Pro product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "barbrain",
+      "name": "BarBrain",
+      "listingNote": null,
+      "description": "Stocktaking for bars, restaurants, and hotels. People count on their phones at the same time, a delivery note can be scanned, and the recipes feed a cost of goods. Focused on Germany, Austria, and Switzerland. The site prices it at about €52 to €99 per venue a month, net, billed annually.",
+      "evidenceKind": "self-reported",
+      "evidence": "An Indie Hackers post says €50,000 a month, 1,000+ paying businesses, a team of about 10, and a Meta ads cost to acquire a customer of about €140 blended. The homepage also says 1,000+ venues across Germany, Austria, and Switzerland. The post does not date itself on this brief, so the month is the post's figure, not a new sync.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/we-went-from-knocking-on-bar-doors-to-50k-mrr-heres-what-we-learned-selling-software-to-an-industry-that-hates-software-DsJJD4Fb7QWH0Rm0VtWq"
+        }
+      ],
+      "homepage": "https://www.barbrain.com/en",
+      "indieAngle": "Walk into a trade that hates software and solve the one weekly chore. Then the cost of goods and the till variance can come later.",
+      "whyItPrints": "Bars hate the stocktake. Once the bottles and the recipes are in, they stay. The founders sold it by walking into bars that hate software.",
+      "image": "/blog/2026-11-07/barbrain.webp",
+      "imageAlt": "BarBrain product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "towbook",
+      "name": "Towbook",
+      "listingNote": null,
+      "description": "Dispatch, the impound lot, police-call rotation, motor-club jobs, invoices, and a driver phone app for towing companies. Founded 2007 in Saint Clair, Michigan, by Dan Smith.",
+      "evidenceKind": "self-reported",
+      "evidence": "Same GetLatka estimates as the 5 November note. About $2.9 million a year as of October 2024, about $1.4 million in December 2023, and $839,000 for April 2021 with no source recorded. 37 employees in October 2024, up from 13 in April 2021. No newer figure in this brief.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/towbook"
+        }
+      ],
+      "homepage": "https://towbook.com/",
+      "indieAngle": "Dispatch plus the paperwork, for a local fleet that is already regulated. Towing, roadside, or a city contractor.",
+      "whyItPrints": "A tow company runs all night off the dispatch screen. Once the drivers' phones and the impound records are in it, it tends to stay. It has been around since 2007.",
+      "image": "/blog/2026-11-07/towbook.webp",
+      "imageAlt": "Towbook product image",
+      "imageWidth": 1200,
+      "imageHeight": 692
+    },
+    {
+      "slug": "kassenmeister",
+      "name": "Kassenmeister",
+      "listingNote": null,
+      "description": "German till software with the certified security module the KassenSichV rules require. It supports a Swissbit USB device and fiskaly's cloud module. AK Software GmbH. Founder Amir Koklan. TrustMRR lists the founding as December 2023.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Stripe-verified, and the API key is expired. Last sync 26 November 2025. Last 30 days about $10,825. All-time about $215,172. That is the last sync, not a live reading for November 2026.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/kassenmeister-ak-software-gmbh"
+        }
+      ],
+      "homepage": "https://www.kassenmeister.de/",
+      "indieAngle": "The smallest certified tool a new rule just forced onto a country's small shops. Tills, e-invoicing, or a fiscal printer.",
+      "whyItPrints": "Germany requires a certified till. This is a purchase the rule forces, not a nice extra.",
+      "image": "/blog/2026-11-07/kassenmeister.webp",
+      "imageAlt": "Kassenmeister product image",
+      "imageWidth": 500,
+      "imageHeight": 54
+    }
+  ],
+  "honorableMentions": []
+}
