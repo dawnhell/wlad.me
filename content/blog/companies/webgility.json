@@ -1,0 +1,27 @@
+{
+  "slug": "webgility",
+  "name": "Webgility",
+  "listingNote": null,
+  "description": "It syncs orders, fees, payouts, and stock from Shopify, Amazon, eBay, Walmart, and similar shops into QuickBooks Desktop and QuickBooks Online. Parag Mamnani started it in 2007 in Scottsdale.",
+  "homepage": "https://www.webgility.com/",
+  "image": "/blog/2026-11-08/webgility.webp",
+  "imageAlt": "Webgility product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "A LeadIQ figure on GetLatka estimates about $35 million a year as of November 2024. Earlier GetLatka estimates say $15.4 million in December 2023 and $22.5 million in October 2024. Those estimates do not agree, so they stay rough. Latka also lists about 5,000 customers, about 150 employees as of December 2024, and $8.9 million raised across two rounds, the last in 2017. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/webgility"
+        }
+      ],
+      "indieAngle": "One marketplace and one ledger that is still done by hand. Allegro into a Polish ledger, or Etsy into Xero."
+    }
+  ],
+  "whyItPrints": "It has been doing the QuickBooks connector job for about 19 years. Same neighbourhood as Conductor. Little funding for a company this size.",
+  "whyThisMatters": "Webgility has been connecting online shops to QuickBooks since 2007. Orders, fees, payouts, and inventory, from Shopify, Amazon, eBay, Walmart, and similar, into Desktop or Online. Parag Mamnani started it in Scottsdale. It is the same dull connector neighbourhood as Conductor, for the shop side rather than the desktop file itself. The money on GetLatka is three estimates that disagree. About fifteen point four million in December 2023, about twenty-two point five million in October 2024, and a LeadIQ figure of about thirty-five million in November 2024. I am not picking one. The company has not published revenue. Latka lists about five thousand customers, about one hundred and fifty employees in December 2024, and eight point nine million raised in two rounds, the last of them in 2017. Little funding for a company that has been around almost nineteen years. The gap for someone else is one marketplace and one ledger this product does not already own."
+}

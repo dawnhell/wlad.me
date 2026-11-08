@@ -328,6 +328,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Moraine_Lake_sunrise.jpg',
   },
+  {
+    id: 'lake-tekapo',
+    subject: 'nature',
+    alt: 'Lake Tekapo in New Zealand',
+    credit: 'Krzysztof Golik',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Lake_Tekapo_01.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

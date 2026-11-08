@@ -1,0 +1,27 @@
+{
+  "slug": "docparser",
+  "name": "Docparser",
+  "listingNote": null,
+  "description": "It reads the same kind of PDF, Word file, or scan over and over. Invoices, purchase orders, bank statements. Rules pull the fields out and send them on. Founded 2016. Moritz Dausinger was CEO. Edina, Minnesota. Latka says it has since been acquired. The date and the price are not on the record.",
+  "homepage": "https://docparser.com/",
+  "image": "/blog/2026-11-08/docparser.webp",
+  "imageAlt": "Docparser product image",
+  "imageWidth": 699,
+  "imageHeight": 517,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $880,000 a year as of July 2025. The company has not published revenue. LinkedIn lists 8 employees as of July 2025. Latka says it was acquired, and does not name the buyer.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/docparser"
+        }
+      ],
+      "indieAngle": "One ugly document, parsed and priced per file. A freight invoice, or a local e-invoice format."
+    }
+  ],
+  "whyItPrints": "The templates already work, so people keep paying. This is the plumbing from before chatbots. A small team.",
+  "whyThisMatters": "The same invoice layout arrives every week. Docparser uses rules to pull the fields out of a PDF, a Word file, or a scan, and sends them into whatever system is waiting. Invoices, purchase orders, bank statements. Moritz Dausinger was CEO. It started in 2016, in Edina, Minnesota. This is older plumbing than a chatbot that reads a document once and forgets the template. People keep paying because the rules already match their files. GetLatka estimates about eight hundred and eighty thousand a year as of July 2025. The company has not published revenue. LinkedIn lists eight employees that month. Latka says the company was acquired and does not name the owner, the date, or the price. I am not filling those in. A smaller product is one ugly local document, priced per file, rather than a parser for every PDF on earth."
+}

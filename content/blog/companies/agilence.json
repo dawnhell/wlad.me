@@ -1,0 +1,27 @@
+{
+  "slug": "agilence",
+  "name": "Agilence",
+  "listingNote": null,
+  "description": "It reads a retailer's till data and looks for theft, fraud, and waste. The homepage shows names such as Rite Aid, Staples, and Spencer Gifts. It started in 2006 as video hardware for loss prevention, and moved to software in 2013.",
+  "homepage": "https://www.agilenceinc.com/",
+  "image": "/blog/2026-11-08/agilence.webp",
+  "imageAlt": "Agilence product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "In a CEO interview recorded in August 2023, revenue was $35 million, about 17 percent growth, and about $31 million the year before. About 300 customers. Average contract about $125,000. Three customers near $1 million a year. Around $1 million near 2009, and around $10 million near 2018. About 70 people, five of them carrying a sales quota. The write-up says the company was sold later. Hawkins calls that sale a mistake. The buyer and the price are not in the note.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-agilence-inc-hit-35m-revenue-by-pivoting-and-expanding-vertically"
+        }
+      ],
+      "indieAngle": "A report of the odd refunds, voids, and discounts, built on the export a small chain already has from Square or Shopify. Sold to a franchisee with more than one shop."
+    }
+  ],
+  "whyItPrints": "Missing margin is a finance problem, not a trend. About 300 customers, averaging about 600 locations each, and an average contract around $125,000. Russ Hawkins says about 80 percent of customers now use it for operations, merchandise, and finance, not only for catching theft. Over 15 years they took under $30 million of equity, and debt stayed at or below about $5 million at a time.",
+  "whyThisMatters": "A chain's margin leaks through refunds, voids, and missing stock. Agilence reads the till and points at the leak. It started in 2006 as cameras for loss prevention and became software in 2013. The homepage puts logos such as Rite Aid, Staples, and Spencer Gifts on the page. Russ Hawkins, in an interview recorded in August 2023, put revenue at thirty-five million, about seventeen percent above a year near thirty-one million. About three hundred customers, averaging about six hundred locations, and an average contract around one hundred and twenty-five thousand. Three customers were near a million a year. He said about eighty percent of customers now use it for operations, merchandise, and finance, not only for catching a thief. Around a million near 2009, around ten million near 2018. About seventy people, five of them with a sales quota. Over fifteen years the equity taken was under thirty million, and the debt at any one time stayed around five million or less. The write-up says the company was sold after that. He calls the sale a mistake. This note does not name a buyer or a price, because the source does not."
+}

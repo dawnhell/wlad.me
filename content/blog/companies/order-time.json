@@ -1,0 +1,27 @@
+{
+  "slug": "order-time",
+  "name": "Order Time",
+  "listingNote": null,
+  "description": "Stock, sales orders, purchasing, and light manufacturing, bolted onto QuickBooks, for small distributors and product businesses. Ian Benoliel is the CEO. Latka says it was founded in 2016. The homepage calls it cloud inventory and order management for QuickBooks. Hollywood, Florida.",
+  "homepage": "https://www.ordertime.com/",
+  "image": "/blog/2026-11-08/order-time.webp",
+  "imageAlt": "Order Time product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $220,000 a year as of July 2025. The company has not published revenue. In July 2025, two people list it as their employer on LinkedIn.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/ordertime"
+        }
+      ],
+      "indieAngle": "The same add-on, for a decade, next to one ledger. Xero, or a local bookkeeping tool, instead of QuickBooks."
+    }
+  ],
+  "whyItPrints": "It lives in the gap after QuickBooks inventory and before a full ledger suite. A distributor that will not pay NetSuite prices. A very small team.",
+  "whyThisMatters": "QuickBooks runs out of inventory features before a company is ready to buy a full suite. Order Time is stock, sales orders, purchasing, and a bit of manufacturing, bolted on for distributors and product businesses. Ian Benoliel is the CEO. Latka dates the start to 2016. The office is in Hollywood, Florida. The homepage calls it cloud inventory and order management for QuickBooks. GetLatka's estimate for July 2025 is about two hundred and twenty thousand a year, and the company has not published a number of its own. The same month, LinkedIn shows two people listing it as their employer. That is not a full headcount I am inventing past those two profiles. A two-person add-on that is still here a decade later is the point of the note. The same shape can sit on Xero or on a local ledger. It is not a payment sync."
+}

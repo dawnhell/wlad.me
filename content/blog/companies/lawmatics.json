@@ -1,0 +1,27 @@
+{
+  "slug": "lawmatics",
+  "name": "Lawmatics",
+  "listingNote": null,
+  "description": "Intake, a contact list, and follow-up email for small and mid-size law firms in the US. It sits next to the system that runs the case. It does not replace it. Matt Spiegel started it in 2017 in San Diego.",
+  "homepage": "https://www.lawmatics.com/",
+  "image": "/blog/2026-11-08/lawmatics.webp",
+  "imageAlt": "Lawmatics product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "In a January 2026 interview the CEO said more than $1 million a month, about 2,000 law firms, an average contract around $5,000, seat prices quoted at $60 and $400, 70 employees, and 23 engineers. Latka also lists $12.6 million a year as of December 2025, with no source recorded on that line, and $1 million in 2020. The company says it raised $7.5 million in total, a $2.5 million seed in 2020 and $5 million in 2025. The monthly claim and the $12.6 million line are not the same sentence.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/lawmatics"
+        }
+      ],
+      "indieAngle": "Intake and follow-up for one profession that has no tech staff. Notaries, immigration consultants, conveyancers. Priced per seat."
+    }
+  ],
+  "whyItPrints": "A firm pays per seat so a lead does not disappear. Most of the growth, on his account, came from showing up at live events.",
+  "whyThisMatters": "A small law firm loses money when a web lead sits in an inbox. Lawmatics is the intake form, the contact list, and the follow-up. It sits beside the software that runs the actual case. Matt Spiegel started it in San Diego in 2017. In a January 2026 interview he said the firm was past a million dollars a month, with about two thousand law-firm customers, an average contract around five thousand, and seat prices he quoted at sixty dollars and four hundred. Seventy people, twenty-three of them engineers. Growth, on his telling, came from showing up at live events. Latka's company page also lists an annual figure for December 2025, twelve point six million, and it does not record a source for that line. It lists one million in 2020 as well. A million a month and twelve point six million a year are close if you multiply, and they are still two lines. The company says it raised seven and a half million, a seed in 2020 and a larger round in 2025. None of this is a payment-company sync."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "synder",
+  "name": "Synder",
+  "listingNote": null,
+  "description": "It pulls sales from Stripe, PayPal, Shopify, and other payment and shop tools, and posts a clean entry into QuickBooks Online, QuickBooks Desktop, Xero, and others. Michael Astreiko started it in 2016 in San Francisco.",
+  "homepage": "https://synder.com/",
+  "image": "/blog/2026-11-08/synder.webp",
+  "imageAlt": "Synder product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $3.8 million a year as of October 2024, up from an estimate of about $2.7 million in December 2023. The company has not published revenue. Latka also lists about 20,000 customers, 63 employees on LinkedIn as of October 2024, and $2 million raised in June 2021. The yearly figures are estimates.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/synder"
+        }
+      ],
+      "indieAngle": "The same glue for one payment method and one ledger that this product does not cover well. A Polish bookkeeper still typing a payout into the local books."
+    }
+  ],
+  "whyItPrints": "A bookkeeper cannot match a Stripe payout to the sales by hand every week. This is the glue, sold through accountants.",
+  "whyThisMatters": "An online seller's payout is a lump of fees, refunds, and sales. The bookkeeper has to make it match the bank. Synder pulls the transactions from the payment company or the shop and posts them into QuickBooks Online, QuickBooks Desktop, Xero, or another ledger. Michael Astreiko started it in San Francisco in 2016. Accountants are the channel. GetLatka's estimate for October 2024 is about three point eight million a year, and an earlier estimate for December 2023 is about two point seven million. The company has not published either number. Latka also lists about twenty thousand customers, sixty-three employees on LinkedIn in October 2024, and two million raised in June 2021. The yearly lines are estimates from a data site. They are not a Stripe reading of Synder itself, even though Stripe is one of the things it syncs. A narrower version is one local payment method into one local ledger, which is still typed by hand in plenty of countries."
+}

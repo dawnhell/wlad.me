@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-08",
+  "title": "Sunday's boring SaaS, 8 November 2026",
+  "dek": "Sunday, 8 November 2026. All ten are self-reported. Several of those numbers are from an older interview or an estimate, so the date in the note is the date of the number.",
+  "heroId": "lake-tekapo",
+  "companies": [
+    {
+      "slug": "ecrs",
+      "name": "ECRS",
+      "listingNote": null,
+      "description": "The till and the back office for grocery stores and food shops, from a vending kiosk up to a chain. The product is called CATAPULT. Pete Catoe started it in 1989 in Boone, North Carolina.",
+      "evidenceKind": "self-reported",
+      "evidence": "In a CEO interview recorded in September 2018, the company said about $30 million a year, about 4,000 customers, about 10 percent growth, up from about $28 million the year before, and 150 or more employees. It started with $7,000 in 1989. No outside capital, and no plan to raise. The Latka write-up of that conversation was published in April 2026. No newer revenue figure turned up.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-ecrs-achieved-30m-revenue-through-strategic-growth-tactics"
+        }
+      ],
+      "homepage": "https://www.ecrs.com/",
+      "indieAngle": "A till-side back office for one kind of shop that still runs on a sticky register. A butcher, a garden centre, a farm shop. Priced like a few hundred a month, not a venture story.",
+      "whyItPrints": "A grocer does not rip out the till. Catoe says they lose 2 to 3 percent of customers a year, and that churn is not even on the radar. A kiosk is about $100 a month. A typical customer pays about $500 to $600 a month. He says the cost to win a customer is about a quarter of the first year's bill, and it pays back in about three months. No outside capital. Employees get a way out through an employee stock plan.",
+      "image": "/blog/2026-11-08/ecrs.webp",
+      "imageAlt": "ECRS product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "lawmatics",
+      "name": "Lawmatics",
+      "listingNote": null,
+      "description": "Intake, a contact list, and follow-up email for small and mid-size law firms in the US. It sits next to the system that runs the case. It does not replace it. Matt Spiegel started it in 2017 in San Diego.",
+      "evidenceKind": "self-reported",
+      "evidence": "In a January 2026 interview the CEO said more than $1 million a month, about 2,000 law firms, an average contract around $5,000, seat prices quoted at $60 and $400, 70 employees, and 23 engineers. Latka also lists $12.6 million a year as of December 2025, with no source recorded on that line, and $1 million in 2020. The company says it raised $7.5 million in total, a $2.5 million seed in 2020 and $5 million in 2025. The monthly claim and the $12.6 million line are not the same sentence.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/lawmatics"
+        }
+      ],
+      "homepage": "https://www.lawmatics.com/",
+      "indieAngle": "Intake and follow-up for one profession that has no tech staff. Notaries, immigration consultants, conveyancers. Priced per seat.",
+      "whyItPrints": "A firm pays per seat so a lead does not disappear. Most of the growth, on his account, came from showing up at live events.",
+      "image": "/blog/2026-11-08/lawmatics.webp",
+      "imageAlt": "Lawmatics product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "agilence",
+      "name": "Agilence",
+      "listingNote": null,
+      "description": "It reads a retailer's till data and looks for theft, fraud, and waste. The homepage shows names such as Rite Aid, Staples, and Spencer Gifts. It started in 2006 as video hardware for loss prevention, and moved to software in 2013.",
+      "evidenceKind": "self-reported",
+      "evidence": "In a CEO interview recorded in August 2023, revenue was $35 million, about 17 percent growth, and about $31 million the year before. About 300 customers. Average contract about $125,000. Three customers near $1 million a year. Around $1 million near 2009, and around $10 million near 2018. About 70 people, five of them carrying a sales quota. The write-up says the company was sold later. Hawkins calls that sale a mistake. The buyer and the price are not in the note.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-agilence-inc-hit-35m-revenue-by-pivoting-and-expanding-vertically"
+        }
+      ],
+      "homepage": "https://www.agilenceinc.com/",
+      "indieAngle": "A report of the odd refunds, voids, and discounts, built on the export a small chain already has from Square or Shopify. Sold to a franchisee with more than one shop.",
+      "whyItPrints": "Missing margin is a finance problem, not a trend. About 300 customers, averaging about 600 locations each, and an average contract around $125,000. Russ Hawkins says about 80 percent of customers now use it for operations, merchandise, and finance, not only for catching theft. Over 15 years they took under $30 million of equity, and debt stayed at or below about $5 million at a time.",
+      "image": "/blog/2026-11-08/agilence.webp",
+      "imageAlt": "Agilence product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "revv",
+      "name": "Revv",
+      "listingNote": null,
+      "description": "After a crash repair, it tells a body shop which driver-assistance sensors on that car need a calibration, pulls the manufacturer's procedure, and builds the packet the insurer wants. Adi Bathla started it in 2022 in New York.",
+      "evidenceKind": "self-reported",
+      "evidence": "A CEO interview, in a write-up from May 2026, says the company broke $10 million in 2025 and was at about $12 million a year at the time of the conversation. About 1,000 paying customers across 6,100 rooftops. About $12,000 a year per account. More than 60 employees. Latka also lists $1 million at the end of 2023 and $10 million at the end of 2025. A November 2024 AlleyWatch piece says $33.3 million raised in total, including a $20 million Series A. A Unite.AI interview says 5,000 or more customers and 300,000 or more repairs processed. That count is not the same as the paying-customer count.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-revs-ceo-adi-bathla-drove-revenue-to-10m-by-revolutionizing-auto-shop-workflows"
+        },
+        {
+          "label": "AlleyWatch",
+          "url": "https://www.alleywatch.com/2024/11/revv-auto-repair-ai-platform-advanced-driver-assistance-systems-adas-diagnostics-oem-knowledge-workflow-adi-bathla/"
+        },
+        {
+          "label": "Unite.AI",
+          "url": "https://www.unite.ai/adi-bathla-ceo-and-founder-of-revv-interview-series/"
+        }
+      ],
+      "homepage": "https://www.revvhq.com/",
+      "indieAngle": "A trade where a new rule means someone will not pay without a document. Sell the packet that proves the work.",
+      "whyItPrints": "The work shows up because the rules say the sensors have to be checked. A shop gets paid by the insurer when it can prove the calibration. Bathla says a customer makes about ten times what they pay for the software. It is venture-backed. The product is still the paperwork.",
+      "image": "/blog/2026-11-08/revv.webp",
+      "imageAlt": "Revv product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "evotix",
+      "name": "Evotix",
+      "listingNote": null,
+      "description": "Workplace health, safety, and environmental software. Incidents, training, assets, and contractors, for mid-size manufacturers, retailers, food companies, and housing. Network Rail has about 100,000 staff on it.",
+      "evidenceKind": "self-reported",
+      "evidence": "In January 2023 the CEO said $17 million a year, which the write-up converted from £15 million, 40 percent growth, about 160 staff, $11 million raised in total, and about six months from breakeven. In July 2022 he said 400 to 500 customers at about $25,000 average contract value. Latka lists a path of $400,000 in 2011, $1 million in 2014, $5 million in 2018, $9.6 million in 2021, $14 million in 2022, $17 million in 2023, and $47 million in December 2024 next to 280 staff. The write-up ties that $47 million to the combination with SAI360. It is not the same figure as the January 2023 interview.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-matthew-ellison-grew-evotix-revenue-to-17m-strategic-acquisitions-employee-engagement-and-controlled-growth"
+        }
+      ],
+      "homepage": "https://www.evotix.com/",
+      "indieAngle": "A small compliance tool that is already in trouble, bought and repriced for the customers who actually use it. The ones that do not pay enough get dropped.",
+      "whyItPrints": "Matt Ellison bought it in 2011 for $1. It had 200 customers, about $400,000 of revenue, and an $11 million lawsuit. He settled the lawsuit, then moved the typical contract from about $2,000 to about $25,000. Modules get added on later.",
+      "image": "/blog/2026-11-08/evotix.webp",
+      "imageAlt": "Evotix product image",
+      "imageWidth": 1200,
+      "imageHeight": 1200
+    },
+    {
+      "slug": "synder",
+      "name": "Synder",
+      "listingNote": null,
+      "description": "It pulls sales from Stripe, PayPal, Shopify, and other payment and shop tools, and posts a clean entry into QuickBooks Online, QuickBooks Desktop, Xero, and others. Michael Astreiko started it in 2016 in San Francisco.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $3.8 million a year as of October 2024, up from an estimate of about $2.7 million in December 2023. The company has not published revenue. Latka also lists about 20,000 customers, 63 employees on LinkedIn as of October 2024, and $2 million raised in June 2021. The yearly figures are estimates.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/synder"
+        }
+      ],
+      "homepage": "https://synder.com/",
+      "indieAngle": "The same glue for one payment method and one ledger that this product does not cover well. A Polish bookkeeper still typing a payout into the local books.",
+      "whyItPrints": "A bookkeeper cannot match a Stripe payout to the sales by hand every week. This is the glue, sold through accountants.",
+      "image": "/blog/2026-11-08/synder.webp",
+      "imageAlt": "Synder product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "webgility",
+      "name": "Webgility",
+      "listingNote": null,
+      "description": "It syncs orders, fees, payouts, and stock from Shopify, Amazon, eBay, Walmart, and similar shops into QuickBooks Desktop and QuickBooks Online. Parag Mamnani started it in 2007 in Scottsdale.",
+      "evidenceKind": "self-reported",
+      "evidence": "A LeadIQ figure on GetLatka estimates about $35 million a year as of November 2024. Earlier GetLatka estimates say $15.4 million in December 2023 and $22.5 million in October 2024. Those estimates do not agree, so they stay rough. Latka also lists about 5,000 customers, about 150 employees as of December 2024, and $8.9 million raised across two rounds, the last in 2017. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/webgility"
+        }
+      ],
+      "homepage": "https://www.webgility.com/",
+      "indieAngle": "One marketplace and one ledger that is still done by hand. Allegro into a Polish ledger, or Etsy into Xero.",
+      "whyItPrints": "It has been doing the QuickBooks connector job for about 19 years. Same neighbourhood as Conductor. Little funding for a company this size.",
+      "image": "/blog/2026-11-08/webgility.webp",
+      "imageAlt": "Webgility product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "order-time",
+      "name": "Order Time",
+      "listingNote": null,
+      "description": "Stock, sales orders, purchasing, and light manufacturing, bolted onto QuickBooks, for small distributors and product businesses. Ian Benoliel is the CEO. Latka says it was founded in 2016. The homepage calls it cloud inventory and order management for QuickBooks. Hollywood, Florida.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $220,000 a year as of July 2025. The company has not published revenue. In July 2025, two people list it as their employer on LinkedIn.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/ordertime"
+        }
+      ],
+      "homepage": "https://www.ordertime.com/",
+      "indieAngle": "The same add-on, for a decade, next to one ledger. Xero, or a local bookkeeping tool, instead of QuickBooks.",
+      "whyItPrints": "It lives in the gap after QuickBooks inventory and before a full ledger suite. A distributor that will not pay NetSuite prices. A very small team.",
+      "image": "/blog/2026-11-08/order-time.webp",
+      "imageAlt": "Order Time product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "stocksmith",
+      "name": "Stocksmith",
+      "listingNote": "formerly Craftybase",
+      "description": "Stock, batches, and the cost of goods for people who make small runs. Candles, soap, cosmetics, Etsy sellers. Founded 2011 in Newcastle, Australia. craftybase.com now redirects to stocksmith.io, and the site says Craftybase is now Stocksmith.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $660,000 a year as of September 2025. The company has not published revenue. LinkedIn lists 6 employees as of September 2025.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/craftybase"
+        },
+        {
+          "label": "Rebrand",
+          "url": "https://stocksmith.io/blog/craftybase-is-now-stocksmith"
+        }
+      ],
+      "homepage": "https://stocksmith.io/",
+      "indieAngle": "Batch cost plus the paperwork, for one kind of maker the rules already watch. Cosmetics that need an EU product file, or food that needs a lot number.",
+      "whyItPrints": "A maker needs the cost of each batch for tax and for pricing, and hates the spreadsheet. A small team has kept the niche going. The new name reads as a wider pitch than craft.",
+      "image": "/blog/2026-11-08/stocksmith.webp",
+      "imageAlt": "Stocksmith product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "docparser",
+      "name": "Docparser",
+      "listingNote": null,
+      "description": "It reads the same kind of PDF, Word file, or scan over and over. Invoices, purchase orders, bank statements. Rules pull the fields out and send them on. Founded 2016. Moritz Dausinger was CEO. Edina, Minnesota. Latka says it has since been acquired. The date and the price are not on the record.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $880,000 a year as of July 2025. The company has not published revenue. LinkedIn lists 8 employees as of July 2025. Latka says it was acquired, and does not name the buyer.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/docparser"
+        }
+      ],
+      "homepage": "https://docparser.com/",
+      "indieAngle": "One ugly document, parsed and priced per file. A freight invoice, or a local e-invoice format.",
+      "whyItPrints": "The templates already work, so people keep paying. This is the plumbing from before chatbots. A small team.",
+      "image": "/blog/2026-11-08/docparser.webp",
+      "imageAlt": "Docparser product image",
+      "imageWidth": 699,
+      "imageHeight": 517
+    }
+  ],
+  "honorableMentions": []
+}

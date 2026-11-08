@@ -1,0 +1,35 @@
+{
+  "slug": "revv",
+  "name": "Revv",
+  "listingNote": null,
+  "description": "After a crash repair, it tells a body shop which driver-assistance sensors on that car need a calibration, pulls the manufacturer's procedure, and builds the packet the insurer wants. Adi Bathla started it in 2022 in New York.",
+  "homepage": "https://www.revvhq.com/",
+  "image": "/blog/2026-11-08/revv.webp",
+  "imageAlt": "Revv product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "A CEO interview, in a write-up from May 2026, says the company broke $10 million in 2025 and was at about $12 million a year at the time of the conversation. About 1,000 paying customers across 6,100 rooftops. About $12,000 a year per account. More than 60 employees. Latka also lists $1 million at the end of 2023 and $10 million at the end of 2025. A November 2024 AlleyWatch piece says $33.3 million raised in total, including a $20 million Series A. A Unite.AI interview says 5,000 or more customers and 300,000 or more repairs processed. That count is not the same as the paying-customer count.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-revs-ceo-adi-bathla-drove-revenue-to-10m-by-revolutionizing-auto-shop-workflows"
+        },
+        {
+          "label": "AlleyWatch",
+          "url": "https://www.alleywatch.com/2024/11/revv-auto-repair-ai-platform-advanced-driver-assistance-systems-adas-diagnostics-oem-knowledge-workflow-adi-bathla/"
+        },
+        {
+          "label": "Unite.AI",
+          "url": "https://www.unite.ai/adi-bathla-ceo-and-founder-of-revv-interview-series/"
+        }
+      ],
+      "indieAngle": "A trade where a new rule means someone will not pay without a document. Sell the packet that proves the work."
+    }
+  ],
+  "whyItPrints": "The work shows up because the rules say the sensors have to be checked. A shop gets paid by the insurer when it can prove the calibration. Bathla says a customer makes about ten times what they pay for the software. It is venture-backed. The product is still the paperwork.",
+  "whyThisMatters": "A modern car has sensors that have to be checked after a repair, or the insurer will not pay. Revv looks up the car, says which calibrations that vehicle needs, pulls the manufacturer's steps, and builds the packet. Adi Bathla started it in New York in 2022. It is venture-backed, not a bootstrap. A write-up of a CEO interview, dated May 2026, says they broke ten million in 2025 and were around twelve million a year when they talked. About a thousand paying customers, spread across sixty-one hundred rooftops, about twelve thousand a year per account, and more than sixty employees. Latka also lists one million at the end of 2023 and ten million at the end of 2025. AlleyWatch, in November 2024, says thirty-three point three million raised, including a twenty million Series A. A Unite.AI interview counts five thousand or more customers and three hundred thousand or more repairs. That is a different count from the paying shops. Bathla says a shop makes about ten times the software bill. The screenshot of the homepage still has a cookie banner on it. The product is the paperwork."
+}

@@ -438,5 +438,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_sunrise.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "lake-tekapo",
+    "src": "/blog/heroes/lake-tekapo.webp",
+    "alt": "Lake Tekapo in New Zealand",
+    "width": 1120,
+    "height": 708,
+    "credit": "Krzysztof Golik",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Lake_Tekapo_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

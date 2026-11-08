@@ -1,0 +1,27 @@
+{
+  "slug": "evotix",
+  "name": "Evotix",
+  "listingNote": null,
+  "description": "Workplace health, safety, and environmental software. Incidents, training, assets, and contractors, for mid-size manufacturers, retailers, food companies, and housing. Network Rail has about 100,000 staff on it.",
+  "homepage": "https://www.evotix.com/",
+  "image": "/blog/2026-11-08/evotix.webp",
+  "imageAlt": "Evotix product image",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "In January 2023 the CEO said $17 million a year, which the write-up converted from £15 million, 40 percent growth, about 160 staff, $11 million raised in total, and about six months from breakeven. In July 2022 he said 400 to 500 customers at about $25,000 average contract value. Latka lists a path of $400,000 in 2011, $1 million in 2014, $5 million in 2018, $9.6 million in 2021, $14 million in 2022, $17 million in 2023, and $47 million in December 2024 next to 280 staff. The write-up ties that $47 million to the combination with SAI360. It is not the same figure as the January 2023 interview.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-matthew-ellison-grew-evotix-revenue-to-17m-strategic-acquisitions-employee-engagement-and-controlled-growth"
+        }
+      ],
+      "indieAngle": "A small compliance tool that is already in trouble, bought and repriced for the customers who actually use it. The ones that do not pay enough get dropped."
+    }
+  ],
+  "whyItPrints": "Matt Ellison bought it in 2011 for $1. It had 200 customers, about $400,000 of revenue, and an $11 million lawsuit. He settled the lawsuit, then moved the typical contract from about $2,000 to about $25,000. Modules get added on later.",
+  "whyThisMatters": "Factories, shops, food companies, and housing associations have to record incidents, training, and contractors. Evotix is that record. Network Rail has about a hundred thousand staff on it. Matt Ellison bought the company in 2011 for one dollar. It had two hundred customers, about four hundred thousand of revenue, and an eleven million dollar lawsuit. He settled the lawsuit. He then moved a typical contract from about two thousand to about twenty-five thousand, and sold extra modules on top. In January 2023 he said seventeen million a year, which the write-up converted from fifteen million pounds, forty percent growth, about one hundred and sixty staff, eleven million raised, and about six months from breaking even. In July 2022 the customer count was four hundred to five hundred. Latka lists a staircase of yearly figures from 2011 through 2023, and then forty-seven million in December 2024 beside two hundred and eighty staff. The write-up ties that last number to combining with SAI360. It is not the January 2023 interview. I am not treating the staircase as one smooth total."
+}

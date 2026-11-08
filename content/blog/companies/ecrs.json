@@ -1,0 +1,27 @@
+{
+  "slug": "ecrs",
+  "name": "ECRS",
+  "listingNote": null,
+  "description": "The till and the back office for grocery stores and food shops, from a vending kiosk up to a chain. The product is called CATAPULT. Pete Catoe started it in 1989 in Boone, North Carolina.",
+  "homepage": "https://www.ecrs.com/",
+  "image": "/blog/2026-11-08/ecrs.webp",
+  "imageAlt": "ECRS product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "In a CEO interview recorded in September 2018, the company said about $30 million a year, about 4,000 customers, about 10 percent growth, up from about $28 million the year before, and 150 or more employees. It started with $7,000 in 1989. No outside capital, and no plan to raise. The Latka write-up of that conversation was published in April 2026. No newer revenue figure turned up.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/how-ecrs-achieved-30m-revenue-through-strategic-growth-tactics"
+        }
+      ],
+      "indieAngle": "A till-side back office for one kind of shop that still runs on a sticky register. A butcher, a garden centre, a farm shop. Priced like a few hundred a month, not a venture story."
+    }
+  ],
+  "whyItPrints": "A grocer does not rip out the till. Catoe says they lose 2 to 3 percent of customers a year, and that churn is not even on the radar. A kiosk is about $100 a month. A typical customer pays about $500 to $600 a month. He says the cost to win a customer is about a quarter of the first year's bill, and it pays back in about three months. No outside capital. Employees get a way out through an employee stock plan.",
+  "whyThisMatters": "A grocery till stays put for years. ECRS is that till and the office behind it, under the name CATAPULT, from a kiosk up to a chain of stores. Pete Catoe started it in Boone, North Carolina, in 1989, with seven thousand dollars and no investors. He still was not planning to raise when he sat for the interview. Employees get liquidity through an employee stock plan instead. He said they lose only a few percent of customers a year, and that the loss is not something they watch. A kiosk is a small monthly bill. A typical grocer pays several hundred a month. Winning a customer costs about a quarter of the first year's bill and comes back in about three months, on his account. The revenue conversation is from September 2018. About thirty million a year, about four thousand customers, about ten percent growth, up from a slightly lower year, and more than one hundred and fifty people. Latka published the write-up in April 2026. Nobody found a newer revenue number. So this note is dated to 2018, not to this week."
+}

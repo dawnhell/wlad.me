@@ -1,0 +1,31 @@
+{
+  "slug": "stocksmith",
+  "name": "Stocksmith",
+  "listingNote": "formerly Craftybase",
+  "description": "Stock, batches, and the cost of goods for people who make small runs. Candles, soap, cosmetics, Etsy sellers. Founded 2011 in Newcastle, Australia. craftybase.com now redirects to stocksmith.io, and the site says Craftybase is now Stocksmith.",
+  "homepage": "https://stocksmith.io/",
+  "image": "/blog/2026-11-08/stocksmith.webp",
+  "imageAlt": "Stocksmith product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-08",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $660,000 a year as of September 2025. The company has not published revenue. LinkedIn lists 6 employees as of September 2025.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/craftybase"
+        },
+        {
+          "label": "Rebrand",
+          "url": "https://stocksmith.io/blog/craftybase-is-now-stocksmith"
+        }
+      ],
+      "indieAngle": "Batch cost plus the paperwork, for one kind of maker the rules already watch. Cosmetics that need an EU product file, or food that needs a lot number."
+    }
+  ],
+  "whyItPrints": "A maker needs the cost of each batch for tax and for pricing, and hates the spreadsheet. A small team has kept the niche going. The new name reads as a wider pitch than craft.",
+  "whyThisMatters": "A person making soap in small runs needs to know what the batch cost, for the tax return and for the price on the jar. Stocksmith tracks the materials, the batch, and that cost. It was Craftybase, started in 2011 in Newcastle, Australia. The old address now redirects, and the site says Craftybase is now Stocksmith. The new name reads as a wider pitch than craft fairs and Etsy. GetLatka estimates about six hundred and sixty thousand a year as of September 2025. The company has not published that. LinkedIn lists six employees that month. A small team, a long niche, and a rebrand. The paperwork version of the same job is a maker the rules already watch, such as cosmetics that need a product file or food that needs a lot number. This note does not turn the estimate into the company's own books."
+}
