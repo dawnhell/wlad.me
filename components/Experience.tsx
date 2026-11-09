@@ -18,6 +18,39 @@ interface ExperienceProps {
   experience: ExperienceItem[]
 }
 
+const FOUNDER_APPS = [
+  {
+    ...FOUNDER_PRODUCTS.gamezz,
+    description:
+      'Puzzles, arcade, racing, and platform. Open one in the tab. No account, and the score stays in the browser.',
+    stack: 'TanStack Start, React 19, Tailwind CSS, shadcn/ui',
+  },
+  {
+    ...FOUNDER_PRODUCTS.numby,
+    description:
+      'Drop a PDF statement or invoice, check the rows, then download Excel, CSV, or an e-invoice. The file is deleted when the conversion finishes.',
+    stack: 'Next.js 16, React 19, Supabase, Resend, shadcn/ui',
+  },
+  {
+    ...FOUNDER_PRODUCTS.complience,
+    description:
+      'Paste a URL, get WCAG issues plus cookies that fire before Accept, send a client-ready PDF, then re-run it on a schedule.',
+    stack: 'Next.js 16, React 19, Playwright, axe-core, Supabase, Stripe, Resend',
+  },
+  {
+    ...FOUNDER_PRODUCTS.nextbento,
+    description:
+      'Auth, Stripe, emails, teams, a dashboard, and docs. Clone it, configure it, and ship. It also comes with AI skills for Cursor and Claude Code.',
+    stack: 'Next.js 16, React 19, Supabase, Stripe, Resend, shadcn/ui',
+  },
+  {
+    ...FOUNDER_PRODUCTS.eventdash,
+    description:
+      'Cookieless analytics for small teams. A lightweight tracker, funnels, and Core Web Vitals.',
+    stack: 'Next.js, React, TypeScript, MCP',
+  },
+] as const
+
 const MY_EXPERIENCE: ExperienceItem[] = [
   {
     title: 'Senior UI Engineer',
@@ -68,111 +101,35 @@ const MY_EXPERIENCE: ExperienceItem[] = [
   },
   {
     title: 'Founder',
-    details: 'Indie Product',
-    period: 'Oct 2026 - Present',
-    company: FOUNDER_PRODUCTS.gamezz.name,
-    companyUrl: FOUNDER_PRODUCTS.gamezz.url,
-    logo: FOUNDER_PRODUCTS.gamezz.logo,
-    description: (
-      <>
-        <span>
-          Free browser games. Puzzles, arcade, racing, and platform. Open one
-          in the tab. No account, and the score stays in the browser.
-        </span>
-      </>
-    ),
-    technologies: ['TanStack Start, React 19', 'Tailwind CSS', 'shadcn/ui'],
-  },
-  {
-    title: 'Founder',
-    details: 'Indie Product',
-    period: 'Sep 2026 - Present',
-    company: FOUNDER_PRODUCTS.numby.name,
-    companyUrl: FOUNDER_PRODUCTS.numby.url,
-    logo: FOUNDER_PRODUCTS.numby.logo,
-    description: (
-      <>
-        <span>
-          Bank statement and invoice converter. Drop a PDF, check the rows,
-          then download Excel, CSV, or an e-invoice. The file is deleted when
-          the conversion finishes.
-        </span>
-      </>
-    ),
-    technologies: [
-      'Next.js 16, React 19',
-      'Supabase, Resend',
-      'shadcn/ui',
-      'PDF, Excel, CSV, e-invoice',
-    ],
-  },
-  {
-    title: 'Founder',
-    details: 'Indie Product • SaaS',
-    period: 'Sep 2026 - Present',
-    company: FOUNDER_PRODUCTS.complience.name,
-    companyUrl: FOUNDER_PRODUCTS.complience.url,
-    logo: FOUNDER_PRODUCTS.complience.logo,
-    description: (
-      <>
-        <span>
-          Website accessibility checker for site owners and agencies. Paste a
-          URL, get WCAG issues plus cookies that fire before Accept, send a
-          client-ready PDF, then re-run it on a schedule.
-        </span>
-      </>
-    ),
-    technologies: [
-      'Next.js 16, React 19',
-      'Playwright, axe-core',
-      'Supabase, Stripe, Resend',
-      'WCAG 2.2, cookie evidence',
-    ],
-  },
-  {
-    title: 'Founder',
-    details: 'Indie Product • SaaS',
-    period: 'Jan 2026 - Present',
-    company: FOUNDER_PRODUCTS.nextbento.name,
-    companyUrl: FOUNDER_PRODUCTS.nextbento.url,
-    logo: FOUNDER_PRODUCTS.nextbento.logo,
-    description: (
-      <>
-        <span>
-          Next.js 16 SaaS boilerplate for indie hackers. Auth, Stripe, emails,
-          teams, dashboard, docs, SEO—clone, configure, ship. Ships with 9 AI
-          skills for Cursor, Claude Code, and other AI-powered IDEs.
-        </span>
-      </>
-    ),
-    technologies: [
-      'Next.js 16, React 19',
-      'Supabase, Stripe, Resend',
-      'shadcn/ui',
-      'Programmatic SEO, schema markup',
-    ],
-  },
-  {
-    title: 'Founder',
-    details: 'Indie Product • SaaS',
+    details: 'Indie products',
     period: 'Dec 2025 - Present',
-    company: FOUNDER_PRODUCTS.eventdash.name,
-    companyUrl: FOUNDER_PRODUCTS.eventdash.url,
-    logo: FOUNDER_PRODUCTS.eventdash.logo,
+    company: '',
+    logo: '/favicon-32x32.png',
     description: (
-      <>
-        <span>
-          Cookieless product analytics for small teams. Lightweight tracker,
-          HTML goal attributes, funnels, and Core Web Vitals—without the GA4
-          complexity.
-        </span>
-      </>
+      <ul className="flex flex-col gap-4">
+        {FOUNDER_APPS.map((product) => (
+          <li key={product.name} className="flex items-start gap-3">
+            <CompanyMark src={product.logo} name={product.name} />
+            <span className="flex min-w-0 flex-col gap-1">
+              <a
+                href={product.url}
+                target="_blank"
+                rel="noreferrer"
+                className="text-link w-fit text-sm"
+              >
+                {product.name}
+              </a>
+              <span>{product.description}</span>
+              <span>
+                <span className="font-medium text-foreground">Tech stack:</span>{' '}
+                {product.stack}
+              </span>
+            </span>
+          </li>
+        ))}
+      </ul>
     ),
-    technologies: [
-      'Next.js, React, TypeScript',
-      'Privacy-first analytics, MCP',
-      'Funnels, goals, custom events',
-    ],
+    technologies: [],
   },
   {
     title: 'Senior UI Engineer',
@@ -406,7 +363,7 @@ const ExperienceItem: FC<ExperienceProps> = ({ experience }) => {
           idx
         ) => (
           <article
-            key={`${company}-${period}`}
+            key={`${title}-${period}`}
             className="cv-role grid grid-cols-[2rem_minmax(0,1fr)] gap-x-4 pb-8 last:pb-0"
           >
             <div className="relative flex justify-center">
@@ -423,9 +380,11 @@ const ExperienceItem: FC<ExperienceProps> = ({ experience }) => {
                 <div className="flex flex-col gap-2 text-sm leading-relaxed text-muted-foreground">
                   {description}
                 </div>
-                <p className="text-sm leading-relaxed text-muted-foreground">
-                  {technologies.join(' · ')}
-                </p>
+                {technologies.length > 0 ? (
+                  <p className="text-sm leading-relaxed text-muted-foreground">
+                    {technologies.join(' · ')}
+                  </p>
+                ) : null}
               </div>
 
               <div className="text-left md:w-1/3 md:text-right">
@@ -439,9 +398,9 @@ const ExperienceItem: FC<ExperienceProps> = ({ experience }) => {
                   >
                     {company}
                   </a>
-                ) : (
+                ) : company ? (
                   <p className="text-sm text-muted-foreground">{company}</p>
-                )}
+                ) : null}
               </div>
             </div>
           </article>
