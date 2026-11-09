@@ -1,0 +1,35 @@
+{
+  "slug": "skimmer",
+  "name": "Skimmer",
+  "listingNote": null,
+  "description": "The route, the chemical log, the service report, and the recurring bill, for a pool-cleaning company. Austin.",
+  "homepage": "https://www.getskimmer.com/",
+  "image": "/blog/2026-11-09/skimmer.webp",
+  "imageAlt": "Skimmer product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-09",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says nearly 7,000 customers, more than 30,000 pool pros served, and more than 900,000 pools managed. In November 2024 it said 528 percent growth over three years, on the Deloitte Fast 500. GetLatka estimates about $5.7 million a year as of September 2025, with 52 employees. The customer counts are the company's. The yearly figure is an estimate.",
+      "sources": [
+        {
+          "label": "Skimmer",
+          "url": "https://www.getskimmer.com/enterprise"
+        },
+        {
+          "label": "Fast 500",
+          "url": "https://www.getskimmer.com/blog/skimmer-makes-deloittes-list-of-fastest-growing-companies-in-north-america"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/getskimmer.com"
+        }
+      ],
+      "indieAngle": "Any job that is the same house every week. Windows, bins, aquariums. Same shape, fewer products already there."
+    }
+  ],
+  "whyItPrints": "The same pools get a visit every week, so the software gets opened every week.",
+  "whyThisMatters": "A pool route is the same drive, the same chemicals, and the same invoice, every week. Skimmer is the route, the chemical log, the note the customer sees, and the bill that goes out again. It is in Austin. The company says nearly seven thousand customers, more than thirty thousand pool pros have used it, and it sits on more than nine hundred thousand pools. In November 2024 they pointed at five hundred and twenty-eight percent growth over three years, on the Deloitte Fast 500. That percentage is a growth badge, not a revenue line. GetLatka estimates about five point seven million a year as of September 2025, with fifty-two employees. I am not turning the pool count into that estimate. The counts are what the company published. The yearly number is a data site. The same weekly visit exists for windows, bins, and fish tanks, with fewer products already sitting on the van's phone. The customer counts live on the enterprise page, and the Fast 500 line lives on their blog, so those two company claims have two links. The yearly estimate has its own link, on Latka, and it is dated September 2025."
+}

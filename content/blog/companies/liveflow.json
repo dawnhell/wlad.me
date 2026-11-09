@@ -1,0 +1,31 @@
+{
+  "slug": "liveflow",
+  "name": "LiveFlow",
+  "listingNote": null,
+  "description": "It pipes QuickBooks, bank, and revenue data into a spreadsheet that refreshes itself, for planning, consolidations, and dashboards. Redwood City. Founded 2021. Not bootstrapped.",
+  "homepage": "https://liveflow.com/",
+  "image": "/blog/2026-11-09/liveflow.webp",
+  "imageAlt": "LiveFlow product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-09",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo estimates about $6.7 million a year as of September 2025, with 52 employees, and that estimate is also shown on GetLatka. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/liveflow.com"
+        },
+        {
+          "label": "Growjo",
+          "url": "https://growjo.com/company/LiveFlow"
+        }
+      ],
+      "indieAngle": "One report, refreshed into a sheet, for a fixed monthly fee. Thirteen weeks of cash, or a profit-and-loss across several companies."
+    }
+  ],
+  "whyItPrints": "Accountants are not leaving the spreadsheet. They will pay for a spreadsheet that is less stale.",
+  "whyThisMatters": "A finance person will not abandon the sheet. LiveFlow sends QuickBooks, the bank, and revenue numbers into Google Sheets or Excel, and the sheet updates itself, for a forecast, a consolidation, or a dashboard. Redwood City. Founded in 2021, and it is not a bootstrap. Growjo estimates about six point seven million a year as of September 2025, with fifty-two employees, and GetLatka shows the same estimate. The company has not published revenue. I am not treating a data site as their books. A narrower version is one report on a timer. Thirteen weeks of cash, or the profit and loss of several companies, refreshed into a sheet for a flat monthly fee. The accountant keeps the tool they already trust. GetLatka is showing the Growjo estimate, not a second measurement that happens to match. One guess, printed in two places. The headcount sits on that same estimate. A 2021 start means the guess covers a short life, and they took outside money. The sheet is the product because that is where the accountant already works, whether the job is a forecast or several companies added together."
+}

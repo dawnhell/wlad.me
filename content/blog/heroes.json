@@ -449,5 +449,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Lake_Tekapo_01.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "crater-lake",
+    "src": "/blog/heroes/crater-lake.webp",
+    "alt": "Crater Lake in Oregon",
+    "width": 1600,
+    "height": 800,
+    "credit": "Serena-Wilderness",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Crater_Lake_Refraction.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

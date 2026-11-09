@@ -1,0 +1,31 @@
+{
+  "slug": "planning-center",
+  "name": "Planning Center",
+  "listingNote": null,
+  "description": "Service planning, volunteer schedules, check-in, giving, and the people list, for churches. Eleven products. Two church staffers started it in 2006 to replace their own Sunday spreadsheet. Carlsbad. Founder-owned, no funding, debt-free, no sales team, and locked as not for sale through a foundation.",
+  "homepage": "https://www.planningcenter.com/",
+  "image": "/blog/2026-11-09/planning-center.webp",
+  "imageAlt": "Planning Center product image",
+  "imageWidth": 1130,
+  "imageHeight": 1130,
+  "mentions": [
+    {
+      "date": "2026-11-09",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says 78,000 active churches, 4 million active users, 200 or more employees, and more than $34 billion in donations processed. It does not publish revenue. Those donations are money that passed through the giving tool, not Planning Center's own revenue. RocketReach estimates about $19.4 million a year in 2026. That is a rough guess next to a staff of 200 or more.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://www.planningcenter.com/about"
+        },
+        {
+          "label": "RocketReach",
+          "url": "https://rocketreach.co/planning-center-profile_b5d6f494f42e33cb"
+        }
+      ],
+      "indieAngle": "One Sunday job, done plainly. The bulletin, the translation, the kids' check-in. It can move from one church to the next without a sales team."
+    }
+  ],
+  "whyItPrints": "Sunday happens every week. The same volunteers, the same check-in, the same giving. A church tells the next church.",
+  "whyThisMatters": "Sunday is a weekly operation. Who is singing, who is in the nursery, who checked in, and what landed in the plate. Planning Center is eleven products for that week: the service plan, the volunteers, check-in, giving, and the people list. Two people on a church staff started it in 2006, in Carlsbad, because their spreadsheet was the system. It is still founder-owned. They did not take funding, they say they are debt-free, they have no sales team, and a foundation locks it as not for sale. The about page says seventy-eight thousand active churches, four million active users, and two hundred or more employees. It also says more than thirty-four billion has been processed as donations. That money belonged to the churches. It is not Planning Center's revenue, and they do not publish a revenue number. RocketReach guesses about nineteen point four million a year for 2026. Next to a staff of two hundred, that guess is rough, and I am not promoting it to a company figure. One Sunday job, the bulletin or the kids' check-in, is enough of a product to move from one church to the next by word of mouth."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "qqube",
+  "name": "QQube",
+  "listingNote": "by CLEARIFY",
+  "description": "It pulls QuickBooks Desktop into about 40 ready-made reports, with more than 5,700 measures, for Excel, Power BI, Tableau, Access, and Crystal Reports. On sale since 2010, for a controller who is still on the desktop file and needs a real report, including several companies in one view.",
+  "homepage": "https://clearify.com/",
+  "image": "/blog/2026-11-09/qqube.webp",
+  "imageAlt": "QQube product image",
+  "imageWidth": 1024,
+  "imageHeight": 342,
+  "mentions": [
+    {
+      "date": "2026-11-09",
+      "evidenceKind": "self-reported",
+      "evidence": "No revenue figure was published. The price list on the company site is $550 the first year and $195 a year to renew for one person, up to $1,950 the first year and $685 to renew for a ten-person licence, plus add-ons for extra companies up to $995.",
+      "sources": [
+        {
+          "label": "Pricing",
+          "url": "https://clearify.com/qqube/qqube-for-quickbooks-pricing/"
+        },
+        {
+          "label": "CLEARIFY",
+          "url": "https://clearify.com/"
+        }
+      ],
+      "indieAngle": "The same reporting job, for QuickBooks Online or Xero, when several companies have to land in one view."
+    }
+  ],
+  "whyItPrints": "The desktop file is still where the books live. The report they want is not in that file. They have been paying for the extract since 2010.",
+  "whyThisMatters": "QuickBooks Desktop holds the transactions and a thin report. QQube, from CLEARIFY, pulls that file into about forty ready-made models, with more than five thousand seven hundred measures, for Excel, Power BI, Tableau, Access, and Crystal Reports. It has been sold since 2010 to a controller who needs a real report, including several companies in one view. No revenue figure was published, so this note does not invent one. The public price is a first year and then a renewal, for one person, and a higher pair of prices for a ten-person licence, plus add-ons when there is more than one company file. That is a price list, not a total of what they collect. The interesting leftover is the same job after the desktop era. QuickBooks Online, or Xero, when several companies have to land in one report and nobody wants to export them by hand."
+}

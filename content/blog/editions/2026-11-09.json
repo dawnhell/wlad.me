@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-09",
+  "title": "Monday's boring SaaS, 9 November 2026",
+  "dek": "Monday, 9 November 2026. All nine are self-reported. Several of those numbers are an estimate or from an older year, and QQube has a price list instead of a revenue figure.",
+  "heroId": "crater-lake",
+  "companies": [
+    {
+      "slug": "spectora",
+      "name": "Spectora",
+      "listingNote": null,
+      "description": "The report, the schedule, the agreement, and the payment, for a home inspector. Kevin Wagstaff built it as his first product. Denver.",
+      "evidenceKind": "self-reported",
+      "evidence": "Kevin Wagstaff, in an Indie Hackers post from 2 January 2026, says Spectora grew to $10 million a year, he sold half his stake to a private equity firm in 2023 at a $90 million valuation and another 10 percent in 2024 at a $110 million valuation, did roughly $30 million in 2025, and expects to end 2026 at $40 million. The $40 million is what he expects, not a result. GetLatka still shows an estimate of about $5.9 million a year as of September 2025, with 54 employees, which sits well below the founder's own figure.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/tech/hitting-30m-arr-with-the-first-product-he-built-oJ1E1ukp60M7OZZXl2AJ"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/spectora.com"
+        }
+      ],
+      "homepage": "https://www.spectora.com/",
+      "indieAngle": "A licensed trade that has to write a report. Radon, mold, septic, chimney, elevator. Own the report and the booking around it.",
+      "whyItPrints": "A house sale in the US comes with an inspection. The inspector is often one person, and they would rather not fight a Word template.",
+      "image": "/blog/2026-11-09/spectora.webp",
+      "imageAlt": "Spectora product image",
+      "imageWidth": 797,
+      "imageHeight": 735
+    },
+    {
+      "slug": "skimmer",
+      "name": "Skimmer",
+      "listingNote": null,
+      "description": "The route, the chemical log, the service report, and the recurring bill, for a pool-cleaning company. Austin.",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says nearly 7,000 customers, more than 30,000 pool pros served, and more than 900,000 pools managed. In November 2024 it said 528 percent growth over three years, on the Deloitte Fast 500. GetLatka estimates about $5.7 million a year as of September 2025, with 52 employees. The customer counts are the company's. The yearly figure is an estimate.",
+      "sources": [
+        {
+          "label": "Skimmer",
+          "url": "https://www.getskimmer.com/enterprise"
+        },
+        {
+          "label": "Fast 500",
+          "url": "https://www.getskimmer.com/blog/skimmer-makes-deloittes-list-of-fastest-growing-companies-in-north-america"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/getskimmer.com"
+        }
+      ],
+      "homepage": "https://www.getskimmer.com/",
+      "indieAngle": "Any job that is the same house every week. Windows, bins, aquariums. Same shape, fewer products already there.",
+      "whyItPrints": "The same pools get a visit every week, so the software gets opened every week.",
+      "image": "/blog/2026-11-09/skimmer.webp",
+      "imageAlt": "Skimmer product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "gorilladesk",
+      "name": "GorillaDesk",
+      "listingNote": null,
+      "description": "Scheduling, routing, invoicing, renewals, and the chemical-application record, for pest control companies. The founder ran his own pest control business for seven years. Boca Raton. Bootstrapped.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $880,000 a year as of September 2025, with 8 employees. A LinkedIn-derived profile shows $5 million, which conflicts, so both stay guesses. A Venture Radar note says 3,100 or more customers and bootstrapped. A review site says an 11-person bootstrapped team that is profitable. The headcounts do not match.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/gorilladesk.com"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/gorilladesk"
+        },
+        {
+          "label": "Venture Radar",
+          "url": "https://substack.com/@ventureradar/note/c-283090208"
+        },
+        {
+          "label": "LawnCrewPro",
+          "url": "https://lawncrewpro.com/software/gorilladesk-review/"
+        }
+      ],
+      "homepage": "https://gorilladesk.com/",
+      "indieAngle": "A record a regulator asks for. Chemical logs, backflow tests. That record is the way into the rest of the trade's day.",
+      "whyItPrints": "The rules say you write down the chemicals. A generic calendar does not do that record. A small team, no outside capital mentioned.",
+      "image": "/blog/2026-11-09/gorilladesk.webp",
+      "imageAlt": "GorillaDesk product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "gingr",
+      "name": "Gingr",
+      "listingNote": null,
+      "description": "Booking, check-in, vaccine records, report cards, and payments, for dog daycares and boarding kennels. Boulder.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $5.5 million a year as of September 2025, with 50 employees. The company has not published revenue. The same Latka category lists several smaller kennel tools, with estimates from about $100,000 to $5 million, so more than one product sits in the niche.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/gingrapp.com"
+        }
+      ],
+      "homepage": "https://www.gingrapp.com/",
+      "indieAngle": "The vaccine record and the reminder, sold on its own, even if someone else already does the booking.",
+      "whyItPrints": "A daycare has to know which dog is allowed in, and how many dogs the room can hold. People keep paying for the dog even when other spending drops.",
+      "image": "/blog/2026-11-09/gingr.webp",
+      "imageAlt": "Gingr product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "planning-center",
+      "name": "Planning Center",
+      "listingNote": null,
+      "description": "Service planning, volunteer schedules, check-in, giving, and the people list, for churches. Eleven products. Two church staffers started it in 2006 to replace their own Sunday spreadsheet. Carlsbad. Founder-owned, no funding, debt-free, no sales team, and locked as not for sale through a foundation.",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says 78,000 active churches, 4 million active users, 200 or more employees, and more than $34 billion in donations processed. It does not publish revenue. Those donations are money that passed through the giving tool, not Planning Center's own revenue. RocketReach estimates about $19.4 million a year in 2026. That is a rough guess next to a staff of 200 or more.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://www.planningcenter.com/about"
+        },
+        {
+          "label": "RocketReach",
+          "url": "https://rocketreach.co/planning-center-profile_b5d6f494f42e33cb"
+        }
+      ],
+      "homepage": "https://www.planningcenter.com/",
+      "indieAngle": "One Sunday job, done plainly. The bulletin, the translation, the kids' check-in. It can move from one church to the next without a sales team.",
+      "whyItPrints": "Sunday happens every week. The same volunteers, the same check-in, the same giving. A church tells the next church.",
+      "image": "/blog/2026-11-09/planning-center.webp",
+      "imageAlt": "Planning Center product image",
+      "imageWidth": 1130,
+      "imageHeight": 1130
+    },
+    {
+      "slug": "method-crm",
+      "name": "Method:CRM",
+      "listingNote": null,
+      "description": "A contact list, estimates, and a portal that stay in sync with QuickBooks Online, QuickBooks Desktop, and Xero. Toronto. It has lived in that gap for 14 years or more.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka lists $5.1 million a year as of August 2020, with the source not recorded, $8 million raised over 4 rounds, and 99 employees as of December 2024. A hiring write-up, summarizing Method's own materials, says 18,000+ users, 10,000+ QuickBooks businesses, and that revenue doubled over the past three years. It does not give the dollar amount of that doubling. The 2020 yearly figure is old.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/methodcrm"
+        },
+        {
+          "label": "ZeroGTalent",
+          "url": "https://zerogtalent.com/blog/method-s-hiring-surge-11-open-roles-and-what-it-takes-to-pass-its-screening"
+        }
+      ],
+      "homepage": "https://www.method.me/",
+      "indieAngle": "One QuickBooks object the books will never do well. Estimates, jobs, stock. Sync it deeply enough that nobody retypes it.",
+      "whyItPrints": "The books stay in QuickBooks. The salesperson still needs a place for the customer. Nobody wants to type the same estimate twice.",
+      "image": "/blog/2026-11-09/method-crm.webp",
+      "imageAlt": "Method:CRM product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "liveflow",
+      "name": "LiveFlow",
+      "listingNote": null,
+      "description": "It pipes QuickBooks, bank, and revenue data into a spreadsheet that refreshes itself, for planning, consolidations, and dashboards. Redwood City. Founded 2021. Not bootstrapped.",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo estimates about $6.7 million a year as of September 2025, with 52 employees, and that estimate is also shown on GetLatka. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/liveflow.com"
+        },
+        {
+          "label": "Growjo",
+          "url": "https://growjo.com/company/LiveFlow"
+        }
+      ],
+      "homepage": "https://liveflow.com/",
+      "indieAngle": "One report, refreshed into a sheet, for a fixed monthly fee. Thirteen weeks of cash, or a profit-and-loss across several companies.",
+      "whyItPrints": "Accountants are not leaving the spreadsheet. They will pay for a spreadsheet that is less stale.",
+      "image": "/blog/2026-11-09/liveflow.webp",
+      "imageAlt": "LiveFlow product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "jetpack-workflow",
+      "name": "Jetpack Workflow",
+      "listingNote": null,
+      "description": "Recurring job templates, deadlines, and who is busy, for a small accounting or bookkeeping firm. Pittsburgh.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka lists $852,200 a year as of April 2021, with the source not recorded. A later estimate on the same site is about $818,100 a year as of October 2023, with 6,000 customers, and headcount down from 16 in 2021 to 9 in October 2024. The same page lists Karbon at $109.4 million as the large competitor. That figure is Karbon's estimate, not Jetpack's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/jetpack-workflow"
+        }
+      ],
+      "homepage": "https://jetpackworkflow.com/",
+      "indieAngle": "A small, cheap tracker can sit next to a much larger firm tool if it stays simple. The category also looks flat, so the opening is one kind of firm.",
+      "whyItPrints": "Month-end and tax day come back forever. Firms pay so that list is not an Excel file.",
+      "image": "/blog/2026-11-09/jetpack-workflow.webp",
+      "imageAlt": "Jetpack Workflow product image",
+      "imageWidth": 1200,
+      "imageHeight": 593
+    },
+    {
+      "slug": "qqube",
+      "name": "QQube",
+      "listingNote": "by CLEARIFY",
+      "description": "It pulls QuickBooks Desktop into about 40 ready-made reports, with more than 5,700 measures, for Excel, Power BI, Tableau, Access, and Crystal Reports. On sale since 2010, for a controller who is still on the desktop file and needs a real report, including several companies in one view.",
+      "evidenceKind": "self-reported",
+      "evidence": "No revenue figure was published. The price list on the company site is $550 the first year and $195 a year to renew for one person, up to $1,950 the first year and $685 to renew for a ten-person licence, plus add-ons for extra companies up to $995.",
+      "sources": [
+        {
+          "label": "Pricing",
+          "url": "https://clearify.com/qqube/qqube-for-quickbooks-pricing/"
+        },
+        {
+          "label": "CLEARIFY",
+          "url": "https://clearify.com/"
+        }
+      ],
+      "homepage": "https://clearify.com/",
+      "indieAngle": "The same reporting job, for QuickBooks Online or Xero, when several companies have to land in one view.",
+      "whyItPrints": "The desktop file is still where the books live. The report they want is not in that file. They have been paying for the extract since 2010.",
+      "image": "/blog/2026-11-09/qqube.webp",
+      "imageAlt": "QQube product image",
+      "imageWidth": 1024,
+      "imageHeight": 342
+    }
+  ],
+  "honorableMentions": []
+}

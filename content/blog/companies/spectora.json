@@ -1,0 +1,31 @@
+{
+  "slug": "spectora",
+  "name": "Spectora",
+  "listingNote": null,
+  "description": "The report, the schedule, the agreement, and the payment, for a home inspector. Kevin Wagstaff built it as his first product. Denver.",
+  "homepage": "https://www.spectora.com/",
+  "image": "/blog/2026-11-09/spectora.webp",
+  "imageAlt": "Spectora product image",
+  "imageWidth": 797,
+  "imageHeight": 735,
+  "mentions": [
+    {
+      "date": "2026-11-09",
+      "evidenceKind": "self-reported",
+      "evidence": "Kevin Wagstaff, in an Indie Hackers post from 2 January 2026, says Spectora grew to $10 million a year, he sold half his stake to a private equity firm in 2023 at a $90 million valuation and another 10 percent in 2024 at a $110 million valuation, did roughly $30 million in 2025, and expects to end 2026 at $40 million. The $40 million is what he expects, not a result. GetLatka still shows an estimate of about $5.9 million a year as of September 2025, with 54 employees, which sits well below the founder's own figure.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/post/tech/hitting-30m-arr-with-the-first-product-he-built-oJ1E1ukp60M7OZZXl2AJ"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/spectora.com"
+        }
+      ],
+      "indieAngle": "A licensed trade that has to write a report. Radon, mold, septic, chimney, elevator. Own the report and the booking around it."
+    }
+  ],
+  "whyItPrints": "A house sale in the US comes with an inspection. The inspector is often one person, and they would rather not fight a Word template.",
+  "whyThisMatters": "A house does not change hands in the US without someone walking through it and writing the problems down. Spectora is that report, plus the booking, the agreement, and the card payment, for an inspector who is often working alone. Kevin Wagstaff built it as his first product, in Denver. In an Indie Hackers post from 2 January 2026 he says it grew to ten million a year. He sold half his stake to a private equity firm in 2023, at a valuation of ninety million, and another tenth in 2024 at a hundred and ten million. He says 2025 was roughly thirty million, and he expects the end of 2026 to be forty million. The forty is a hope he stated, not a number already in the books. GetLatka still shows an estimate around five point nine million as of September 2025, with fifty-four employees. That estimate is far under what he says, so both stay on the page and they are not averaged. The shape for someone else is a licence that already forces a written report. Radon, mold, a septic tank, a chimney, an elevator. The report and the booking are the product."
+}

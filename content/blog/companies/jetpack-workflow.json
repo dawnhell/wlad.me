@@ -1,0 +1,27 @@
+{
+  "slug": "jetpack-workflow",
+  "name": "Jetpack Workflow",
+  "listingNote": null,
+  "description": "Recurring job templates, deadlines, and who is busy, for a small accounting or bookkeeping firm. Pittsburgh.",
+  "homepage": "https://jetpackworkflow.com/",
+  "image": "/blog/2026-11-09/jetpack-workflow.webp",
+  "imageAlt": "Jetpack Workflow product image",
+  "imageWidth": 1200,
+  "imageHeight": 593,
+  "mentions": [
+    {
+      "date": "2026-11-09",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka lists $852,200 a year as of April 2021, with the source not recorded. A later estimate on the same site is about $818,100 a year as of October 2023, with 6,000 customers, and headcount down from 16 in 2021 to 9 in October 2024. The same page lists Karbon at $109.4 million as the large competitor. That figure is Karbon's estimate, not Jetpack's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/jetpack-workflow"
+        }
+      ],
+      "indieAngle": "A small, cheap tracker can sit next to a much larger firm tool if it stays simple. The category also looks flat, so the opening is one kind of firm."
+    }
+  ],
+  "whyItPrints": "Month-end and tax day come back forever. Firms pay so that list is not an Excel file.",
+  "whyThisMatters": "An accounting firm lives on dates that never go away. Sales tax, payroll, the year-end, the same bookkeeping job for the same client. Jetpack Workflow is the template for that job, the deadline, and a view of who is already busy. Pittsburgh. It is aimed at a small CPA shop or a bookkeeping firm. GetLatka lists eight hundred and fifty-two thousand two hundred a year as of April 2021, and does not record a source. A later estimate on the same site is about eight hundred and eighteen thousand as of October 2023, with about six thousand customers. Headcount on that trail goes from sixteen in 2021 down to nine in October 2024. The two yearly numbers are close, and the staff got smaller, so I am not calling it growth. The same page lists Karbon at about a hundred and nine million. That number is Karbon's estimate. It is not Jetpack's revenue, and Karbon does not get a page of its own today. A small tracker can sit beside a much larger one if it stays cheap and plain. The flat staff is also a hint that the category is not racing, so the opening is one type of firm rather than every firm."
+}

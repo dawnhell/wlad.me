@@ -1,0 +1,31 @@
+{
+  "slug": "method-crm",
+  "name": "Method:CRM",
+  "listingNote": null,
+  "description": "A contact list, estimates, and a portal that stay in sync with QuickBooks Online, QuickBooks Desktop, and Xero. Toronto. It has lived in that gap for 14 years or more.",
+  "homepage": "https://www.method.me/",
+  "image": "/blog/2026-11-09/method-crm.webp",
+  "imageAlt": "Method:CRM product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-09",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka lists $5.1 million a year as of August 2020, with the source not recorded, $8 million raised over 4 rounds, and 99 employees as of December 2024. A hiring write-up, summarizing Method's own materials, says 18,000+ users, 10,000+ QuickBooks businesses, and that revenue doubled over the past three years. It does not give the dollar amount of that doubling. The 2020 yearly figure is old.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/methodcrm"
+        },
+        {
+          "label": "ZeroGTalent",
+          "url": "https://zerogtalent.com/blog/method-s-hiring-surge-11-open-roles-and-what-it-takes-to-pass-its-screening"
+        }
+      ],
+      "indieAngle": "One QuickBooks object the books will never do well. Estimates, jobs, stock. Sync it deeply enough that nobody retypes it."
+    }
+  ],
+  "whyItPrints": "The books stay in QuickBooks. The salesperson still needs a place for the customer. Nobody wants to type the same estimate twice.",
+  "whyThisMatters": "The invoice lives in QuickBooks. The conversation with the customer does not. Method is the contact list, the estimate, and a portal, synced with QuickBooks Online, QuickBooks Desktop, and Xero, so the estimate is not typed a second time. Toronto. It has been in that gap for fourteen years or more. GetLatka lists five point one million a year as of August 2020, and that page does not record where the number came from. It also lists eight million raised over four rounds, and ninety-nine employees as of December 2024. A hiring write-up, which says it is summarizing Method's own materials, puts users above eighteen thousand and QuickBooks businesses above ten thousand, and says revenue doubled over three years. It never says doubled from what, to what. So the 2020 figure stays old, and the doubling stays a direction without a new total. This is the same neighbourhood as Conductor. One object the books will not build, synced hard enough that nobody retypes it."
+}

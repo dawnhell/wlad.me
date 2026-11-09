@@ -336,6 +336,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Lake_Tekapo_01.jpg',
   },
+  {
+    id: 'crater-lake',
+    subject: 'nature',
+    alt: 'Crater Lake in Oregon',
+    credit: 'Serena-Wilderness',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/e/e1/Crater_Lake_Refraction.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

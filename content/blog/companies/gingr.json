@@ -1,0 +1,27 @@
+{
+  "slug": "gingr",
+  "name": "Gingr",
+  "listingNote": null,
+  "description": "Booking, check-in, vaccine records, report cards, and payments, for dog daycares and boarding kennels. Boulder.",
+  "homepage": "https://www.gingrapp.com/",
+  "image": "/blog/2026-11-09/gingr.webp",
+  "imageAlt": "Gingr product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-11-09",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $5.5 million a year as of September 2025, with 50 employees. The company has not published revenue. The same Latka category lists several smaller kennel tools, with estimates from about $100,000 to $5 million, so more than one product sits in the niche.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/gingrapp.com"
+        }
+      ],
+      "indieAngle": "The vaccine record and the reminder, sold on its own, even if someone else already does the booking."
+    }
+  ],
+  "whyItPrints": "A daycare has to know which dog is allowed in, and how many dogs the room can hold. People keep paying for the dog even when other spending drops.",
+  "whyThisMatters": "A daycare cannot guess whether a dog is allowed in the room. Gingr is the booking, the check-in, the vaccine record, the report card, and the payment, for daycares and boarding kennels. Boulder. People keep paying for the dog when they cut other spending, which is why the work stays dull and steady. GetLatka estimates about five point five million a year as of September 2025, with fifty employees. The company has not published revenue, so the estimate stays an estimate. The same Latka category lists smaller kennel tools, with guesses from about a hundred thousand up to five million. I am not naming those tools or adding them up. The niche holds more than one product. A smaller piece, if someone wants a wedge, is only the vaccine file and the reminder, sold even when another system already takes the booking. Capacity is the other half of check-in. A room only holds so many dogs, and the front desk has to see that before they say yes. The report card is what the owner gets after the day. The estimate is dated September 2025, so it is not a fresh reading for this week."
+}

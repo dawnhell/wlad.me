@@ -1,0 +1,39 @@
+{
+  "slug": "gorilladesk",
+  "name": "GorillaDesk",
+  "listingNote": null,
+  "description": "Scheduling, routing, invoicing, renewals, and the chemical-application record, for pest control companies. The founder ran his own pest control business for seven years. Boca Raton. Bootstrapped.",
+  "homepage": "https://gorilladesk.com/",
+  "image": "/blog/2026-11-09/gorilladesk.webp",
+  "imageAlt": "GorillaDesk product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-09",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $880,000 a year as of September 2025, with 8 employees. A LinkedIn-derived profile shows $5 million, which conflicts, so both stay guesses. A Venture Radar note says 3,100 or more customers and bootstrapped. A review site says an 11-person bootstrapped team that is profitable. The headcounts do not match.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/gorilladesk.com"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/gorilladesk"
+        },
+        {
+          "label": "Venture Radar",
+          "url": "https://substack.com/@ventureradar/note/c-283090208"
+        },
+        {
+          "label": "LawnCrewPro",
+          "url": "https://lawncrewpro.com/software/gorilladesk-review/"
+        }
+      ],
+      "indieAngle": "A record a regulator asks for. Chemical logs, backflow tests. That record is the way into the rest of the trade's day."
+    }
+  ],
+  "whyItPrints": "The rules say you write down the chemicals. A generic calendar does not do that record. A small team, no outside capital mentioned.",
+  "whyThisMatters": "A pest route has to say which chemical went on which house. GorillaDesk is the schedule, the driving order, the invoice, the renewal, and that chemical record. The founder had already run a pest company for seven years, in Boca Raton, and the product is bootstrapped. The money is a mess of guesses, and I am leaving the mess. GetLatka estimates about eight hundred and eighty thousand a year as of September 2025, and lists eight employees. A profile built off LinkedIn shows five million. A Venture Radar note says three thousand one hundred or more customers, still bootstrapped. A review site says eleven people, bootstrapped, and profitable. Eight and eleven are not the same team size, and eight hundred and eighty thousand is not five million. None of these is the company publishing its own revenue. The sticky part is the record a regulator can ask to see. Chemical logs, or a backflow test. Once that page is how the tech writes the day down, the rest of the schedule comes with it."
+}
