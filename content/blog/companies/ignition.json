@@ -1,0 +1,27 @@
+{
+  "slug": "ignition",
+  "name": "Ignition",
+  "listingNote": null,
+  "description": "Proposals, engagement letters, billing, and getting paid, for accounting firms and bookkeepers. It sits next to Xero and QuickBooks. Sydney.",
+  "homepage": "https://www.ignitionapp.com/",
+  "image": "/blog/2026-11-10/ignition.webp",
+  "imageAlt": "Ignition product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "self-reported",
+      "evidence": "The CEO confirmed $30 million a year as of October 2023, up 11 percent from $27 million in November 2022. In 2021 Guy Pearson said $24 million, with 5,000 customers, while the product processed more than $1 billion of client payments. That billion is money passing through, not Ignition's revenue. They raised $90.1 million over 8 rounds. The November 2021 Series C valued the company at $330 million. GetLatka estimates about $46.7 million as of October 2024. The homepage, read 10 November 2026, says more than 8,500 service businesses and more than 4,000 Xero partners. The 2021 customer count and today's count are not the same date. The October 2024 line is an estimate, not the CEO's 2023 figure.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/ignitionapp.com"
+        }
+      ],
+      "indieAngle": "The same letter, then a recurring bill, then the invoice, for a small accounting office. The funded company is not the model. The paperwork is."
+    }
+  ],
+  "whyItPrints": "Every firm sends the engagement letter and then chases the monthly fee. This turns that paper into a bill that goes out on its own, and it takes a cut of the money passing through. A firm does not rip that out.",
+  "whyThisMatters": "An accounting firm sends the same letter every year and then spends the month chasing the fee. Ignition is that letter, the proposal, the contract, and the payment, sitting next to Xero and QuickBooks. Sydney. The CEO confirmed thirty million a year as of October 2023, eleven percent above twenty-seven million in November 2022. In 2021 Guy Pearson said twenty-four million, with five thousand customers, while more than a billion of client money passed through the product. That billion belongs to the clients. It is not Ignition's revenue. They raised about ninety million over eight rounds, and the November 2021 round valued the company at three hundred and thirty million. GetLatka's later estimate, October 2024, is about forty-six million. That estimate is not the CEO's 2023 confirmation, so both stay. The homepage on 10 November 2026 says more than eight thousand five hundred service businesses and more than four thousand Xero partners. Five thousand customers in 2021 and today's count are different dates. This is venture-funded. The copyable piece is the paperwork, not the cap table. A small office still needs the letter, then the repeating bill, then the invoice."
+}

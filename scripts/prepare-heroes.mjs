@@ -344,6 +344,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/e/e1/Crater_Lake_Refraction.jpg',
   },
+  {
+    id: 'lake-wanaka',
+    subject: 'nature',
+    alt: 'Lake Wanaka in New Zealand',
+    credit: 'Matt Clarke',
+    license: 'CC BY 2.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/3/31/Lake_Wanaka_2013.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

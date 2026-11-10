@@ -1,0 +1,27 @@
+{
+  "slug": "mobile-tech-rx",
+  "name": "Mobile Tech RX",
+  "listingNote": null,
+  "description": "Invoices, estimates, dealer accounts, and the job list for people who fix cars where the car sits. Paint touch-up, dents, wheels, interiors. Austin. Founded 2015. Eric Garves is the CEO.",
+  "homepage": "https://www.mobiletechrx.com/",
+  "image": "/blog/2026-11-10/mobile-tech-rx.webp",
+  "imageAlt": "Mobile Tech RX product image",
+  "imageWidth": 1200,
+  "imageHeight": 800,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $1.4 million a year as of June 2025, with 13 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/mobiletechrx.com"
+        }
+      ],
+      "indieAngle": "The same van, for one invisible trade. Glass, a fleet wash, dent repair that an insurer pays for."
+    }
+  ],
+  "whyItPrints": "One person, a dealer lot, dozens of small jobs in a visit. The invoice has to name the car. That invoice is the product.",
+  "whyThisMatters": "The work happens in a dealer lot, not in a shop bay. Paint touch-up, a dent, a wheel, an interior. One person, dozens of little jobs, and each one has to name the car or the dealer will not pay. Mobile Tech RX is the estimate, the dealer account, the job list, and that invoice. Austin. Founded in 2015. Eric Garves is the CEO. GetLatka estimates about one point four million a year as of June 2025, with thirteen employees. The company has not published revenue, so the estimate stays a guess from a data site. Thirteen people and a seven-figure guess is the interesting part, if the guess is even close. The same van exists in other trades that bill a lot for many small fixes. Glass on site, a fleet wash, dent repair an insurer pays for. The invoice that names the vehicle is still the product. A dealer account is how those small jobs land on one bill instead of a pile of texts."
+}

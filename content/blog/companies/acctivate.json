@@ -1,0 +1,27 @@
+{
+  "slug": "acctivate",
+  "name": "Acctivate",
+  "listingNote": null,
+  "description": "Inventory, purchasing, the warehouse, and orders, on top of QuickBooks. It has been around since 1985. The homepage says it is integrated with QuickBooks to manage inventory, warehousing, purchasing, and more. Arlington, Texas. Brian Sweat is the CEO.",
+  "homepage": "https://acctivate.com/",
+  "image": "/blog/2026-11-10/acctivate.webp",
+  "imageAlt": "Acctivate product image",
+  "imageWidth": 500,
+  "imageHeight": 500,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $5.6 million a year as of June 2024, with 30 employees as of October 2024. The company has not published revenue. GetLatka also lists a customer count that does not belong in this note, so it is left out. The same site lists Fishbowl, a competitor, at an estimate of about $4.6 million with 225 employees. That figure is Fishbowl's estimate, not Acctivate's.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/acctivate.com"
+        }
+      ],
+      "indieAngle": "A web screen for people still doing inventory on QuickBooks Desktop. The online version of this job is already crowded."
+    }
+  ],
+  "whyItPrints": "A distributor outgrows the inventory screen in QuickBooks and still will not leave QuickBooks. This is that add-on, still selling forty years later.",
+  "whyThisMatters": "QuickBooks runs out of warehouse. Acctivate is inventory, purchasing, the warehouse, and the order, still bolted to those books. The homepage says as much. It has been sold since 1985, from Arlington, Texas. Brian Sweat is the CEO. GetLatka estimates about five point six million a year as of June 2024, and lists thirty employees as of October 2024. The company has not published that. The same page has a customer count that reads like a broken field, so I left it out rather than print a number I do not believe. GetLatka also lists Fishbowl, in the same lane, at an estimate near four point six million with two hundred and twenty-five employees. Fishbowl does not get its own page today. That headcount is much larger for a similar estimate, which is a reason not to treat either guess as the size of the market. The online version of inventory-for-the-books is crowded. The leftover is a web screen for people who still run stock on the desktop file."
+}

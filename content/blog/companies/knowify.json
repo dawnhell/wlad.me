@@ -1,0 +1,27 @@
+{
+  "slug": "knowify",
+  "name": "Knowify",
+  "listingNote": null,
+  "description": "Bids, the job, job cost, the daily log, and progress invoices for trade contractors, with a tight QuickBooks sync. New York. Marc Visent is the founder.",
+  "homepage": "https://knowify.com/",
+  "image": "/blog/2026-11-10/knowify.webp",
+  "imageAlt": "Knowify product image",
+  "imageWidth": 1200,
+  "imageHeight": 647,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $6 million a year as of June 2024, up from a $1.3 million reading in August 2020 that has no source. 19 employees as of October 2024. $9.1 million raised over 4 rounds. The company says the price starts at $99 a month. That price is not the revenue estimate.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/knowify.com"
+        }
+      ],
+      "indieAngle": "Progress billing, and the money held back until the end, for QuickBooks Online. A small door into the same job."
+    }
+  ],
+  "whyItPrints": "An electrical, HVAC, or plumbing sub lives on the cost of the job and on billing a slice of it as the work moves. QuickBooks does not do that. They pay for a layer on top.",
+  "whyThisMatters": "A subcontractor does not get paid for the whole job on day one. Electrical, HVAC, and plumbing live on the cost of the job and on billing a slice as the work moves, including the bit held back until the end. Knowify is the bid, the project, the job cost, the daily log, and that progress invoice, synced tightly to QuickBooks. New York. Marc Visent is the founder. GetLatka estimates about six million a year as of June 2024. An August 2020 reading of one point three million has no source. Nineteen employees as of October 2024. About nine point one million raised over four rounds. The site says the price starts at ninety-nine a month. A sticker price is not a revenue total, so it sits next to the estimate and does not replace it. QuickBooks alone does not understand a job. A small way in is only the progress bill, and the retainage, for the online books."
+}

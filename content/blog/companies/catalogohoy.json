@@ -1,0 +1,27 @@
+{
+  "slug": "catalogohoy",
+  "name": "CatalogoHoy",
+  "listingNote": "for sale",
+  "description": "A catalog link, orders, stock, a till with a barcode scanner, customers, and expenses, for a small shop in Latin America, mainly Venezuela, selling on WhatsApp and Instagram. Web, iPhone, and Android. Nicolás Soto. Founded March 2026. One person.",
+  "homepage": "https://catalogohoy.com/",
+  "image": "/blog/2026-11-10/catalogohoy.webp",
+  "imageAlt": "CatalogoHoy product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR $399 from 26 active subscriptions, updated 10 November 2026. Last 30 days $2,040. All-time $6,293. The sync is RevenueCat. The listing also says about 5,000 people use it, about 85 percent gross margin, and that it is bootstrapped. The asking price on the summary is $70,000. The summary also says 63 percent growth versus the prior month. That growth line is the listing, not the RevenueCat sync.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/catalogohoy"
+        }
+      ],
+      "indieAngle": "The same catalog link and order inbox for a small seller on Instagram, with a local way to pay."
+    }
+  ],
+  "whyItPrints": "The shop is replacing a spreadsheet and a pile of chats. The tiers are cheap. He is selling it because he is moving on to another project.",
+  "whyThisMatters": "A shop that sells in a chat thread needs a link with prices, a way to take the order, and a till. CatalogoHoy is that catalog, plus stock, customers, expenses, and a barcode scanner, on the web and on both phones. Mostly Venezuela, and the wider pitch is Latin America. Nicolás Soto. One person. Founded in March 2026. He is selling because he is moving to another project. The asking price on the summary is seventy thousand. RevenueCat is the sync, updated 10 November 2026. The monthly subscription line, the last thirty days, and the all-time total are three different readings, and the last thirty days are larger than one month of the subscription line, so I am not collapsing them. The listing says about five thousand people use it. Twenty-six paying subscriptions is not five thousand users. The margin and the month-over-month growth on the summary are the listing, not the payment sync. RevenueCat-verified means the listing is connected to RevenueCat. I do not open the account and re-add the charges. The stack on the listing is a web app, a database, the host, and the two payment connections. A local version is the same catalog link for sellers who already live on Instagram."
+}

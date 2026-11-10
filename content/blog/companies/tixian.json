@@ -1,0 +1,27 @@
+{
+  "slug": "tixian",
+  "name": "Tixian",
+  "listingNote": null,
+  "description": "Ticket sales, the scan at the door, a payout, and some marketing, for people who put on live events. The listing also talks about matching artists, hosts, and rooms. Canada. Founded March 2024.",
+  "homepage": "https://www.tixian.io/",
+  "image": "/blog/2026-11-10/tixian.webp",
+  "imageAlt": "Tixian product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last 30 days were $1,483 L30, updated 10 November 2026. All-time $150,205. There is no subscription line, because the money is per ticket. The listing says about 2,000 people use it, and the plans are priced at $29, $99, and $299 a month. Those prices are the listing, not the Stripe total.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tixian"
+        }
+      ],
+      "indieAngle": "Tickets for one local scene. A club night, or an amateur league. Seasonal on purpose."
+    }
+  ],
+  "whyItPrints": "A small promoter gets paid when the ticket sells. The big ticketing companies do not bother with that room.",
+  "whyThisMatters": "A small room still needs a ticket, a scan at the door, and a payout. Tixian is that, plus some marketing, for people putting on live events. The listing also talks about matching artists, hosts, and venues. Canada. Founded in March 2024. The Stripe listing, updated 10 November 2026, shows a thin last month and a much larger all-time total. I am not spreading the all-time number across the months and calling it a run rate. There is no active subscription, because a ticket is a one-off. The listing's own plan prices, three tiers a month, are what they charge for the tool. They are not the synced total. About two thousand people, on the listing, is a user count, not a paying-subscriber count. Stripe-verified means the listing is connected to Stripe. I do not log in and re-check the number. The last month is small next to the all-time figure, so this reads as seasonal or bumpy. A local scene, a club night or an amateur league, is the same bumpy calendar on purpose."
+}

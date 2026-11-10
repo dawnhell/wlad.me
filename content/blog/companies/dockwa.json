@@ -1,0 +1,27 @@
+{
+  "slug": "dockwa",
+  "name": "Dockwa",
+  "listingNote": null,
+  "description": "A place to book a slip, a mooring, or a short stay, plus the software the marina uses to run the dock. Newport, Rhode Island. Founded 2014.",
+  "homepage": "https://dockwa.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo, shown on GetLatka, estimates about $5.5 million a year as of September 2025, with 47 employees. The company has not published revenue. No screenshot. The site asked for a security check on 10 November 2026.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/dockwa.com"
+        }
+      ],
+      "indieAngle": "Small harbours that still run on the phone and email. One coast, one language, the slip and the booking."
+    }
+  ],
+  "whyItPrints": "Marinas took the booking by phone and a clipboard. This sits on both sides. The marina pays for the software. The boater pays to book.",
+  "whyThisMatters": "A marina used to take the night by phone and write it on a clipboard. Dockwa is the booking for a slip, a mooring, or a short stay, and it is also the screen the marina uses to run the dock. Newport, Rhode Island. Founded in 2014. Two bills. The marina pays for the tool. The boater pays to reserve. Growjo's estimate, the one GetLatka shows, is about five point five million a year as of September 2025, with forty-seven employees. One guess, printed in two places, not two measurements. The company has not published revenue. I have no screenshot. On 10 November 2026 the site stopped the browser and asked for a security check, so the homepage is linked and the picture is missing. Small harbours on a coast that still runs by phone are the same product in another language. One shore is enough. The marina's software bill and the boater's booking fee are two different people paying, and the note does not mix them into one total."
+}

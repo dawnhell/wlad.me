@@ -1,0 +1,27 @@
+{
+  "slug": "commerce7",
+  "name": "Commerce7",
+  "listingNote": null,
+  "description": "The wine club, the tasting-room till, the online shop, the customer list, and the numbers, for a winery selling direct. Vancouver. Founded 2018.",
+  "homepage": "https://www.commerce7.com/",
+  "image": "/blog/2026-11-10/commerce7.webp",
+  "imageAlt": "Commerce7 product image",
+  "imageWidth": 1200,
+  "imageHeight": 683,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $3.5 million a year as of September 2025, with 32 employees. The company has not published revenue. The homepage, read 10 November 2026, says more than 3,500 wineries, and the page description says more than 3,000. Both stay.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/commerce7.com"
+        }
+      ],
+      "indieAngle": "The club, for one craft drink or food. A brewery, a coffee roaster, a cheese maker. A subscription with rules about who gets which batch."
+    }
+  ],
+  "whyItPrints": "The club shipment is the winery's repeating bill, and this software becomes the record. Nobody switches in the middle of a season.",
+  "whyThisMatters": "A wine club ships on a schedule, and that shipment is the winery's repeating revenue. Commerce7 is the club, the till in the tasting room, the online shop, the customer list, and the numbers, for a winery selling direct. Vancouver. Founded in 2018. Once the club list lives there, switching in the middle of a season is a mess, which is why it sticks. GetLatka estimates about three point five million a year as of September 2025, with thirty-two employees. The company has not published revenue. The homepage, read 10 November 2026, says more than three thousand five hundred wineries. The short description on the same site says more than three thousand. I am not picking the rounder one. A smaller club, for a brewery or a roaster or a cheese maker, is the same subscription with rules about which batch goes to whom. The tasting-room till and the club list are the same customers, which is why the winery keeps both in one place."
+}

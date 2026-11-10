@@ -5,7 +5,14 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:49:43 GMT</lastBuildDate>
+    <item>
+      <title>Tuesday's boring SaaS, 10 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-10</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Tuesday, 10 November 2026. Tixian is Stripe-verified, so that listing is connected to Stripe, and CatalogoHoy is RevenueCat-verified, so that listing is connected to RevenueCat. The other eight are self-reported, and several of those numbers are an estimate, so the date in the note is the date of the number.</description>
+    </item>
     <item>
       <title>Monday's boring SaaS, 9 November 2026</title>
       <link>https://www.wlad.me/blog/2026-11-09</link>

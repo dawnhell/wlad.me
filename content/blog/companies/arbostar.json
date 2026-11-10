@@ -1,0 +1,27 @@
+{
+  "slug": "arbostar",
+  "name": "ArboStar",
+  "listingNote": null,
+  "description": "Estimates, scheduling, crews, invoices, and payments for tree care and arborists, in the office and on the job. Toronto. Founded 2019.",
+  "homepage": "https://arbostar.com/",
+  "image": "/blog/2026-11-10/arbostar.webp",
+  "imageAlt": "ArboStar product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $10.1 million a year as of November 2024, up from an estimate of about $6.2 million in December 2023. An April 2021 reading of $1.7 million has no source. Headcount went from 36 in December 2023 to 47 in December 2024. The homepage, read 10 November 2026, says more than 10,000 arborists and more than 10,000 people using it. The yearly figures are estimates.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/arbostar.com"
+        }
+      ],
+      "indieAngle": "The same job sheet for one trade where the estimate needs a photo or a map. Fencing, stumps, irrigation, gutter guards."
+    }
+  ],
+  "whyItPrints": "A tree job is a high bill, and the estimate needs photos, a map of the site, and a plan for the crew and the gear. A generic calendar does that badly. GetLatka lists Jobber and SingleOps as the other names in the lane.",
+  "whyThisMatters": "A tree job is a big invoice and a messy site. ArboStar is the estimate, the crew schedule, the invoice, and the payment, for arborists, in the office and on the phone in the truck. The estimate needs photos, a map, and a plan for people and gear. A generic field calendar shrugs at that. Toronto. Founded in 2019. GetLatka's estimates step from about six point two million in December 2023 to about ten point one million in November 2024. An April 2021 figure of one point seven million has no source, so it stays a stray reading. Headcount on that trail moved from thirty-six to forty-seven. The homepage, read with this note, says more than ten thousand arborists and more than ten thousand people using it. Those counts are the company's. The yearly lines are not. GetLatka names Jobber and SingleOps as the other products in the lane. I am not giving them numbers the page did not give me. The same shape is any trade whose quote needs a picture of the yard. Fencing, a stump, irrigation, gutter guards."
+}

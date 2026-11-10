@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-10",
+  "title": "Tuesday's boring SaaS, 10 November 2026",
+  "dek": "Tuesday, 10 November 2026. Tixian is Stripe-verified, so that listing is connected to Stripe, and CatalogoHoy is RevenueCat-verified, so that listing is connected to RevenueCat. The other eight are self-reported, and several of those numbers are an estimate, so the date in the note is the date of the number.",
+  "heroId": "lake-wanaka",
+  "companies": [
+    {
+      "slug": "ignition",
+      "name": "Ignition",
+      "listingNote": null,
+      "description": "Proposals, engagement letters, billing, and getting paid, for accounting firms and bookkeepers. It sits next to Xero and QuickBooks. Sydney.",
+      "evidenceKind": "self-reported",
+      "evidence": "The CEO confirmed $30 million a year as of October 2023, up 11 percent from $27 million in November 2022. In 2021 Guy Pearson said $24 million, with 5,000 customers, while the product processed more than $1 billion of client payments. That billion is money passing through, not Ignition's revenue. They raised $90.1 million over 8 rounds. The November 2021 Series C valued the company at $330 million. GetLatka estimates about $46.7 million as of October 2024. The homepage, read 10 November 2026, says more than 8,500 service businesses and more than 4,000 Xero partners. The 2021 customer count and today's count are not the same date. The October 2024 line is an estimate, not the CEO's 2023 figure.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/ignitionapp.com"
+        }
+      ],
+      "homepage": "https://www.ignitionapp.com/",
+      "indieAngle": "The same letter, then a recurring bill, then the invoice, for a small accounting office. The funded company is not the model. The paperwork is.",
+      "whyItPrints": "Every firm sends the engagement letter and then chases the monthly fee. This turns that paper into a bill that goes out on its own, and it takes a cut of the money passing through. A firm does not rip that out.",
+      "image": "/blog/2026-11-10/ignition.webp",
+      "imageAlt": "Ignition product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "acctivate",
+      "name": "Acctivate",
+      "listingNote": null,
+      "description": "Inventory, purchasing, the warehouse, and orders, on top of QuickBooks. It has been around since 1985. The homepage says it is integrated with QuickBooks to manage inventory, warehousing, purchasing, and more. Arlington, Texas. Brian Sweat is the CEO.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $5.6 million a year as of June 2024, with 30 employees as of October 2024. The company has not published revenue. GetLatka also lists a customer count that does not belong in this note, so it is left out. The same site lists Fishbowl, a competitor, at an estimate of about $4.6 million with 225 employees. That figure is Fishbowl's estimate, not Acctivate's.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/acctivate.com"
+        }
+      ],
+      "homepage": "https://acctivate.com/",
+      "indieAngle": "A web screen for people still doing inventory on QuickBooks Desktop. The online version of this job is already crowded.",
+      "whyItPrints": "A distributor outgrows the inventory screen in QuickBooks and still will not leave QuickBooks. This is that add-on, still selling forty years later.",
+      "image": "/blog/2026-11-10/acctivate.webp",
+      "imageAlt": "Acctivate product image",
+      "imageWidth": 500,
+      "imageHeight": 500
+    },
+    {
+      "slug": "reach-reporting",
+      "name": "Reach Reporting",
+      "listingNote": null,
+      "description": "Dashboards, management reports, a forecast, and a budget, built on the client's books. Bookkeepers and fractional CFOs use it to send the monthly pack. Springville, Utah. Founded 2015.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $2.1 million a year as of September 2025, with 19 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/reachreporting.com"
+        }
+      ],
+      "homepage": "https://reachreporting.com/",
+      "indieAngle": "One monthly pack, in one language, from Xero or QuickBooks, sold per client to a small office.",
+      "whyItPrints": "The monthly report is what those firms sell. This turns the Excel hours into a template. They pay for it per client, every month.",
+      "image": "/blog/2026-11-10/reach-reporting.webp",
+      "imageAlt": "Reach Reporting product image",
+      "imageWidth": 800,
+      "imageHeight": 533
+    },
+    {
+      "slug": "arbostar",
+      "name": "ArboStar",
+      "listingNote": null,
+      "description": "Estimates, scheduling, crews, invoices, and payments for tree care and arborists, in the office and on the job. Toronto. Founded 2019.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $10.1 million a year as of November 2024, up from an estimate of about $6.2 million in December 2023. An April 2021 reading of $1.7 million has no source. Headcount went from 36 in December 2023 to 47 in December 2024. The homepage, read 10 November 2026, says more than 10,000 arborists and more than 10,000 people using it. The yearly figures are estimates.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/arbostar.com"
+        }
+      ],
+      "homepage": "https://arbostar.com/",
+      "indieAngle": "The same job sheet for one trade where the estimate needs a photo or a map. Fencing, stumps, irrigation, gutter guards.",
+      "whyItPrints": "A tree job is a high bill, and the estimate needs photos, a map of the site, and a plan for the crew and the gear. A generic calendar does that badly. GetLatka lists Jobber and SingleOps as the other names in the lane.",
+      "image": "/blog/2026-11-10/arbostar.webp",
+      "imageAlt": "ArboStar product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "knowify",
+      "name": "Knowify",
+      "listingNote": null,
+      "description": "Bids, the job, job cost, the daily log, and progress invoices for trade contractors, with a tight QuickBooks sync. New York. Marc Visent is the founder.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $6 million a year as of June 2024, up from a $1.3 million reading in August 2020 that has no source. 19 employees as of October 2024. $9.1 million raised over 4 rounds. The company says the price starts at $99 a month. That price is not the revenue estimate.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/knowify.com"
+        }
+      ],
+      "homepage": "https://knowify.com/",
+      "indieAngle": "Progress billing, and the money held back until the end, for QuickBooks Online. A small door into the same job.",
+      "whyItPrints": "An electrical, HVAC, or plumbing sub lives on the cost of the job and on billing a slice of it as the work moves. QuickBooks does not do that. They pay for a layer on top.",
+      "image": "/blog/2026-11-10/knowify.webp",
+      "imageAlt": "Knowify product image",
+      "imageWidth": 1200,
+      "imageHeight": 647
+    },
+    {
+      "slug": "dockwa",
+      "name": "Dockwa",
+      "listingNote": null,
+      "description": "A place to book a slip, a mooring, or a short stay, plus the software the marina uses to run the dock. Newport, Rhode Island. Founded 2014.",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo, shown on GetLatka, estimates about $5.5 million a year as of September 2025, with 47 employees. The company has not published revenue. No screenshot. The site asked for a security check on 10 November 2026.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/dockwa.com"
+        }
+      ],
+      "homepage": "https://dockwa.com/",
+      "indieAngle": "Small harbours that still run on the phone and email. One coast, one language, the slip and the booking.",
+      "whyItPrints": "Marinas took the booking by phone and a clipboard. This sits on both sides. The marina pays for the software. The boater pays to book.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "commerce7",
+      "name": "Commerce7",
+      "listingNote": null,
+      "description": "The wine club, the tasting-room till, the online shop, the customer list, and the numbers, for a winery selling direct. Vancouver. Founded 2018.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $3.5 million a year as of September 2025, with 32 employees. The company has not published revenue. The homepage, read 10 November 2026, says more than 3,500 wineries, and the page description says more than 3,000. Both stay.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/commerce7.com"
+        }
+      ],
+      "homepage": "https://www.commerce7.com/",
+      "indieAngle": "The club, for one craft drink or food. A brewery, a coffee roaster, a cheese maker. A subscription with rules about who gets which batch.",
+      "whyItPrints": "The club shipment is the winery's repeating bill, and this software becomes the record. Nobody switches in the middle of a season.",
+      "image": "/blog/2026-11-10/commerce7.webp",
+      "imageAlt": "Commerce7 product image",
+      "imageWidth": 1200,
+      "imageHeight": 683
+    },
+    {
+      "slug": "mobile-tech-rx",
+      "name": "Mobile Tech RX",
+      "listingNote": null,
+      "description": "Invoices, estimates, dealer accounts, and the job list for people who fix cars where the car sits. Paint touch-up, dents, wheels, interiors. Austin. Founded 2015. Eric Garves is the CEO.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $1.4 million a year as of June 2025, with 13 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/mobiletechrx.com"
+        }
+      ],
+      "homepage": "https://www.mobiletechrx.com/",
+      "indieAngle": "The same van, for one invisible trade. Glass, a fleet wash, dent repair that an insurer pays for.",
+      "whyItPrints": "One person, a dealer lot, dozens of small jobs in a visit. The invoice has to name the car. That invoice is the product.",
+      "image": "/blog/2026-11-10/mobile-tech-rx.webp",
+      "imageAlt": "Mobile Tech RX product image",
+      "imageWidth": 1200,
+      "imageHeight": 800
+    },
+    {
+      "slug": "tixian",
+      "name": "Tixian",
+      "listingNote": null,
+      "description": "Ticket sales, the scan at the door, a payout, and some marketing, for people who put on live events. The listing also talks about matching artists, hosts, and rooms. Canada. Founded March 2024.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last 30 days were $1,483 L30, updated 10 November 2026. All-time $150,205. There is no subscription line, because the money is per ticket. The listing says about 2,000 people use it, and the plans are priced at $29, $99, and $299 a month. Those prices are the listing, not the Stripe total.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tixian"
+        }
+      ],
+      "homepage": "https://www.tixian.io/",
+      "indieAngle": "Tickets for one local scene. A club night, or an amateur league. Seasonal on purpose.",
+      "whyItPrints": "A small promoter gets paid when the ticket sells. The big ticketing companies do not bother with that room.",
+      "image": "/blog/2026-11-10/tixian.webp",
+      "imageAlt": "Tixian product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "catalogohoy",
+      "name": "CatalogoHoy",
+      "listingNote": "for sale",
+      "description": "A catalog link, orders, stock, a till with a barcode scanner, customers, and expenses, for a small shop in Latin America, mainly Venezuela, selling on WhatsApp and Instagram. Web, iPhone, and Android. Nicolás Soto. Founded March 2026. One person.",
+      "evidenceKind": "revenuecat-verified",
+      "evidence": "MRR $399 from 26 active subscriptions, updated 10 November 2026. Last 30 days $2,040. All-time $6,293. The sync is RevenueCat. The listing also says about 5,000 people use it, about 85 percent gross margin, and that it is bootstrapped. The asking price on the summary is $70,000. The summary also says 63 percent growth versus the prior month. That growth line is the listing, not the RevenueCat sync.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/catalogohoy"
+        }
+      ],
+      "homepage": "https://catalogohoy.com/",
+      "indieAngle": "The same catalog link and order inbox for a small seller on Instagram, with a local way to pay.",
+      "whyItPrints": "The shop is replacing a spreadsheet and a pile of chats. The tiers are cheap. He is selling it because he is moving on to another project.",
+      "image": "/blog/2026-11-10/catalogohoy.webp",
+      "imageAlt": "CatalogoHoy product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": []
+}

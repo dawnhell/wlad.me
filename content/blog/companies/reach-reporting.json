@@ -1,0 +1,27 @@
+{
+  "slug": "reach-reporting",
+  "name": "Reach Reporting",
+  "listingNote": null,
+  "description": "Dashboards, management reports, a forecast, and a budget, built on the client's books. Bookkeepers and fractional CFOs use it to send the monthly pack. Springville, Utah. Founded 2015.",
+  "homepage": "https://reachreporting.com/",
+  "image": "/blog/2026-11-10/reach-reporting.webp",
+  "imageAlt": "Reach Reporting product image",
+  "imageWidth": 800,
+  "imageHeight": 533,
+  "mentions": [
+    {
+      "date": "2026-11-10",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $2.1 million a year as of September 2025, with 19 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/reachreporting.com"
+        }
+      ],
+      "indieAngle": "One monthly pack, in one language, from Xero or QuickBooks, sold per client to a small office."
+    }
+  ],
+  "whyItPrints": "The monthly report is what those firms sell. This turns the Excel hours into a template. They pay for it per client, every month.",
+  "whyThisMatters": "The product a bookkeeper sells is the pack that lands in the client's inbox once a month. Reach Reporting builds the dashboard, the management report, the forecast, and the budget on top of that client's books. Springville, Utah. Founded in 2015. Firms pay per client, and the month never stops, so the template gets opened again. GetLatka estimates about two point one million a year as of September 2025, with nineteen employees. The company has not published revenue. I am not turning a data-site guess into their books. A smaller version is one pack, in one language, pulled from Xero or QuickBooks and sold to a small office by the client. The hours it replaces are the Excel hours. That is the whole pitch, and it is enough. A fractional CFO sells the same pack to several clients, so the template is the business, not a one-off spreadsheet. The estimate is dated September 2025, with a staff of nineteen on that same page, and the company was founded in 2015. None of that is a payment-company reading."
+}
