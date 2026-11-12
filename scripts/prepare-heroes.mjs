@@ -352,6 +352,14 @@ const picks = [
     license: 'CC BY 2.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/3/31/Lake_Wanaka_2013.jpg',
   },
+  {
+    id: 'aoraki',
+    subject: 'nature',
+    alt: 'Aoraki, also called Mount Cook, in New Zealand',
+    credit: 'Michal Klajban',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Aoraki_-_Mt_Cook%2C_Aoraki_-_Mount_Cook_National_Park%2C_New_Zealand.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

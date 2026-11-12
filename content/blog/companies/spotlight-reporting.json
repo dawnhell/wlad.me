@@ -1,0 +1,27 @@
+{
+  "slug": "spotlight-reporting",
+  "name": "Spotlight Reporting",
+  "listingNote": null,
+  "description": "Reports, forecasts, consolidations, and dashboards on top of Xero or QuickBooks, which an accounting firm sends to the client and calls advice. Wellington, New Zealand. GetLatka's page says Wellington, Connecticut. The company is the New Zealand one.",
+  "homepage": "https://www.spotlightreporting.com/",
+  "image": "/blog/2026-11-12/spotlight-reporting.webp",
+  "imageAlt": "Spotlight Reporting product image",
+  "imageWidth": 1140,
+  "imageHeight": 598,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $10.7 million a year as of October 2024, up from $4.9 million in August 2020 and an estimate of $7.1 million in December 2023. One Series A of $3.6 million in 2016. 52 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/spotlight-reporting"
+        }
+      ],
+      "indieAngle": "The same monthly pack, for a small accounting office, on top of the local ledger export."
+    }
+  ],
+  "whyItPrints": "The firm resells the report every month. The client stays, and so does the subscription.",
+  "whyThisMatters": "An accounting firm gets paid to explain the month. Spotlight Reporting pulls Xero or QuickBooks into a report, a forecast, a consolidation, and a dashboard, and the firm sends that to the client and calls it advice. The client is on the hook every month, so the firm is too. Wellington, New Zealand. GetLatka's company page puts the headquarters in Wellington, Connecticut. That is the wrong Wellington. The estimate is about ten point seven million a year as of October 2024, with four point nine million in August 2020 and about seven point one million in December 2023. One round, three point six million, in 2016. Fifty-two employees. The company has not published revenue, so the staircase stays a data-site staircase. The same pack, built on whatever export a small local office already has, is the narrow version."
+}

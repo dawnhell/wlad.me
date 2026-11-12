@@ -471,5 +471,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Lake_Wanaka_2013.jpg",
     "license": "CC BY 2.0",
     "subject": "nature"
+  },
+  {
+    "id": "aoraki",
+    "src": "/blog/heroes/aoraki.webp",
+    "alt": "Aoraki, also called Mount Cook, in New Zealand",
+    "width": 1600,
+    "height": 840,
+    "credit": "Michal Klajban",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Aoraki_-_Mt_Cook%2C_Aoraki_-_Mount_Cook_National_Park%2C_New_Zealand.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

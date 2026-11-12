@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-12",
+  "title": "Thursday's boring SaaS, 12 November 2026",
+  "dek": "Thursday, 12 November 2026. The shipping-discount app is Shopify-verified, so that listing is connected to Shopify, and the other nine are self-reported. Several of those self-reported numbers are an estimate, so the date in the note is the date of the number.",
+  "heroId": "aoraki",
+  "companies": [
+    {
+      "slug": "workiz",
+      "name": "Workiz",
+      "listingNote": null,
+      "description": "The schedule, the dispatch, the invoice, the payment, and the phone, for locksmiths, plumbers, HVAC, garage doors, and appliance repair. San Diego.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $29.8 million a year as of October 2024, up from an estimate of about $13.7 million in November 2023. Earlier readings on the same page are $3.2 million in June 2020, $4.1 million in February 2021, $9.8 million in November 2021, and $13.5 million in November 2022. $60.3 million raised. A $200 million valuation in November 2021. 141 employees. The press page says more than 120,000 professionals. They are on the 2025 Deloitte Technology Fast 500, and that list's bar is at least 122 percent revenue growth over three years, so this says they cleared the bar, not the exact percent. They are also on the 2026 Inc. 5000. A May 2026 job ad for a mid-market role says one person owns up to 250 accounts at $6,000 to $15,000 a year each. That is an account size in a job post, not the company's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/workiz"
+        },
+        {
+          "label": "Press",
+          "url": "https://www.workiz.com/press/"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/workiz-ranked-among-fastest-growing-companies-in-north-america-on-the-2025-deloitte-technology-fast-500-302625635.html"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/workizinc"
+        },
+        {
+          "label": "Job ad",
+          "url": "https://jobs.leadedge.com/companies/workiz/jobs/79048734-csm-mid-market"
+        }
+      ],
+      "homepage": "https://www.workiz.com/",
+      "indieAngle": "One trade, one country, the invoice and a text reminder. Chimney sweeps, or a one-person plumber. The big tools are chasing chains.",
+      "whyItPrints": "It replaces the whiteboard and the paper invoice. The bill is the seat, plus payments through their own pay product, plus extras such as warranties sold with partners.",
+      "image": "/blog/2026-11-12/workiz.webp",
+      "imageAlt": "Workiz product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "zynk",
+      "name": "Zynk",
+      "listingNote": null,
+      "description": "Ready-made connectors that move orders, customers, invoices, and stock between Sage 50, Sage 200, Sage Intacct, and shops such as Shopify, Amazon, eBay, and Temu, plus CRMs and warehouses. Newcastle. Since 2002. The founder had been Sage's head of development.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $1.3 million a year as of December 2023, up from $1.1 million in April 2021, with 18 staff. A LinkedIn post says more than 700 businesses. The about page says 111 ready-made connectors, a Sage Gold partner badge, backing from Sage founder Graham Wylie in 2010, and a place on the GP Bullhound fastest-growing list in 2023. An older client pack said more than 500 customers and more than 100 resellers. That older count is not today's 700.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/zynk-software-limited"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/zynk-software-limited_still-managing-marketplaces-seperately-activity-7468225057073508353-vkKM"
+        },
+        {
+          "label": "About",
+          "url": "https://zynk.com/about"
+        },
+        {
+          "label": "Older pack",
+          "url": "https://audentia-gestion.fr/SAGE/Zynk%20About522d.pdf"
+        }
+      ],
+      "homepage": "https://zynk.com/",
+      "indieAngle": "A developer door into Sage 50, or the same idea for a desktop ledger that small firms still run locally.",
+      "whyItPrints": "Someone is still retyping marketplace orders into Sage. Sage 50 is desktop software with a kit for developers, not a simple web door. That is the same kind of lock as QuickBooks Desktop.",
+      "image": "/blog/2026-11-12/zynk.webp",
+      "imageAlt": "Zynk product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "anonymous-shopify-shipping-discount-app",
+      "name": "Anonymous Shopify shipping-discount app",
+      "listingNote": null,
+      "description": "A Shopify app for shipping discounts. The TrustMRR listing does not name it. One person, bootstrapped. The listed price is $9.90 a month. Australia.",
+      "evidenceKind": "shopify-verified",
+      "evidence": "$7,762 L30, updated 12 November 2026. All-time $63,927. Founded January 2024. The listing says about 1,200 people use it. The $9.90 price is the listing, not the Shopify total. Twelve times the last 30 days is about $93,000. That is arithmetic, not a figure they published.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/shopify-shipping-discounts"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "The app store still has room for one small checkout rule. Shipping, a trade price, a local parcel locker.",
+      "whyItPrints": "One job at checkout, a flat fee, no story around it.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "spotlight-reporting",
+      "name": "Spotlight Reporting",
+      "listingNote": null,
+      "description": "Reports, forecasts, consolidations, and dashboards on top of Xero or QuickBooks, which an accounting firm sends to the client and calls advice. Wellington, New Zealand. GetLatka's page says Wellington, Connecticut. The company is the New Zealand one.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $10.7 million a year as of October 2024, up from $4.9 million in August 2020 and an estimate of $7.1 million in December 2023. One Series A of $3.6 million in 2016. 52 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/spotlight-reporting"
+        }
+      ],
+      "homepage": "https://www.spotlightreporting.com/",
+      "indieAngle": "The same monthly pack, for a small accounting office, on top of the local ledger export.",
+      "whyItPrints": "The firm resells the report every month. The client stays, and so does the subscription.",
+      "image": "/blog/2026-11-12/spotlight-reporting.webp",
+      "imageAlt": "Spotlight Reporting product image",
+      "imageWidth": 1140,
+      "imageHeight": 598
+    },
+    {
+      "slug": "jirav",
+      "name": "Jirav",
+      "listingNote": null,
+      "description": "Budgets, rolling forecasts, and the monthly numbers, sold mainly to accounting firms and fractional CFOs who run it for many clients. Seattle.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $10.9 million a year as of October 2024, up from $4.2 million in April 2021 and an estimate of $6.2 million in October 2023. $12.3 million raised in two rounds. 67 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/jirav"
+        }
+      ],
+      "homepage": "https://www.jirav.com/",
+      "indieAngle": "One narrow pack. Thirteen weeks of cash for agencies, on top of Xero or QuickBooks.",
+      "whyItPrints": "It replaces the spreadsheet in the close-and-forecast month. The firm pays for many seats because it has many clients.",
+      "image": "/blog/2026-11-12/jirav.webp",
+      "imageAlt": "Jirav product image",
+      "imageWidth": 1200,
+      "imageHeight": 475
+    },
+    {
+      "slug": "smartmoving",
+      "name": "SmartMoving",
+      "listingNote": null,
+      "description": "The estimate, the pipeline, the dispatch, the crew, the storage, the payroll, and the payment, for a moving company. Dallas. Tobe Thompson founded it.",
+      "evidenceKind": "self-reported",
+      "evidence": "A LeadIQ figure on GetLatka estimates about $3.8 million a year as of November 2024, up from an estimate of about $2.3 million in December 2023. $220,000 raised in 2019, at a $3 million valuation. 46 employees. The homepage says thousands of moving companies. In October 2025 Tobe Thompson moved to the board and called it the company's strongest year so far. That is not a revenue figure. Case studies name movers doing from $800,000 to $60 million a year. Those are the customers' businesses, not SmartMoving's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/smartmoving"
+        },
+        {
+          "label": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20251010418011/en/SmartMoving-names-Bill-Bowles-CEO-as-founder-Tobe-Thompson-steps-into-full-time-Board-role"
+        },
+        {
+          "label": "Case study",
+          "url": "https://www.smartmoving.com/case-studies/swamp-rabbit-moving"
+        }
+      ],
+      "homepage": "https://www.smartmoving.com/",
+      "indieAngle": "Quotes and a video inventory, in more than one language, for moves inside Europe. Little funding and still a real business.",
+      "whyItPrints": "A mover's whole day lives in one system. Cash, trucks, and a job that is easy to mess up.",
+      "image": "/blog/2026-11-12/smartmoving.webp",
+      "imageAlt": "SmartMoving product image",
+      "imageWidth": 1200,
+      "imageHeight": 895
+    },
+    {
+      "slug": "shop-ware",
+      "name": "Shop-Ware",
+      "listingNote": null,
+      "description": "Repair orders, digital inspections, an app for the tech, parts, and payments, for an independent garage. San Francisco.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $9.9 million a year as of September 2025, with 90 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/shop-ware"
+        }
+      ],
+      "homepage": "https://shop-ware.com/",
+      "indieAngle": "A photo of the car and a text to the customer. One country, where the garage software is still a desktop program.",
+      "whyItPrints": "Once the repair order lives here, the garage pays every month. Same lane as Tekmetric.",
+      "image": "/blog/2026-11-12/shop-ware.webp",
+      "imageAlt": "Shop-Ware product image",
+      "imageWidth": 1200,
+      "imageHeight": 719
+    },
+    {
+      "slug": "fieldpulse",
+      "name": "FieldPulse",
+      "listingNote": null,
+      "description": "Scheduling, estimates, invoices, the job, and messages for the tech, for HVAC, electrical, plumbing, fire and security, and septic. Dallas.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $10.6 million a year as of November 2024. Growjo had $6.8 million in December 2023. An earlier reading was $9.3 million in September 2021. Those three do not make a smooth line, so they stay separate. $8.2 million raised. 87 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/fieldpulse"
+        }
+      ],
+      "homepage": "https://www.fieldpulse.com/",
+      "indieAngle": "The lane is wide enough for more than one product. A third or fourth tool can still be a business.",
+      "whyItPrints": "Another system of record for a trade. Less funding than the bigger names in the same job, and still a real estimate.",
+      "image": "/blog/2026-11-12/fieldpulse.webp",
+      "imageAlt": "FieldPulse product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "rentvine",
+      "name": "Rentvine",
+      "listingNote": null,
+      "description": "Property management with the books first. Trust accounting, owner statements, maintenance, and leasing. Priced per unit that is actually rented. Estero, Florida. Founded 2019.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $5.8 million a year as of September 2025, with 53 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/rentvine"
+        }
+      ],
+      "homepage": "https://www.rentvine.com/",
+      "indieAngle": "The same owner report and rent collection, for a local property manager, priced per door.",
+      "whyItPrints": "Trust accounting is the part a manager cannot get wrong. Once the owner's money runs through it, they do not switch.",
+      "image": "/blog/2026-11-12/rentvine.webp",
+      "imageAlt": "Rentvine product image",
+      "imageWidth": 1200,
+      "imageHeight": 627
+    },
+    {
+      "slug": "hostfully",
+      "name": "Hostfully",
+      "listingNote": null,
+      "description": "Bookings, the channels, and the owner accounting for a short-term rental manager, plus a digital guidebook for the guest, with extras to sell. United States.",
+      "evidenceKind": "self-reported",
+      "evidence": "VentureScout says $5.5 million of revenue in 2023, growing 68 percent year over year. The about page says 40,000 clients implemented. A GetLatka page that had been used for a higher estimate now returns not found, so that number is not in this note.",
+      "sources": [
+        {
+          "label": "VentureScout",
+          "url": "https://www.venturescout.io/p/hostfully"
+        },
+        {
+          "label": "About",
+          "url": "https://www.hostfully.com/about-us/"
+        }
+      ],
+      "homepage": "https://www.hostfully.com/",
+      "indieAngle": "A phone page with the Wi-Fi, the check-in steps, and a few local tips. Sold to people who host.",
+      "whyItPrints": "The back office for someone running other people's holiday lets. The guidebook is the cheap way in.",
+      "image": "/blog/2026-11-12/hostfully.webp",
+      "imageAlt": "Hostfully product image",
+      "imageWidth": 1200,
+      "imageHeight": 975
+    }
+  ],
+  "honorableMentions": [
+    {
+      "name": "Markate",
+      "note": "Field-service software in Scottsdale. GetLatka lists a user-submitted $7.1 million in April 2021 and an estimate of about $10.3 million as of October 2024, with 37 employees. Latka (https://getlatka.com/companies/markate)",
+      "homepage": null
+    }
+  ]
+}

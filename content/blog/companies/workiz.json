@@ -1,0 +1,43 @@
+{
+  "slug": "workiz",
+  "name": "Workiz",
+  "listingNote": null,
+  "description": "The schedule, the dispatch, the invoice, the payment, and the phone, for locksmiths, plumbers, HVAC, garage doors, and appliance repair. San Diego.",
+  "homepage": "https://www.workiz.com/",
+  "image": "/blog/2026-11-12/workiz.webp",
+  "imageAlt": "Workiz product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $29.8 million a year as of October 2024, up from an estimate of about $13.7 million in November 2023. Earlier readings on the same page are $3.2 million in June 2020, $4.1 million in February 2021, $9.8 million in November 2021, and $13.5 million in November 2022. $60.3 million raised. A $200 million valuation in November 2021. 141 employees. The press page says more than 120,000 professionals. They are on the 2025 Deloitte Technology Fast 500, and that list's bar is at least 122 percent revenue growth over three years, so this says they cleared the bar, not the exact percent. They are also on the 2026 Inc. 5000. A May 2026 job ad for a mid-market role says one person owns up to 250 accounts at $6,000 to $15,000 a year each. That is an account size in a job post, not the company's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/workiz"
+        },
+        {
+          "label": "Press",
+          "url": "https://www.workiz.com/press/"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/workiz-ranked-among-fastest-growing-companies-in-north-america-on-the-2025-deloitte-technology-fast-500-302625635.html"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/workizinc"
+        },
+        {
+          "label": "Job ad",
+          "url": "https://jobs.leadedge.com/companies/workiz/jobs/79048734-csm-mid-market"
+        }
+      ],
+      "indieAngle": "One trade, one country, the invoice and a text reminder. Chimney sweeps, or a one-person plumber. The big tools are chasing chains."
+    }
+  ],
+  "whyItPrints": "It replaces the whiteboard and the paper invoice. The bill is the seat, plus payments through their own pay product, plus extras such as warranties sold with partners.",
+  "whyThisMatters": "A locksmith or a plumber still runs the day off a whiteboard and writes the invoice later. Workiz is the schedule, the dispatch, the invoice, the card payment, and the phone. San Diego. The money on GetLatka is a staircase of estimates, and I am not averaging them. About three million in 2020, then four, then just under ten, then the low teens, then about thirteen million in November 2023, then about thirty million in October 2024. They raised about sixty million. A 2021 round was talked about at a two hundred million valuation. The page lists one hundred and forty-one employees. The press page says more than one hundred and twenty thousand professionals. They made the 2025 Deloitte fast-growth list. That list asks for at least one hundred and twenty-two percent growth over three years, so the badge means they cleared the bar. It is not their exact percent. They are also on the 2026 Inc. list. A May 2026 job ad says one mid-market person might own up to two hundred and fifty accounts, each at a few thousand to the mid teens a year. That is how big a customer can be. It is not Workiz's revenue. The copyable slice is one trade and a text reminder, not the whole platform."
+}

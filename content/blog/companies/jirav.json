@@ -1,0 +1,27 @@
+{
+  "slug": "jirav",
+  "name": "Jirav",
+  "listingNote": null,
+  "description": "Budgets, rolling forecasts, and the monthly numbers, sold mainly to accounting firms and fractional CFOs who run it for many clients. Seattle.",
+  "homepage": "https://www.jirav.com/",
+  "image": "/blog/2026-11-12/jirav.webp",
+  "imageAlt": "Jirav product image",
+  "imageWidth": 1200,
+  "imageHeight": 475,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $10.9 million a year as of October 2024, up from $4.2 million in April 2021 and an estimate of $6.2 million in October 2023. $12.3 million raised in two rounds. 67 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/jirav"
+        }
+      ],
+      "indieAngle": "One narrow pack. Thirteen weeks of cash for agencies, on top of Xero or QuickBooks."
+    }
+  ],
+  "whyItPrints": "It replaces the spreadsheet in the close-and-forecast month. The firm pays for many seats because it has many clients.",
+  "whyThisMatters": "The monthly close ends in a forecast, and a lot of firms still do that in a spreadsheet. Jirav is the budget, the rolling forecast, and the KPI pack, sold to accounting firms and fractional CFOs who run it across many clients. Seattle. One firm, many seats, because one firm has many books. GetLatka estimates about ten point nine million a year as of October 2024. April 2021 was four point two million. October 2023 was an estimate of about six point two million. Twelve point three million raised in two rounds. Sixty-seven employees. None of that is the company publishing its own number. Next to Spotlight, it is the same lane: reporting that an accountant resells. A smaller product is one template, thirteen weeks of cash for agencies, sitting on Xero or QuickBooks. Spotlight, in the same day's note, is the report the firm sends out. Jirav is the budget and the forecast the firm runs inside. Both are resold by accountants, and both figures are estimates from the same kind of data site."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "zynk",
+  "name": "Zynk",
+  "listingNote": null,
+  "description": "Ready-made connectors that move orders, customers, invoices, and stock between Sage 50, Sage 200, Sage Intacct, and shops such as Shopify, Amazon, eBay, and Temu, plus CRMs and warehouses. Newcastle. Since 2002. The founder had been Sage's head of development.",
+  "homepage": "https://zynk.com/",
+  "image": "/blog/2026-11-12/zynk.webp",
+  "imageAlt": "Zynk product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $1.3 million a year as of December 2023, up from $1.1 million in April 2021, with 18 staff. A LinkedIn post says more than 700 businesses. The about page says 111 ready-made connectors, a Sage Gold partner badge, backing from Sage founder Graham Wylie in 2010, and a place on the GP Bullhound fastest-growing list in 2023. An older client pack said more than 500 customers and more than 100 resellers. That older count is not today's 700.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/zynk-software-limited"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/zynk-software-limited_still-managing-marketplaces-seperately-activity-7468225057073508353-vkKM"
+        },
+        {
+          "label": "About",
+          "url": "https://zynk.com/about"
+        },
+        {
+          "label": "Older pack",
+          "url": "https://audentia-gestion.fr/SAGE/Zynk%20About522d.pdf"
+        }
+      ],
+      "indieAngle": "A developer door into Sage 50, or the same idea for a desktop ledger that small firms still run locally."
+    }
+  ],
+  "whyItPrints": "Someone is still retyping marketplace orders into Sage. Sage 50 is desktop software with a kit for developers, not a simple web door. That is the same kind of lock as QuickBooks Desktop.",
+  "whyThisMatters": "Sage 50 still sits on a desktop. Zynk is the ready-made pipe that moves orders, customers, invoices, and stock between that file, Sage 200, Sage Intacct, and the shops: Shopify, Amazon, eBay, Temu, plus a CRM or a warehouse. Newcastle. Since 2002. The founder had run development at Sage, which is why the desktop kit is the moat. Same shape as the QuickBooks Desktop connector, different ledger. GetLatka estimates about one point three million a year as of December 2023, up from one point one million in April 2021, with eighteen staff. A LinkedIn post says more than seven hundred businesses. The about page says one hundred and eleven connectors, a Sage Gold badge, money from Sage's founder Graham Wylie in 2010, and a 2023 spot on a fast-growth list. An older client pack said more than five hundred customers and more than one hundred resellers. I am not replacing the old pack with the newer seven hundred. The open door for someone else is a developer kit for that desktop file, or the same pipe for a local desktop ledger."
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "smartmoving",
+  "name": "SmartMoving",
+  "listingNote": null,
+  "description": "The estimate, the pipeline, the dispatch, the crew, the storage, the payroll, and the payment, for a moving company. Dallas. Tobe Thompson founded it.",
+  "homepage": "https://www.smartmoving.com/",
+  "image": "/blog/2026-11-12/smartmoving.webp",
+  "imageAlt": "SmartMoving product image",
+  "imageWidth": 1200,
+  "imageHeight": 895,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "self-reported",
+      "evidence": "A LeadIQ figure on GetLatka estimates about $3.8 million a year as of November 2024, up from an estimate of about $2.3 million in December 2023. $220,000 raised in 2019, at a $3 million valuation. 46 employees. The homepage says thousands of moving companies. In October 2025 Tobe Thompson moved to the board and called it the company's strongest year so far. That is not a revenue figure. Case studies name movers doing from $800,000 to $60 million a year. Those are the customers' businesses, not SmartMoving's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/smartmoving"
+        },
+        {
+          "label": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20251010418011/en/SmartMoving-names-Bill-Bowles-CEO-as-founder-Tobe-Thompson-steps-into-full-time-Board-role"
+        },
+        {
+          "label": "Case study",
+          "url": "https://www.smartmoving.com/case-studies/swamp-rabbit-moving"
+        }
+      ],
+      "indieAngle": "Quotes and a video inventory, in more than one language, for moves inside Europe. Little funding and still a real business."
+    }
+  ],
+  "whyItPrints": "A mover's whole day lives in one system. Cash, trucks, and a job that is easy to mess up.",
+  "whyThisMatters": "A move is a quote, a truck, a crew, and a customer who will notice if the piano is wrong. SmartMoving is the estimate, the sales pipeline, the dispatch, storage, payroll, and the payment. Dallas. Tobe Thompson started it. A LeadIQ number on GetLatka estimates about three point eight million a year as of November 2024, up from an estimate near two point three million in December 2023. They raised two hundred and twenty thousand in 2019, at a three million valuation. Forty-six employees. The site itself says the tool is in use at thousands of moving companies. In October 2025 he moved to the board and a new CEO stepped in. He called it the strongest year so far. That sentence has no dollar figure, so I am not inventing one. The case studies talk about movers doing from under a million to sixty million a year. Those businesses are the customers. They are not SmartMoving's revenue. Little outside money, and still a system a whole trade can live in. Europe, with a quote in more than one language and an inventory filmed on a phone, is the open version."
+}

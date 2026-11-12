@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-shopify-shipping-discount-app",
+  "name": "Anonymous Shopify shipping-discount app",
+  "listingNote": null,
+  "description": "A Shopify app for shipping discounts. The TrustMRR listing does not name it. One person, bootstrapped. The listed price is $9.90 a month. Australia.",
+  "homepage": null,
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "shopify-verified",
+      "evidence": "$7,762 L30, updated 12 November 2026. All-time $63,927. Founded January 2024. The listing says about 1,200 people use it. The $9.90 price is the listing, not the Shopify total. Twelve times the last 30 days is about $93,000. That is arithmetic, not a figure they published.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/shopify-shipping-discounts"
+        }
+      ],
+      "indieAngle": "The app store still has room for one small checkout rule. Shipping, a trade price, a local parcel locker."
+    }
+  ],
+  "whyItPrints": "One job at checkout, a flat fee, no story around it.",
+  "whyThisMatters": "Checkout has a hundred small rules, and shipping discounts are one of them. This listing is a Shopify app for that rule, and the listing does not give the product a name or a site. One person, bootstrapped, Australia, a flat price of nine dollars and ninety cents a month. Shopify-verified means the listing is connected to Shopify. I do not log in and re-check the number. The synced reading on 12 November 2026 is the last thirty days and the all-time total. There is no subscription count in the sync. The listing's own user count, about twelve hundred people, is not the same as a payment-company subscriber line. Twelve times the last thirty days is a bit over ninety thousand. That multiplication is mine, from the synced month, and they did not publish it as a yearly figure. Founded January 2024. The same shelf in the app store is full of one-feature tools. A local parcel rule is the same shape."
+}

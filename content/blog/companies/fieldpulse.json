@@ -1,0 +1,27 @@
+{
+  "slug": "fieldpulse",
+  "name": "FieldPulse",
+  "listingNote": null,
+  "description": "Scheduling, estimates, invoices, the job, and messages for the tech, for HVAC, electrical, plumbing, fire and security, and septic. Dallas.",
+  "homepage": "https://www.fieldpulse.com/",
+  "image": "/blog/2026-11-12/fieldpulse.webp",
+  "imageAlt": "FieldPulse product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $10.6 million a year as of November 2024. Growjo had $6.8 million in December 2023. An earlier reading was $9.3 million in September 2021. Those three do not make a smooth line, so they stay separate. $8.2 million raised. 87 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/fieldpulse"
+        }
+      ],
+      "indieAngle": "The lane is wide enough for more than one product. A third or fourth tool can still be a business."
+    }
+  ],
+  "whyItPrints": "Another system of record for a trade. Less funding than the bigger names in the same job, and still a real estimate.",
+  "whyThisMatters": "FieldPulse is the schedule, the estimate, the invoice, the job tracker, and the message to the tech, for HVAC, electrical, plumbing, fire and security, and septic. Dallas. It is the same trades job as Workiz, with a different funding story. GetLatka's November 2024 estimate is about ten point six million a year. Growjo had six point eight million in December 2023. A September 2021 reading was nine point three million, which is higher than the later Growjo figure, so this is not a clean climb. I am leaving all three. Eight point two million raised. Eighty-seven employees. The company has not published revenue. The point of putting it next to the bigger field-service names is that the lane is wide. A third product and a fourth product can both be real businesses. The estimate is still an estimate. Workiz is the other trades tool in the same day's note, with a much larger guess and much more funding. FieldPulse's guess sits near ten million with well under ten million raised. That pairing is the reason both are written down."
+}

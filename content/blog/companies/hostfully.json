@@ -1,0 +1,31 @@
+{
+  "slug": "hostfully",
+  "name": "Hostfully",
+  "listingNote": null,
+  "description": "Bookings, the channels, and the owner accounting for a short-term rental manager, plus a digital guidebook for the guest, with extras to sell. United States.",
+  "homepage": "https://www.hostfully.com/",
+  "image": "/blog/2026-11-12/hostfully.webp",
+  "imageAlt": "Hostfully product image",
+  "imageWidth": 1200,
+  "imageHeight": 975,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "self-reported",
+      "evidence": "VentureScout says $5.5 million of revenue in 2023, growing 68 percent year over year. The about page says 40,000 clients implemented. A GetLatka page that had been used for a higher estimate now returns not found, so that number is not in this note.",
+      "sources": [
+        {
+          "label": "VentureScout",
+          "url": "https://www.venturescout.io/p/hostfully"
+        },
+        {
+          "label": "About",
+          "url": "https://www.hostfully.com/about-us/"
+        }
+      ],
+      "indieAngle": "A phone page with the Wi-Fi, the check-in steps, and a few local tips. Sold to people who host."
+    }
+  ],
+  "whyItPrints": "The back office for someone running other people's holiday lets. The guidebook is the cheap way in.",
+  "whyThisMatters": "Someone running other people's holiday lets needs the booking, the listing sites, and a statement for the owner. Hostfully is that back office, and it also sells a digital guidebook the guest opens on a phone, with the Wi-Fi, the check-in, and a few things to buy. United States. VentureScout puts 2023 revenue at five point five million, up sixty-eight percent on the year before. The about page says forty thousand clients implemented. I am not sure that count and the revenue line are the same kind of number, so they stay side by side. A GetLatka page that an earlier pass had used for a higher estimate now comes back as not found. I am not writing that higher figure down without the page. The guidebook on its own, a single mobile page for a host, is the small version of the same business. The Wi-Fi, the door code, and a local tip are enough of a product to charge for before anyone touches the owner statement."
+}

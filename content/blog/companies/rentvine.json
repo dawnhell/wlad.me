@@ -1,0 +1,27 @@
+{
+  "slug": "rentvine",
+  "name": "Rentvine",
+  "listingNote": null,
+  "description": "Property management with the books first. Trust accounting, owner statements, maintenance, and leasing. Priced per unit that is actually rented. Estero, Florida. Founded 2019.",
+  "homepage": "https://www.rentvine.com/",
+  "image": "/blog/2026-11-12/rentvine.webp",
+  "imageAlt": "Rentvine product image",
+  "imageWidth": 1200,
+  "imageHeight": 627,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $5.8 million a year as of September 2025, with 53 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/rentvine"
+        }
+      ],
+      "indieAngle": "The same owner report and rent collection, for a local property manager, priced per door."
+    }
+  ],
+  "whyItPrints": "Trust accounting is the part a manager cannot get wrong. Once the owner's money runs through it, they do not switch.",
+  "whyThisMatters": "A property manager is holding someone else's money. Rentvine is the trust account, the owner statement, the maintenance job, and the lease, and the price follows the unit that is actually rented. Estero, Florida. Founded in 2019. The books are the product. If the owner's report is wrong, the manager is in trouble, which is why they do not rip it out. GetLatka estimates about five point eight million a year as of September 2025, with fifty-three employees. The company has not published revenue. Per-unit pricing means the bill grows when the customer's portfolio grows, without a new sales pitch for every door. A local version is the same owner report and the same rent collection for a manager who wants the paperwork in their own language. The price follows the rented unit, so a bigger portfolio is a bigger bill without a fresh contract for every door. Founded in 2019, and the estimate is dated September 2025, with fifty-three people on that same page. Maintenance and leasing sit next to the books because the manager already lives in both."
+}

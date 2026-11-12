@@ -1,0 +1,27 @@
+{
+  "slug": "shop-ware",
+  "name": "Shop-Ware",
+  "listingNote": null,
+  "description": "Repair orders, digital inspections, an app for the tech, parts, and payments, for an independent garage. San Francisco.",
+  "homepage": "https://shop-ware.com/",
+  "image": "/blog/2026-11-12/shop-ware.webp",
+  "imageAlt": "Shop-Ware product image",
+  "imageWidth": 1200,
+  "imageHeight": 719,
+  "mentions": [
+    {
+      "date": "2026-11-12",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $9.9 million a year as of September 2025, with 90 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/shop-ware"
+        }
+      ],
+      "indieAngle": "A photo of the car and a text to the customer. One country, where the garage software is still a desktop program."
+    }
+  ],
+  "whyItPrints": "Once the repair order lives here, the garage pays every month. Same lane as Tekmetric.",
+  "whyThisMatters": "An independent garage lives on the repair order. Shop-Ware is that order, the digital inspection, the app in the tech's pocket, the parts, and the payment. San Francisco. Once the workflow is in there, the monthly bill is just part of opening the shop. GetLatka estimates about nine point nine million a year as of September 2025, with ninety employees. The company has not published revenue. I am not borrowing another garage product's reported number into this note. Tekmetric is the other name in the same lane, and that is all this page needs to say about it. A smaller wedge, in a country where the garage still runs on a desktop program, is a photo of the worn part and a text to the customer who has to approve the work. The estimate is dated September 2025 and lists ninety employees. The company has not put its own revenue number next to that headcount. Parts ordering and the tech's phone app are in the product because the repair order is only half the visit. The garage pays monthly once that visit lives in the software."
+}
