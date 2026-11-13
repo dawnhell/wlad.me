@@ -1,0 +1,35 @@
+{
+  "slug": "bookkeep",
+  "name": "Bookkeep",
+  "listingNote": null,
+  "description": "It posts a daily summary from Shopify, Square, Toast, Clover, Amazon, Stripe, Mindbody, and others into QuickBooks Online, Xero, Zoho Books, NetSuite, and Sage Intacct, and matches the payout to the bank deposit, including by store. United States. Founded 2018.",
+  "homepage": "https://www.bookkeep.com/",
+  "image": "/blog/2026-11-13/bookkeep.webp",
+  "imageAlt": "Bookkeep product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-13",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo, shown on GetLatka, estimates about $4.4 million a year as of December 2023, with 38 employees. The company has not published revenue. The price list is $19, $49, $99, $199, and $499 a month, plus $0.35 for each old journal entry that gets posted later. Those prices are the menu, not the yearly estimate. The same tiers are listed on the Square app marketplace.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/bookkeep"
+        },
+        {
+          "label": "Pricing",
+          "url": "https://www.bookkeep.com/pricing"
+        },
+        {
+          "label": "Square",
+          "url": "https://squareup.com/gb/en/app-marketplace/app/bookkeep"
+        }
+      ],
+      "indieAngle": "Charge for loading a year of old entries on day one. One till, one ledger."
+    }
+  ],
+  "whyItPrints": "A restaurant or a chain has tips, gift cards, and a payout that covers more than one shop. The books need one clean line, not the raw feed.",
+  "whyThisMatters": "A cafe's deposit is not its sales. Tips, gift cards, and a payout that bundles several shops all land in the bank as one amount. Bookkeep writes a daily accrual summary from Shopify, Square, Toast, Clover, Amazon, Stripe, Mindbody, and others into QuickBooks Online, Xero, Zoho Books, NetSuite, or Sage Intacct, and ties that summary to the deposit. It can split by store. United States. Founded in 2018. Growjo's estimate, the one GetLatka shows, is about four point four million a year as of December 2023, with thirty-eight employees. One guess in two places. The company has not published revenue. The price menu steps from a small monthly fee up to a few hundred, and there is a per-entry charge for posting a backlog of old days. The menu is not the yearly estimate. The same steps show up in the Square app marketplace. Charging for the old year on day one is the part worth copying, for one till and one ledger."
+}

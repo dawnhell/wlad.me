@@ -1,0 +1,27 @@
+{
+  "slug": "housecall-pro",
+  "name": "Housecall Pro",
+  "listingNote": null,
+  "description": "Scheduling, dispatch, invoices, payments, and marketing for plumbers, HVAC, electricians, and cleaners. San Diego. It sits in the same lane as Workiz and Jobber.",
+  "homepage": "https://www.housecallpro.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-13",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $37.2 million a year as of September 2021, with 20,000 customers then. That reading is from 2021, not from this week. $175 million raised, including a $125 million round in June 2022 led by Permira and Vista Credit Partners. No newer revenue figure is in this note. No screenshot. The site's share image was only a logo, and a page capture did not finish.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/housecall-pro"
+        }
+      ],
+      "indieAngle": "The US lane is crowded with funded companies. A local invoice and a local tax rule is the open space."
+    }
+  ],
+  "whyItPrints": "A subscription, plus a cut of the payment on the job. Same shape as the other crew tools.",
+  "whyThisMatters": "Housecall Pro is the schedule, the dispatch, the invoice, the payment, and some marketing, for plumbers, HVAC techs, electricians, and cleaners. San Diego. It is the same crew business as Jobber and as Workiz, which was in yesterday's note. The economics are a subscription plus a cut when the job gets paid. GetLatka's figure is thirty-seven point two million a year as of September 2021, with twenty thousand customers at that time. I am not moving a 2021 number forward and calling it current. They raised one hundred and seventy-five million in total. The latest round in that trail is one hundred and twenty-five million in June 2022, led by Permira and Vista Credit Partners. This note does not have a newer revenue line. There is no screenshot. The share image was only a logo, and a capture of the page did not finish, so the homepage is linked and the picture is missing. The crowded part is the United States. A local invoice and a local tax form is where a smaller tool still fits."
+}

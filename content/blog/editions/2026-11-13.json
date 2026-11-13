@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-13",
+  "title": "Friday's boring SaaS, 13 November 2026",
+  "dek": "Friday, 13 November 2026. Conductor is Stripe-verified, so that listing is connected to Stripe, and the other eight are self-reported. Several of those self-reported numbers are an estimate or from an older year, so the date in the note is the date of the number.",
+  "heroId": "bryce-canyon",
+  "companies": [
+    {
+      "slug": "a2x",
+      "name": "A2X",
+      "listingNote": null,
+      "description": "It takes the payout from Amazon, Shopify, eBay, Etsy, Walmart, and PayPal and turns it into a short journal entry that matches in QuickBooks Online, Xero, Sage, or NetSuite. New Zealand. Founded 2014. Jamie McDonald is the CEO. Accounting firms resell it to their shop clients.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $7.3 million a year for 2025, with 66 employees. The 5 November note on Link My Books already had that same estimate, dated July 2025. It is not a new number. A March 2026 page says it works with more than 12,000 customers and with the top ecommerce accounting practices. A case study of Misen, a cookware brand, says they went from 405 manual payout postings and $6,688 a month in labour and fees to $329 a month. That saving is Misen's cost, not A2X's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/a2xaccounting"
+        },
+        {
+          "label": "A2X",
+          "url": "https://www.a2xaccounting.com/ecommerce-accounting-hub/what-is-a2x"
+        },
+        {
+          "label": "Misen",
+          "url": "https://www.a2xaccounting.com/case-studies/misen-a2x"
+        }
+      ],
+      "homepage": "https://www.a2xaccounting.com/",
+      "indieAngle": "The same payout entry for a shop this product does not cover, into a local ledger.",
+      "whyItPrints": "A bookkeeper hates typing a marketplace payout by hand. Once the mapping is set, nobody wants to rebuild it.",
+      "image": "/blog/2026-11-13/a2x.webp",
+      "imageAlt": "A2X product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "bookkeep",
+      "name": "Bookkeep",
+      "listingNote": null,
+      "description": "It posts a daily summary from Shopify, Square, Toast, Clover, Amazon, Stripe, Mindbody, and others into QuickBooks Online, Xero, Zoho Books, NetSuite, and Sage Intacct, and matches the payout to the bank deposit, including by store. United States. Founded 2018.",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo, shown on GetLatka, estimates about $4.4 million a year as of December 2023, with 38 employees. The company has not published revenue. The price list is $19, $49, $99, $199, and $499 a month, plus $0.35 for each old journal entry that gets posted later. Those prices are the menu, not the yearly estimate. The same tiers are listed on the Square app marketplace.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/bookkeep"
+        },
+        {
+          "label": "Pricing",
+          "url": "https://www.bookkeep.com/pricing"
+        },
+        {
+          "label": "Square",
+          "url": "https://squareup.com/gb/en/app-marketplace/app/bookkeep"
+        }
+      ],
+      "homepage": "https://www.bookkeep.com/",
+      "indieAngle": "Charge for loading a year of old entries on day one. One till, one ledger.",
+      "whyItPrints": "A restaurant or a chain has tips, gift cards, and a payout that covers more than one shop. The books need one clean line, not the raw feed.",
+      "image": "/blog/2026-11-13/bookkeep.webp",
+      "imageAlt": "Bookkeep product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 13 November listing is still for sale. The monthly Stripe line and the last 30 days are both higher than the 7 November note.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $49,432, synced 13 November 2026. Last 30 days $47,522. The listing says it is growing 21 percent month over month, and it states a 95 percent profit margin. The 7 November note was MRR $47,229 from 314 subscriptions, last 30 days $44,012, and all-time $511,099. The change since that note is not 21 percent. The 21 percent is the listing's phrase. Still listed for sale at $1,250,000. Today's sync does not include a new subscription count or a new all-time total.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe number moved up, and the asking price is on the listing again.",
+      "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The monthly line and the last 30 days are both higher than the 7 November note, and the listing is still for sale.",
+      "image": "/blog/2026-11-13/conductor.webp",
+      "imageAlt": "Conductor product image",
+      "imageWidth": 1200,
+      "imageHeight": 610
+    },
+    {
+      "slug": "lmn",
+      "name": "LMN",
+      "listingNote": "now part of Granum",
+      "description": "Estimates, job cost, crew time, the schedule, invoices, and payments for landscaping companies. Mark Bradley built it for his own landscaping company. The old golmn.com address now redirects to Granum, which sells LMN next to tools for arborists. Canada. Founded 2009.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $11.6 million a year as of December 2025, with 105 employees. The company has not published revenue. An older interview has Bradley saying 5,000 companies and 55,000 people using it, growing about 30 percent a year. A later LinkedIn post says more than 250,000 people on the platform. Those counts are not the same date. His own landscaping company was described as more than $10 million. That is the landscaping business, not LMN's revenue. Serent Capital, a private equity firm, invested in 2020.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/lmn"
+        },
+        {
+          "label": "Interview",
+          "url": "https://medium.com/authority-magazine/5-lessons-i-learned-when-i-created-my-app-or-saas-with-mark-bradley-of-lmn-mitch-russo-a04ce48c1f45"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/mark-bradley-lmn_lmn-landscape-management-network-has-become-activity-7180987543100821506-Zayh"
+        },
+        {
+          "label": "Serent",
+          "url": "https://principiumgroup.com/serent-capital-invests-in-lmn/"
+        }
+      ],
+      "homepage": "https://granum.com/lmn/",
+      "indieAngle": "A free workshop on how to price a job, for one trade. The calculator is the way in.",
+      "whyItPrints": "A landscaper works on a thin margin. Knowing what the job actually cost is the reason they pay. He also taught workshops, and the software came along with the class.",
+      "image": "/blog/2026-11-13/lmn.webp",
+      "imageAlt": "LMN product image",
+      "imageWidth": 1200,
+      "imageHeight": 700
+    },
+    {
+      "slug": "roofr",
+      "name": "Roofr",
+      "listingNote": null,
+      "description": "A roof measurement from an aerial photo, then the estimate, the proposal, the customer list, the payment, the invoice, and the materials order, for a roofing company. It started as a marketplace in 2016 and became software for roofers in 2021. United States and Canada.",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo, shown on GetLatka, estimates about $35.2 million a year as of December 2023, with 135 employees. The company has not published revenue. A January 2025 blog post says more than 12,000 roofing companies rely on Roofr, and that a Series B was led by TCV. The post does not give the round's size. The CEO, on LinkedIn, says more than 13,000 roofers. An October 2023 round of $23.5 million is funding, not revenue. The 12,000 and the 13,000 are two counts.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/roofr"
+        },
+        {
+          "label": "Blog",
+          "url": "https://roofr.com/blog/roofr-raises-series-b-funding-from-tcv-and-abc-supply-to-expand-roofing-crm"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/richy-nelson-105b7593_in-2016-we-started-roofr-as-a-marketplace-activity-7290077609097367552-5Gn8"
+        },
+        {
+          "label": "Digital Commerce 360",
+          "url": "https://www.digitalcommerce360.com/2025/04/14/roofr-series-b-funding-expand-roofing-software/"
+        }
+      ],
+      "homepage": "https://roofr.com/",
+      "indieAngle": "Sell one paid document per job before you sell a subscription. The measurement is that document.",
+      "whyItPrints": "The measurement is a paid document per job. Payments and material orders sit on top. ABC Supply, a big roofing distributor, put money in.",
+      "image": "/blog/2026-11-13/roofr.webp",
+      "imageAlt": "Roofr product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "jobber",
+      "name": "Jobber",
+      "listingNote": null,
+      "description": "Quotes, scheduling, invoices, payments, and a client page, for landscapers, cleaners, plumbers, HVAC, and a long list of other trades. Toronto.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows a reported $100 million a year in December 2022, up from $50 million in 2021. That is not a 2026 reading. A May 2026 press release says they passed 100,000 customers and more than 400,000 service pros use it daily, and that those customers have delivered more than $100 billion of services. The hundred billion is the customers' work, not Jobber's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/jobber"
+        },
+        {
+          "label": "Customers",
+          "url": "https://www.prnewswire.com/news-releases/jobber-surpasses-100-000-customers-cementing-its-position-as-the-market-leading-platform-for-home-and-commercial-service-businesses-302768759.html"
+        },
+        {
+          "label": "Google",
+          "url": "https://www.prnewswire.com/news-releases/jobber-integrates-with-ai-mode-in-google-search-opening-a-new-customer-acquisition-channel-for-home-and-commercial-service-businesses-302926881.html"
+        }
+      ],
+      "homepage": "https://www.getjobber.com/",
+      "indieAngle": "A report built from your own customers' jobs is a piece of marketing, once a few hundred of them are on the tool.",
+      "whyItPrints": "A small crew runs the day in it, and a payment can ride on the invoice. In November 2026 they said Google's AI Mode can send a booking, with no fee for the lead.",
+      "image": "/blog/2026-11-13/jobber.webp",
+      "imageAlt": "Jobber product image",
+      "imageWidth": 480,
+      "imageHeight": 306
+    },
+    {
+      "slug": "companycam",
+      "name": "CompanyCam",
+      "listingNote": null,
+      "description": "A camera for the job site. Each photo keeps the project, the place, and the time, so a contractor can show what was done. Lincoln, Nebraska. Roofers, restorers, remodelers.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows an estimate of about $68 million a year as of November 2024, up from about $32 million in 2023. The company has not published revenue. In August 2025 a Series C led by B Capital was reported at a $2 billion valuation, called the first Nebraska company at that mark. The valuation is not revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/companycam"
+        },
+        {
+          "label": "Silicon Prairie News",
+          "url": "https://siliconprairienews.com/2025/11/companycam-reaches-unicorn-status-with-2-billion-valuation-a-first-for-a-nebraska-startup/"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/companycam-secures-strategic-growth-investment-from-b-capital-302535365.html"
+        }
+      ],
+      "homepage": "https://companycam.com/",
+      "indieAngle": "The same timestamped photo for a narrower job. A cleaning crew. The check-in and check-out of a rental.",
+      "whyItPrints": "The photo is the paperwork for an insurance claim, a warranty, or an argument with the customer.",
+      "image": "/blog/2026-11-13/companycam.webp",
+      "imageAlt": "CompanyCam product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "housecall-pro",
+      "name": "Housecall Pro",
+      "listingNote": null,
+      "description": "Scheduling, dispatch, invoices, payments, and marketing for plumbers, HVAC, electricians, and cleaners. San Diego. It sits in the same lane as Workiz and Jobber.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $37.2 million a year as of September 2021, with 20,000 customers then. That reading is from 2021, not from this week. $175 million raised, including a $125 million round in June 2022 led by Permira and Vista Credit Partners. No newer revenue figure is in this note. No screenshot. The site's share image was only a logo, and a page capture did not finish.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/housecall-pro"
+        }
+      ],
+      "homepage": "https://www.housecallpro.com/",
+      "indieAngle": "The US lane is crowded with funded companies. A local invoice and a local tax rule is the open space.",
+      "whyItPrints": "A subscription, plus a cut of the payment on the job. Same shape as the other crew tools.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "hostaway",
+      "name": "Hostaway",
+      "listingNote": null,
+      "description": "Listings synced to Airbnb, Booking.com, and Vrbo, one inbox for guests, automation, pricing, and owner statements, for someone managing short-term rentals. Priced per listing. Toronto.",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo, shown on GetLatka, estimates about $23.8 million a year as of September 2025, with 216 employees. The company has not published revenue. In December 2024 they raised $365 million at a $925 million valuation, led by General Atlantic. The valuation is not revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/hostaway"
+        },
+        {
+          "label": "Blog",
+          "url": "https://www.hostaway.com/blog/hostaway-raises-365-million/"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2024/12/17/travel-is-back-hostaway-raises-365m-at-a-925m-valuation/"
+        }
+      ],
+      "homepage": "https://www.hostaway.com/",
+      "indieAngle": "The owner statement, plus the local tourist-tax paperwork, for a small manager.",
+      "whyItPrints": "The bill grows when the manager adds a property. Portfolios on their account run from 10 units to 8,000, in more than 90 countries.",
+      "image": "/blog/2026-11-13/hostaway.webp",
+      "imageAlt": "Hostaway product image",
+      "imageWidth": 1200,
+      "imageHeight": 601
+    }
+  ],
+  "honorableMentions": []
+}

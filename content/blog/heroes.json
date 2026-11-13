@@ -482,5 +482,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Aoraki_-_Mt_Cook%2C_Aoraki_-_Mount_Cook_National_Park%2C_New_Zealand.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "bryce-canyon",
+    "src": "/blog/heroes/bryce-canyon.webp",
+    "alt": "Bryce Canyon at sunrise",
+    "width": 1280,
+    "height": 720,
+    "credit": "Ymaup",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bryce_Canyon_(lever_de_soleil).jpg",
+    "license": "CC BY-SA 3.0",
+    "subject": "nature"
   }
 ]

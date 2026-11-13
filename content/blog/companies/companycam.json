@@ -1,0 +1,35 @@
+{
+  "slug": "companycam",
+  "name": "CompanyCam",
+  "listingNote": null,
+  "description": "A camera for the job site. Each photo keeps the project, the place, and the time, so a contractor can show what was done. Lincoln, Nebraska. Roofers, restorers, remodelers.",
+  "homepage": "https://companycam.com/",
+  "image": "/blog/2026-11-13/companycam.webp",
+  "imageAlt": "CompanyCam product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-13",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows an estimate of about $68 million a year as of November 2024, up from about $32 million in 2023. The company has not published revenue. In August 2025 a Series C led by B Capital was reported at a $2 billion valuation, called the first Nebraska company at that mark. The valuation is not revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/companycam"
+        },
+        {
+          "label": "Silicon Prairie News",
+          "url": "https://siliconprairienews.com/2025/11/companycam-reaches-unicorn-status-with-2-billion-valuation-a-first-for-a-nebraska-startup/"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/companycam-secures-strategic-growth-investment-from-b-capital-302535365.html"
+        }
+      ],
+      "indieAngle": "The same timestamped photo for a narrower job. A cleaning crew. The check-in and check-out of a rental."
+    }
+  ],
+  "whyItPrints": "The photo is the paperwork for an insurance claim, a warranty, or an argument with the customer.",
+  "whyThisMatters": "The argument after a roof job is about what the crew actually did. CompanyCam is the camera that files each photo under the project, the place, and the time, so a roofer, a restorer, or a remodeler can show the work. Lincoln, Nebraska. It sounds like a feature. Insurance, warranties, and unhappy customers are why it is a product. GetLatka's estimate is about sixty-eight million a year as of November 2024, up from about thirty-two million in 2023. The company has not published those figures. In August 2025 a Series C led by B Capital was reported at a two billion valuation, and the local press called it the first Nebraska company at that mark. A valuation is what investors paid for a slice. It is not the year's sales. The same camera, narrowed to one job, is a cleaning crew's before-and-after, or the photos at the start and end of a rental stay."
+}

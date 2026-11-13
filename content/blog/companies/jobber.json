@@ -1,0 +1,35 @@
+{
+  "slug": "jobber",
+  "name": "Jobber",
+  "listingNote": null,
+  "description": "Quotes, scheduling, invoices, payments, and a client page, for landscapers, cleaners, plumbers, HVAC, and a long list of other trades. Toronto.",
+  "homepage": "https://www.getjobber.com/",
+  "image": "/blog/2026-11-13/jobber.webp",
+  "imageAlt": "Jobber product image",
+  "imageWidth": 480,
+  "imageHeight": 306,
+  "mentions": [
+    {
+      "date": "2026-11-13",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows a reported $100 million a year in December 2022, up from $50 million in 2021. That is not a 2026 reading. A May 2026 press release says they passed 100,000 customers and more than 400,000 service pros use it daily, and that those customers have delivered more than $100 billion of services. The hundred billion is the customers' work, not Jobber's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/jobber"
+        },
+        {
+          "label": "Customers",
+          "url": "https://www.prnewswire.com/news-releases/jobber-surpasses-100-000-customers-cementing-its-position-as-the-market-leading-platform-for-home-and-commercial-service-businesses-302768759.html"
+        },
+        {
+          "label": "Google",
+          "url": "https://www.prnewswire.com/news-releases/jobber-integrates-with-ai-mode-in-google-search-opening-a-new-customer-acquisition-channel-for-home-and-commercial-service-businesses-302926881.html"
+        }
+      ],
+      "indieAngle": "A report built from your own customers' jobs is a piece of marketing, once a few hundred of them are on the tool."
+    }
+  ],
+  "whyItPrints": "A small crew runs the day in it, and a payment can ride on the invoice. In November 2026 they said Google's AI Mode can send a booking, with no fee for the lead.",
+  "whyThisMatters": "A two-person crew needs a quote, a slot on the calendar, and an invoice the customer can pay. Jobber is that, plus a page the client can open, for landscapers, cleaners, plumbers, HVAC, and a long list of other trades. Toronto. The payment can sit on the invoice, so the software and the money move together. GetLatka's reported figure is one hundred million a year in December 2022, up from fifty million in 2021. I am not treating a 2022 press number as this week's revenue. In May 2026 they said they had passed one hundred thousand customers, with more than four hundred thousand service pros in the product each day. The same release says those customers have delivered more than one hundred billion of services. That is the customers' invoices, added up. It is not Jobber's sales. In November 2026 they said a booking can arrive from Google's AI Mode without a lead fee. A report built from the jobs already in the tool is the marketing idea, once enough crews are on it."
+}

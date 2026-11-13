@@ -1,0 +1,39 @@
+{
+  "slug": "roofr",
+  "name": "Roofr",
+  "listingNote": null,
+  "description": "A roof measurement from an aerial photo, then the estimate, the proposal, the customer list, the payment, the invoice, and the materials order, for a roofing company. It started as a marketplace in 2016 and became software for roofers in 2021. United States and Canada.",
+  "homepage": "https://roofr.com/",
+  "image": "/blog/2026-11-13/roofr.webp",
+  "imageAlt": "Roofr product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-13",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo, shown on GetLatka, estimates about $35.2 million a year as of December 2023, with 135 employees. The company has not published revenue. A January 2025 blog post says more than 12,000 roofing companies rely on Roofr, and that a Series B was led by TCV. The post does not give the round's size. The CEO, on LinkedIn, says more than 13,000 roofers. An October 2023 round of $23.5 million is funding, not revenue. The 12,000 and the 13,000 are two counts.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/roofr"
+        },
+        {
+          "label": "Blog",
+          "url": "https://roofr.com/blog/roofr-raises-series-b-funding-from-tcv-and-abc-supply-to-expand-roofing-crm"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/richy-nelson-105b7593_in-2016-we-started-roofr-as-a-marketplace-activity-7290077609097367552-5Gn8"
+        },
+        {
+          "label": "Digital Commerce 360",
+          "url": "https://www.digitalcommerce360.com/2025/04/14/roofr-series-b-funding-expand-roofing-software/"
+        }
+      ],
+      "indieAngle": "Sell one paid document per job before you sell a subscription. The measurement is that document."
+    }
+  ],
+  "whyItPrints": "The measurement is a paid document per job. Payments and material orders sit on top. ABC Supply, a big roofing distributor, put money in.",
+  "whyThisMatters": "A roofer used to climb up or guess the squares. Roofr sells the measurement from an aerial photo, then the estimate, the proposal, the customer list, the invoice, the payment, and the materials order. It began as a marketplace in 2016 and turned into software for roofing companies in 2021. United States and Canada. ABC Supply, a large distributor of roofing materials, put money in, which fits a product that also orders those materials. Growjo's estimate, shown on GetLatka, is about thirty-five point two million a year as of December 2023, with one hundred and thirty-five employees. The company has not published revenue. A January 2025 post says more than twelve thousand roofing companies, and that TCV led a Series B. The post does not say how much that round was. The CEO's LinkedIn post says more than thirteen thousand roofers. Two counts, both from the company, not averaged. An October 2023 round of twenty-three point five million is funding. The paid measurement, one document per job, is the piece that does not need a subscription to be useful."
+}

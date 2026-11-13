@@ -1,0 +1,35 @@
+{
+  "slug": "a2x",
+  "name": "A2X",
+  "listingNote": null,
+  "description": "It takes the payout from Amazon, Shopify, eBay, Etsy, Walmart, and PayPal and turns it into a short journal entry that matches in QuickBooks Online, Xero, Sage, or NetSuite. New Zealand. Founded 2014. Jamie McDonald is the CEO. Accounting firms resell it to their shop clients.",
+  "homepage": "https://www.a2xaccounting.com/",
+  "image": "/blog/2026-11-13/a2x.webp",
+  "imageAlt": "A2X product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-11-13",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $7.3 million a year for 2025, with 66 employees. The 5 November note on Link My Books already had that same estimate, dated July 2025. It is not a new number. A March 2026 page says it works with more than 12,000 customers and with the top ecommerce accounting practices. A case study of Misen, a cookware brand, says they went from 405 manual payout postings and $6,688 a month in labour and fees to $329 a month. That saving is Misen's cost, not A2X's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/a2xaccounting"
+        },
+        {
+          "label": "A2X",
+          "url": "https://www.a2xaccounting.com/ecommerce-accounting-hub/what-is-a2x"
+        },
+        {
+          "label": "Misen",
+          "url": "https://www.a2xaccounting.com/case-studies/misen-a2x"
+        }
+      ],
+      "indieAngle": "The same payout entry for a shop this product does not cover, into a local ledger."
+    }
+  ],
+  "whyItPrints": "A bookkeeper hates typing a marketplace payout by hand. Once the mapping is set, nobody wants to rebuild it.",
+  "whyThisMatters": "A marketplace payout is a lump, not an invoice. A2X turns Amazon, Shopify, eBay, Etsy, Walmart, and PayPal settlements into a short entry that matches in QuickBooks Online, Xero, Sage, or NetSuite. New Zealand. Founded in 2014. Jamie McDonald is the CEO. Accounting firms put it in front of every shop client they have, which is why it sticks once the mapping exists. GetLatka's estimate is about seven point three million a year for 2025, with sixty-six employees. The 5 November note, written on the Link My Books page, already carried that estimate and dated it to July 2025. Same number, not a fresh reading. A March 2026 page says more than twelve thousand customers, and names the accounting practices that resell it. A case study about Misen, a cookware brand, counts hundreds of manual postings and a monthly bookkeeping bill that dropped. That bill belongs to Misen. It is not A2X's revenue. Link My Books is the smaller product in the same job. This page is the larger one, with its own customer count. The open slice is a marketplace this tool does not already post, into a local ledger."
+}

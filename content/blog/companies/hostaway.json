@@ -1,0 +1,35 @@
+{
+  "slug": "hostaway",
+  "name": "Hostaway",
+  "listingNote": null,
+  "description": "Listings synced to Airbnb, Booking.com, and Vrbo, one inbox for guests, automation, pricing, and owner statements, for someone managing short-term rentals. Priced per listing. Toronto.",
+  "homepage": "https://www.hostaway.com/",
+  "image": "/blog/2026-11-13/hostaway.webp",
+  "imageAlt": "Hostaway product image",
+  "imageWidth": 1200,
+  "imageHeight": 601,
+  "mentions": [
+    {
+      "date": "2026-11-13",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo, shown on GetLatka, estimates about $23.8 million a year as of September 2025, with 216 employees. The company has not published revenue. In December 2024 they raised $365 million at a $925 million valuation, led by General Atlantic. The valuation is not revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/hostaway"
+        },
+        {
+          "label": "Blog",
+          "url": "https://www.hostaway.com/blog/hostaway-raises-365-million/"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2024/12/17/travel-is-back-hostaway-raises-365m-at-a-925m-valuation/"
+        }
+      ],
+      "indieAngle": "The owner statement, plus the local tourist-tax paperwork, for a small manager."
+    }
+  ],
+  "whyItPrints": "The bill grows when the manager adds a property. Portfolios on their account run from 10 units to 8,000, in more than 90 countries.",
+  "whyThisMatters": "A manager with many holiday lets cannot update Airbnb, Booking.com, and Vrbo by hand, or answer every guest from three inboxes. Hostaway syncs the listings, puts the messages in one place, handles pricing and automation, and produces the owner statement. The price is per listing, so a bigger portfolio is a bigger bill. Toronto. Their own account of customers runs from ten units to eight thousand, in more than ninety countries. Growjo's estimate, shown on GetLatka, is about twenty-three point eight million a year as of September 2025, with two hundred and sixteen employees. The company has not published revenue. In December 2024 General Atlantic led a round of three hundred and sixty-five million, at a nine hundred and twenty-five million valuation. That valuation is the price of the company in the round. It is not the year's sales. The slice that does not need the whole channel manager is the owner statement, plus whatever tourist-tax form the local office already asks for."
+}

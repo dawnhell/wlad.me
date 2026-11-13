@@ -1,0 +1,39 @@
+{
+  "slug": "lmn",
+  "name": "LMN",
+  "listingNote": "now part of Granum",
+  "description": "Estimates, job cost, crew time, the schedule, invoices, and payments for landscaping companies. Mark Bradley built it for his own landscaping company. The old golmn.com address now redirects to Granum, which sells LMN next to tools for arborists. Canada. Founded 2009.",
+  "homepage": "https://granum.com/lmn/",
+  "image": "/blog/2026-11-13/lmn.webp",
+  "imageAlt": "LMN product image",
+  "imageWidth": 1200,
+  "imageHeight": 700,
+  "mentions": [
+    {
+      "date": "2026-11-13",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $11.6 million a year as of December 2025, with 105 employees. The company has not published revenue. An older interview has Bradley saying 5,000 companies and 55,000 people using it, growing about 30 percent a year. A later LinkedIn post says more than 250,000 people on the platform. Those counts are not the same date. His own landscaping company was described as more than $10 million. That is the landscaping business, not LMN's revenue. Serent Capital, a private equity firm, invested in 2020.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/lmn"
+        },
+        {
+          "label": "Interview",
+          "url": "https://medium.com/authority-magazine/5-lessons-i-learned-when-i-created-my-app-or-saas-with-mark-bradley-of-lmn-mitch-russo-a04ce48c1f45"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/mark-bradley-lmn_lmn-landscape-management-network-has-become-activity-7180987543100821506-Zayh"
+        },
+        {
+          "label": "Serent",
+          "url": "https://principiumgroup.com/serent-capital-invests-in-lmn/"
+        }
+      ],
+      "indieAngle": "A free workshop on how to price a job, for one trade. The calculator is the way in."
+    }
+  ],
+  "whyItPrints": "A landscaper works on a thin margin. Knowing what the job actually cost is the reason they pay. He also taught workshops, and the software came along with the class.",
+  "whyThisMatters": "A landscaping job looks profitable until the crew hours and the materials are counted. LMN is the estimate, the job cost, the time sheet, the schedule, the invoice, and the payment. Mark Bradley built it for his own landscaping company, then taught other owners how to price the work, and the software traveled with the class. Canada. Founded in 2009. The old address now redirects, and Granum sells LMN next to arborist tools. The picture on this note is that newer header. GetLatka estimates about eleven point six million a year as of December 2025, with one hundred and five employees. The company has not published revenue. An older interview has him at five thousand companies and fifty-five thousand people, growing about thirty percent a year. A later post says more than two hundred and fifty thousand people on the platform. I am not swapping the smaller count for the larger one. His own landscaping firm was described as more than ten million. That firm mows lawns. It is not this software company's revenue. Serent Capital invested in 2020. A workshop that shows a trade how to price a job is still a way in."
+}

@@ -360,6 +360,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Aoraki_-_Mt_Cook%2C_Aoraki_-_Mount_Cook_National_Park%2C_New_Zealand.jpg',
   },
+  {
+    id: 'bryce-canyon',
+    subject: 'nature',
+    alt: 'Bryce Canyon at sunrise',
+    credit: 'Ymaup',
+    license: 'CC BY-SA 3.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Bryce_Canyon_%28lever_de_soleil%29.jpg',
+  },
 ]
 
 function filePage(imageUrl) {
