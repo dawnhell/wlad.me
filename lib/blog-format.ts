@@ -220,6 +220,19 @@ export type QuotedRevenue = {
   conflict: boolean
 }
 
+function globalMatches(pattern: RegExp, text: string) {
+  const flags = pattern.flags.includes('g') ? pattern.flags : `${pattern.flags}g`
+  const expression = new RegExp(pattern.source, flags)
+  const matches: RegExpExecArray[] = []
+  let match = expression.exec(text)
+  while (match) {
+    matches.push(match)
+    if (match[0].length === 0) expression.lastIndex += 1
+    match = expression.exec(text)
+  }
+  return matches
+}
+
 function evidenceSentences(text: string) {
   const parts: string[] = []
   let start = 0
@@ -256,7 +269,7 @@ function figureDate(sentence: string, amountIndex: number) {
     'gi',
   )
   let best: { text: string; distance: number } | null = null
-  for (const match of sentence.matchAll(dates)) {
+  for (const match of globalMatches(dates, sentence)) {
     const index = match.index ?? 0
     const before = sentence.slice(Math.max(0, index - 16), index)
     if (/read|seen|synced|updated|homepage/i.test(before)) continue
@@ -280,7 +293,7 @@ export function quotedRevenue(evidence: string): QuotedRevenue | null {
   const hits: { amount: string; asOf: string | null }[] = []
   for (const sentence of evidenceSentences(evidence)) {
     if (skipRevenueSentence(sentence)) continue
-    for (const match of sentence.matchAll(MONEY_PHRASE)) {
+    for (const match of globalMatches(MONEY_PHRASE, sentence)) {
       const amount = cleanAmount(match[0]) + amountContext(sentence, match.index ?? 0)
       if (!amount || isEmptyAmount(amount)) continue
       hits.push({
