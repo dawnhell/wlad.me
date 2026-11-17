@@ -205,6 +205,111 @@ function headlineL30(evidence: string) {
   return token
 }
 
+const MONEY_AMOUNT = String.raw`(?:[$€£]|C\$)\s?[\d,.]+(?:\s?[kKmM]\b|\s*(?:million|billion))?`
+const MONEY_PREFIX = String.raw`(?:more than |over |under |about |around |roughly |up to )?`
+const MONEY_PHRASE = new RegExp(
+  `${MONEY_PREFIX}${MONEY_AMOUNT}(?:\\s*(?:to|–|-)\\s*${MONEY_PREFIX}${MONEY_AMOUNT})?(?:\\s+a\\s+(?:year|month))?`,
+  'gi',
+)
+const FIGURE_MONTH =
+  'January|February|March|April|May|June|July|August|September|October|November|December'
+
+export type QuotedRevenue = {
+  amounts: string[]
+  asOf: string | null
+  conflict: boolean
+}
+
+function evidenceSentences(text: string) {
+  const parts: string[] = []
+  let start = 0
+  for (let i = 0; i < text.length; i++) {
+    const char = text[i]
+    if (char === '!' || char === '?' || (char === '.' && !isSoftPeriod(text, i))) {
+      const sentence = text.slice(start, i + 1).trim()
+      if (sentence) parts.push(sentence)
+      start = i + 1
+    }
+  }
+  const rest = text.slice(start).trim()
+  if (rest) parts.push(rest)
+  return parts
+}
+
+function skipRevenueSentence(sentence: string) {
+  return /no revenue figure|no reliable revenue|no single revenue|price list|the price is the menu|not a revenue total|those prices are the menu|the prices are the menu|listed prices are a menu|not used|not clearly this company|data error|left out|listed for sale|asking price|raised |funding|valuation|valued at|series [a-c]\b|\bSAFE\b|credit facility|donations|passing through|customers' work|not [\w' ]{0,40}revenue/i.test(
+    sentence,
+  )
+}
+
+function cleanAmount(raw: string) {
+  return raw.replace(/\s+/g, ' ').replace(/[.,]$/, '').trim()
+}
+
+function isEmptyAmount(amount: string) {
+  return /(?:[$€£]|C\$)\s?0(?:\.0+)?(?:\s?[kKmM]|\s*(?:million|billion))?\b/i.test(amount)
+}
+
+function figureDate(sentence: string, amountIndex: number) {
+  const dates = new RegExp(
+    `\\b(\\d{1,2}\\s+(?:${FIGURE_MONTH})\\s+20\\d{2}|(?:${FIGURE_MONTH})\\s+20\\d{2}|20\\d{2})\\b`,
+    'gi',
+  )
+  let best: { text: string; distance: number } | null = null
+  for (const match of sentence.matchAll(dates)) {
+    const index = match.index ?? 0
+    const before = sentence.slice(Math.max(0, index - 16), index)
+    if (/read|seen|synced|updated|homepage/i.test(before)) continue
+    const distance = Math.abs(index - amountIndex)
+    const limit = new RegExp(FIGURE_MONTH, 'i').test(match[1]) ? 120 : 40
+    if (distance > limit) continue
+    if (!best || distance < best.distance) best = { text: match[1], distance }
+  }
+  return best?.text ?? null
+}
+
+function amountContext(sentence: string, index: number) {
+  const before = sentence.slice(Math.max(0, index - 24), index)
+  if (/last 30 days\s*$/i.test(before)) return ' in the last 30 days'
+  if (/all-time\s*$/i.test(before)) return ' all-time'
+  if (/last 12 months\s*$/i.test(before)) return ' in the last 12 months'
+  return ''
+}
+
+export function quotedRevenue(evidence: string): QuotedRevenue | null {
+  const hits: { amount: string; asOf: string | null }[] = []
+  for (const sentence of evidenceSentences(evidence)) {
+    if (skipRevenueSentence(sentence)) continue
+    for (const match of sentence.matchAll(MONEY_PHRASE)) {
+      const amount = cleanAmount(match[0]) + amountContext(sentence, match.index ?? 0)
+      if (!amount || isEmptyAmount(amount)) continue
+      hits.push({
+        amount,
+        asOf: figureDate(sentence, match.index ?? 0),
+      })
+    }
+  }
+  if (!hits.length) return null
+  const conflict =
+    /not the same (?:reading|sentence|number|figure)|do not agree|does not agree|don't agree|neither is the number|estimates conflict|those conflict|they conflict|guesses do not agree/i.test(
+      evidence,
+    )
+  if (conflict && hits.length >= 2) {
+    const last = hits[hits.length - 1]
+    return {
+      amounts: [hits[0].amount, last.amount],
+      asOf: hits[0].asOf,
+      conflict: true,
+    }
+  }
+  return { amounts: [hits[0].amount], asOf: hits[0].asOf, conflict: false }
+}
+
+function amountLead(amount: string) {
+  if (/^(more than |over |under |up to )/i.test(amount)) return amount
+  return `about ${amount.replace(/^(?:about |around |roughly )/i, '')}`
+}
+
 function shortProduct(description: string) {
   let raw = productClause(description).replace(/[.!?]+$/, '')
   raw = raw.replace(/^TrustMRR lists it as\s+[“"](.+?)[”"]$/i, '$1')
@@ -234,11 +339,18 @@ export function companyMetaDescription(company: Company) {
       ? 'Self-reported numbers.'
       : `Verified numbers from ${processorName(latest.evidenceKind)}.`
 
+  const quoted = quotedRevenue(latest.evidence)
   let figure = ''
   if (mrr && count) figure = `${mrr} from ${count.count} ${count.label}`
   else if (mrr) figure = mrr
   else if (l30) figure = `${l30} last 30 days`
-  else if (count) figure = `${count.count} ${count.label}`
+  else if (quoted) {
+    figure = quoted.conflict
+      ? `${quoted.amounts[0]} and ${quoted.amounts[1]}`
+      : quoted.asOf
+        ? `${quoted.amounts[0]}, ${quoted.asOf}`
+        : quoted.amounts[0]
+  } else if (count) figure = `${count.count} ${count.label}`
 
   const prefix = figure
     ? `${company.name} revenue breakdown: ${figure}`
@@ -333,6 +445,7 @@ function howMuchAnswer(company: Company) {
   const count = headlineCount(latest.evidence)
   const l30 = headlineL30(latest.evidence)
   const date = formatEditionDate(latest.date)
+  const quoted = quotedRevenue(latest.evidence)
   const source =
     latest.evidenceKind === 'self-reported'
       ? "That's self-reported."
@@ -347,6 +460,12 @@ function howMuchAnswer(company: Company) {
     lead = `About ${stripApprox(l30)} in the last 30 days, from ${count.count} ${count.label}`
   } else if (l30) {
     lead = `About ${stripApprox(l30)} in the last 30 days`
+  } else if (quoted?.conflict) {
+    const first = amountLead(quoted.amounts[0]).replace(/^./, (letter) => letter.toUpperCase())
+    return `${first} and ${amountLead(quoted.amounts[1])}. Those are not the same reading. ${source}`
+  } else if (quoted) {
+    const asOf = quoted.asOf || date
+    return `${amountLead(quoted.amounts[0]).replace(/^./, (letter) => letter.toUpperCase())}, as of ${asOf}. ${source}`
   } else if (count) {
     lead = `${count.count} ${count.label}`
   } else {
@@ -387,68 +506,60 @@ export function companyFaq(company: Company) {
   return items
 }
 
-const RELATED_STOP = new Set([
-  'the', 'and', 'for', 'with', 'that', 'this', 'from', 'are', 'was', 'its',
-  'their', 'your', 'you', 'not', 'per', 'via', 'into', 'over', 'than', 'then',
-  'them', 'they', 'have', 'has', 'had', 'but', 'about', 'after', 'before',
-  'between', 'when', 'what', 'which', 'who', 'how', 'all', 'one', 'our', 'out',
-  'can', 'will', 'just', 'more', 'other', 'also', 'only', 'still', 'each',
-  'both', 'any', 'some', 'such', 'using', 'used', 'use', 'app', 'saas',
-  'software', 'product', 'products', 'company', 'companies', 'founded',
-  'stack', 'public', 'profile', 'stripe', 'verified', 'month', 'pricing',
-  'model', 'audience', 'bootstrapped', 'team', 'users', 'based', 'been',
-  'were', 'tool', 'tools', 'platform', 'service', 'services', 'online',
-  'business', 'customer', 'customers', 'his', 'her', 'new', 'get', 'pay',
-  'paid', 'pays', 'without', 'within', 'across', 'where', 'while', 'there',
-])
+export type CompanyPeer = { slug: string; name: string }
 
-function descriptionTokens(company: Company) {
-  return new Set(
-    `${company.name} ${company.description}`
-      .toLowerCase()
-      .split(/[^a-z0-9+]+/)
-      .filter((token) => token.length > 2 && !RELATED_STOP.has(token) && !/^\d+$/.test(token)),
-  )
+function escapeRegExp(value: string) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
+function noteText(company: Company) {
+  return [
+    company.description,
+    company.whyItPrints,
+    company.whyThisMatters,
+    ...company.mentions.flatMap((mention) => [mention.evidence, mention.indieAngle]),
+  ]
+    .filter(Boolean)
+    .join('\n')
+}
+
+export function namedCompanyPeers(company: Company, all: Company[]): CompanyPeer[] {
+  const text = noteText(company)
+  const hits: { peer: CompanyPeer; index: number; length: number }[] = []
+  for (const other of all) {
+    if (other.slug === company.slug || other.name.length < 3) continue
+    const match = new RegExp(
+      `(?:^|[^A-Za-z0-9])(${escapeRegExp(other.name)})(?=$|[^A-Za-z0-9])`,
+    ).exec(text)
+    if (!match || match.index === undefined) continue
+    hits.push({
+      peer: { slug: other.slug, name: other.name },
+      index: match.index + match[0].length - match[1].length,
+      length: other.name.length,
+    })
+  }
+  hits.sort((left, right) => left.index - right.index || right.length - left.length)
+  const kept: CompanyPeer[] = []
+  for (const hit of hits) {
+    const insideLongerName = hits.some(
+      (other) =>
+        other.peer.slug !== hit.peer.slug &&
+        other.length > hit.length &&
+        hit.index >= other.index &&
+        hit.index < other.index + other.length,
+    )
+    if (insideLongerName || kept.some((item) => item.slug === hit.peer.slug)) continue
+    kept.push(hit.peer)
+  }
+  return kept
 }
 
 export function relatedCompanies(
   company: Company,
   all: Company[],
-  sameEditionSlugs: string[],
+  _sameEditionSlugs: string[],
 ) {
-  const docs = all.map((item) => ({ item, tokens: descriptionTokens(item) }))
-  const frequency = new Map<string, number>()
-  for (const doc of docs) {
-    for (const token of Array.from(doc.tokens)) {
-      frequency.set(token, (frequency.get(token) ?? 0) + 1)
-    }
-  }
-  const ceiling = Math.ceil(all.length * 0.25)
-  const rare = (tokens: Set<string>) =>
-    new Set(Array.from(tokens).filter((token) => (frequency.get(token) ?? 0) <= ceiling))
-  const mine = rare(descriptionTokens(company))
-  const scored = docs
-    .filter((doc) => doc.item.slug !== company.slug)
-    .map((doc) => {
-      let score = 0
-      for (const token of Array.from(rare(doc.tokens))) {
-        if (mine.has(token)) score += 1
-      }
-      return { slug: doc.item.slug, name: doc.item.name, score }
-    })
-    .filter((item) => item.score >= 2)
-    .sort((a, b) => b.score - a.score || a.name.localeCompare(b.name))
-  if (scored.length >= 2) {
-    return scored.slice(0, 3).map(({ slug, name }) => ({ slug, name }))
-  }
-  const bySlug = new Map(all.map((item) => [item.slug, item]))
-  return sameEditionSlugs
-    .filter((slug) => slug !== company.slug && bySlug.has(slug))
-    .slice(0, 3)
-    .map((slug) => {
-      const item = bySlug.get(slug)!
-      return { slug: item.slug, name: item.name }
-    })
+  return namedCompanyPeers(company, all).slice(0, 3)
 }
 
 export function companyCrumbs(company: Company): Crumb[] {

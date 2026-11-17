@@ -20,6 +20,7 @@ import {
   relatedCompanies,
   type Company,
   type CompanyMention,
+  type CompanyPeer,
 } from '../../../lib/blog-format'
 import { articleSchema, breadcrumbSchema, faqSchema } from '../../../lib/blog-schema'
 import type { tNextPageWithLayout } from '../../_app'
@@ -63,8 +64,6 @@ const Figures = ({
     </div>
   )
 }
-
-type CompanyPeer = { slug: string; name: string }
 
 const CompanyPage: tNextPageWithLayout<{
   company: Company
@@ -219,7 +218,7 @@ CompanyPage.getLayout = function getLayout(
   const description = companyMetaDescription(company)
   const headline =
     latest.evidenceKind === 'self-reported'
-      ? `${company.name} revenue notes`
+      ? `${company.name} revenue`
       : `${company.name} verified revenue`
   return (
     <Layout
@@ -264,13 +263,14 @@ export async function getStaticProps({
   params: { slug: string }
 }) {
   const { getCompanies, getCompany, getEdition } = await import('../../../lib/blog')
+  const companies = getCompanies()
   const company = getCompany(params.slug)
   if (!company) return { notFound: true }
   const latest = latestMention(company)
   const edition = getEdition(latest.date)
   const related = relatedCompanies(
     company,
-    getCompanies(),
+    companies,
     (edition?.companies ?? []).map((entry) => entry.slug),
   )
   return { props: { company, related } }

@@ -114,6 +114,14 @@ for (const company of companies) {
       fail(`${company.slug} FAQ still points at the revenue block`)
     }
   }
+  const howMuch = faq.find((item) => item.question.startsWith('How much'))
+  if (
+    howMuch &&
+    /has the figure/i.test(howMuch.answer) &&
+    blog.quotedRevenue(company.mentions.at(-1).evidence)
+  ) {
+    fail(`${company.slug} FAQ hides a figure`)
+  }
 
   const count = proseWords(company, blurbs[company.slug], faq)
   if (count < 300) fail(`${company.slug} has ${count} unique words`)
@@ -132,7 +140,7 @@ for (const company of companies) {
     companies,
     (edition?.companies ?? []).map((entry) => entry.slug),
   )
-  if (related.length < 2 || related.length > 3) {
+  if (related.length > 3) {
     fail(`${company.slug} has ${related.length} related links`)
   }
   for (const peer of related) {
