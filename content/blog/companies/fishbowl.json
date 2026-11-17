@@ -1,0 +1,35 @@
+{
+  "slug": "fishbowl",
+  "name": "Fishbowl",
+  "listingNote": null,
+  "description": "Inventory, the warehouse, and manufacturing, on-premises and in the cloud, for people on QuickBooks. Around since 2001. Orem and American Fork, Utah. A LinkedIn note says private equity in December 2021.",
+  "homepage": "https://www.fishbowlinventory.com/",
+  "image": "/blog/2026-11-15/fishbowl.webp",
+  "imageAlt": "Fishbowl product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-15",
+      "evidenceKind": "self-reported",
+      "evidence": "The estimates conflict. GetLatka lists $4.6 million in August 2020, with the source not recorded. Craft.co and LinkedIn data list $35 million for 2020, with about 225 employees. A headcount of 225 fits the larger figure better than the smaller one. Both stay, because they are not the same reading. The 10 November note on Acctivate already mentioned the GetLatka estimate. It did not include the $35 million line.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/fishbowl"
+        },
+        {
+          "label": "Craft",
+          "url": "https://craft.co/fishbowl/financials"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/fishbowl"
+        }
+      ],
+      "indieAngle": "The same QuickBooks stock gap has room at more than one price. A narrower niche, rentals or lot-traced food, is still open."
+    }
+  ],
+  "whyItPrints": "The older, heavier stock add-on. Twenty-five years of the same job.",
+  "whyThisMatters": "Fishbowl is the older stock and manufacturing add-on for people on QuickBooks, on a server and in the cloud. Around since 2001. Orem and American Fork, Utah. A LinkedIn note says private equity in December 2021. The estimates conflict. GetLatka lists 4.6 million dollars in August 2020, with the source not recorded. Craft and LinkedIn data list 35 million dollars for 2020, with about 225 employees. About 225 employees lines up more easily with the larger revenue line than with the smaller one. I am leaving both readings on the page. Acctivate's 10 November note already carried the smaller GetLatka line. It did not include the 35 million dollar line. The figure is self-reported, which means data sites disagree. I did not open the books. Private equity shows up on a LinkedIn note dated December 2021. The product has been the heavy QuickBooks stock add-on since 2001. Orem and American Fork are the two Utah towns on the record. I am not averaging the two revenue lines."
+}

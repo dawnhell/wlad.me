@@ -5,7 +5,28 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:09:58 GMT</lastBuildDate>
+    <item>
+      <title>Monday's boring SaaS, 16 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-16</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Monday, 16 November 2026. TPO Checker is Stripe-verified, so that listing is connected to Stripe, and the other nine are self-reported. Several of those numbers are an estimate or a range, so the date in the note is the date of the number.</description>
+    </item>
+    <item>
+      <title>Sunday's boring SaaS, 15 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-15</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Sunday, 15 November 2026. Agiletestware is Stripe-verified, so that listing is connected to Stripe, and the other eight are self-reported. Several of those numbers are an estimate, and a few of them disagree.</description>
+    </item>
+    <item>
+      <title>Saturday's boring SaaS, 14 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-14</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Saturday, 14 November 2026. HoodCleaningReport is Dodo-verified, so that listing is connected to Dodo, and the other nine are self-reported. MRPeasy's figure is a public filing. Several of the others are an estimate or from an older year.</description>
+    </item>
     <item>
       <title>Friday's boring SaaS, 13 November 2026</title>
       <link>https://www.wlad.me/blog/2026-11-13</link>
@@ -19,6 +40,13 @@
       <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-12</guid>
       <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
       <description>Thursday, 12 November 2026. The shipping-discount app is Shopify-verified, so that listing is connected to Shopify, and the other nine are self-reported. Several of those self-reported numbers are an estimate, so the date in the note is the date of the number.</description>
+    </item>
+    <item>
+      <title>Wednesday's boring SaaS, 11 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-11</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Wednesday, 11 November 2026. Capacity Track is Stripe-verified, so that listing is connected to Stripe, and the other nine are self-reported. Several of those self-reported numbers are an estimate or from an older year, so the date in the note is the date of the number.</description>
     </item>
     <item>
       <title>Tuesday's boring SaaS, 10 November 2026</title>

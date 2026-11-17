@@ -1,0 +1,31 @@
+{
+  "slug": "arborgold",
+  "name": "ArborGold",
+  "listingNote": "now part of Teamfront",
+  "description": "The customer list, estimates, the schedule, the crew, and invoices for tree care and landscaping. Payments are attached. It is now part of Teamfront. United States.",
+  "homepage": "https://www.arborgold.com/",
+  "image": "/blog/2026-11-16/arborgold.webp",
+  "imageAlt": "ArborGold product image",
+  "imageWidth": 581,
+  "imageHeight": 296,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "self-reported",
+      "evidence": "A Teamfront press release says Teamfront, founded in 2023 with Mainsail Partners, has acquired ArborGold, ServiceMonster, Fieldster, and Accrisoft. Together they have more than 3,000 customers and $2.2 billion of invoicing volume. That volume and that customer count are the group, not ArborGold's revenue. LinkedIn data estimates about $5.2 million for ArborGold, and other vendors range from $2.5 million to $25 million. Treat those loosely. They do not agree.",
+      "sources": [
+        {
+          "label": "Teamfront",
+          "url": "https://www.teamfront.com/news-press-release/"
+        },
+        {
+          "label": "LeadIQ",
+          "url": "https://leadiq.com/c/arborgold-software/5a1da8e523000059009ceedc"
+        }
+      ],
+      "indieAngle": "A roll-up is the buyer for a small trade tool. One trade with no software still has that exit."
+    }
+  ],
+  "whyItPrints": "A seasonal crew and a large-ticket job. The software is one piece of a roll-up.",
+  "whyThisMatters": "A tree crew has a seasonal calendar and a large-ticket job. ArborGold is the customer list, the estimate, the schedule, the crew, and the invoice, with payments attached. It is now part of Teamfront. A press release says Teamfront, founded in 2023 with Mainsail Partners, has acquired ArborGold, ServiceMonster, Fieldster, and Accrisoft. Together they have more than 3,000 customers and 2.2 billion dollars of invoicing volume. That volume and that customer count are the group, not this product's revenue. LinkedIn data estimates about 5.2 million dollars for ArborGold, and other vendors range from 2.5 million to 25 million dollars. Treat those loosely. They do not agree. The figure is self-reported, which means a press release and loose data-site ranges. I did not open the books. Tree care and landscaping share the crew calendar. The roll-up is the buyer here, and the invoicing volume belongs to the whole group."
+}

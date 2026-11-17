@@ -1,0 +1,35 @@
+{
+  "slug": "inflow-inventory",
+  "name": "inFlow Inventory",
+  "listingNote": null,
+  "description": "Stock, purchasing, sales orders, barcodes, and a wholesale showroom, for a small retailer, wholesaler, or manufacturer, with more than 90 connections to accounting, shops, and shipping. Archon Systems. Toronto. It started as a Windows download in 2007, which they say passed a million installs, then moved people to the cloud. The co-founder calls it bootstrapped and self-funded.",
+  "homepage": "https://www.inflowinventory.com/",
+  "image": "/blog/2026-11-16/inflow-inventory.webp",
+  "imageAlt": "inFlow Inventory product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "self-reported",
+      "evidence": "The Globe and Mail's 2023 list of growing companies reports 2022 revenue of C$5 million to C$10 million, 123 percent growth over three years, and 55 employees. That is a band, not a single figure. They ranked number 428 on the Deloitte Technology Fast 500 in 2025. The company says 40,000 to 50,000 businesses served and $1.5 billion in transactions. The $1.5 billion is money moving through customers, not inFlow's revenue. The 40,000 and the 50,000 are the company's own range.",
+      "sources": [
+        {
+          "label": "Globe and Mail",
+          "url": "https://www.theglobeandmail.com/business/adv/article-canadas-top-growing-companies-2023-archon-systems-inc/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/louisleungarchonsystems_we-made-it-on-the-deloitte-technology-fast-activity-7398834349296672768-DWoH"
+        },
+        {
+          "label": "About",
+          "url": "https://www.inflowinventory.com/software-about-us"
+        }
+      ],
+      "indieAngle": "A free desktop tool for a dull job, then the paid cloud seat, years later."
+    }
+  ],
+  "whyItPrints": "For people who outgrew the spreadsheet and will not buy a full ERP. The old free download still feeds the cloud product.",
+  "whyThisMatters": "A small wholesaler outgrows the spreadsheet and will not buy a full ERP. inFlow is stock, purchasing, sales orders, barcodes, and a wholesale showroom, with more than 90 connections. Archon Systems, in Toronto. It started as a Windows download in 2007, which they say passed a million installs, then moved people to the cloud. The co-founder calls it bootstrapped and self-funded. The Globe and Mail's 2023 list of growing companies reports 2022 revenue of 5 million to 10 million Canadian dollars, 123 percent growth over three years, and 55 employees. That is a band, not a single figure. In 2025 they sat at number 428 on the Deloitte Technology Fast 500. The company says 40,000 to 50,000 businesses served and 1.5 billion dollars in transactions. The 1.5 billion is money moving through customers. Forty thousand and fifty thousand are the range the company itself gives. The figure is self-reported, which means a newspaper printed a band. I did not open the books."
+}

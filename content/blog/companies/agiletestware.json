@@ -1,0 +1,27 @@
+{
+  "slug": "agiletestware",
+  "name": "Agiletestware",
+  "listingNote": null,
+  "description": "Paid connectors that push test results from ReadyAPI, soapUI, Jenkins, Bamboo, JUnit, TestNG, NUnit, and Selenium into HP ALM, now OpenText ALM. United States. Since 2012. Bootstrapped, in Java, according to the listing.",
+  "homepage": "https://agiletestware.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-15",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time $381,655, synced 15 November 2026. The directory shows no active subscription and nothing collected in the last 30 days. That fits annual or one-off licences, not a monthly line. The listing says about 200 people use it.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/agiletestware-llc"
+        }
+      ],
+      "indieAngle": "One enterprise tool nobody loves and everybody is stuck with. Sell the connector."
+    }
+  ],
+  "whyItPrints": "Glue for an old enterprise tool that big companies will not rip out. Same shape as a desktop-accounting connector, for test results.",
+  "whyThisMatters": "Big companies still run an old test-management system they will not rip out. Agiletestware sells paid connectors that push results from ReadyAPI, soapUI, Jenkins, Bamboo, JUnit, TestNG, NUnit, and Selenium into HP ALM, now OpenText ALM. United States. Since 2012. The listing says it is bootstrapped and written in Java. Stripe-verified means the listing is connected to Stripe. I do not log in and re-check the number. The 15 November 2026 sync shows 381,655 dollars all-time. The directory shows no active subscription and nothing collected in the recent window. That fits a yearly licence or a one-off, not a monthly line, and it is not written here as a current monthly total. The listing puts the audience at about 200 people. No photo. The connectors are the whole product. ReadyAPI, soapUI, Jenkins, Bamboo, and the usual unit-test runners all push into the same old ALM. No screenshot on this note."
+}

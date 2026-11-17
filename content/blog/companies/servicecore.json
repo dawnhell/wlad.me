@@ -1,0 +1,27 @@
+{
+  "slug": "servicecore",
+  "name": "ServiceCore",
+  "listingNote": null,
+  "description": "Routes, a driver app, and billing for portable toilets, septic, grease traps, and roll-off dumpsters, with the bill synced to QuickBooks Online. Golden, Colorado.",
+  "homepage": "https://servicecore.com/",
+  "image": "/blog/2026-11-11/servicecore.webp",
+  "imageAlt": "ServiceCore product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-11",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $3.4 million a year in February 2022, with the source not recorded. That is the last figure before Full In, a private equity firm, bought it. Headcount on that page went from 35 in February 2022 to 126 in September 2024. An $8 million venture round in August 2019 is also listed. GetLatka lists a $540 million private equity round in February 2022. Next to $3.4 million of revenue that number looks like a data error, so it is not used. A 2025 benchmark on the site uses data from more than 500 operators. A customer story says Doodie Calls grew from 10 employees to more than 70 technicians on ServiceCore. That is the customer's headcount, not ServiceCore's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/servicecore.com"
+        }
+      ],
+      "indieAngle": "One route, one rented unit, and the invoice, for a trade this product does not cover. Shredding, mats, water coolers."
+    }
+  ],
+  "whyItPrints": "The route repeats, and the rented unit has to be billed. These operators already live in QuickBooks.",
+  "whyThisMatters": "The truck goes out on a route, the unit is rented, and the invoice has to match QuickBooks. ServiceCore does that for portable toilets, septic, grease traps, and roll-off dumpsters. Golden, Colorado. The last revenue line before a sale is 3.4 million dollars a year in February 2022, on GetLatka, and the source of that line is not written down. Full In, a private equity firm, bought the company after that. Headcount on the same page went from 35 in February 2022 to 126 in September 2024. An 8 million dollar venture round in August 2019 is a real funding line and it is not the revenue. GetLatka also lists a 540 million dollar private equity round in February 2022. Next to 3.4 million of revenue that number looks broken, so it is not used. A 2025 benchmark on the site uses more than 500 operators. A customer story says Doodie Calls grew from 10 employees to more than 70 technicians. That headcount belongs to the customer. The figure is self-reported, which means a data site wrote it down. I did not open the books."
+}

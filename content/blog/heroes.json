@@ -493,5 +493,49 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bryce_Canyon_(lever_de_soleil).jpg",
     "license": "CC BY-SA 3.0",
     "subject": "nature"
+  },
+  {
+    "id": "ilulissat",
+    "src": "/blog/heroes/ilulissat.webp",
+    "alt": "Icebergs near Ilulissat in Greenland",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Buiobuione",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:From_Ilulissat_and_leads_to_the_panoramic_view_of_the_icebergs_buiobuione.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "zion",
+    "src": "/blog/heroes/zion.webp",
+    "alt": "Zion National Park",
+    "width": 1440,
+    "height": 812,
+    "credit": "Mojnsen",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Zion_National_Park_2025.jpg",
+    "license": "CC BY 4.0",
+    "subject": "nature"
+  },
+  {
+    "id": "iguazu",
+    "src": "/blog/heroes/iguazu.webp",
+    "alt": "Iguazu Falls",
+    "width": 1120,
+    "height": 630,
+    "credit": "Henry Vagrant",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Iguaz%C3%BA_Falls_Brazil_Argentinia_(109758141).jpeg",
+    "license": "CC BY-SA 3.0",
+    "subject": "nature"
+  },
+  {
+    "id": "twelve-apostles",
+    "src": "/blog/heroes/twelve-apostles.webp",
+    "alt": "The Twelve Apostles on the coast of Victoria, Australia",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Dietmar Rabich",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Princetown_(AU)%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0930.jpg",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

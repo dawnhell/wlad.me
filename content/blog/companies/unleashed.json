@@ -1,0 +1,27 @@
+{
+  "slug": "unleashed",
+  "name": "Unleashed",
+  "listingNote": null,
+  "description": "Cloud stock, purchasing, orders across channels, and a wholesale shop, for product businesses, synced deeply with Xero and QuickBooks. New Zealand. Now owned by The Access Group. The acquisition date is not on the record.",
+  "homepage": "https://www.unleashedsoftware.com/",
+  "image": "/blog/2026-11-14/unleashed.webp",
+  "imageAlt": "Unleashed product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-14",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $10.4 million a year as of August 2020, with 112 employees in December 2020, and $20.3 million raised over 6 rounds. The source of the revenue line is the GetLatka reported figure, and it is from 2020, not from this week. A homepage quote says a customer is saving $30,000 to $40,000 a year by using the wholesale shop. That saving is the customer's, not Unleashed's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/unleashed-software"
+        }
+      ],
+      "indieAngle": "Stock for one ledger and one kind of product. A brewery on Xero. A bakery on QuickBooks."
+    }
+  ],
+  "whyItPrints": "Xero does not really do stock. A product business that outgrows the books needs this, and moving the stock data hurts, so they stay.",
+  "whyThisMatters": "Xero is not really a stock system. A product business that outgrows the books needs purchasing, orders, and a wholesale shop that still posts back. Unleashed is that, from New Zealand, and The Access Group now owns it. The date of the sale is not on the record. GetLatka shows 10.4 million dollars a year as of August 2020, 112 employees in December 2020, and 20.3 million dollars raised over 6 rounds. That revenue line is from 2020, not from this week. A homepage quote says a customer saves 30,000 to 40,000 dollars a year by using the wholesale shop. That saving belongs to the customer. The figure is self-reported, which means a data site wrote down an old reported line. I did not open the books. The Access Group is the current owner, and the sale date is blank. A customer quote about saving money belongs to that customer. The revenue line on the data site is from 2020."
+}

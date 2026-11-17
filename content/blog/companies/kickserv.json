@@ -1,0 +1,27 @@
+{
+  "slug": "kickserv",
+  "name": "Kickserv",
+  "listingNote": null,
+  "description": "Jobs, the schedule, estimates, invoices, messages, and payments for a small home-service company. HVAC, plumbing, cleaning, pest. Around since 2003. Later bought by ReachLocal. The date and the price of that sale are not on the record.",
+  "homepage": "https://www.kickserv.com/",
+  "image": "/blog/2026-11-11/kickserv.webp",
+  "imageAlt": "Kickserv product image",
+  "imageWidth": 1200,
+  "imageHeight": 472,
+  "mentions": [
+    {
+      "date": "2026-11-11",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $2.2 million a year in May 2022, up 189 percent from $761,700 in April 2021, with the source not recorded. 1,400 customers and 17 employees in May 2022. $600,000 raised in one round that month. The site, read 11 November 2026, prices plans at $60, $119, and $199 a month for 5, 10, and 20 people. Those prices are the menu, not the 2022 revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/kickserv.com"
+        }
+      ],
+      "indieAngle": "A small field tool, then a sale to whoever already sells marketing to those shops. The price of this sale is unknown."
+    }
+  ],
+  "whyItPrints": "A two-van shop pays a small monthly plan so the day is not a paper notebook.",
+  "whyThisMatters": "A two-van shop wants the day off a paper notebook. Kickserv is jobs, the schedule, estimates, invoices, messages, and payments for HVAC, plumbing, cleaning, and pest. It has been around since 2003. GetLatka shows 2.2 million dollars a year in May 2022, up 189 percent from 761,700 dollars in April 2021. The source of that line is not recorded. 1,400 customers and 17 employees that May. 600,000 dollars raised in one round the same month. ReachLocal later bought it. The date and the price are not on the record, so they stay blank. The site, read 11 November 2026, prices plans at 60, 119, and 199 dollars a month for 5, 10, and 20 people. The plan prices are a menu. They are not the 2022 revenue. The figure is self-reported, which means a data site wrote it down. I did not open the books. ReachLocal is the buyer on the record. Date and price of that sale are blank on purpose. The product has been around since 2003."
+}

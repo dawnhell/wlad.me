@@ -1,0 +1,35 @@
+{
+  "slug": "amaka",
+  "name": "Amaka",
+  "listingNote": null,
+  "description": "Daily sales, fees, tax, and the cost of goods from Square, Shopify, Loyverse, Revel, Etsy, eBay, Squarespace, and others, into Xero, QuickBooks Online, MYOB, and Sage, matched to the bank. It also builds those connections for other software companies. Australia. Founded 2015.",
+  "homepage": "https://amaka.com/",
+  "image": "/blog/2026-11-14/amaka.webp",
+  "imageAlt": "Amaka product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-14",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $6.2 million a year as of September 2025, with 56 employees. The company has not published revenue. The homepage, seen 14 November 2026, says more than 65,000 small businesses, with connection counts of Square 59,077, Shopify 2,696, Loyverse 1,999, and Revel 1,047. The about page says more than a billion automations and more than 60 people. A partner page offers software companies up to $40,000 in credits to have the integration built. That credit is an offer, not revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/amaka"
+        },
+        {
+          "label": "About",
+          "url": "https://amaka.com/about-us/"
+        },
+        {
+          "label": "Partners",
+          "url": "https://amaka.com/partner-program/"
+        }
+      ],
+      "indieAngle": "Build and maintain the accounting connection for other software companies, not only for the merchant."
+    }
+  ],
+  "whyItPrints": "Same glue as A2X and Bookkeep. Square treats it as a default accounting connector. Some connections are free because the partner pays.",
+  "whyThisMatters": "A marketplace payout is a lump, and the books want a short entry that matches the bank. Amaka does that daily sync from Square, Shopify, Loyverse, Revel, Etsy, eBay, and Squarespace into Xero, QuickBooks Online, MYOB, and Sage. It also builds those connections for other software companies. Australia. Founded in 2015. Same job as A2X and Bookkeep. GetLatka estimates about 6.2 million dollars a year as of September 2025, with 56 employees. The company has not published revenue. The homepage, seen 14 November 2026, says more than 65,000 small businesses, and lists connection counts: Square 59,077, Shopify 2,696, Loyverse 1,999, Revel 1,047. On the about page the claim is more than a billion automations, and a team of more than 60. 56 and more than 60 are both on the record, so both stay. A partner page offers up to 40,000 dollars in credits to have an integration built. That credit is an offer, not revenue. Square treats this as a default accounting connector, and some connections are free because the partner pays. The figure is self-reported, which means a data site estimated it. I did not open the books."
+}

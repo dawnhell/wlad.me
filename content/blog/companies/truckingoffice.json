@@ -1,0 +1,27 @@
+{
+  "slug": "truckingoffice",
+  "name": "TruckingOffice",
+  "listingNote": null,
+  "description": "Dispatch, loads, invoices, IFTA fuel-tax reports, and the electronic log, for an owner-operator or a small fleet. San Antonio. Founded 2009. Ramona Stancu was founder and CEO. Later acquired. The buyer and the price are not on the record.",
+  "homepage": "https://www.truckingoffice.com/",
+  "image": "/blog/2026-11-11/truckingoffice.webp",
+  "imageAlt": "TruckingOffice product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-11",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $552,100 a year in April 2021, with 7 employees, and the source is not recorded. The company was later acquired by a buyer the page does not name.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/truckingoffice.com"
+        }
+      ],
+      "indieAngle": "The same paperwork for a small fleet. Fuel tax, the freight document, the toll report."
+    }
+  ],
+  "whyItPrints": "The quarterly fuel-tax report and the broker invoice have to get done. A cheap monthly tool that does the paperwork stays for years.",
+  "whyThisMatters": "A small trucking company still has to file the fuel tax and send the broker an invoice. TruckingOffice is dispatch, loads, invoices, IFTA reports, and the electronic log, for an owner-operator or a small fleet. San Antonio. Founded in 2009. Ramona Stancu was founder and CEO. GetLatka shows 552,100 dollars a year in April 2021, with 7 employees, and the source is not recorded. A buyer later acquired the company. The page does not name the buyer or the price, so those stay unknown. The homepage sits behind a block for automated visits, and the brief still names truckingoffice.com as the product. The figure is self-reported, which means a data site wrote it down. I did not open the books. IFTA is the quarterly fuel-tax report a small fleet cannot skip. San Antonio, founded in 2009, and Ramona Stancu was the founder. The buyer is still unnamed. Seven employees sit next to the April 2021 line, and the source of that line is not recorded."
+}

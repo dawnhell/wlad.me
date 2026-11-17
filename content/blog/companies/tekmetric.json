@@ -1,0 +1,39 @@
+{
+  "slug": "tekmetric",
+  "name": "Tekmetric",
+  "listingNote": null,
+  "description": "Repair orders, photo and video inspections, parts, inventory, texts to the customer, and dashboards, for an independent auto shop. A shop owner built it after about a decade running his own shop, Motorwërks Autogroup. Houston. In October 2024 it bought Shopgenie, another shop CRM.",
+  "homepage": "https://www.tekmetric.com/",
+  "image": "/blog/2026-11-11/tekmetric.webp",
+  "imageAlt": "Tekmetric product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-11",
+      "evidenceKind": "self-reported",
+      "evidence": "A November 2024 press figure, sourced on GetLatka to the Houston Business Journal, is $15 million a year. Vertical SaaS Group gives the same path: $2.9 million in 2021, $7.2 million in 2023, and $15 million in 2024, which that write-up calls 108 percent growth year over year. They also say about $5 million was raised in total. On GetLatka the 2021 figure is a reported reading and the 2023 figure is an estimate. GetLatka separately lists $1.6 million across two rounds, a 2016 seed and a 2018 venture round. Voyage Houston, in May 2025, says growth equity from Susquehanna Growth Equity followed in early 2022. The CEO, Sunil Patel, said a 4.8 times increase in revenue by 2025 since that 2022 investment, and more than 10,000 shops. The homepage, read 11 November 2026, says more than 16,000 shops. Those shop counts are not the same date. LinkedIn via GetLatka lists 189 employees in December 2024. GetLatka also lists Shopmonkey, a competitor, at about $29.7 million. That is Shopmonkey's figure, not Tekmetric's. Vertical SaaS Group cites the Houston Business Journal saying Shopgenie had reached $5 million a year in 18 months. That is Shopgenie's number. The plans, as of May 2025, are $199, $349, and $439 a month per shop.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/tekmetric.com"
+        },
+        {
+          "label": "Vertical SaaS Group",
+          "url": "https://verticalsaasgroup.com/chapter/tekmetric-vsaas-for-auto-repair"
+        },
+        {
+          "label": "Voyage Houston",
+          "url": "https://voyagehouston.com/interview/inspiring-conversations-with-sunil-patel-of-tekmetric/"
+        },
+        {
+          "label": "Houston Business Journal",
+          "url": "https://www.bizjournals.com/houston/inno/stories/news/2024/10/18/tekmetric-shopgenie-merger-acquisition-unicorn.html"
+        }
+      ],
+      "indieAngle": "A repair order, a photo, and a text, for garages in one country that still run on a desktop program."
+    }
+  ],
+  "whyItPrints": "A shop needs a place to write the repair order. Switching in the middle of the year hurts. The price is a flat monthly fee per shop.",
+  "whyThisMatters": "An independent garage needs one place for the repair order. Photos, parts, and a text to the customer sit on the same job. Tekmetric is that product, out of Houston. A shop owner built it after about a decade running Motorwerks Autogroup. The accent on the name is his. In October 2024 they bought Shopgenie, another shop system. The number people quote is 15 million dollars a year, from a November 2024 press piece that GetLatka ties to the Houston Business Journal. A vertical software write-up walks the same path: 2.9 million in 2021, an estimate of 7.2 million in 2023, then 15 million in 2024, which they call 108 percent up. That write-up says about 5 million raised. GetLatka lists 1.6 million across a 2016 seed and a 2018 venture round. Voyage Houston, in May 2025, says Susquehanna Growth Equity came in early 2022, and the CEO talked about a 4.8 times rise in revenue by 2025 since that investment, plus more than 10,000 shops. The homepage, read on 11 November 2026, says more than 16,000 shops. Those two shop counts are different dates. LinkedIn, via GetLatka, lists 189 employees in December 2024. Shopmonkey's estimate of about 29.7 million is Shopmonkey's, not this one. Shopgenie's 5 million in 18 months is Shopgenie's. Plans in May 2025 were 199, 349, and 439 dollars a month per shop. The figure is self-reported, which means a press piece or a data site said it. I did not open the books."
+}

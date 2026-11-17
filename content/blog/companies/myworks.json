@@ -1,0 +1,31 @@
+{
+  "slug": "myworks",
+  "name": "MyWorks",
+  "listingNote": null,
+  "description": "A plugin that syncs orders, customers, stock, prices, and payments between WooCommerce or Shopify and QuickBooks Online or Desktop. Fort Worth. It started as an internal tool at a WooCommerce agency. Peter Leonard was the founder.",
+  "homepage": "https://myworks.software/",
+  "image": "/blog/2026-11-16/myworks.webp",
+  "imageAlt": "MyWorks product image",
+  "imageWidth": 640,
+  "imageHeight": 375,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "self-reported",
+      "evidence": "An Acquire.com story from September 2022 says the software reached seven figures a year, and Peter Leonard sold it to SaaS Group in a seven-figure deal, at age 28. Neither seven-figure line is a precise total. The company says more than 15,000 people in more than 100 countries, and about 1 million orders synced a month. GetLatka estimates about $990,000 a year as of September 2025, with 9 employees. The sale-era claim and the later estimate are not the same number.",
+      "sources": [
+        {
+          "label": "Acquire",
+          "url": "https://blog.acquire.com/how-i-got-acquired-listen-to-customers-says-founder-of-myworks/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/myworks.software"
+        }
+      ],
+      "indieAngle": "An agency's own pain, then a sync plugin, then a sale. Another cart and another ledger is the same shape."
+    }
+  ],
+  "whyItPrints": "The store owner does not want to retype the order. They won people by fixing the complaints in other tools' reviews.",
+  "whyThisMatters": "A store owner does not want to retype the order into QuickBooks. MyWorks is the plugin that syncs orders, customers, stock, prices, and payments between WooCommerce or Shopify and QuickBooks Online or Desktop. Fort Worth. It started as an internal tool at a WooCommerce agency. Peter Leonard was the founder. An Acquire.com story from September 2022 says the software reached seven figures a year, and that he sold it to SaaS Group in a seven-figure deal, at age 28. Neither of those seven-figure lines is a precise total. They say the plugin is in more than 100 countries, with more than 15,000 people, and about 1 million orders synced each month. GetLatka estimates about 990,000 dollars a year as of September 2025, with 9 employees. The claim from the sale and the later estimate are different numbers. The figure is self-reported, which means a sale story and a later estimate. I did not open the books."
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cliniko",
+  "name": "Cliniko",
+  "listingNote": null,
+  "description": "Appointments, online booking, treatment notes, invoices, and online payments for allied-health clinics, priced per practitioner. An osteopath and her developer partner started it in 2010, using a home-renovation loan. Australia. Privately owned.",
+  "homepage": "https://www.cliniko.com/",
+  "image": "/blog/2026-11-14/cliniko.webp",
+  "imageAlt": "Cliniko product image",
+  "imageWidth": 1200,
+  "imageHeight": 900,
+  "mentions": [
+    {
+      "date": "2026-11-14",
+      "evidenceKind": "self-reported",
+      "evidence": "A story page dated July 2026 says 65 employees and more than 65,000 health professionals. In February 2021 they said customers collected $15 million online in under a year after payments launched. That $15 million is money the clinics took, not Cliniko's revenue. In January 2026 they said $3 million donated to charity. The Australian Financial Review, in June 2016, said it was still bootstrapped with 20,000 paying practitioners and a 20-person team on 30-hour weeks. GetLatka estimates about $1.5 million as of September 2025, with 14 employees. That estimate sits far under the company's own staff count of 65, so it is shown as a data-site guess, not the figure.",
+      "sources": [
+        {
+          "label": "Story",
+          "url": "https://www.cliniko.com/story/"
+        },
+        {
+          "label": "AFR",
+          "url": "https://www.afr.com/work-and-careers/careers/clinikos-developer-paradise-30-hour-weeks-unlimited-leave-no-managers-no-meetings-20160621-gpoish"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/cliniko"
+        }
+      ],
+      "indieAngle": "A clinic owner and a developer, no investors, a whole profession. The same shape in another language."
+    }
+  ],
+  "whyItPrints": "The clinic runs the day in it, and the patient notes make leaving hard. They say they turn down venture capital. They give 2 percent of revenue to charity.",
+  "whyThisMatters": "A physio clinic runs the day on the appointment book, and the patient notes make leaving hard. Cliniko is booking, treatment notes, invoices, and online payments, priced per practitioner. An osteopath and her developer partner started it in 2010 with a home-renovation loan. Australia. Privately owned. They say they turn down venture capital, and they give 2 percent of revenue to charity. A July 2026 story page puts the staff at 65 and the health professionals at more than 65,000. In February 2021 they said customers collected 15 million dollars online in under a year after payments launched. That money is what the clinics took. In January 2026 they said 3 million dollars donated to charity. The Australian Financial Review, in June 2016, said it was still bootstrapped, with 20,000 paying practitioners and a 20-person team on 30-hour weeks. GetLatka estimates about 1.5 million dollars as of September 2025, with 14 employees. That guess sits far under a staff count of 65, so it is shown as a bad estimate, not the figure. The figure on this page is self-reported, which means the company and a newspaper said it. I did not open the books."
+}

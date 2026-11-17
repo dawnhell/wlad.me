@@ -1,0 +1,43 @@
+{
+  "slug": "mrpeasy",
+  "name": "MRPeasy",
+  "listingNote": null,
+  "description": "Production planning, stock, purchasing, a customer list, and basic finance for a manufacturer with about 10 to 200 people. Machine shops, cosmetics, food, insulation. Estonia. It sits between a spreadsheet plus QuickBooks and a six-figure ERP project. They say they have never raised venture capital.",
+  "homepage": "https://www.mrpeasy.com/",
+  "image": "/blog/2026-11-14/mrpeasy.webp",
+  "imageAlt": "MRPeasy product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-14",
+      "evidenceKind": "self-reported",
+      "evidence": "The Estonian business register, via Firmo, shows the 2025 annual report filed 30 June 2026: sales revenue €6,841,955, up 26 percent, profit €1,923,138, a 28.1 percent margin, and €2.7 million in cash. Earlier sales were €2.5 million in 2021, €3.6 million in 2022, €4.7 million in 2023, and €5.4 million in 2024. Tax Board data shows trailing-twelve-month revenue of €9.7 million, up 15 percent. An investor one-pager for the third quarter of 2026 says more than 2,400 paying customers in 74 countries, ARR $10 million, EBITDA $3 million, 26 percent growth year over year, gross retention 98 percent and net retention 100 percent for that quarter, and about $4,000 a year per account. A 2026 blog post says more than 1,000 active customers in North America and about 850 in the US. GetLatka's 2024 estimate was $5 million, which is below the filings. The euro sales, the trailing tax figure, and the dollar ARR are three readings.",
+      "sources": [
+        {
+          "label": "Firmo",
+          "url": "https://firmo.ee/en/ettevote/12617332-mrpeasy-ou/"
+        },
+        {
+          "label": "Investor PDF",
+          "url": "https://www.mrpeasy.com/files/MRPeasy_for_investor.pdf"
+        },
+        {
+          "label": "Blog",
+          "url": "https://www.mrpeasy.com/blog/mrpeasy-imts-2026/"
+        },
+        {
+          "label": "Ten years",
+          "url": "https://www.mrpeasy.com/blog/mrpeasy-10/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/mrpeasy"
+        }
+      ],
+      "indieAngle": "A self-serve factory tool, sold in English, from a small Baltic team, with no venture round."
+    }
+  ],
+  "whyItPrints": "Once the bill of materials, the routing, and the stock live here, the factory does not leave. They say gross retention is 98 percent. Bootstrapped.",
+  "whyThisMatters": "A factory of 10 to 200 people outgrows a spreadsheet and will not buy a giant ERP. MRPeasy is production planning, stock, purchasing, a customer list, and basic finance. Machine shops, cosmetics, food, insulation. Estonia. They say they have never raised venture capital. The 2025 annual report, filed 30 June 2026 and shown on Firmo, has sales of about 6.84 million euros, up 26 percent, profit of about 1.92 million euros, and 2.7 million euros in cash. Earlier sales were 2.5 million euros in 2021, 3.6 million in 2022, 4.7 million in 2023, and 5.4 million in 2024. Tax Board data shows a trailing twelve months of 9.7 million euros, up 15 percent. An investor page for the third quarter of 2026 talks about more than 2,400 paying customers in 74 countries, 10 million dollars a year, 3 million dollars of EBITDA, 26 percent growth, retention near the high nineties, and about 4,000 dollars a year per account. A 2026 blog post puts North America above 1,000 active customers, with about 850 of those in the US. GetLatka's 2024 estimate of 5 million dollars sits under the filings. The euro sales, the tax trail, and the dollar annual line are three readings. The figure is self-reported in the sense that it is a public filing and a company page, not a payment sync. I did not open a bank account."
+}

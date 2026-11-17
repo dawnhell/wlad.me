@@ -1,0 +1,31 @@
+{
+  "slug": "therapynotes",
+  "name": "TherapyNotes",
+  "listingNote": null,
+  "description": "Note templates, the schedule, insurance billing, a patient portal, and video visits, for a mental-health practice. Horsham, Pennsylvania. Founded 2010 by a clinical psychologist and her husband, who writes software. The price starts at $59 a month.",
+  "homepage": "https://www.therapynotes.com/",
+  "image": "/blog/2026-11-15/therapynotes.webp",
+  "imageAlt": "TherapyNotes product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-15",
+      "evidenceKind": "self-reported",
+      "evidence": "Startup Intros says $0 of outside funding. The revenue estimates conflict. Startup Intros, citing BuiltIn and LeadIQ, says about $21 million a year. Growjo says about $115.8 million. Those are not the same figure, so neither is treated as the number. The $59 price is the menu, not the revenue.",
+      "sources": [
+        {
+          "label": "Startup Intros",
+          "url": "https://startupintros.com/orgs/therapynotes-llc"
+        },
+        {
+          "label": "Growjo",
+          "url": "https://growjo.com/company/TherapyNotes"
+        }
+      ],
+      "indieAngle": "One founder knows the job. The other writes the code. A profession with its own paperwork can hold one of these."
+    }
+  ],
+  "whyItPrints": "A solo therapist pays every month, and the insurance paperwork makes leaving painful. No outside funding, according to a profile.",
+  "whyThisMatters": "A solo therapist needs the note template, the schedule, the insurance claim, and a portal. TherapyNotes has sold that since 2010, out of Horsham, Pennsylvania. A clinical psychologist and her husband, who writes software, started it. The price starts at 59 dollars a month. Startup Intros says zero outside funding. The revenue estimates conflict. One line, citing BuiltIn and LeadIQ, says about 21 million dollars a year. Growjo says about 115.8 million dollars. The two estimates are far apart, so I am not treating either one as the number. The 59 dollar price is the menu. The page is self-reported, which means the data sites disagree and the company has not published a total. I did not open the books. A clinical psychologist and her husband started it. Horsham, Pennsylvania, since 2010. The profile says there is no outside funding. The monthly price is only the menu."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "capacity-track",
+  "name": "Capacity Track",
+  "listingNote": "for sale",
+  "description": "A directory of open beds in licensed residential care in Minnesota. Assisted living, memory care, group homes, and waiver settings. Families and case managers search once instead of phoning around. Providers pay for a pro plan. The site says it starts from public licensing records, 8,286 licensed settings, with open beds listed first. Founded November 2025. One person.",
+  "homepage": "https://capacitytrack.com/",
+  "image": "/blog/2026-11-11/capacity-track.webp",
+  "imageAlt": "Capacity Track product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-11",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,059 from 41 active subscriptions, updated 11 November 2026. All-time $16,591. The listing says about 50,000 people use it, plans are $49 and $99 a month, and the asking price is $100,000. The founder says he is selling to work on a new health-records product. The prices and the asking price are the listing, not the Stripe total.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/capacity-track"
+        }
+      ],
+      "indieAngle": "The same open-bed list for one kind of licensed place, built on the public register."
+    }
+  ],
+  "whyItPrints": "The case manager currently phones around for a bed. This replaces the calls. Providers pay so they show up.",
+  "whyThisMatters": "A case manager phones around looking for a bed. Capacity Track is a directory of open beds in licensed residential care in Minnesota. Assisted living, memory care, group homes, and waiver settings. The site says it starts from public licensing records, 8,286 licensed settings, and lists open beds first. Founded in November 2025. One person. Stripe-verified means the listing is connected to Stripe. I do not log in and re-check the number. The 11 November 2026 sync shows about 2,059 dollars a month from 41 subscriptions, and 16,591 dollars all-time. The listing says about 50,000 people use it, plans are 49 and 99 dollars a month, and the asking price is 100,000 dollars. The founder says he is selling so he can work on a new health-records product. Plan prices and the asking price come from the listing. They are not the Stripe total. The people count and the 41 paying subscriptions are not the same thing."
+}

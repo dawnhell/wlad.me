@@ -1,0 +1,27 @@
+{
+  "slug": "checkfront",
+  "name": "Checkfront",
+  "listingNote": null,
+  "description": "Online reservations, the inventory of kayaks or bikes or tour slots, payments, and reports, for activity and rental businesses. Canada. GetLatka lists it as acquired by Rezdy. The date is not on the record.",
+  "homepage": "https://www.checkfront.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-14",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $6.6 million a year as of August 2020, with 5,000 customers, 73 employees, and $7.9 million raised across 3 rounds. That revenue line is from 2020. No screenshot. The site asked for a bot check on 14 November 2026.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/checkfront"
+        }
+      ],
+      "indieAngle": "A booking engine for one kind of rental. These get bought by a larger booking company."
+    }
+  ],
+  "whyItPrints": "The operator pays through the season, and the tool also takes the payment.",
+  "whyThisMatters": "A kayak shop or a tour desk needs a reservation, a count of what is free, and a payment. Checkfront is that, in Canada. GetLatka shows 6.6 million dollars a year as of August 2020, with 5,000 customers, 73 employees, and 7.9 million dollars raised across 3 rounds. That revenue line is from 2020. GetLatka lists Rezdy as the owner. The date of the sale is not on the record. No screenshot. The site asked for a bot check on 14 November 2026, and the homepage is still checkfront.com. The figure is self-reported, which means a data site wrote down an old line. I did not open the books. Kayaks, bikes, and tour slots are the inventory. The operator pays through the season, and the tool takes the payment as well. Rezdy is the listed owner, with no sale date. Five thousand customers and 73 employees sit on that 2020 line, next to 7.9 million dollars raised across three rounds."
+}

@@ -1,0 +1,263 @@
+{
+  "date": "2026-11-14",
+  "title": "Saturday's boring SaaS, 14 November 2026",
+  "dek": "Saturday, 14 November 2026. HoodCleaningReport is Dodo-verified, so that listing is connected to Dodo, and the other nine are self-reported. MRPeasy's figure is a public filing. Several of the others are an estimate or from an older year.",
+  "heroId": "zion",
+  "companies": [
+    {
+      "slug": "mrpeasy",
+      "name": "MRPeasy",
+      "listingNote": null,
+      "description": "Production planning, stock, purchasing, a customer list, and basic finance for a manufacturer with about 10 to 200 people. Machine shops, cosmetics, food, insulation. Estonia. It sits between a spreadsheet plus QuickBooks and a six-figure ERP project. They say they have never raised venture capital.",
+      "evidenceKind": "self-reported",
+      "evidence": "The Estonian business register, via Firmo, shows the 2025 annual report filed 30 June 2026: sales revenue €6,841,955, up 26 percent, profit €1,923,138, a 28.1 percent margin, and €2.7 million in cash. Earlier sales were €2.5 million in 2021, €3.6 million in 2022, €4.7 million in 2023, and €5.4 million in 2024. Tax Board data shows trailing-twelve-month revenue of €9.7 million, up 15 percent. An investor one-pager for the third quarter of 2026 says more than 2,400 paying customers in 74 countries, ARR $10 million, EBITDA $3 million, 26 percent growth year over year, gross retention 98 percent and net retention 100 percent for that quarter, and about $4,000 a year per account. A 2026 blog post says more than 1,000 active customers in North America and about 850 in the US. GetLatka's 2024 estimate was $5 million, which is below the filings. The euro sales, the trailing tax figure, and the dollar ARR are three readings.",
+      "sources": [
+        {
+          "label": "Firmo",
+          "url": "https://firmo.ee/en/ettevote/12617332-mrpeasy-ou/"
+        },
+        {
+          "label": "Investor PDF",
+          "url": "https://www.mrpeasy.com/files/MRPeasy_for_investor.pdf"
+        },
+        {
+          "label": "Blog",
+          "url": "https://www.mrpeasy.com/blog/mrpeasy-imts-2026/"
+        },
+        {
+          "label": "Ten years",
+          "url": "https://www.mrpeasy.com/blog/mrpeasy-10/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/mrpeasy"
+        }
+      ],
+      "homepage": "https://www.mrpeasy.com/",
+      "indieAngle": "A self-serve factory tool, sold in English, from a small Baltic team, with no venture round.",
+      "whyItPrints": "Once the bill of materials, the routing, and the stock live here, the factory does not leave. They say gross retention is 98 percent. Bootstrapped.",
+      "image": "/blog/2026-11-14/mrpeasy.webp",
+      "imageAlt": "MRPeasy product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "amaka",
+      "name": "Amaka",
+      "listingNote": null,
+      "description": "Daily sales, fees, tax, and the cost of goods from Square, Shopify, Loyverse, Revel, Etsy, eBay, Squarespace, and others, into Xero, QuickBooks Online, MYOB, and Sage, matched to the bank. It also builds those connections for other software companies. Australia. Founded 2015.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $6.2 million a year as of September 2025, with 56 employees. The company has not published revenue. The homepage, seen 14 November 2026, says more than 65,000 small businesses, with connection counts of Square 59,077, Shopify 2,696, Loyverse 1,999, and Revel 1,047. The about page says more than a billion automations and more than 60 people. A partner page offers software companies up to $40,000 in credits to have the integration built. That credit is an offer, not revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/amaka"
+        },
+        {
+          "label": "About",
+          "url": "https://amaka.com/about-us/"
+        },
+        {
+          "label": "Partners",
+          "url": "https://amaka.com/partner-program/"
+        }
+      ],
+      "homepage": "https://amaka.com/",
+      "indieAngle": "Build and maintain the accounting connection for other software companies, not only for the merchant.",
+      "whyItPrints": "Same glue as A2X and Bookkeep. Square treats it as a default accounting connector. Some connections are free because the partner pays.",
+      "image": "/blog/2026-11-14/amaka.webp",
+      "imageAlt": "Amaka product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "unleashed",
+      "name": "Unleashed",
+      "listingNote": null,
+      "description": "Cloud stock, purchasing, orders across channels, and a wholesale shop, for product businesses, synced deeply with Xero and QuickBooks. New Zealand. Now owned by The Access Group. The acquisition date is not on the record.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $10.4 million a year as of August 2020, with 112 employees in December 2020, and $20.3 million raised over 6 rounds. The source of the revenue line is the GetLatka reported figure, and it is from 2020, not from this week. A homepage quote says a customer is saving $30,000 to $40,000 a year by using the wholesale shop. That saving is the customer's, not Unleashed's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/unleashed-software"
+        }
+      ],
+      "homepage": "https://www.unleashedsoftware.com/",
+      "indieAngle": "Stock for one ledger and one kind of product. A brewery on Xero. A bakery on QuickBooks.",
+      "whyItPrints": "Xero does not really do stock. A product business that outgrows the books needs this, and moving the stock data hurts, so they stay.",
+      "image": "/blog/2026-11-14/unleashed.webp",
+      "imageAlt": "Unleashed product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "moraware",
+      "name": "Moraware",
+      "listingNote": null,
+      "description": "A drawing and quote tool, and a scheduler, for granite and quartz countertop shops. It started in 2002 when a programmer fixed the software at his brother's shop. Self-funded.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $2.2 million a year as of September 2025, with 20 employees. The company has not published revenue. The homepage, seen 14 November 2026, says more than 3,000 shops, more than 20,000 people using it, and more than 3 million jobs a year. A blog post says about 5 customers in 2003, about 30 in 2004, more than 100 in 2005, and more than 1,600 countertop companies by the end of 2017. In 2018 customers sent more than 650,000 quotes. The shop counts are a trail, not one number.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/moraware"
+        },
+        {
+          "label": "History",
+          "url": "https://www.moraware.com/blog/business/how-moraware-got-here-the-short-version/"
+        },
+        {
+          "label": "2018",
+          "url": "https://www.moraware.com/blog/news/morawares-2018-year-in-review/"
+        }
+      ],
+      "homepage": "https://moraware.com/",
+      "indieAngle": "Five customers, then thirty, then a hundred, then two decades. A trade that needs a drawing and a quote can follow that shape.",
+      "whyItPrints": "One niche, more than twenty years. A case study is a shop that has stayed more than 20 years.",
+      "image": "/blog/2026-11-14/moraware.webp",
+      "imageAlt": "Moraware product image",
+      "imageWidth": 823,
+      "imageHeight": 688
+    },
+    {
+      "slug": "fergus",
+      "name": "Fergus",
+      "listingNote": null,
+      "description": "Quotes, the schedule, job cost, invoices, certificates, and payments, including tap to pay, for plumbers and electricians. It connects to supplier price lists and to accounting software. New Zealand. Founded 2012.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $9.8 million a year as of September 2025, with 89 employees. The company has not published revenue. The homepage, seen 14 November 2026, says more than 26,000 trade businesses in one place and more than 25,000 tradies in another. Both counts stay.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/fergus"
+        }
+      ],
+      "homepage": "https://www.fergus.com/",
+      "indieAngle": "A cut of the payment, on top of the job tool, for one trade.",
+      "whyItPrints": "The invoice goes out the same day. Payments and a bit of funding sit on top of the subscription.",
+      "image": "/blog/2026-11-14/fergus.webp",
+      "imageAlt": "Fergus product image",
+      "imageWidth": 860,
+      "imageHeight": 450
+    },
+    {
+      "slug": "servicem8",
+      "name": "ServiceM8",
+      "listingNote": null,
+      "description": "Job cards, the schedule, quotes and invoices on site, signatures, photos, and PDF forms, on an iPhone or iPad, with accounting sync. Aimed at contractors with 1 to 20 people. Australia. Founded 2010. Kim Ford is the CEO.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $2.6 million a year as of July 2025, with 24 employees. The company has not published revenue, and the estimate is a rough model. The homepage says the product is used to manage more than $35 billion in jobs, and that businesses complete 30 percent more work in the first 3 months. The pricing page says more than $50 billion in jobs. Those two job totals do not match, and neither is ServiceM8's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/servicem8"
+        },
+        {
+          "label": "Pricing",
+          "url": "https://www.servicem8.com/pricing"
+        }
+      ],
+      "homepage": "https://www.servicem8.com/",
+      "indieAngle": "Self-serve onboarding and the app store, without a sales team, for a trade.",
+      "whyItPrints": "A small contractor uses it every day to get paid. Self-serve, and a small team for the reach they claim.",
+      "image": "/blog/2026-11-14/servicem8.webp",
+      "imageAlt": "ServiceM8 product image",
+      "imageWidth": 900,
+      "imageHeight": 473
+    },
+    {
+      "slug": "cliniko",
+      "name": "Cliniko",
+      "listingNote": null,
+      "description": "Appointments, online booking, treatment notes, invoices, and online payments for allied-health clinics, priced per practitioner. An osteopath and her developer partner started it in 2010, using a home-renovation loan. Australia. Privately owned.",
+      "evidenceKind": "self-reported",
+      "evidence": "A story page dated July 2026 says 65 employees and more than 65,000 health professionals. In February 2021 they said customers collected $15 million online in under a year after payments launched. That $15 million is money the clinics took, not Cliniko's revenue. In January 2026 they said $3 million donated to charity. The Australian Financial Review, in June 2016, said it was still bootstrapped with 20,000 paying practitioners and a 20-person team on 30-hour weeks. GetLatka estimates about $1.5 million as of September 2025, with 14 employees. That estimate sits far under the company's own staff count of 65, so it is shown as a data-site guess, not the figure.",
+      "sources": [
+        {
+          "label": "Story",
+          "url": "https://www.cliniko.com/story/"
+        },
+        {
+          "label": "AFR",
+          "url": "https://www.afr.com/work-and-careers/careers/clinikos-developer-paradise-30-hour-weeks-unlimited-leave-no-managers-no-meetings-20160621-gpoish"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/cliniko"
+        }
+      ],
+      "homepage": "https://www.cliniko.com/",
+      "indieAngle": "A clinic owner and a developer, no investors, a whole profession. The same shape in another language.",
+      "whyItPrints": "The clinic runs the day in it, and the patient notes make leaving hard. They say they turn down venture capital. They give 2 percent of revenue to charity.",
+      "image": "/blog/2026-11-14/cliniko.webp",
+      "imageAlt": "Cliniko product image",
+      "imageWidth": 1200,
+      "imageHeight": 900
+    },
+    {
+      "slug": "zenventory",
+      "name": "Zenventory",
+      "listingNote": null,
+      "description": "Stock, orders, and shipping for an online seller or a small warehouse that ships for others. Phoenix. Founded 2007.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $880,000 a year as of September 2025, with 8 employees. The company has not published revenue. The homepage, seen 14 November 2026, lists Starter at $499 a month, currently $249 for the first 3 months, for up to 10,000 shipments and 1 warehouse, and Growth at $799 a month, currently $399, for up to 50,000 shipments and 3 warehouses. Those prices are the menu, not the estimate.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/zenventory"
+        }
+      ],
+      "homepage": "https://www.zenventory.com/",
+      "indieAngle": "Price by shipment volume. A warehouse tool next to the local shop platform.",
+      "whyItPrints": "The price steps up with how many shipments go out. A small team, and a high sticker for a small tool.",
+      "image": "/blog/2026-11-14/zenventory.webp",
+      "imageAlt": "Zenventory product image",
+      "imageWidth": 300,
+      "imageHeight": 175
+    },
+    {
+      "slug": "checkfront",
+      "name": "Checkfront",
+      "listingNote": null,
+      "description": "Online reservations, the inventory of kayaks or bikes or tour slots, payments, and reports, for activity and rental businesses. Canada. GetLatka lists it as acquired by Rezdy. The date is not on the record.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $6.6 million a year as of August 2020, with 5,000 customers, 73 employees, and $7.9 million raised across 3 rounds. That revenue line is from 2020. No screenshot. The site asked for a bot check on 14 November 2026.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/checkfront"
+        }
+      ],
+      "homepage": "https://www.checkfront.com/",
+      "indieAngle": "A booking engine for one kind of rental. These get bought by a larger booking company.",
+      "whyItPrints": "The operator pays through the season, and the tool also takes the payment.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "hoodcleaningreport",
+      "name": "HoodCleaningReport",
+      "listingNote": "for sale",
+      "description": "Kitchen-hood cleaners pick photos from a CompanyCam job, add notes and signatures, and send a PDF the same shift. Each client gets a link to past reports. United States. Founded June 2026. Viraj Shah.",
+      "evidenceKind": "dodo-verified",
+      "evidence": "MRR $89 from 1 active subscription, updated 14 November 2026. All-time $397. The listing says a 95 percent margin, and it is listed for sale at $7,500. The listing also says 61 visitors in the last 30 days. That visitor count is the listing, not the payment sync.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hoodcleaningreport"
+        }
+      ],
+      "homepage": "https://hoodcleaningreport.com/",
+      "indieAngle": "The PDF one trade has to file, built on top of CompanyCam or a similar job app. Getting anyone to see it is the hard part.",
+      "whyItPrints": "The compliance PDF for one trade, bolted onto a camera app the crew already uses. The revenue is tiny. It is here as a live example of that add-on.",
+      "image": "/blog/2026-11-14/hoodcleaningreport.webp",
+      "imageAlt": "HoodCleaningReport product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": []
+}

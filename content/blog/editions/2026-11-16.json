@@ -1,0 +1,279 @@
+{
+  "date": "2026-11-16",
+  "title": "Monday's boring SaaS, 16 November 2026",
+  "dek": "Monday, 16 November 2026. TPO Checker is Stripe-verified, so that listing is connected to Stripe, and the other nine are self-reported. Several of those numbers are an estimate or a range, so the date in the note is the date of the number.",
+  "heroId": "twelve-apostles",
+  "companies": [
+    {
+      "slug": "taxdome",
+      "name": "TaxDome",
+      "listingNote": null,
+      "description": "The client list, the portal, signatures, the workflow, billing, and payments, for a tax, bookkeeping, or accounting firm, from a solo preparer to a firm with more than 100 staff. One annual subscription. The base price is $1,500 a year for 150 active clients and 20 seats, then $15 per extra client. They say they have never taken venture funding.",
+      "evidenceKind": "self-reported",
+      "evidence": "Petar Iliev, the chief revenue officer, says on LinkedIn that he scaled TaxDome from $1 million to $30 million a year, and that the aim is $100 million. The $100 million is a target, not a result. The company says more than 15,000 firms, more than 40,000 professionals, and more than 6 million end clients. Payments processed went from $500 million to $900 million in 2025, and jobs completed went from 1.2 million to 2.6 million. Those payment totals are money passing through, not TaxDome's revenue. They placed number 714 on the 2026 Inc. 5000. Kaeda notes a 2024 Accel-KKR credit facility, which is debt, not an equity round. GetLatka's old estimate of about $3.5 million is stale next to the $30 million claim. The two yearly lines are not averaged.",
+      "sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/in/p-iliev"
+        },
+        {
+          "label": "Company",
+          "url": "https://taxdome.com/company-information"
+        },
+        {
+          "label": "About",
+          "url": "https://taxdome.com/about"
+        },
+        {
+          "label": "Inc. 5000",
+          "url": "https://taxdome.com/blog/taxdome-made-the-2026-inc-5000-at-714-in-the-top-1000-fastest-growing-us-companies"
+        },
+        {
+          "label": "Kaeda",
+          "url": "https://kaeda.co/cases/taxdome"
+        }
+      ],
+      "homepage": "https://taxdome.com/",
+      "indieAngle": "The portal the accountant's client actually logs into. A narrower chase for one country's tax season is still open.",
+      "whyItPrints": "Once the staff, the files, the signatures, and the bills live here, leaving means setting it all up again. The renewal is yearly and priced per client, so it grows when the firm grows.",
+      "image": "/blog/2026-11-16/taxdome.webp",
+      "imageAlt": "TaxDome product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "jane-app",
+      "name": "Jane App",
+      "listingNote": null,
+      "description": "Online booking, the schedule, charting, billing, and patient forms for health and wellness clinics. Vancouver. Alison Taylor is a co-founder.",
+      "evidenceKind": "self-reported",
+      "evidence": "Alison Taylor said in October 2024, reported by BetaKit, that Jane hit $100 million a year. The Globe and Mail had reported $60 million a year and about 350 staff in January 2023. Those are two dates. Mostly self-funded, with less than $10 million raised before 2025. In May 2025 TCV led a secondary round of more than C$500 million at about C$1.8 billion. That is existing shares changing hands, not new revenue. Reported footprint: more than 200,000 practitioners across about 50,000 clinics.",
+      "sources": [
+        {
+          "label": "BetaKit",
+          "url": "https://betakit.com/jane-app-co-founder-reveals-companys-centaur-status-at-betakit-town-hall-vancouver/"
+        },
+        {
+          "label": "Globe and Mail",
+          "url": "https://www.theglobeandmail.com/business/article-jane-software-hits-18-billion-valuation-as-tcv-leads-500-million/"
+        },
+        {
+          "label": "Fasken",
+          "url": "https://www.fasken.com/en/experience/2025/08/jane-software-valuation-secondary-financing-round"
+        }
+      ],
+      "homepage": "https://jane.app/",
+      "indieAngle": "A clinic owner built the tool she needed. The profession told the next clinic.",
+      "whyItPrints": "The clinic pays per practitioner. Once the charts live here, they almost never switch. It spread by word of mouth.",
+      "image": "/blog/2026-11-16/jane-app.webp",
+      "imageAlt": "Jane App product image",
+      "imageWidth": 1200,
+      "imageHeight": 676
+    },
+    {
+      "slug": "myworks",
+      "name": "MyWorks",
+      "listingNote": null,
+      "description": "A plugin that syncs orders, customers, stock, prices, and payments between WooCommerce or Shopify and QuickBooks Online or Desktop. Fort Worth. It started as an internal tool at a WooCommerce agency. Peter Leonard was the founder.",
+      "evidenceKind": "self-reported",
+      "evidence": "An Acquire.com story from September 2022 says the software reached seven figures a year, and Peter Leonard sold it to SaaS Group in a seven-figure deal, at age 28. Neither seven-figure line is a precise total. The company says more than 15,000 people in more than 100 countries, and about 1 million orders synced a month. GetLatka estimates about $990,000 a year as of September 2025, with 9 employees. The sale-era claim and the later estimate are not the same number.",
+      "sources": [
+        {
+          "label": "Acquire",
+          "url": "https://blog.acquire.com/how-i-got-acquired-listen-to-customers-says-founder-of-myworks/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/myworks.software"
+        }
+      ],
+      "homepage": "https://myworks.software/",
+      "indieAngle": "An agency's own pain, then a sync plugin, then a sale. Another cart and another ledger is the same shape.",
+      "whyItPrints": "The store owner does not want to retype the order. They won people by fixing the complaints in other tools' reviews.",
+      "image": "/blog/2026-11-16/myworks.webp",
+      "imageAlt": "MyWorks product image",
+      "imageWidth": 640,
+      "imageHeight": 375
+    },
+    {
+      "slug": "transaction-pro",
+      "name": "Transaction Pro",
+      "listingNote": null,
+      "description": "Bulk import of invoices, journal entries, bills, and bank statements from a spreadsheet into QuickBooks Desktop and Online, plus export and bulk delete. Sarasota. Around since 2002. transactionpro.com now points at Rightworks, the QuickBooks hosting company, which owns it.",
+      "evidenceKind": "self-reported",
+      "evidence": "Owler estimates about $5 million a year, with fewer than 10 employees. Treat that loosely. The company has not published revenue. Capterra lists $199 a year for the importer, $299 a year for Pro, and flat monthly plans at $99, $299, and $499. Those prices are the menu, not the estimate.",
+      "sources": [
+        {
+          "label": "Owler",
+          "url": "https://www.owler.com/company/transactionpro"
+        },
+        {
+          "label": "Capterra",
+          "url": "https://www.capterra.com/p/184820/Transaction-Pro-Importer-Exporter/"
+        }
+      ],
+      "homepage": "https://www.rightworks.com/products/productivity-software/rightworks-transaction-pro/quickbooks-online/",
+      "indieAngle": "A spreadsheet importer for an accounting file is a twenty-year business.",
+      "whyItPrints": "A bookkeeper onboarding a client, or cleaning a file, buys it every year.",
+      "image": "/blog/2026-11-16/transaction-pro.webp",
+      "imageAlt": "Transaction Pro product image",
+      "imageWidth": 1200,
+      "imageHeight": 857
+    },
+    {
+      "slug": "zed-axis",
+      "name": "Zed Axis",
+      "listingNote": null,
+      "description": "A Windows tool that batch-imports transactions and lists from Excel, CSV, IIF, and bank statements into QuickBooks Desktop, Online, and POS. Zed stands for zero entry of data. Sydney. Built by someone who had run the QuickBooks developer program. A team of 1 to 10. No funding since 2005.",
+      "evidenceKind": "self-reported",
+      "evidence": "Prospeo estimates about $675,000 a year, no funding, and about 40,000 people using it. Those are thin data-vendor numbers, so they stay directional. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Prospeo",
+          "url": "https://prospeo.io/c/zed-systems"
+        }
+      ],
+      "homepage": "https://www.zed-systems.com/",
+      "indieAngle": "The one-person version of the spreadsheet importer. An insider who knew the file format.",
+      "whyItPrints": "A tiny company, an old niche, still selling the import screen.",
+      "image": "/blog/2026-11-16/zed-axis.webp",
+      "imageAlt": "Zed Axis product image",
+      "imageWidth": 422,
+      "imageHeight": 322
+    },
+    {
+      "slug": "inflow-inventory",
+      "name": "inFlow Inventory",
+      "listingNote": null,
+      "description": "Stock, purchasing, sales orders, barcodes, and a wholesale showroom, for a small retailer, wholesaler, or manufacturer, with more than 90 connections to accounting, shops, and shipping. Archon Systems. Toronto. It started as a Windows download in 2007, which they say passed a million installs, then moved people to the cloud. The co-founder calls it bootstrapped and self-funded.",
+      "evidenceKind": "self-reported",
+      "evidence": "The Globe and Mail's 2023 list of growing companies reports 2022 revenue of C$5 million to C$10 million, 123 percent growth over three years, and 55 employees. That is a band, not a single figure. They ranked number 428 on the Deloitte Technology Fast 500 in 2025. The company says 40,000 to 50,000 businesses served and $1.5 billion in transactions. The $1.5 billion is money moving through customers, not inFlow's revenue. The 40,000 and the 50,000 are the company's own range.",
+      "sources": [
+        {
+          "label": "Globe and Mail",
+          "url": "https://www.theglobeandmail.com/business/adv/article-canadas-top-growing-companies-2023-archon-systems-inc/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/louisleungarchonsystems_we-made-it-on-the-deloitte-technology-fast-activity-7398834349296672768-DWoH"
+        },
+        {
+          "label": "About",
+          "url": "https://www.inflowinventory.com/software-about-us"
+        }
+      ],
+      "homepage": "https://www.inflowinventory.com/",
+      "indieAngle": "A free desktop tool for a dull job, then the paid cloud seat, years later.",
+      "whyItPrints": "For people who outgrew the spreadsheet and will not buy a full ERP. The old free download still feeds the cloud product.",
+      "image": "/blog/2026-11-16/inflow-inventory.webp",
+      "imageAlt": "inFlow Inventory product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "booqable",
+      "name": "Booqable",
+      "listingNote": null,
+      "description": "What is free to rent, online booking, quotes, contracts, and payments, for a small rental shop. Party kit, cameras, bikes, equipment. It started inside Budgetcam, a Dutch camera rental chain. Plans are $29, $69, and $149 a month, plus add-ons for a website and a till. Netherlands.",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says more than 8,500 customers in 150 countries and more than 2.5 million orders. Tracxn lists it as unfunded. GetLatka estimates about $2.8 million a year as of September 2025. LinkedIn data says about $3.2 million with about 26 staff. The two estimates stay separate. The prices are the menu, not the estimate.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://booqable.com/about/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/booqable.com"
+        },
+        {
+          "label": "Tracxn",
+          "url": "https://tracxn.com/d/companies/booqable/__b0jp-Tytnnf6bIQxbtY3FTWJVryOX2cuAA8ktZ_07gk"
+        }
+      ],
+      "homepage": "https://booqable.com/",
+      "indieAngle": "An availability calendar, a deposit, and a contract, sold across many rental niches.",
+      "whyItPrints": "The trial brings in a bounce-house operator or a long-running equipment renter. The deposit and the contract are the product.",
+      "image": "/blog/2026-11-16/booqable.webp",
+      "imageAlt": "Booqable product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "quotewerks",
+      "name": "QuoteWerks",
+      "listingNote": null,
+      "description": "Quotes and proposals built from distributor price lists, including Ingram, TD SYNNEX, and Pax8, pushed into ConnectWise, Autotask, HubSpot, and QuickBooks. Priced per person. Orlando. Since 1993. Founder-owned.",
+      "evidenceKind": "self-reported",
+      "evidence": "No single revenue figure. Prospeo and CrowdReviews say 86,000 to 88,000 people in 101 countries, and that it is self-funded. LinkedIn data and Prospeo say about $5.2 million with about 48 staff. CrowdReviews says $5 million to $10 million. LeadIQ says $25 million to $50 million. Those revenue guesses do not agree, so none of them is the number.",
+      "sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/aspire-technologies"
+        },
+        {
+          "label": "Prospeo",
+          "url": "https://prospeo.io/c/quotewerks"
+        },
+        {
+          "label": "LeadIQ",
+          "url": "https://leadiq.com/c/quotewerks/5a1d90c65400005100762dff"
+        }
+      ],
+      "homepage": "https://www.quotewerks.com/",
+      "indieAngle": "The moat is the distributor price feed. A modern, cheaper quote tool for one trade is the wedge.",
+      "whyItPrints": "Thirty years of glue between the distributor, the CRM, and the books. The customers are IT resellers and managed service providers, and they do not churn.",
+      "image": "/blog/2026-11-16/quotewerks.webp",
+      "imageAlt": "QuoteWerks product image",
+      "imageWidth": 1200,
+      "imageHeight": 800
+    },
+    {
+      "slug": "arborgold",
+      "name": "ArborGold",
+      "listingNote": "now part of Teamfront",
+      "description": "The customer list, estimates, the schedule, the crew, and invoices for tree care and landscaping. Payments are attached. It is now part of Teamfront. United States.",
+      "evidenceKind": "self-reported",
+      "evidence": "A Teamfront press release says Teamfront, founded in 2023 with Mainsail Partners, has acquired ArborGold, ServiceMonster, Fieldster, and Accrisoft. Together they have more than 3,000 customers and $2.2 billion of invoicing volume. That volume and that customer count are the group, not ArborGold's revenue. LinkedIn data estimates about $5.2 million for ArborGold, and other vendors range from $2.5 million to $25 million. Treat those loosely. They do not agree.",
+      "sources": [
+        {
+          "label": "Teamfront",
+          "url": "https://www.teamfront.com/news-press-release/"
+        },
+        {
+          "label": "LeadIQ",
+          "url": "https://leadiq.com/c/arborgold-software/5a1da8e523000059009ceedc"
+        }
+      ],
+      "homepage": "https://www.arborgold.com/",
+      "indieAngle": "A roll-up is the buyer for a small trade tool. One trade with no software still has that exit.",
+      "whyItPrints": "A seasonal crew and a large-ticket job. The software is one piece of a roll-up.",
+      "image": "/blog/2026-11-16/arborgold.webp",
+      "imageAlt": "ArborGold product image",
+      "imageWidth": 581,
+      "imageHeight": 296
+    },
+    {
+      "slug": "tpo-checker",
+      "name": "TPO Checker",
+      "listingNote": null,
+      "description": "A UK postcode lookup for tree preservation orders, so someone sees the protected trees before they prune or cut. Paid property reports, and branded reports for a business. Founded July 2026. Owen Dawson.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$813 L30, synced 16 November 2026. All-time $2,308. There is no subscription line, because the money is per report.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tpo-checker"
+        }
+      ],
+      "homepage": "https://www.tpochecker.co.uk/",
+      "indieAngle": "A messy public register, turned into a paid report, with a business tier for the trade that needs it.",
+      "whyItPrints": "Public council data, turned into an answer a tree surgeon, a homeowner, or a conveyancer needs before an expensive mistake.",
+      "image": "/blog/2026-11-16/tpo-checker.webp",
+      "imageAlt": "TPO Checker product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": []
+}

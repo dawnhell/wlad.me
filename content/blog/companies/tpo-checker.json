@@ -1,0 +1,27 @@
+{
+  "slug": "tpo-checker",
+  "name": "TPO Checker",
+  "listingNote": null,
+  "description": "A UK postcode lookup for tree preservation orders, so someone sees the protected trees before they prune or cut. Paid property reports, and branded reports for a business. Founded July 2026. Owen Dawson.",
+  "homepage": "https://www.tpochecker.co.uk/",
+  "image": "/blog/2026-11-16/tpo-checker.webp",
+  "imageAlt": "TPO Checker product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$813 L30, synced 16 November 2026. All-time $2,308. There is no subscription line, because the money is per report.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/tpo-checker"
+        }
+      ],
+      "indieAngle": "A messy public register, turned into a paid report, with a business tier for the trade that needs it."
+    }
+  ],
+  "whyItPrints": "Public council data, turned into an answer a tree surgeon, a homeowner, or a conveyancer needs before an expensive mistake.",
+  "whyThisMatters": "A tree surgeon, a homeowner, or a conveyancer needs to know if a tree is protected before someone cuts it. TPO Checker is a UK postcode lookup for tree preservation orders, plus paid property reports and branded reports for a business. Founded in July 2026. Owen Dawson. Stripe-verified means the listing is connected to Stripe. I do not log in and re-check the number. The 16 November 2026 sync shows 813 dollars in the last 30 days, and 2,308 dollars all-time. No subscription shows up, because each payment is for a report. The public council data is the raw material. The paid report is the product. Councils publish the orders. The product turns a postcode into a yes or no before someone cuts the tree. Owen Dawson, founded July 2026, and the business tier is for the trade."
+}

@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-11",
+  "title": "Wednesday's boring SaaS, 11 November 2026",
+  "dek": "Wednesday, 11 November 2026. Capacity Track is Stripe-verified, so that listing is connected to Stripe, and the other nine are self-reported. Several of those self-reported numbers are an estimate or from an older year, so the date in the note is the date of the number.",
+  "heroId": "ilulissat",
+  "companies": [
+    {
+      "slug": "tekmetric",
+      "name": "Tekmetric",
+      "listingNote": null,
+      "description": "Repair orders, photo and video inspections, parts, inventory, texts to the customer, and dashboards, for an independent auto shop. A shop owner built it after about a decade running his own shop, Motorwërks Autogroup. Houston. In October 2024 it bought Shopgenie, another shop CRM.",
+      "evidenceKind": "self-reported",
+      "evidence": "A November 2024 press figure, sourced on GetLatka to the Houston Business Journal, is $15 million a year. Vertical SaaS Group gives the same path: $2.9 million in 2021, $7.2 million in 2023, and $15 million in 2024, which that write-up calls 108 percent growth year over year. They also say about $5 million was raised in total. On GetLatka the 2021 figure is a reported reading and the 2023 figure is an estimate. GetLatka separately lists $1.6 million across two rounds, a 2016 seed and a 2018 venture round. Voyage Houston, in May 2025, says growth equity from Susquehanna Growth Equity followed in early 2022. The CEO, Sunil Patel, said a 4.8 times increase in revenue by 2025 since that 2022 investment, and more than 10,000 shops. The homepage, read 11 November 2026, says more than 16,000 shops. Those shop counts are not the same date. LinkedIn via GetLatka lists 189 employees in December 2024. GetLatka also lists Shopmonkey, a competitor, at about $29.7 million. That is Shopmonkey's figure, not Tekmetric's. Vertical SaaS Group cites the Houston Business Journal saying Shopgenie had reached $5 million a year in 18 months. That is Shopgenie's number. The plans, as of May 2025, are $199, $349, and $439 a month per shop.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/tekmetric.com"
+        },
+        {
+          "label": "Vertical SaaS Group",
+          "url": "https://verticalsaasgroup.com/chapter/tekmetric-vsaas-for-auto-repair"
+        },
+        {
+          "label": "Voyage Houston",
+          "url": "https://voyagehouston.com/interview/inspiring-conversations-with-sunil-patel-of-tekmetric/"
+        },
+        {
+          "label": "Houston Business Journal",
+          "url": "https://www.bizjournals.com/houston/inno/stories/news/2024/10/18/tekmetric-shopgenie-merger-acquisition-unicorn.html"
+        }
+      ],
+      "homepage": "https://www.tekmetric.com/",
+      "indieAngle": "A repair order, a photo, and a text, for garages in one country that still run on a desktop program.",
+      "whyItPrints": "A shop needs a place to write the repair order. Switching in the middle of the year hurts. The price is a flat monthly fee per shop.",
+      "image": "/blog/2026-11-11/tekmetric.webp",
+      "imageAlt": "Tekmetric product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "servicecore",
+      "name": "ServiceCore",
+      "listingNote": null,
+      "description": "Routes, a driver app, and billing for portable toilets, septic, grease traps, and roll-off dumpsters, with the bill synced to QuickBooks Online. Golden, Colorado.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $3.4 million a year in February 2022, with the source not recorded. That is the last figure before Full In, a private equity firm, bought it. Headcount on that page went from 35 in February 2022 to 126 in September 2024. An $8 million venture round in August 2019 is also listed. GetLatka lists a $540 million private equity round in February 2022. Next to $3.4 million of revenue that number looks like a data error, so it is not used. A 2025 benchmark on the site uses data from more than 500 operators. A customer story says Doodie Calls grew from 10 employees to more than 70 technicians on ServiceCore. That is the customer's headcount, not ServiceCore's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/servicecore.com"
+        }
+      ],
+      "homepage": "https://servicecore.com/",
+      "indieAngle": "One route, one rented unit, and the invoice, for a trade this product does not cover. Shredding, mats, water coolers.",
+      "whyItPrints": "The route repeats, and the rented unit has to be billed. These operators already live in QuickBooks.",
+      "image": "/blog/2026-11-11/servicecore.webp",
+      "imageAlt": "ServiceCore product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "apideck",
+      "name": "Apideck",
+      "listingNote": null,
+      "description": "One API so a software company can ship accounting connections to QuickBooks, Xero, NetSuite, and others without building each one. It also covers CRM, HR, shops, and file storage. Antwerp.",
+      "evidenceKind": "self-reported",
+      "evidence": "In a March 2023 interview the CEO said about $600,000 a year, 100 percent growth year over year, 75 customers, an average contract around $10,000, cash flow of negative $360,000, and 10 employees, 9 of them engineers. The 2022 figure was $300,000 a year. He said a $1 million SAFE in June 2022 at a $13 million valuation. GetLatka estimates about $1.3 million as of October 2024, with 13 employees. The homepage, read 11 November 2026, shows more than 50 accounting integrations. The 2023 interview, the 2022 figure, and the 2024 estimate are three readings.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/apideck.com"
+        }
+      ],
+      "homepage": "https://www.apideck.com/",
+      "indieAngle": "One stubborn ledger that the broad APIs do not cover. Go deep on that one, the way Conductor did with QuickBooks Desktop.",
+      "whyItPrints": "A vertical product eventually has to sync the customer's books. This sells that plumbing. Contracts were about $10,000.",
+      "image": "/blog/2026-11-11/apideck.webp",
+      "imageAlt": "Apideck product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "kickserv",
+      "name": "Kickserv",
+      "listingNote": null,
+      "description": "Jobs, the schedule, estimates, invoices, messages, and payments for a small home-service company. HVAC, plumbing, cleaning, pest. Around since 2003. Later bought by ReachLocal. The date and the price of that sale are not on the record.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $2.2 million a year in May 2022, up 189 percent from $761,700 in April 2021, with the source not recorded. 1,400 customers and 17 employees in May 2022. $600,000 raised in one round that month. The site, read 11 November 2026, prices plans at $60, $119, and $199 a month for 5, 10, and 20 people. Those prices are the menu, not the 2022 revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/kickserv.com"
+        }
+      ],
+      "homepage": "https://www.kickserv.com/",
+      "indieAngle": "A small field tool, then a sale to whoever already sells marketing to those shops. The price of this sale is unknown.",
+      "whyItPrints": "A two-van shop pays a small monthly plan so the day is not a paper notebook.",
+      "image": "/blog/2026-11-11/kickserv.webp",
+      "imageAlt": "Kickserv product image",
+      "imageWidth": 1200,
+      "imageHeight": 472
+    },
+    {
+      "slug": "truckingoffice",
+      "name": "TruckingOffice",
+      "listingNote": null,
+      "description": "Dispatch, loads, invoices, IFTA fuel-tax reports, and the electronic log, for an owner-operator or a small fleet. San Antonio. Founded 2009. Ramona Stancu was founder and CEO. Later acquired. The buyer and the price are not on the record.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $552,100 a year in April 2021, with 7 employees, and the source is not recorded. The company was later acquired by a buyer the page does not name.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/truckingoffice.com"
+        }
+      ],
+      "homepage": "https://www.truckingoffice.com/",
+      "indieAngle": "The same paperwork for a small fleet. Fuel tax, the freight document, the toll report.",
+      "whyItPrints": "The quarterly fuel-tax report and the broker invoice have to get done. A cheap monthly tool that does the paperwork stays for years.",
+      "image": "/blog/2026-11-11/truckingoffice.webp",
+      "imageAlt": "TruckingOffice product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "fullbay",
+      "name": "Fullbay",
+      "listingNote": null,
+      "description": "Service orders, parts, inspections, invoices, and a portal for the fleet customer, for a heavy-duty truck and trailer shop. Phoenix. Jacob Findlay is the founder.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $19.4 million a year as of October 2024, up from an estimate of about $7.3 million in October 2023. A $4 million reading for April 2021 has no source. $23 million raised in one round in May 2019. Headcount went from 53 in April 2021 to 139 in December 2024. The yearly figures are not one smooth total.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/fullbay.com"
+        }
+      ],
+      "homepage": "https://www.fullbay.com/",
+      "indieAngle": "Shop software keeps splitting by machine. Cars, heavy trucks, then farm equipment, forklifts, boats. Pick the one still on a whiteboard.",
+      "whyItPrints": "A diesel shop bills a fleet for a large ticket. Parts, labour, and the fleet's approval need one place. Same shape as a car-shop tool, for semis.",
+      "image": "/blog/2026-11-11/fullbay.webp",
+      "imageAlt": "Fullbay product image",
+      "imageWidth": 1080,
+      "imageHeight": 567
+    },
+    {
+      "slug": "tradify",
+      "name": "Tradify",
+      "listingNote": null,
+      "description": "Quotes, the schedule, the job, timesheets, and invoices for a small trade firm, with Xero, QuickBooks, and MYOB named on the site. Auckland. Curtis Bailey is the founder. Founded 2013.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $17 million a year as of June 2024, with 20,000 customers and 120 employees as of October 2024. The company has not published revenue. The site description, read 11 November 2026, says more than 55,000 tradespeople. The 20,000 customers and the 55,000 tradespeople are not the same count.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/tradifyhq.com"
+        }
+      ],
+      "homepage": "https://www.tradifyhq.com/",
+      "indieAngle": "It grew out of New Zealand on the accountant's recommendation. The same quote, job, and invoice, sold through local bookkeepers.",
+      "whyItPrints": "A one-to-ten-person firm pays per person to stop the paper trail. The accounting sync is the product, not an extra.",
+      "image": "/blog/2026-11-11/tradify.webp",
+      "imageAlt": "Tradify product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "servicetrade",
+      "name": "ServiceTrade",
+      "listingNote": null,
+      "description": "Jobs, a tech app, inspection reports, quotes, and a customer portal for commercial contractors. Fire protection, commercial HVAC, kitchen exhaust, mechanical. Durham, North Carolina. Billy Marshall is the founder.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $30.4 million a year as of October 2024, up from an estimate of about $19.6 million in December 2023. A $6.3 million reading for August 2020 has no source. $34.1 million raised over two rounds, including $30 million in August 2020. 211 employees in December 2024. The yearly figures stay separate.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/servicetrade.com"
+        }
+      ],
+      "homepage": "https://www.servicetrade.com/",
+      "indieAngle": "One required inspection and the PDF that proves it. Extinguishers, backflow, hood cleaning, elevators.",
+      "whyItPrints": "A fire inspection comes back every year because someone official requires it. The software that schedules the visit and writes the report becomes the record.",
+      "image": "/blog/2026-11-11/servicetrade.webp",
+      "imageAlt": "ServiceTrade product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "payhoa",
+      "name": "PayHOA",
+      "listingNote": null,
+      "description": "Dues, the books, violation notices, and messages for a small homeowners association, especially a board of volunteers. Lexington, Kentucky. Michael Bollinger is the founder. The starting price is $49 a month for 1 to 25 units.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $290,000 a year in November 2024, with the source not recorded. The site, read 11 November 2026, says more than 6,000 communities and more than 1,000 reviews on G2 and Capterra. A starting price of $49 a month and more than 6,000 communities would be a much larger bill than $290,000 a year, so that yearly figure looks old or partial. It is not treated as the current total. The price is the menu, not the revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/payhoa.com"
+        }
+      ],
+      "homepage": "https://www.payhoa.com/",
+      "indieAngle": "Dues, the split of the utility bill, and the announcement, for a small housing community.",
+      "whyItPrints": "A volunteer treasurer does not want the spreadsheet or the chase for checks. Once the dues come out automatically, the board does not want to move.",
+      "image": "/blog/2026-11-11/payhoa.webp",
+      "imageAlt": "PayHOA product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "capacity-track",
+      "name": "Capacity Track",
+      "listingNote": "for sale",
+      "description": "A directory of open beds in licensed residential care in Minnesota. Assisted living, memory care, group homes, and waiver settings. Families and case managers search once instead of phoning around. Providers pay for a pro plan. The site says it starts from public licensing records, 8,286 licensed settings, with open beds listed first. Founded November 2025. One person.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $2,059 from 41 active subscriptions, updated 11 November 2026. All-time $16,591. The listing says about 50,000 people use it, plans are $49 and $99 a month, and the asking price is $100,000. The founder says he is selling to work on a new health-records product. The prices and the asking price are the listing, not the Stripe total.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/capacity-track"
+        }
+      ],
+      "homepage": "https://capacitytrack.com/",
+      "indieAngle": "The same open-bed list for one kind of licensed place, built on the public register.",
+      "whyItPrints": "The case manager currently phones around for a bed. This replaces the calls. Providers pay so they show up.",
+      "image": "/blog/2026-11-11/capacity-track.webp",
+      "imageAlt": "Capacity Track product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    }
+  ],
+  "honorableMentions": []
+}

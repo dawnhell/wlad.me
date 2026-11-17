@@ -1,0 +1,35 @@
+{
+  "slug": "fathom",
+  "name": "Fathom",
+  "listingNote": null,
+  "description": "KPI dashboards, group reports, and cash forecasts on top of Xero, QuickBooks, or MYOB, sold mostly to accountants who resell it as advice. Brisbane. The Access Group bought it in August 2022. The price was not disclosed.",
+  "homepage": "https://www.fathomhq.com/",
+  "image": "/blog/2026-11-15/fathom.webp",
+  "imageAlt": "Fathom product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-15",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says more than 90,000 businesses and advisors use it, and that it has a 36 percent share of Australia's financial-reporting software category, citing a Practice Protect report for 2025 to 2026. LinkedIn company data estimates about $14.5 million a year and about 65 employees. LeadIQ estimates a band of $10 million to $25 million. Those estimates do not agree, and the company has not published revenue.",
+      "sources": [
+        {
+          "label": "Finovate",
+          "url": "https://finovate.com/freeagent-and-fathom-partner-to-help-smes-better-manage-finances/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/fathom-applications"
+        },
+        {
+          "label": "AccountingWEB",
+          "url": "https://www.accountingweb.co.uk/tech/accounting-software/access-group-acquires-fathom-reporting-app"
+        }
+      ],
+      "indieAngle": "Same lane as Spotlight Reporting and Reach Reporting. A larger group keeps buying these."
+    }
+  ],
+  "whyItPrints": "It sits on the books the accountant already has, and the firm rolls it out across many clients.",
+  "whyThisMatters": "An accountant already has the client's books in Xero, QuickBooks, or MYOB. Fathom puts KPI dashboards, group reports, and cash forecasts on top, and the firm resells it as advice. Brisbane. The Access Group bought it in August 2022. The price was not disclosed. Same lane as Spotlight Reporting and Reach Reporting. They say more than 90,000 businesses and advisors are on it, and they cite a Practice Protect report for 2025 to 2026 for a 36 percent share of Australia's financial-reporting category. LinkedIn company data estimates about 14.5 million dollars a year and about 65 employees. LeadIQ estimates a band of 10 million to 25 million dollars. The estimates disagree with each other. The company itself has not published revenue. The figure is self-reported, which means a data site estimated it. I did not open the books. Spotlight Reporting and Reach Reporting already have their own notes. This one is the Brisbane product The Access Group bought."
+}

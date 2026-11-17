@@ -1,0 +1,35 @@
+{
+  "slug": "contractor-foreman",
+  "name": "Contractor Foreman",
+  "listingNote": null,
+  "description": "Projects, estimates, the schedule, time cards, and invoices for a small general contractor or remodeler. The cheap alternative to the expensive construction tools. Forest City, North Carolina. Robert Bruce. Bootstrapped.",
+  "homepage": "https://contractorforeman.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-15",
+      "evidenceKind": "self-reported",
+      "evidence": "Robert Bruce, in a LinkedIn post in October 2026, says they grew from nothing to more than $12 million a year, completely bootstrapped, with more than 5,000 customers in more than 80 countries. A LinkedIn company figure is about $10 million a year and about 102 employees. Similarweb lists a band of $10 million to $15 million. The founder's line and the data-site band are not the same sentence. No screenshot. The homepage refused an automated fetch, and a page capture did not finish.",
+      "sources": [
+        {
+          "label": "LinkedIn post",
+          "url": "https://www.linkedin.com/posts/robertbruce009_founders-saas-salesleadership-activity-7521599129114877952-NFbU"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/contractor-foreman"
+        },
+        {
+          "label": "Similarweb",
+          "url": "https://www.similarweb.com/website/contractorforeman.com/"
+        }
+      ],
+      "indieAngle": "The cheap option in a category where the known names charge enterprise prices."
+    }
+  ],
+  "whyItPrints": "The crew is set up once. They rarely switch. A low price, sold to a lot of small firms.",
+  "whyThisMatters": "A small remodeler does not want the price of the big construction systems. Contractor Foreman is projects, estimates, the schedule, time cards, and invoices. Forest City, North Carolina. Robert Bruce. Bootstrapped. In a LinkedIn post in October 2026 he says they grew from nothing to more than 12 million dollars a year, with more than 5,000 customers in more than 80 countries. A LinkedIn company figure is about 10 million dollars a year and about 102 employees. Similarweb lists a band of 10 million to 15 million dollars. The founder's line and the data-site band are not the same sentence, so they stay apart. No screenshot. An automated fetch of the homepage was refused, and the page capture never finished. The site is still contractorforeman.com. The figure is self-reported, which means the founder said it. I did not open the books. The cheap seat is the point. Big construction tools charge enterprise prices, and this one is aimed at the small remodeler who will not pay that."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "servicem8",
+  "name": "ServiceM8",
+  "listingNote": null,
+  "description": "Job cards, the schedule, quotes and invoices on site, signatures, photos, and PDF forms, on an iPhone or iPad, with accounting sync. Aimed at contractors with 1 to 20 people. Australia. Founded 2010. Kim Ford is the CEO.",
+  "homepage": "https://www.servicem8.com/",
+  "image": "/blog/2026-11-14/servicem8.webp",
+  "imageAlt": "ServiceM8 product image",
+  "imageWidth": 900,
+  "imageHeight": 473,
+  "mentions": [
+    {
+      "date": "2026-11-14",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $2.6 million a year as of July 2025, with 24 employees. The company has not published revenue, and the estimate is a rough model. The homepage says the product is used to manage more than $35 billion in jobs, and that businesses complete 30 percent more work in the first 3 months. The pricing page says more than $50 billion in jobs. Those two job totals do not match, and neither is ServiceM8's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/servicem8"
+        },
+        {
+          "label": "Pricing",
+          "url": "https://www.servicem8.com/pricing"
+        }
+      ],
+      "indieAngle": "Self-serve onboarding and the app store, without a sales team, for a trade."
+    }
+  ],
+  "whyItPrints": "A small contractor uses it every day to get paid. Self-serve, and a small team for the reach they claim.",
+  "whyThisMatters": "A contractor with a small crew wants the job card, the signature, and the invoice on the phone. ServiceM8 is that, for firms of about 1 to 20 people, with accounting sync. Australia. Founded in 2010. Kim Ford is the CEO. GetLatka estimates about 2.6 million dollars a year as of July 2025, with 24 employees. They have not published revenue. The estimate is only a rough model. The homepage says the product is used to manage more than 35 billion dollars in jobs, and that businesses complete 30 percent more work in the first 3 months. The pricing page says more than 50 billion dollars in jobs. Those two job totals do not match, and neither is the company's revenue. The figure is self-reported, which means a data site guessed it. I did not open the books. The phone is the whole office for a crew of one to twenty. Australia, founded in 2010, Kim Ford is the CEO. The two job-volume claims do not match each other."
+}

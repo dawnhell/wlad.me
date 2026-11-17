@@ -1,0 +1,27 @@
+{
+  "slug": "fullbay",
+  "name": "Fullbay",
+  "listingNote": null,
+  "description": "Service orders, parts, inspections, invoices, and a portal for the fleet customer, for a heavy-duty truck and trailer shop. Phoenix. Jacob Findlay is the founder.",
+  "homepage": "https://www.fullbay.com/",
+  "image": "/blog/2026-11-11/fullbay.webp",
+  "imageAlt": "Fullbay product image",
+  "imageWidth": 1080,
+  "imageHeight": 567,
+  "mentions": [
+    {
+      "date": "2026-11-11",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $19.4 million a year as of October 2024, up from an estimate of about $7.3 million in October 2023. A $4 million reading for April 2021 has no source. $23 million raised in one round in May 2019. Headcount went from 53 in April 2021 to 139 in December 2024. The yearly figures are not one smooth total.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/fullbay.com"
+        }
+      ],
+      "indieAngle": "Shop software keeps splitting by machine. Cars, heavy trucks, then farm equipment, forklifts, boats. Pick the one still on a whiteboard."
+    }
+  ],
+  "whyItPrints": "A diesel shop bills a fleet for a large ticket. Parts, labour, and the fleet's approval need one place. Same shape as a car-shop tool, for semis.",
+  "whyThisMatters": "A diesel shop writes a large ticket for a fleet. Parts, labour, and the fleet's approval need one record. Fullbay is that record for heavy-duty trucks and trailers. Phoenix. Jacob Findlay is the founder. GetLatka estimates about 19.4 million dollars a year as of October 2024, and about 7.3 million in October 2023. A 4 million dollar reading for April 2021 has no source. 23 million dollars was raised in one round in May 2019. Staff on that page moved from 53 in April 2021 to 139 in December 2024. Those yearly lines are not one smooth total, so they stay as separate sentences. The figure is self-reported, which means a data site estimated it. I did not open the books. The fleet portal is the part a car-shop tool does not need. Phoenix, and Jacob Findlay is the founder. The yearly lines stay as separate readings."
+}

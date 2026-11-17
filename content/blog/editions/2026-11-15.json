@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-15",
+  "title": "Sunday's boring SaaS, 15 November 2026",
+  "dek": "Sunday, 15 November 2026. Agiletestware is Stripe-verified, so that listing is connected to Stripe, and the other eight are self-reported. Several of those numbers are an estimate, and a few of them disagree.",
+  "heroId": "iguazu",
+  "companies": [
+    {
+      "slug": "contractor-foreman",
+      "name": "Contractor Foreman",
+      "listingNote": null,
+      "description": "Projects, estimates, the schedule, time cards, and invoices for a small general contractor or remodeler. The cheap alternative to the expensive construction tools. Forest City, North Carolina. Robert Bruce. Bootstrapped.",
+      "evidenceKind": "self-reported",
+      "evidence": "Robert Bruce, in a LinkedIn post in October 2026, says they grew from nothing to more than $12 million a year, completely bootstrapped, with more than 5,000 customers in more than 80 countries. A LinkedIn company figure is about $10 million a year and about 102 employees. Similarweb lists a band of $10 million to $15 million. The founder's line and the data-site band are not the same sentence. No screenshot. The homepage refused an automated fetch, and a page capture did not finish.",
+      "sources": [
+        {
+          "label": "LinkedIn post",
+          "url": "https://www.linkedin.com/posts/robertbruce009_founders-saas-salesleadership-activity-7521599129114877952-NFbU"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/contractor-foreman"
+        },
+        {
+          "label": "Similarweb",
+          "url": "https://www.similarweb.com/website/contractorforeman.com/"
+        }
+      ],
+      "homepage": "https://contractorforeman.com/",
+      "indieAngle": "The cheap option in a category where the known names charge enterprise prices.",
+      "whyItPrints": "The crew is set up once. They rarely switch. A low price, sold to a lot of small firms.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "mangomint",
+      "name": "Mangomint",
+      "listingNote": null,
+      "description": "Booking, the till, payments, and memberships for salons, med spas, and hair-removal studios. The price starts at $165 a month. Daniel Lang is the CEO.",
+      "evidenceKind": "self-reported",
+      "evidence": "Daniel Lang told Growth Unhinged, in January 2026, that they passed $25 million a year, roughly doubling year over year. Logo retention 88 percent, net retention 110 percent, NPS 72. The average customer pays about $7,000 a year. More than 90 percent attach payments. More than $1 billion a year of card volume. That billion is money passing through, not Mangomint's revenue. Bootstrapped for several years, then a Series A in 2022. TechCrunch reported a $35 million raise in September 2024. They spent $2 million, a third of the $6 million cash they had then, buying The Salon Business, a niche media site.",
+      "sources": [
+        {
+          "label": "Growth Unhinged",
+          "url": "https://www.growthunhinged.com/p/mangomint-growth-journey"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2024/09/06/how-a-cold-email-to-a-vc-helped-salon-software-startup-mangomint-raise-35m/"
+        }
+      ],
+      "homepage": "https://www.mangomint.com/",
+      "indieAngle": "The niche magazine, bought or started first, becomes the way salons find the software.",
+      "whyItPrints": "They win replacements in a crowded category, and payments get attached to almost every account.",
+      "image": "/blog/2026-11-15/mangomint.webp",
+      "imageAlt": "Mangomint product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "jackrabbit",
+      "name": "Jackrabbit",
+      "listingNote": null,
+      "description": "Enrollment, recurring tuition, attendance, and a parent portal for dance, gymnastics, swim, and cheer studios. Huntersville, North Carolina. Founded 2004.",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says it serves more than 17,000 schools in 35 countries. It was named a Charlotte Business Journal 2025 Fast 50 winner, ranked on three years of revenue growth that an accounting firm checked. That award is a growth badge, not a revenue total. LeadIQ estimates about $15 million a year as of July 2025, with about 120 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Fast 50",
+          "url": "https://finance.yahoo.com/news/jackrabbit-technologies-receives-fast-50-200000837.html"
+        },
+        {
+          "label": "LeadIQ",
+          "url": "https://leadiq.com/c/jackrabbit-online-class-management-software/5a1da4632300005b0096dab7"
+        }
+      ],
+      "homepage": "https://www.jackrabbittech.com/",
+      "indieAngle": "Twenty years of the same monthly bill, for a kids' activity. Martial arts, music, and tutoring are the thinner versions.",
+      "whyItPrints": "Every studio has the same monthly tuition headache. Once the parent's card is stored, the studio does not switch.",
+      "image": "/blog/2026-11-15/jackrabbit.webp",
+      "imageAlt": "Jackrabbit product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "fathom",
+      "name": "Fathom",
+      "listingNote": null,
+      "description": "KPI dashboards, group reports, and cash forecasts on top of Xero, QuickBooks, or MYOB, sold mostly to accountants who resell it as advice. Brisbane. The Access Group bought it in August 2022. The price was not disclosed.",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says more than 90,000 businesses and advisors use it, and that it has a 36 percent share of Australia's financial-reporting software category, citing a Practice Protect report for 2025 to 2026. LinkedIn company data estimates about $14.5 million a year and about 65 employees. LeadIQ estimates a band of $10 million to $25 million. Those estimates do not agree, and the company has not published revenue.",
+      "sources": [
+        {
+          "label": "Finovate",
+          "url": "https://finovate.com/freeagent-and-fathom-partner-to-help-smes-better-manage-finances/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/fathom-applications"
+        },
+        {
+          "label": "AccountingWEB",
+          "url": "https://www.accountingweb.co.uk/tech/accounting-software/access-group-acquires-fathom-reporting-app"
+        }
+      ],
+      "homepage": "https://www.fathomhq.com/",
+      "indieAngle": "Same lane as Spotlight Reporting and Reach Reporting. A larger group keeps buying these.",
+      "whyItPrints": "It sits on the books the accountant already has, and the firm rolls it out across many clients.",
+      "image": "/blog/2026-11-15/fathom.webp",
+      "imageAlt": "Fathom product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "katana",
+      "name": "Katana",
+      "listingNote": null,
+      "description": "Stock, production planning, and a manufacturing system for small product brands, with Shopify, QuickBooks, and Xero. Tallinn. Same market as MRPeasy.",
+      "evidenceKind": "self-reported",
+      "evidence": "The Estonian business register, via entity.ee, shows 2025 revenue of €10.50 million, up 20.6 percent from €8.71 million in 2024, and a 2025 net loss of €9.24 million. A loss in all 7 published years. Headcount went from 122 to 69. Third-quarter 2026 turnover was €3.61 million, down 7.6 percent year over year, from Tax Board data. The register also shows a share disposal restriction in favour of the Tax and Customs Board, dated 15 October 2026. MRPeasy's 2025 filing was €6.84 million of sales and €1.92 million of profit. These are two companies, not one market size.",
+      "sources": [
+        {
+          "label": "entity.ee",
+          "url": "https://entity.ee/en/ettevote/14239650-katana-technologies-ou"
+        }
+      ],
+      "homepage": "https://katanamrp.com/",
+      "indieAngle": "Two companies in the same job. One files a profit. This one files a loss. The profit one is the shape to copy.",
+      "whyItPrints": "The factory job is the same. The money is not. This one took the venture path and has filed a loss every published year.",
+      "image": "/blog/2026-11-15/katana.webp",
+      "imageAlt": "Katana product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "sos-inventory",
+      "name": "SOS Inventory",
+      "listingNote": null,
+      "description": "Sales orders, lot and serial numbers, assemblies, more than one location, pick and pack, and work orders, bolted onto QuickBooks Online. Arlington, Texas. Founded 2009. The site calls it the top-rated inventory app in the QuickBooks marketplace. The price starts at $74.95 a month for 2 people, plus $30 a month for each extra person.",
+      "evidenceKind": "self-reported",
+      "evidence": "No reliable revenue figure. Seamless says $5 million to $20 million, with 51 to 200 employees. Owler says under $1 million and under 10 employees. Those conflict, so neither is the number. The price is the menu, not a revenue total.",
+      "sources": [
+        {
+          "label": "Seamless",
+          "url": "https://seamless.ai/b/sos-inventory-software-llc-23470172"
+        },
+        {
+          "label": "Owler",
+          "url": "https://www.owler.com/company/sosinventory"
+        }
+      ],
+      "homepage": "https://sosinventory.com/",
+      "indieAngle": "Look at what the online books still do badly, and sell that add-on.",
+      "whyItPrints": "QuickBooks Online does not do this stock work. They have been selling the gap since 2009.",
+      "image": "/blog/2026-11-15/sos-inventory.webp",
+      "imageAlt": "SOS Inventory product image",
+      "imageWidth": 1200,
+      "imageHeight": 626
+    },
+    {
+      "slug": "fishbowl",
+      "name": "Fishbowl",
+      "listingNote": null,
+      "description": "Inventory, the warehouse, and manufacturing, on-premises and in the cloud, for people on QuickBooks. Around since 2001. Orem and American Fork, Utah. A LinkedIn note says private equity in December 2021.",
+      "evidenceKind": "self-reported",
+      "evidence": "The estimates conflict. GetLatka lists $4.6 million in August 2020, with the source not recorded. Craft.co and LinkedIn data list $35 million for 2020, with about 225 employees. A headcount of 225 fits the larger figure better than the smaller one. Both stay, because they are not the same reading. The 10 November note on Acctivate already mentioned the GetLatka estimate. It did not include the $35 million line.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/fishbowl"
+        },
+        {
+          "label": "Craft",
+          "url": "https://craft.co/fishbowl/financials"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/company/fishbowl"
+        }
+      ],
+      "homepage": "https://www.fishbowlinventory.com/",
+      "indieAngle": "The same QuickBooks stock gap has room at more than one price. A narrower niche, rentals or lot-traced food, is still open.",
+      "whyItPrints": "The older, heavier stock add-on. Twenty-five years of the same job.",
+      "image": "/blog/2026-11-15/fishbowl.webp",
+      "imageAlt": "Fishbowl product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "therapynotes",
+      "name": "TherapyNotes",
+      "listingNote": null,
+      "description": "Note templates, the schedule, insurance billing, a patient portal, and video visits, for a mental-health practice. Horsham, Pennsylvania. Founded 2010 by a clinical psychologist and her husband, who writes software. The price starts at $59 a month.",
+      "evidenceKind": "self-reported",
+      "evidence": "Startup Intros says $0 of outside funding. The revenue estimates conflict. Startup Intros, citing BuiltIn and LeadIQ, says about $21 million a year. Growjo says about $115.8 million. Those are not the same figure, so neither is treated as the number. The $59 price is the menu, not the revenue.",
+      "sources": [
+        {
+          "label": "Startup Intros",
+          "url": "https://startupintros.com/orgs/therapynotes-llc"
+        },
+        {
+          "label": "Growjo",
+          "url": "https://growjo.com/company/TherapyNotes"
+        }
+      ],
+      "homepage": "https://www.therapynotes.com/",
+      "indieAngle": "One founder knows the job. The other writes the code. A profession with its own paperwork can hold one of these.",
+      "whyItPrints": "A solo therapist pays every month, and the insurance paperwork makes leaving painful. No outside funding, according to a profile.",
+      "image": "/blog/2026-11-15/therapynotes.webp",
+      "imageAlt": "TherapyNotes product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "agiletestware",
+      "name": "Agiletestware",
+      "listingNote": null,
+      "description": "Paid connectors that push test results from ReadyAPI, soapUI, Jenkins, Bamboo, JUnit, TestNG, NUnit, and Selenium into HP ALM, now OpenText ALM. United States. Since 2012. Bootstrapped, in Java, according to the listing.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "All-time $381,655, synced 15 November 2026. The directory shows no active subscription and nothing collected in the last 30 days. That fits annual or one-off licences, not a monthly line. The listing says about 200 people use it.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/agiletestware-llc"
+        }
+      ],
+      "homepage": "https://agiletestware.com/",
+      "indieAngle": "One enterprise tool nobody loves and everybody is stuck with. Sell the connector.",
+      "whyItPrints": "Glue for an old enterprise tool that big companies will not rip out. Same shape as a desktop-accounting connector, for test results.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": []
+}

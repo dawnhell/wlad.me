@@ -1,0 +1,35 @@
+{
+  "slug": "moraware",
+  "name": "Moraware",
+  "listingNote": null,
+  "description": "A drawing and quote tool, and a scheduler, for granite and quartz countertop shops. It started in 2002 when a programmer fixed the software at his brother's shop. Self-funded.",
+  "homepage": "https://moraware.com/",
+  "image": "/blog/2026-11-14/moraware.webp",
+  "imageAlt": "Moraware product image",
+  "imageWidth": 823,
+  "imageHeight": 688,
+  "mentions": [
+    {
+      "date": "2026-11-14",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $2.2 million a year as of September 2025, with 20 employees. The company has not published revenue. The homepage, seen 14 November 2026, says more than 3,000 shops, more than 20,000 people using it, and more than 3 million jobs a year. A blog post says about 5 customers in 2003, about 30 in 2004, more than 100 in 2005, and more than 1,600 countertop companies by the end of 2017. In 2018 customers sent more than 650,000 quotes. The shop counts are a trail, not one number.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/moraware"
+        },
+        {
+          "label": "History",
+          "url": "https://www.moraware.com/blog/business/how-moraware-got-here-the-short-version/"
+        },
+        {
+          "label": "2018",
+          "url": "https://www.moraware.com/blog/news/morawares-2018-year-in-review/"
+        }
+      ],
+      "indieAngle": "Five customers, then thirty, then a hundred, then two decades. A trade that needs a drawing and a quote can follow that shape."
+    }
+  ],
+  "whyItPrints": "One niche, more than twenty years. A case study is a shop that has stayed more than 20 years.",
+  "whyThisMatters": "A countertop shop has to draw the kitchen, quote it, and schedule the install. Moraware has done that since 2002, when a programmer fixed the software at his brother's shop. Self-funded. GetLatka estimates about 2.2 million dollars a year as of September 2025, with 20 employees. The company has not published revenue. On 14 November 2026 the homepage claimed more than 3,000 shops, more than 20,000 people, and more than 3 million jobs a year. Their history post walks from about 5 customers in 2003, to about 30 in 2004, to more than 100 in 2005, and to more than 1,600 countertop companies by the end of 2017. Customers sent more than 650,000 quotes during 2018. A case study is a shop that has stayed more than 20 years. I am keeping the shop counts as a trail. The figure is self-reported, which means a data site estimated it. I did not open the books."
+}

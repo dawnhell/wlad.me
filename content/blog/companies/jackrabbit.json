@@ -1,0 +1,31 @@
+{
+  "slug": "jackrabbit",
+  "name": "Jackrabbit",
+  "listingNote": null,
+  "description": "Enrollment, recurring tuition, attendance, and a parent portal for dance, gymnastics, swim, and cheer studios. Huntersville, North Carolina. Founded 2004.",
+  "homepage": "https://www.jackrabbittech.com/",
+  "image": "/blog/2026-11-15/jackrabbit.webp",
+  "imageAlt": "Jackrabbit product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-15",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says it serves more than 17,000 schools in 35 countries. It was named a Charlotte Business Journal 2025 Fast 50 winner, ranked on three years of revenue growth that an accounting firm checked. That award is a growth badge, not a revenue total. LeadIQ estimates about $15 million a year as of July 2025, with about 120 employees. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Fast 50",
+          "url": "https://finance.yahoo.com/news/jackrabbit-technologies-receives-fast-50-200000837.html"
+        },
+        {
+          "label": "LeadIQ",
+          "url": "https://leadiq.com/c/jackrabbit-online-class-management-software/5a1da4632300005b0096dab7"
+        }
+      ],
+      "indieAngle": "Twenty years of the same monthly bill, for a kids' activity. Martial arts, music, and tutoring are the thinner versions."
+    }
+  ],
+  "whyItPrints": "Every studio has the same monthly tuition headache. Once the parent's card is stored, the studio does not switch.",
+  "whyThisMatters": "A dance studio charges tuition every month, and the parent's card is the product. Jackrabbit is enrollment, recurring tuition, attendance, and a parent portal for dance, gymnastics, swim, and cheer. Huntersville, North Carolina. Founded in 2004. Their own line is more than 17,000 schools, across 35 countries. A Charlotte Business Journal 2025 Fast 50 listing ranks three years of revenue growth that an accounting firm checked. That award is a badge, not a dollar total. LeadIQ estimates about 15 million dollars a year as of July 2025, with about 120 employees. The company has not published revenue. The figure is self-reported, which means a data site estimated it. I did not open the books. Dance, gymnastics, swim, and cheer all bill the parent every month. Martial arts, music, and tutoring are the thinner versions of the same bill. Founded in 2004. LeadIQ is the source of the yearly estimate and the staff count. The company has not published its own revenue."
+}

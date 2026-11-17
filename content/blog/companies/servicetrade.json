@@ -1,0 +1,27 @@
+{
+  "slug": "servicetrade",
+  "name": "ServiceTrade",
+  "listingNote": null,
+  "description": "Jobs, a tech app, inspection reports, quotes, and a customer portal for commercial contractors. Fire protection, commercial HVAC, kitchen exhaust, mechanical. Durham, North Carolina. Billy Marshall is the founder.",
+  "homepage": "https://www.servicetrade.com/",
+  "image": "/blog/2026-11-11/servicetrade.webp",
+  "imageAlt": "ServiceTrade product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-11",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $30.4 million a year as of October 2024, up from an estimate of about $19.6 million in December 2023. A $6.3 million reading for August 2020 has no source. $34.1 million raised over two rounds, including $30 million in August 2020. 211 employees in December 2024. The yearly figures stay separate.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/servicetrade.com"
+        }
+      ],
+      "indieAngle": "One required inspection and the PDF that proves it. Extinguishers, backflow, hood cleaning, elevators."
+    }
+  ],
+  "whyItPrints": "A fire inspection comes back every year because someone official requires it. The software that schedules the visit and writes the report becomes the record.",
+  "whyThisMatters": "A fire inspection comes back because someone official requires it. The software that books the visit and writes the report becomes the record. ServiceTrade does that for commercial fire protection, HVAC, kitchen exhaust, and mechanical work. Durham, North Carolina. Billy Marshall is the founder. GetLatka estimates about 30.4 million dollars a year as of October 2024, and about 19.6 million in December 2023. A 6.3 million dollar reading for August 2020 has no source. 34.1 million dollars was raised over two rounds, including 30 million in August 2020. 211 employees in December 2024. The yearly figures stay side by side. The homepage blocks automated visits, and the brief still names servicetrade.com as the product. The figure is self-reported, which means a data site estimated it. I did not open the books. Commercial fire, HVAC, and kitchen exhaust come back because an inspector requires them. Durham, North Carolina. Billy Marshall is the founder. 211 employees showed up on the December 2024 line."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "transaction-pro",
+  "name": "Transaction Pro",
+  "listingNote": null,
+  "description": "Bulk import of invoices, journal entries, bills, and bank statements from a spreadsheet into QuickBooks Desktop and Online, plus export and bulk delete. Sarasota. Around since 2002. transactionpro.com now points at Rightworks, the QuickBooks hosting company, which owns it.",
+  "homepage": "https://www.rightworks.com/products/productivity-software/rightworks-transaction-pro/quickbooks-online/",
+  "image": "/blog/2026-11-16/transaction-pro.webp",
+  "imageAlt": "Transaction Pro product image",
+  "imageWidth": 1200,
+  "imageHeight": 857,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "self-reported",
+      "evidence": "Owler estimates about $5 million a year, with fewer than 10 employees. Treat that loosely. The company has not published revenue. Capterra lists $199 a year for the importer, $299 a year for Pro, and flat monthly plans at $99, $299, and $499. Those prices are the menu, not the estimate.",
+      "sources": [
+        {
+          "label": "Owler",
+          "url": "https://www.owler.com/company/transactionpro"
+        },
+        {
+          "label": "Capterra",
+          "url": "https://www.capterra.com/p/184820/Transaction-Pro-Importer-Exporter/"
+        }
+      ],
+      "indieAngle": "A spreadsheet importer for an accounting file is a twenty-year business."
+    }
+  ],
+  "whyItPrints": "A bookkeeper onboarding a client, or cleaning a file, buys it every year.",
+  "whyThisMatters": "A bookkeeper onboarding a client, or cleaning a file, wants a pile of invoices to go in at once. Transaction Pro has done that bulk import, export, and delete for QuickBooks Desktop and Online since 2002. Sarasota. transactionpro.com now points at Rightworks, the QuickBooks hosting company, which owns it. The homepage on this page is the Rightworks product page. Owler estimates about 5 million dollars a year, with fewer than 10 employees. Treat that loosely. The company has not published revenue. Capterra lists 199 dollars a year for the importer, 299 dollars a year for Pro, and flat monthly plans at 99, 299, and 499 dollars. The listed prices are a menu. They are not the yearly estimate. The figure is self-reported, which means a data site guessed it. I did not open the books. Rightworks is the current owner, and the old domain points at their product page. Sarasota. Bookkeepers have been buying the importer since 2002."
+}

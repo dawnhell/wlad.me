@@ -368,6 +368,38 @@ const picks = [
     license: 'CC BY-SA 3.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Bryce_Canyon_%28lever_de_soleil%29.jpg',
   },
+  {
+    id: 'ilulissat',
+    subject: 'nature',
+    alt: 'Icebergs near Ilulissat in Greenland',
+    credit: 'Buiobuione',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/From_Ilulissat_and_leads_to_the_panoramic_view_of_the_icebergs_buiobuione.jpg',
+  },
+  {
+    id: 'zion',
+    subject: 'nature',
+    alt: 'Zion National Park',
+    credit: 'Mojnsen',
+    license: 'CC BY 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Zion_National_Park_2025.jpg',
+  },
+  {
+    id: 'iguazu',
+    subject: 'nature',
+    alt: 'Iguazu Falls',
+    credit: 'Henry Vagrant',
+    license: 'CC BY-SA 3.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Iguaz%C3%BA_Falls_Brazil_Argentinia_%28109758141%29.jpeg',
+  },
+  {
+    id: 'twelve-apostles',
+    subject: 'nature',
+    alt: 'The Twelve Apostles on the coast of Victoria, Australia',
+    credit: 'Dietmar Rabich',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Princetown_%28AU%29%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0930.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

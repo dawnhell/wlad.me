@@ -1,0 +1,27 @@
+{
+  "slug": "katana",
+  "name": "Katana",
+  "listingNote": null,
+  "description": "Stock, production planning, and a manufacturing system for small product brands, with Shopify, QuickBooks, and Xero. Tallinn. Same market as MRPeasy.",
+  "homepage": "https://katanamrp.com/",
+  "image": "/blog/2026-11-15/katana.webp",
+  "imageAlt": "Katana product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-15",
+      "evidenceKind": "self-reported",
+      "evidence": "The Estonian business register, via entity.ee, shows 2025 revenue of €10.50 million, up 20.6 percent from €8.71 million in 2024, and a 2025 net loss of €9.24 million. A loss in all 7 published years. Headcount went from 122 to 69. Third-quarter 2026 turnover was €3.61 million, down 7.6 percent year over year, from Tax Board data. The register also shows a share disposal restriction in favour of the Tax and Customs Board, dated 15 October 2026. MRPeasy's 2025 filing was €6.84 million of sales and €1.92 million of profit. These are two companies, not one market size.",
+      "sources": [
+        {
+          "label": "entity.ee",
+          "url": "https://entity.ee/en/ettevote/14239650-katana-technologies-ou"
+        }
+      ],
+      "indieAngle": "Two companies in the same job. One files a profit. This one files a loss. The profit one is the shape to copy."
+    }
+  ],
+  "whyItPrints": "The factory job is the same. The money is not. This one took the venture path and has filed a loss every published year.",
+  "whyThisMatters": "Katana is stock, production planning, and a manufacturing system for small product brands, with Shopify, QuickBooks, and Xero. Tallinn. Same job as MRPeasy, and the money is not the same. The Estonian register, via entity.ee, shows 2025 revenue of 10.50 million euros, up 20.6 percent from 8.71 million euros in 2024, and a 2025 net loss of 9.24 million euros. A loss in all 7 published years. Headcount went from 122 to 69. Third-quarter 2026 turnover was 3.61 million euros, down 7.6 percent year over year, from Tax Board data. The register shows a block on selling shares, in favour of the Tax and Customs Board, dated 15 October 2026. MRPeasy's 2025 filing was 6.84 million euros of sales and 1.92 million euros of profit. Katana and MRPeasy are two companies. I am not adding them into one market size. The figure is a public filing, marked self-reported because it is not a payment sync. I did not open a bank account."
+}

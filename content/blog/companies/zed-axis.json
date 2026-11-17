@@ -1,0 +1,27 @@
+{
+  "slug": "zed-axis",
+  "name": "Zed Axis",
+  "listingNote": null,
+  "description": "A Windows tool that batch-imports transactions and lists from Excel, CSV, IIF, and bank statements into QuickBooks Desktop, Online, and POS. Zed stands for zero entry of data. Sydney. Built by someone who had run the QuickBooks developer program. A team of 1 to 10. No funding since 2005.",
+  "homepage": "https://www.zed-systems.com/",
+  "image": "/blog/2026-11-16/zed-axis.webp",
+  "imageAlt": "Zed Axis product image",
+  "imageWidth": 422,
+  "imageHeight": 322,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "self-reported",
+      "evidence": "Prospeo estimates about $675,000 a year, no funding, and about 40,000 people using it. Those are thin data-vendor numbers, so they stay directional. The company has not published revenue.",
+      "sources": [
+        {
+          "label": "Prospeo",
+          "url": "https://prospeo.io/c/zed-systems"
+        }
+      ],
+      "indieAngle": "The one-person version of the spreadsheet importer. An insider who knew the file format."
+    }
+  ],
+  "whyItPrints": "A tiny company, an old niche, still selling the import screen.",
+  "whyThisMatters": "Zed Axis is a Windows tool that batch-imports transactions and lists from Excel, CSV, IIF, and bank statements into QuickBooks Desktop, Online, and POS. The name stands for zero entry of data. Sydney. Built by someone who had run the QuickBooks developer program. A team of 1 to 10. No funding since 2005. Prospeo estimates about 675,000 dollars a year, no funding, and about 40,000 people using it. The data-vendor numbers are thin, so I am treating them as a direction, not a total. The company has not published revenue. The figure is self-reported, which means a data vendor guessed it. I did not open the books. The name is meant to read as zero entry of data. A former QuickBooks program manager built it in Sydney. The team size on the record is 1 to 10, with no funding since 2005. Desktop, Online, and the old point-of-sale product are the QuickBooks targets. Excel, CSV, IIF, and bank files are the inputs."
+}

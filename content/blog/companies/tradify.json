@@ -1,0 +1,27 @@
+{
+  "slug": "tradify",
+  "name": "Tradify",
+  "listingNote": null,
+  "description": "Quotes, the schedule, the job, timesheets, and invoices for a small trade firm, with Xero, QuickBooks, and MYOB named on the site. Auckland. Curtis Bailey is the founder. Founded 2013.",
+  "homepage": "https://www.tradifyhq.com/",
+  "image": "/blog/2026-11-11/tradify.webp",
+  "imageAlt": "Tradify product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-11",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $17 million a year as of June 2024, with 20,000 customers and 120 employees as of October 2024. The company has not published revenue. The site description, read 11 November 2026, says more than 55,000 tradespeople. The 20,000 customers and the 55,000 tradespeople are not the same count.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/tradifyhq.com"
+        }
+      ],
+      "indieAngle": "It grew out of New Zealand on the accountant's recommendation. The same quote, job, and invoice, sold through local bookkeepers."
+    }
+  ],
+  "whyItPrints": "A one-to-ten-person firm pays per person to stop the paper trail. The accounting sync is the product, not an extra.",
+  "whyThisMatters": "A firm of one to ten people wants the quote, the day, and the invoice in one place, and they want it to land in the books. Tradify names Xero, QuickBooks, and MYOB on the site. Auckland. Curtis Bailey is the founder. Founded in 2013. GetLatka estimates about 17 million dollars a year as of June 2024, with 20,000 customers and 120 employees as of October 2024. The company has not published revenue. The site, read 11 November 2026, says more than 55,000 tradespeople. A customer count and a people count are not the same number, so both stay. The figure is self-reported, which means a data site estimated it. I did not open the books. Xero, QuickBooks, and MYOB are named on the site, which is the point for a one-to-ten-person firm. Auckland. Curtis Bailey founded it in 2013. The customer count and the tradespeople count stay apart. One hundred and twenty employees sit on the October 2024 line. The company has not published its own revenue."
+}

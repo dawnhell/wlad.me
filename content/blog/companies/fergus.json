@@ -1,0 +1,27 @@
+{
+  "slug": "fergus",
+  "name": "Fergus",
+  "listingNote": null,
+  "description": "Quotes, the schedule, job cost, invoices, certificates, and payments, including tap to pay, for plumbers and electricians. It connects to supplier price lists and to accounting software. New Zealand. Founded 2012.",
+  "homepage": "https://www.fergus.com/",
+  "image": "/blog/2026-11-14/fergus.webp",
+  "imageAlt": "Fergus product image",
+  "imageWidth": 860,
+  "imageHeight": 450,
+  "mentions": [
+    {
+      "date": "2026-11-14",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $9.8 million a year as of September 2025, with 89 employees. The company has not published revenue. The homepage, seen 14 November 2026, says more than 26,000 trade businesses in one place and more than 25,000 tradies in another. Both counts stay.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/fergus"
+        }
+      ],
+      "indieAngle": "A cut of the payment, on top of the job tool, for one trade."
+    }
+  ],
+  "whyItPrints": "The invoice goes out the same day. Payments and a bit of funding sit on top of the subscription.",
+  "whyThisMatters": "A plumber wants the invoice out the same day, and the supplier prices already on the quote. Fergus is quotes, the schedule, job cost, invoices, certificates, and payments, including tap to pay, with supplier price lists and accounting software. New Zealand. Founded in 2012. GetLatka estimates about 9.8 million dollars a year as of September 2025, with 89 employees. The company has not published revenue. On 14 November 2026 one spot on the homepage said more than 26,000 trade businesses, and another said more than 25,000 tradies. Both counts stay because they are not the same sentence. Payments and a bit of funding sit on top of the subscription. The figure is self-reported, which means a data site estimated it. I did not open the books. Tap to pay sits on the invoice. Supplier price lists are named as part of the quote. New Zealand, founded in 2012. Both homepage counts stay, because a trade business and a tradie are not the same unit."
+}

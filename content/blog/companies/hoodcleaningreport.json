@@ -1,0 +1,27 @@
+{
+  "slug": "hoodcleaningreport",
+  "name": "HoodCleaningReport",
+  "listingNote": "for sale",
+  "description": "Kitchen-hood cleaners pick photos from a CompanyCam job, add notes and signatures, and send a PDF the same shift. Each client gets a link to past reports. United States. Founded June 2026. Viraj Shah.",
+  "homepage": "https://hoodcleaningreport.com/",
+  "image": "/blog/2026-11-14/hoodcleaningreport.webp",
+  "imageAlt": "HoodCleaningReport product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-14",
+      "evidenceKind": "dodo-verified",
+      "evidence": "MRR $89 from 1 active subscription, updated 14 November 2026. All-time $397. The listing says a 95 percent margin, and it is listed for sale at $7,500. The listing also says 61 visitors in the last 30 days. That visitor count is the listing, not the payment sync.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/hoodcleaningreport"
+        }
+      ],
+      "indieAngle": "The PDF one trade has to file, built on top of CompanyCam or a similar job app. Getting anyone to see it is the hard part."
+    }
+  ],
+  "whyItPrints": "The compliance PDF for one trade, bolted onto a camera app the crew already uses. The revenue is tiny. It is here as a live example of that add-on.",
+  "whyThisMatters": "A kitchen-hood cleaner already takes the photos in CompanyCam. HoodCleaningReport turns that job into a PDF with notes and signatures, and each client gets a link to past reports. United States. Founded in June 2026. Viraj Shah. Dodo-verified means the listing is connected to Dodo. I do not log in and re-check the number. The 14 November 2026 sync shows 89 dollars a month from 1 subscription, and 397 dollars all-time. The listing says a 95 percent margin, an asking price of 7,500 dollars, and 61 visitors in the last 30 days. The visitor count and the margin are the listing, not the payment sync. The revenue is tiny. It is here because it is a live example of a compliance PDF bolted onto a camera app the crew already uses. CompanyCam is the camera the crew already uses. This add-on only builds the hood-cleaning PDF. The visitor count on the listing is not the payment sync."
+}

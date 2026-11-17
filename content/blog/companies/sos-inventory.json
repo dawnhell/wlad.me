@@ -1,0 +1,31 @@
+{
+  "slug": "sos-inventory",
+  "name": "SOS Inventory",
+  "listingNote": null,
+  "description": "Sales orders, lot and serial numbers, assemblies, more than one location, pick and pack, and work orders, bolted onto QuickBooks Online. Arlington, Texas. Founded 2009. The site calls it the top-rated inventory app in the QuickBooks marketplace. The price starts at $74.95 a month for 2 people, plus $30 a month for each extra person.",
+  "homepage": "https://sosinventory.com/",
+  "image": "/blog/2026-11-15/sos-inventory.webp",
+  "imageAlt": "SOS Inventory product image",
+  "imageWidth": 1200,
+  "imageHeight": 626,
+  "mentions": [
+    {
+      "date": "2026-11-15",
+      "evidenceKind": "self-reported",
+      "evidence": "No reliable revenue figure. Seamless says $5 million to $20 million, with 51 to 200 employees. Owler says under $1 million and under 10 employees. Those conflict, so neither is the number. The price is the menu, not a revenue total.",
+      "sources": [
+        {
+          "label": "Seamless",
+          "url": "https://seamless.ai/b/sos-inventory-software-llc-23470172"
+        },
+        {
+          "label": "Owler",
+          "url": "https://www.owler.com/company/sosinventory"
+        }
+      ],
+      "indieAngle": "Look at what the online books still do badly, and sell that add-on."
+    }
+  ],
+  "whyItPrints": "QuickBooks Online does not do this stock work. They have been selling the gap since 2009.",
+  "whyThisMatters": "QuickBooks Online does not do lot numbers, assemblies, or a real warehouse. SOS Inventory has sold that gap since 2009, out of Arlington, Texas. The site calls it the top-rated inventory app in the QuickBooks marketplace. The price starts at 74.95 dollars a month for 2 people, plus 30 dollars a month for each extra person. There is no reliable revenue figure. Seamless says 5 million to 20 million dollars, with 51 to 200 employees. Owler says under 1 million dollars and under 10 employees. The two vendor ranges conflict. I am not picking either one. The price is the menu. The page is self-reported, which means the data sites disagree and the company has not published a total. I did not open the books. Lot numbers, serial numbers, assemblies, and more than one location are the gap in the online books. Arlington, Texas, since 2009. The marketplace billing line is theirs."
+}

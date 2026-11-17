@@ -1,0 +1,35 @@
+{
+  "slug": "booqable",
+  "name": "Booqable",
+  "listingNote": null,
+  "description": "What is free to rent, online booking, quotes, contracts, and payments, for a small rental shop. Party kit, cameras, bikes, equipment. It started inside Budgetcam, a Dutch camera rental chain. Plans are $29, $69, and $149 a month, plus add-ons for a website and a till. Netherlands.",
+  "homepage": "https://booqable.com/",
+  "image": "/blog/2026-11-16/booqable.webp",
+  "imageAlt": "Booqable product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "self-reported",
+      "evidence": "The company says more than 8,500 customers in 150 countries and more than 2.5 million orders. Tracxn lists it as unfunded. GetLatka estimates about $2.8 million a year as of September 2025. LinkedIn data says about $3.2 million with about 26 staff. The two estimates stay separate. The prices are the menu, not the estimate.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://booqable.com/about/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/booqable.com"
+        },
+        {
+          "label": "Tracxn",
+          "url": "https://tracxn.com/d/companies/booqable/__b0jp-Tytnnf6bIQxbtY3FTWJVryOX2cuAA8ktZ_07gk"
+        }
+      ],
+      "indieAngle": "An availability calendar, a deposit, and a contract, sold across many rental niches."
+    }
+  ],
+  "whyItPrints": "The trial brings in a bounce-house operator or a long-running equipment renter. The deposit and the contract are the product.",
+  "whyThisMatters": "A party-kit shop or a camera renter needs to know what is free, take a deposit, and send a contract. Booqable is that, and it started inside Budgetcam, a Dutch camera rental chain. Plans are 29, 69, and 149 dollars a month, plus add-ons for a website and a till. Their own count is more than 8,500 customers, spread over 150 countries, and more than 2.5 million orders. Tracxn lists it as unfunded. GetLatka estimates about 2.8 million dollars a year as of September 2025. LinkedIn data says about 3.2 million dollars with about 26 staff. The two estimates stay separate. The plan prices are a menu. They are not the yearly estimate. The figure is self-reported, which means data sites estimated it. I did not open the books. It was born inside a camera rental chain, then sold the same calendar to party kit, bikes, and equipment. Rentman and similar tools sit in the same job."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "payhoa",
+  "name": "PayHOA",
+  "listingNote": null,
+  "description": "Dues, the books, violation notices, and messages for a small homeowners association, especially a board of volunteers. Lexington, Kentucky. Michael Bollinger is the founder. The starting price is $49 a month for 1 to 25 units.",
+  "homepage": "https://www.payhoa.com/",
+  "image": "/blog/2026-11-11/payhoa.webp",
+  "imageAlt": "PayHOA product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-11",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka shows $290,000 a year in November 2024, with the source not recorded. The site, read 11 November 2026, says more than 6,000 communities and more than 1,000 reviews on G2 and Capterra. A starting price of $49 a month and more than 6,000 communities would be a much larger bill than $290,000 a year, so that yearly figure looks old or partial. It is not treated as the current total. The price is the menu, not the revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/payhoa.com"
+        }
+      ],
+      "indieAngle": "Dues, the split of the utility bill, and the announcement, for a small housing community."
+    }
+  ],
+  "whyItPrints": "A volunteer treasurer does not want the spreadsheet or the chase for checks. Once the dues come out automatically, the board does not want to move.",
+  "whyThisMatters": "A volunteer treasurer does not want the spreadsheet or the chase for checks. PayHOA is dues, the books, violation notices, and messages for a small homeowners association. Lexington, Kentucky. Michael Bollinger is the founder. The starting price is 49 dollars a month for 1 to 25 units. GetLatka shows 290,000 dollars a year in November 2024, and the source is not recorded. The site, read 11 November 2026, says more than 6,000 communities and more than 1,000 reviews. A starting price of 49 dollars and more than 6,000 communities would be a much larger bill than 290,000 dollars a year, so that yearly figure looks old or partial. It is not treated as the current total, and I am not multiplying the price by the community count. The price is the menu. The figure is self-reported, which means a data site wrote it down. I did not open the books."
+}

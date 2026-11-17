@@ -1,0 +1,35 @@
+{
+  "slug": "jane-app",
+  "name": "Jane App",
+  "listingNote": null,
+  "description": "Online booking, the schedule, charting, billing, and patient forms for health and wellness clinics. Vancouver. Alison Taylor is a co-founder.",
+  "homepage": "https://jane.app/",
+  "image": "/blog/2026-11-16/jane-app.webp",
+  "imageAlt": "Jane App product image",
+  "imageWidth": 1200,
+  "imageHeight": 676,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "self-reported",
+      "evidence": "Alison Taylor said in October 2024, reported by BetaKit, that Jane hit $100 million a year. The Globe and Mail had reported $60 million a year and about 350 staff in January 2023. Those are two dates. Mostly self-funded, with less than $10 million raised before 2025. In May 2025 TCV led a secondary round of more than C$500 million at about C$1.8 billion. That is existing shares changing hands, not new revenue. Reported footprint: more than 200,000 practitioners across about 50,000 clinics.",
+      "sources": [
+        {
+          "label": "BetaKit",
+          "url": "https://betakit.com/jane-app-co-founder-reveals-companys-centaur-status-at-betakit-town-hall-vancouver/"
+        },
+        {
+          "label": "Globe and Mail",
+          "url": "https://www.theglobeandmail.com/business/article-jane-software-hits-18-billion-valuation-as-tcv-leads-500-million/"
+        },
+        {
+          "label": "Fasken",
+          "url": "https://www.fasken.com/en/experience/2025/08/jane-software-valuation-secondary-financing-round"
+        }
+      ],
+      "indieAngle": "A clinic owner built the tool she needed. The profession told the next clinic."
+    }
+  ],
+  "whyItPrints": "The clinic pays per practitioner. Once the charts live here, they almost never switch. It spread by word of mouth.",
+  "whyThisMatters": "A clinic pays per practitioner, and once the charts live in the product they almost never switch. Jane is online booking, the schedule, charting, billing, and patient forms, out of Vancouver. Alison Taylor is a co-founder. She said in October 2024, reported by BetaKit, that Jane hit 100 million dollars a year. The Globe and Mail had reported 60 million dollars a year and about 350 staff in January 2023. Those are two dates. Mostly self-funded, with less than 10 million dollars raised before 2025. In May 2025 TCV led a secondary round of more than 500 million Canadian dollars at about 1.8 billion Canadian dollars. Existing shares changed hands. That round is not new revenue. The reported footprint is more than 200,000 practitioners across about 50,000 clinics. The figure is self-reported, which means the co-founder said it. I did not open the books. Charts are why a clinic stays. The 2023 newspaper line and the 2024 founder line are two dates, and the Canadian valuation is a secondary sale."
+}

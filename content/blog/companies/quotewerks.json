@@ -1,0 +1,35 @@
+{
+  "slug": "quotewerks",
+  "name": "QuoteWerks",
+  "listingNote": null,
+  "description": "Quotes and proposals built from distributor price lists, including Ingram, TD SYNNEX, and Pax8, pushed into ConnectWise, Autotask, HubSpot, and QuickBooks. Priced per person. Orlando. Since 1993. Founder-owned.",
+  "homepage": "https://www.quotewerks.com/",
+  "image": "/blog/2026-11-16/quotewerks.webp",
+  "imageAlt": "QuoteWerks product image",
+  "imageWidth": 1200,
+  "imageHeight": 800,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "self-reported",
+      "evidence": "No single revenue figure. Prospeo and CrowdReviews say 86,000 to 88,000 people in 101 countries, and that it is self-funded. LinkedIn data and Prospeo say about $5.2 million with about 48 staff. CrowdReviews says $5 million to $10 million. LeadIQ says $25 million to $50 million. Those revenue guesses do not agree, so none of them is the number.",
+      "sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/aspire-technologies"
+        },
+        {
+          "label": "Prospeo",
+          "url": "https://prospeo.io/c/quotewerks"
+        },
+        {
+          "label": "LeadIQ",
+          "url": "https://leadiq.com/c/quotewerks/5a1d90c65400005100762dff"
+        }
+      ],
+      "indieAngle": "The moat is the distributor price feed. A modern, cheaper quote tool for one trade is the wedge."
+    }
+  ],
+  "whyItPrints": "Thirty years of glue between the distributor, the CRM, and the books. The customers are IT resellers and managed service providers, and they do not churn.",
+  "whyThisMatters": "An IT reseller builds a quote from Ingram, TD SYNNEX, or Pax8, then pushes it into ConnectWise, Autotask, HubSpot, and QuickBooks. QuoteWerks has done that since 1993, priced per person, out of Orlando. Founder-owned. Prospeo and CrowdReviews put the audience around 86,000 to 88,000 people, in 101 countries, and they call it self-funded. LinkedIn data and Prospeo say about 5.2 million dollars with about 48 staff. CrowdReviews says 5 million to 10 million dollars. LeadIQ says 25 million to 50 million dollars. The revenue guesses disagree, so I am not picking one. The moat they talk about is the distributor price feed. The page is self-reported, which means the data sites disagree. I did not open the books. The distributor price feed is the part that is hard to copy. Ingram, TD SYNNEX, and Pax8 are the lists they name. Orlando, founder-owned, since 1993. ConnectWise, Autotask, HubSpot, and QuickBooks are the places the quote gets pushed. The price is per person."
+}

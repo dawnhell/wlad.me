@@ -1,0 +1,31 @@
+{
+  "slug": "mangomint",
+  "name": "Mangomint",
+  "listingNote": null,
+  "description": "Booking, the till, payments, and memberships for salons, med spas, and hair-removal studios. The price starts at $165 a month. Daniel Lang is the CEO.",
+  "homepage": "https://www.mangomint.com/",
+  "image": "/blog/2026-11-15/mangomint.webp",
+  "imageAlt": "Mangomint product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-15",
+      "evidenceKind": "self-reported",
+      "evidence": "Daniel Lang told Growth Unhinged, in January 2026, that they passed $25 million a year, roughly doubling year over year. Logo retention 88 percent, net retention 110 percent, NPS 72. The average customer pays about $7,000 a year. More than 90 percent attach payments. More than $1 billion a year of card volume. That billion is money passing through, not Mangomint's revenue. Bootstrapped for several years, then a Series A in 2022. TechCrunch reported a $35 million raise in September 2024. They spent $2 million, a third of the $6 million cash they had then, buying The Salon Business, a niche media site.",
+      "sources": [
+        {
+          "label": "Growth Unhinged",
+          "url": "https://www.growthunhinged.com/p/mangomint-growth-journey"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2024/09/06/how-a-cold-email-to-a-vc-helped-salon-software-startup-mangomint-raise-35m/"
+        }
+      ],
+      "indieAngle": "The niche magazine, bought or started first, becomes the way salons find the software."
+    }
+  ],
+  "whyItPrints": "They win replacements in a crowded category, and payments get attached to almost every account.",
+  "whyThisMatters": "A salon pays for the book, the till, and the membership, and then the card payments sit on the same account. Mangomint does that for salons, med spas, and hair-removal studios. The price starts at 165 dollars a month. Daniel Lang is the CEO. He told Growth Unhinged, in January 2026, that they passed 25 million dollars a year, roughly doubling year over year. They quoted logo retention of 88 percent, net retention of 110 percent, and an NPS of 72. The average customer pays about 7,000 dollars a year. More than 90 percent attach payments. More than 1 billion dollars a year of card volume is money passing through, not their revenue. They ran without outside equity for several years. A Series A followed in 2022. TechCrunch reported a 35 million dollar raise in September 2024. They spent 2 million dollars, a third of the 6 million dollars of cash they had then, buying The Salon Business, a niche media site. The figure is self-reported, which means the CEO said it in an interview. I did not open the books."
+}

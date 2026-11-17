@@ -1,0 +1,43 @@
+{
+  "slug": "taxdome",
+  "name": "TaxDome",
+  "listingNote": null,
+  "description": "The client list, the portal, signatures, the workflow, billing, and payments, for a tax, bookkeeping, or accounting firm, from a solo preparer to a firm with more than 100 staff. One annual subscription. The base price is $1,500 a year for 150 active clients and 20 seats, then $15 per extra client. They say they have never taken venture funding.",
+  "homepage": "https://taxdome.com/",
+  "image": "/blog/2026-11-16/taxdome.webp",
+  "imageAlt": "TaxDome product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-16",
+      "evidenceKind": "self-reported",
+      "evidence": "Petar Iliev, the chief revenue officer, says on LinkedIn that he scaled TaxDome from $1 million to $30 million a year, and that the aim is $100 million. The $100 million is a target, not a result. The company says more than 15,000 firms, more than 40,000 professionals, and more than 6 million end clients. Payments processed went from $500 million to $900 million in 2025, and jobs completed went from 1.2 million to 2.6 million. Those payment totals are money passing through, not TaxDome's revenue. They placed number 714 on the 2026 Inc. 5000. Kaeda notes a 2024 Accel-KKR credit facility, which is debt, not an equity round. GetLatka's old estimate of about $3.5 million is stale next to the $30 million claim. The two yearly lines are not averaged.",
+      "sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/in/p-iliev"
+        },
+        {
+          "label": "Company",
+          "url": "https://taxdome.com/company-information"
+        },
+        {
+          "label": "About",
+          "url": "https://taxdome.com/about"
+        },
+        {
+          "label": "Inc. 5000",
+          "url": "https://taxdome.com/blog/taxdome-made-the-2026-inc-5000-at-714-in-the-top-1000-fastest-growing-us-companies"
+        },
+        {
+          "label": "Kaeda",
+          "url": "https://kaeda.co/cases/taxdome"
+        }
+      ],
+      "indieAngle": "The portal the accountant's client actually logs into. A narrower chase for one country's tax season is still open."
+    }
+  ],
+  "whyItPrints": "Once the staff, the files, the signatures, and the bills live here, leaving means setting it all up again. The renewal is yearly and priced per client, so it grows when the firm grows.",
+  "whyThisMatters": "A tax firm wants the client, the file, the signature, and the bill in one login. TaxDome is that, from a solo preparer to a firm with more than 100 staff. The base price is 1,500 dollars a year for 150 active clients and 20 seats, then 15 dollars per extra client. They say they have never taken venture funding. Petar Iliev, the chief revenue officer, says on LinkedIn that he scaled the company from 1 million to 30 million dollars a year, and that the aim is 100 million. The 100 million is a target, not a result. Their own footprint is more than 15,000 firms, more than 40,000 professionals, and more than 6 million end clients. Payments processed went from 500 million to 900 million dollars in 2025, and jobs completed went from 1.2 million to 2.6 million. Those payment totals are money passing through. They placed number 714 on the 2026 Inc. 5000. Kaeda notes a 2024 credit facility from Accel-KKR. That is debt, not an equity round. GetLatka's old estimate of about 3.5 million dollars is stale next to the 30 million dollar claim. The two yearly lines are not averaged. The figure is self-reported, which means a company officer said it. I did not open the books."
+}
