@@ -400,6 +400,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Princetown_%28AU%29%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0930.jpg',
   },
+  {
+    id: 'neskaupstadur',
+    subject: 'nature',
+    alt: 'The coast near Neskaupstaður in Iceland',
+    credit: 'Martin Falbisoner',
+    license: 'CC BY-SA 4.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/1/1f/Icelandic_Landscape_near_Neskaupsta%C3%B0ur_July_2014.JPG',
+  },
 ]
 
 function filePage(imageUrl) {

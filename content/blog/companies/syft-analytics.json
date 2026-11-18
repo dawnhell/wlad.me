@@ -1,0 +1,39 @@
+{
+  "slug": "syft-analytics",
+  "name": "Syft Analytics",
+  "listingNote": null,
+  "description": "Dashboards, management reports, multi-entity consolidations, and cash-flow forecasts for accountants and small businesses. It reads Xero, QuickBooks, and Sage, plus Stripe, Square, Shopify, and Gusto. Johannesburg. Founded in 2016 by a chartered accountant. Xero bought it in September 2024. The team never raised a round.",
+  "homepage": "https://www.syftanalytics.com/",
+  "image": "/blog/2026-11-18/syft-analytics.webp",
+  "imageAlt": "Syft Analytics product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-18",
+      "evidenceKind": "self-reported",
+      "evidence": "TechCabal, on 17 September 2024, reported 2023 revenue of US$4.4 million from 75,000 customers in more than 80 countries. ZoomInfo, via GetLatka as of November 2024, puts it at about $15.7 million a year. Those two readings do not agree. Xero's 17 September 2024 release says the price was up to US$70 million, US$40 million up front including about US$10 million in Xero shares, plus earn-outs over three years, and that price is the sale, not revenue. More than 70 staff.",
+      "sources": [
+        {
+          "label": "Xero ASX",
+          "url": "https://announcements.asx.com.au/asxpdf/20240917/pdf/067ym4kg0gmpym.pdf"
+        },
+        {
+          "label": "TechCabal",
+          "url": "https://techcabal.com/2024/09/17/xero-syft-acquisition/"
+        },
+        {
+          "label": "Launch Base Africa",
+          "url": "https://launchbaseafrica.com/2026/04/15/the-350m-proof-inside-south-africas-rising-cult-of-the-bootstrapped-exit/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/syft-analytics"
+        }
+      ],
+      "indieAngle": "An accountant automated his own month-end pack, sold it in the Xero store, and sold the company without raising. A narrower pack for one trade is still open."
+    }
+  ],
+  "whyItPrints": "Accountants rebuild the same monthly report pack for every client. This automates that pack, and Xero called it the most used reporting app in its store.",
+  "whyThisMatters": "An accountant rebuilds the same pack of reports for every client, every month. Syft is that pack: dashboards, consolidations, and a cash forecast, reading Xero, QuickBooks, and Sage, plus Stripe, Square, Shopify, and Gusto. Johannesburg. A chartered accountant started it in 2016. The team never raised a round. Xero bought it in September 2024 and had called it the most used reporting app in the Xero store. TechCabal reported 2023 revenue of 4.4 million dollars, from 75,000 customers in more than 80 countries. ZoomInfo, shown on GetLatka for November 2024, says about 15.7 million dollars a year. Those two readings do not agree, so both stay. The purchase price, up to 70 million dollars with 40 million up front, is what Xero paid. It is not Syft's revenue. More than 70 people worked there. Same lane as Fathom, which The Access Group bought, and Spotlight Reporting. This one is the South African pack that Xero took in. The figure is self-reported, which means a news report and a data-site estimate. I did not open the books."
+}

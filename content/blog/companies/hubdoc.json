@@ -1,0 +1,31 @@
+{
+  "slug": "hubdoc",
+  "name": "Hubdoc",
+  "listingNote": null,
+  "description": "It pulls bills, receipts, and statements from utilities, phone companies, banks, and vendors, then publishes the data to Xero or QuickBooks with the document attached. Toronto. Founded in 2014. Xero bought it in 2018, and it is now bundled with Xero.",
+  "homepage": "https://www.hubdoc.com/",
+  "image": "/blog/2026-11-18/hubdoc.webp",
+  "imageAlt": "Hubdoc product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-18",
+      "evidenceKind": "self-reported",
+      "evidence": "BetaKit, on 31 July 2018, said Xero bought Hubdoc for US$70 million in cash and equity, which is the sale price, not revenue. It had 100 employees. A Xero filing describes US$60 million plus a conditional US$10 million equity tranche, and that is also the sale price, not revenue. It had raised a C$6 million round in 2017, plus a smaller earlier round. Xero's offer beat a venture round that was on the table.",
+      "sources": [
+        {
+          "label": "BetaKit",
+          "url": "https://betakit.com/xero-acquires-torontos-hubdoc-for-70-million-usd/"
+        },
+        {
+          "label": "Xero ASX",
+          "url": "https://announcements.asx.com.au/asxpdf/20180801/pdf/43wzn9dc6s54rv.pdf"
+        }
+      ],
+      "indieAngle": "Fetch the document and attach it to the transaction. Local vendor portals in one language are still open."
+    }
+  ],
+  "whyItPrints": "Bookkeepers spend hours chasing PDFs. This fetches them.",
+  "whyThisMatters": "A bookkeeper spends the week chasing PDFs from the phone company, the power company, and the bank. Hubdoc logs into those portals, pulls the document, and posts it to Xero or QuickBooks with the file attached. Toronto. Founded in 2014. Xero bought it in 2018, and it now comes with Xero. BetaKit, on 31 July 2018, said the price was 70 million dollars in cash and equity, and that there were 100 employees. A Xero filing describes 60 million dollars plus a conditional 10 million dollar equity tranche. Both of those lines are the sale price, not Hubdoc's revenue. It had raised a 6 million Canadian dollar round in 2017, plus a smaller round before that. Xero's offer beat a venture round that was already on the table. The page is self-reported, which means the sale write-ups. I did not open the books. The document fetch is the whole product, and Xero now gives it away with the ledger."
+}

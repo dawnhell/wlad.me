@@ -1,0 +1,31 @@
+{
+  "slug": "inventory-planner",
+  "name": "Inventory Planner",
+  "listingNote": null,
+  "description": "Forecasts sales per product and tells a Shopify store what to reorder, then builds the purchase orders. Brightpearl bought it at the end of 2020. Sage bought Brightpearl in October 2021. The product is now by Sage.",
+  "homepage": "https://www.inventory-planner.com/",
+  "image": "/blog/2026-11-18/inventory-planner.webp",
+  "imageAlt": "Inventory Planner product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-18",
+      "evidenceKind": "self-reported",
+      "evidence": "A 2022 interview with Brightpearl's CEO, written up by Latka, says that in 2021 Inventory Planner added $4.5 million. Brightpearl's own revenue that year was $30 million. Brightpearl paid about $10 million at the end of 2020, 70 percent cash, when the tool had about 2,000 customers. That payment is the purchase price, not revenue. Sage bought Brightpearl for $360 million in October 2021. That price is Brightpearl's sale, not this product's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/the-math-behind-the-360m-sage-paid-to-acquire-brightpearl"
+        },
+        {
+          "label": "Brightpearl",
+          "url": "https://www.brightpearl.com/press-and-media/press-releases/brightpearl-acquires-inventory-planner-giving-savvy-merchants-better-ways-to-accurately-predict-demand"
+        }
+      ],
+      "indieAngle": "A reorder app with about 2,000 Shopify stores was bought for about $10 million. The same single job is open for other shop platforms."
+    }
+  ],
+  "whyItPrints": "Running out, or ordering too much, costs money every month. This replaces the spreadsheet.",
+  "whyThisMatters": "A store either runs out or orders too much. Inventory Planner forecasts each product and writes the purchase order. It was a Shopify tool. Brightpearl bought it at the end of 2020, and Sage bought Brightpearl in October 2021, so the product is now by Sage. A 2022 interview with Brightpearl's CEO, written up by Latka, says that in 2021 this tool added 4.5 million dollars. Brightpearl's own revenue that year was 30 million dollars. Those are not the same number. Brightpearl paid about 10 million dollars, 70 percent in cash, when the tool had about 2,000 customers. That payment is the purchase price. Sage's 360 million dollar price is what Sage paid for Brightpearl, not this product's revenue. The figure is self-reported, which means a CEO interview. I did not open the books."
+}

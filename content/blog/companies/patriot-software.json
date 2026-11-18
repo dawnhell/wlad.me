@@ -1,0 +1,31 @@
+{
+  "slug": "patriot-software",
+  "name": "Patriot Software",
+  "listingNote": null,
+  "description": "Payroll, accounting, time tracking, and HR for small US businesses and their accountants. Sold on a low price, with no sales team. Canton, Ohio. Bootstrapped, then funded by accredited individual investors while the founders kept majority control.",
+  "homepage": "https://www.patriotsoftware.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-18",
+      "evidenceKind": "self-reported",
+      "evidence": "No revenue figure. The about page says they passed more than 80,000 customers, and that the company is profitable and debt free. A 8 December 2017 press release says they invoiced more than 10,000 customers that November, with customer growth of 199 percent over two years. By summer 2017 they had self-invested over $38 million into the payroll engine, which is funding, not revenue. Marketing is the internet and radio. There is no sales force. No screenshot. The site blocked an automated fetch.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://www.patriotsoftware.com/about/"
+        },
+        {
+          "label": "Press",
+          "url": "https://www.patriotsoftware.com/blog/press/patriot-software-10000-customers/"
+        }
+      ],
+      "indieAngle": "Cheap and simple, sold through accountants, with no sales team. The same shape works for a smaller US filing."
+    }
+  ],
+  "whyItPrints": "Payroll runs every two weeks. Nobody switches in the middle of the year.",
+  "whyThisMatters": "Payroll goes out every two weeks, and a small shop does not switch in the middle of the year. Patriot is payroll, accounting, time tracking, and HR for US businesses and the accountants who serve them. Canton, Ohio. No sales team. The marketing is the internet and radio. There is no revenue figure on the record. Their own about page puts the customer count above 80,000, and says the company is profitable and debt free. They bootstrapped, then took money from accredited individual investors and kept majority control. A press release on 8 December 2017 says they invoiced more than 10,000 customers that November, and that the customer count had grown 199 percent over two years. By summer 2017 they had put more than 38 million dollars into the payroll engine. That spending is funding, not revenue. No screenshot. The site blocked an automated fetch, and the homepage is still patriotsoftware.com. The page is self-reported, which means the company said the customer counts. I did not open the books."
+}

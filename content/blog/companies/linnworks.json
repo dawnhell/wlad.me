@@ -1,0 +1,35 @@
+{
+  "slug": "linnworks",
+  "name": "Linnworks",
+  "listingNote": null,
+  "description": "One back office for Amazon, eBay, Shopify, and other shops, plus warehouses and couriers. It routes orders, syncs stock, and pushes listings. Chichester. About 17 years old. Marlin Equity Partners owns it.",
+  "homepage": "https://www.linnworks.com/",
+  "image": "/blog/2026-11-18/linnworks.webp",
+  "imageAlt": "Linnworks product image",
+  "imageWidth": 1200,
+  "imageHeight": 1149,
+  "mentions": [
+    {
+      "date": "2026-11-18",
+      "evidenceKind": "self-reported",
+      "evidence": "Companies House, via DataGardener, shows turnover of £20.63 million for Linn Systems Ltd. The latest filed accounts run to 31 December 2025 and were filed in September 2026. DataGardener does not clearly name the year on the summary. Net assets were £11.76 million, with 79 employees. It is an audit-exempt subsidiary, so the group total is probably higher. Owler's band is $25 million to $100 million a year. Those two readings do not agree.",
+      "sources": [
+        {
+          "label": "DataGardener",
+          "url": "https://explore.datagardener.com/company/linn-systems-ltd-06784391"
+        },
+        {
+          "label": "Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/06784391/filing-history"
+        },
+        {
+          "label": "Owler",
+          "url": "https://www.owler.com/company/linnworks"
+        }
+      ],
+      "indieAngle": "A lighter sync for two channels and one courier is the opening for sellers who find this too heavy."
+    }
+  ],
+  "whyItPrints": "Once the whole order flow runs through it, switching is a long migration.",
+  "whyThisMatters": "A seller with more than one shop needs the order, the stock count, and the courier label in one place. Linnworks is that back office, out of Chichester, and it is about 17 years old. Marlin Equity Partners owns it. Companies House, via DataGardener, shows turnover of 20.63 million pounds for Linn Systems Ltd. The latest accounts run to 31 December 2025 and were filed in September 2026. The summary does not clearly name which year that turnover belongs to. Net assets were 11.76 million pounds, with 79 employees. It is an audit-exempt subsidiary, so the group total is probably higher than the one company. Owler's band runs from 25 million to 100 million dollars a year. The filing and the band do not agree, so both stay. The figure is self-reported in the sense that it is a public filing and a data-site range, not a payment sync. I did not open a bank account."
+}

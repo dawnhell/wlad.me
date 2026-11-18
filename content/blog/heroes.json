@@ -537,5 +537,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Princetown_(AU)%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0930.jpg",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "neskaupstadur",
+    "src": "/blog/heroes/neskaupstadur.webp",
+    "alt": "The coast near Neskaupstaður in Iceland",
+    "width": 1600,
+    "height": 934,
+    "credit": "Martin Falbisoner",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Icelandic_Landscape_near_Neskaupsta%C3%B0ur_July_2014.JPG",
+    "license": "CC BY-SA 4.0",
+    "subject": "nature"
   }
 ]

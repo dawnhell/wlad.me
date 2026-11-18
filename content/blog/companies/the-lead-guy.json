@@ -1,0 +1,27 @@
+{
+  "slug": "the-lead-guy",
+  "name": "The Lead Guy",
+  "listingNote": null,
+  "description": "A done-for-you lead subscription for concreters, roofers, builders, and earthworks firms in New Zealand. Michael Veail. It is a service, not software. Founded in September 2022.",
+  "homepage": "https://theleadguy.online/",
+  "image": "/blog/2026-11-18/the-lead-guy.webp",
+  "imageAlt": "The Lead Guy product image",
+  "imageWidth": 512,
+  "imageHeight": 512,
+  "mentions": [
+    {
+      "date": "2026-11-18",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last sync 20 February 2026: last 30 days $24,226. The Stripe key has expired, so this is not a current reading. The same sync showed a monthly line of $22,624 from 21 active subscriptions, and all-time $855,845.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/michael-veail"
+        }
+      ],
+      "indieAngle": "A small set of trade clients on a monthly retainer. The software version is a simple lead list for the same trades."
+    }
+  ],
+  "whyItPrints": "A roofer pays every month while the leads keep coming.",
+  "whyThisMatters": "A roofer or a concreter pays every month so the phone keeps ringing. The Lead Guy is that retainer, for concreters, roofers, builders, and earthworks firms in New Zealand. Michael Veail. Founded in September 2022. It is a service, not software. Stripe-verified means the listing is connected to Stripe. I do not log in and re-check the number. The key has expired. The last sync is 20 February 2026, so the figures are from February, not from this week. That sync shows 24,226 dollars in the last 30 days, a monthly line of 22,624 dollars from 21 subscriptions, and 855,845 dollars all-time. Twenty-one clients is a small book. The money is the retainer, for as long as the leads show up. Roofers, concreters, builders, and earthworks firms are the whole list. There is no software seat here. The homepage is theleadguy.online. Exclusive leads, one trade at a time."
+}

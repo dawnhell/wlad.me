@@ -1,0 +1,35 @@
+{
+  "slug": "iclasspro",
+  "name": "iClassPro",
+  "listingNote": null,
+  "description": "Enrollment, the schedule, billing, attendance, waivers, and messages for gymnastics, swim, cheer, and dance schools. It also sells camp software and church giving. Longview, Texas. Founded in 2008 by a former gym owner.",
+  "homepage": "https://www.iclasspro.com/",
+  "image": "/blog/2026-11-18/iclasspro.webp",
+  "imageAlt": "iClassPro product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-18",
+      "evidenceKind": "self-reported",
+      "evidence": "The Longview News-Journal, on 12 September 2023, said iClassPro was on the Inc. 5000 list with 196 percent sales growth. That badge is not a dollar total. Headcount went from 73 at the end of 2022 to 97 in September 2023, with growth from Australian swim schools. The about page says thousands of businesses and millions of class registrations a year. A vendor profile says revenue is about five million dollars a year and that it is bootstrapped. Treat that loosely. A staff of about 100 makes that guess look low, and the company has not published a total.",
+      "sources": [
+        {
+          "label": "Longview News-Journal",
+          "url": "https://news-journal.com/2023/09/12/we-are-growing-so-fast-iclasspro-to-expand-again-in-north-longview-business-park/"
+        },
+        {
+          "label": "About",
+          "url": "https://www.iclasspro.com/about"
+        },
+        {
+          "label": "Tracxn",
+          "url": "https://tracxn.com/d/companies/iclasspro/__tqWY3Fnz-_owJ5r3-BToT4u2uvhpztdtrkaT-wWrtNY"
+        }
+      ],
+      "indieAngle": "A gym owner wrote the tool his gym needed. Swim, martial arts, and music lessons still sit on generic booking tools."
+    }
+  ],
+  "whyItPrints": "A gym bills hundreds of families every month through it. The card on file is the product.",
+  "whyThisMatters": "A gymnastics school bills a lot of families every month. iClassPro is enrollment, the schedule, billing, attendance, waivers, and the message to the parent, for gymnastics, swim, cheer, and dance. It also sells camp software and church giving. Longview, Texas. A former gym owner started it in 2008. The Longview News-Journal, on 12 September 2023, said it made the 2023 Inc. 5000, with sales growth of 196 percent. That badge is not a dollar total. Headcount went from 73 at the end of 2022 to 97 in September 2023, and Australian swim schools were part of the growth. Their own site says thousands of businesses, and millions of class sign-ups a year. A vendor profile says about five million dollars a year and that it is bootstrapped. Treat that loosely. A staff near 100 makes the guess look low, and the company has not published a total. Jackrabbit is the older note in the same job, for dance and swim. This one is the Texas gym tool. The page is self-reported, which means a newspaper and a loose vendor guess. I did not open the books."
+}

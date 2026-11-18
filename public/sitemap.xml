@@ -14,33 +14,39 @@
   </url>
   <url>
     <loc>https://www.wlad.me/blog</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/about</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/companies</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/companies/for-sale</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/companies/again</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/2026-11-18</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wlad.me/blog/2026-11-16</loc>
@@ -1369,6 +1375,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/hubdoc</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/hugebouquets-com</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -1377,6 +1389,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/hypeproxies</loc>
     <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/iclasspro</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1443,6 +1461,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/interactive-video-software</loc>
     <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/inventory-planner</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1665,6 +1689,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/linkody</loc>
     <lastmod>2026-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/linnworks</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1945,8 +1975,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/patriot-software</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/payhoa</loc>
     <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/payspace</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2091,6 +2133,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/qqube</loc>
     <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/quaderno</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2569,6 +2617,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.wlad.me/blog/companies/syft-analytics</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.wlad.me/blog/companies/sync2sheets</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -2673,6 +2727,12 @@
   <url>
     <loc>https://www.wlad.me/blog/companies/the-blizzard-wizard</loc>
     <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.wlad.me/blog/companies/the-lead-guy</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

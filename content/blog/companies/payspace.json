@@ -1,0 +1,35 @@
+{
+  "slug": "payspace",
+  "name": "PaySpace",
+  "listingNote": null,
+  "description": "Cloud payroll and HR, with a payroll engine for each country, about 45 of them, across EMEA and Latin America. Customers run from a one-person shop to bottlers for Heineken and Coca-Cola. South Africa. Deel bought it in March 2024. Deel had been a customer, running payroll in 10 countries on it.",
+  "homepage": "https://www.payspace.com/",
+  "image": "/blog/2026-11-18/payspace.webp",
+  "imageAlt": "PaySpace product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-18",
+      "evidenceKind": "self-reported",
+      "evidence": "TechCrunch, on 5 March 2024, said more than 14,000 customers in 44 countries, with sales growing more than 30 percent a year. The price was not disclosed there. The only outside money named is undisclosed financing from Netcash in 2023. Axios and Calcalist reported a price over $100 million, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2024/03/05/deel-acquires-payspace-500m-arr/"
+        },
+        {
+          "label": "Axios",
+          "url": "https://www.axios.com/2024/03/05/payroll-unicorn-deel-payspace"
+        },
+        {
+          "label": "Launch Base Africa",
+          "url": "https://launchbaseafrica.com/2026/04/15/the-350m-proof-inside-south-africas-rising-cult-of-the-bootstrapped-exit/"
+        }
+      ],
+      "indieAngle": "The biggest customer became the buyer. A single-country filing engine that bigger platforms rent can follow that shape."
+    }
+  ],
+  "whyItPrints": "Every country's payroll rules are the moat. They built those engines over about 15 years.",
+  "whyThisMatters": "Payroll tax is different in every country, and getting it wrong is expensive. PaySpace built about 45 country engines over about 15 years, for customers from a one-person shop up to bottlers for Heineken and Coca-Cola. South Africa. Deel bought it in March 2024. Deel had already been a customer, running payroll in 10 countries on it. A 5 March 2024 TechCrunch piece put the customer count above 14,000, in 44 countries, with yearly sales growth above 30 percent. That article did not give a revenue total or a price. The only outside money it names is undisclosed financing from Netcash in 2023. Axios and Calcalist reported a price over 100 million dollars. That price is what Deel paid. It is not PaySpace's revenue. The page is self-reported, which means the news reports. I did not open the books."
+}

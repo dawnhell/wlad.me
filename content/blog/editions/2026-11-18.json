@@ -1,0 +1,258 @@
+{
+  "date": "2026-11-18",
+  "title": "Wednesday's boring SaaS, 18 November 2026",
+  "dek": "Wednesday, 18 November 2026. The Lead Guy is Stripe-verified, so that listing is connected to Stripe, and the key expired in February. The other eight are self-reported. Several of those numbers are a filing, a sale price, or an estimate, so the date in the note is the date of the number.",
+  "heroId": "neskaupstadur",
+  "companies": [
+    {
+      "slug": "syft-analytics",
+      "name": "Syft Analytics",
+      "listingNote": null,
+      "description": "Dashboards, management reports, multi-entity consolidations, and cash-flow forecasts for accountants and small businesses. It reads Xero, QuickBooks, and Sage, plus Stripe, Square, Shopify, and Gusto. Johannesburg. Founded in 2016 by a chartered accountant. Xero bought it in September 2024. The team never raised a round.",
+      "evidenceKind": "self-reported",
+      "evidence": "TechCabal, on 17 September 2024, reported 2023 revenue of US$4.4 million from 75,000 customers in more than 80 countries. ZoomInfo, via GetLatka as of November 2024, puts it at about $15.7 million a year. Those two readings do not agree. Xero's 17 September 2024 release says the price was up to US$70 million, US$40 million up front including about US$10 million in Xero shares, plus earn-outs over three years, and that price is the sale, not revenue. More than 70 staff.",
+      "sources": [
+        {
+          "label": "Xero ASX",
+          "url": "https://announcements.asx.com.au/asxpdf/20240917/pdf/067ym4kg0gmpym.pdf"
+        },
+        {
+          "label": "TechCabal",
+          "url": "https://techcabal.com/2024/09/17/xero-syft-acquisition/"
+        },
+        {
+          "label": "Launch Base Africa",
+          "url": "https://launchbaseafrica.com/2026/04/15/the-350m-proof-inside-south-africas-rising-cult-of-the-bootstrapped-exit/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/syft-analytics"
+        }
+      ],
+      "homepage": "https://www.syftanalytics.com/",
+      "indieAngle": "An accountant automated his own month-end pack, sold it in the Xero store, and sold the company without raising. A narrower pack for one trade is still open.",
+      "whyItPrints": "Accountants rebuild the same monthly report pack for every client. This automates that pack, and Xero called it the most used reporting app in its store.",
+      "image": "/blog/2026-11-18/syft-analytics.webp",
+      "imageAlt": "Syft Analytics product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "quaderno",
+      "name": "Quaderno",
+      "listingNote": null,
+      "description": "Sales tax, VAT, and GST for online sellers. It picks the rate from the customer's location, stores the location evidence, checks VAT numbers, watches registration thresholds, and builds the filing reports. It syncs with Stripe, PayPal, GoCardless, and Xero. Gran Canaria. Launched in 2014. Bootstrapped for 10 years. Joined Visma in 2023.",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $3.6 million a year as of October 2024, with 12 employees and about 1,000 customers. Earlier readings on that page are $1.2 million in 2020 and an estimate of $2.8 million in December 2023. A SaaStock piece said 850 customers in 38 countries, and that it was profitable a year after starting. The jobs page says they work 5 hour days and are profitable. The Visma price is not on the record.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://quaderno.io/about-quaderno/"
+        },
+        {
+          "label": "Jobs",
+          "url": "https://quaderno.io/jobs/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/quaderno"
+        },
+        {
+          "label": "SaaStock",
+          "url": "https://saastock.com/blog/bootstrapping-a-saas-business-from-gran-canaria"
+        }
+      ],
+      "homepage": "https://quaderno.io/",
+      "indieAngle": "A small team on short days took a tax chore to a strategic buyer. One country's e-invoicing rules are the narrower version.",
+      "whyItPrints": "A shop that sells across borders has this chore. Once it is wired into billing, nobody wants to move it.",
+      "image": "/blog/2026-11-18/quaderno.webp",
+      "imageAlt": "Quaderno product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "linnworks",
+      "name": "Linnworks",
+      "listingNote": null,
+      "description": "One back office for Amazon, eBay, Shopify, and other shops, plus warehouses and couriers. It routes orders, syncs stock, and pushes listings. Chichester. About 17 years old. Marlin Equity Partners owns it.",
+      "evidenceKind": "self-reported",
+      "evidence": "Companies House, via DataGardener, shows turnover of £20.63 million for Linn Systems Ltd. The latest filed accounts run to 31 December 2025 and were filed in September 2026. DataGardener does not clearly name the year on the summary. Net assets were £11.76 million, with 79 employees. It is an audit-exempt subsidiary, so the group total is probably higher. Owler's band is $25 million to $100 million a year. Those two readings do not agree.",
+      "sources": [
+        {
+          "label": "DataGardener",
+          "url": "https://explore.datagardener.com/company/linn-systems-ltd-06784391"
+        },
+        {
+          "label": "Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/06784391/filing-history"
+        },
+        {
+          "label": "Owler",
+          "url": "https://www.owler.com/company/linnworks"
+        }
+      ],
+      "homepage": "https://www.linnworks.com/",
+      "indieAngle": "A lighter sync for two channels and one courier is the opening for sellers who find this too heavy.",
+      "whyItPrints": "Once the whole order flow runs through it, switching is a long migration.",
+      "image": "/blog/2026-11-18/linnworks.webp",
+      "imageAlt": "Linnworks product image",
+      "imageWidth": 1200,
+      "imageHeight": 1149
+    },
+    {
+      "slug": "inventory-planner",
+      "name": "Inventory Planner",
+      "listingNote": null,
+      "description": "Forecasts sales per product and tells a Shopify store what to reorder, then builds the purchase orders. Brightpearl bought it at the end of 2020. Sage bought Brightpearl in October 2021. The product is now by Sage.",
+      "evidenceKind": "self-reported",
+      "evidence": "A 2022 interview with Brightpearl's CEO, written up by Latka, says that in 2021 Inventory Planner added $4.5 million. Brightpearl's own revenue that year was $30 million. Brightpearl paid about $10 million at the end of 2020, 70 percent cash, when the tool had about 2,000 customers. That payment is the purchase price, not revenue. Sage bought Brightpearl for $360 million in October 2021. That price is Brightpearl's sale, not this product's revenue.",
+      "sources": [
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/blog/the-math-behind-the-360m-sage-paid-to-acquire-brightpearl"
+        },
+        {
+          "label": "Brightpearl",
+          "url": "https://www.brightpearl.com/press-and-media/press-releases/brightpearl-acquires-inventory-planner-giving-savvy-merchants-better-ways-to-accurately-predict-demand"
+        }
+      ],
+      "homepage": "https://www.inventory-planner.com/",
+      "indieAngle": "A reorder app with about 2,000 Shopify stores was bought for about $10 million. The same single job is open for other shop platforms.",
+      "whyItPrints": "Running out, or ordering too much, costs money every month. This replaces the spreadsheet.",
+      "image": "/blog/2026-11-18/inventory-planner.webp",
+      "imageAlt": "Inventory Planner product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "patriot-software",
+      "name": "Patriot Software",
+      "listingNote": null,
+      "description": "Payroll, accounting, time tracking, and HR for small US businesses and their accountants. Sold on a low price, with no sales team. Canton, Ohio. Bootstrapped, then funded by accredited individual investors while the founders kept majority control.",
+      "evidenceKind": "self-reported",
+      "evidence": "No revenue figure. The about page says they passed more than 80,000 customers, and that the company is profitable and debt free. A 8 December 2017 press release says they invoiced more than 10,000 customers that November, with customer growth of 199 percent over two years. By summer 2017 they had self-invested over $38 million into the payroll engine, which is funding, not revenue. Marketing is the internet and radio. There is no sales force. No screenshot. The site blocked an automated fetch.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://www.patriotsoftware.com/about/"
+        },
+        {
+          "label": "Press",
+          "url": "https://www.patriotsoftware.com/blog/press/patriot-software-10000-customers/"
+        }
+      ],
+      "homepage": "https://www.patriotsoftware.com/",
+      "indieAngle": "Cheap and simple, sold through accountants, with no sales team. The same shape works for a smaller US filing.",
+      "whyItPrints": "Payroll runs every two weeks. Nobody switches in the middle of the year.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "iclasspro",
+      "name": "iClassPro",
+      "listingNote": null,
+      "description": "Enrollment, the schedule, billing, attendance, waivers, and messages for gymnastics, swim, cheer, and dance schools. It also sells camp software and church giving. Longview, Texas. Founded in 2008 by a former gym owner.",
+      "evidenceKind": "self-reported",
+      "evidence": "The Longview News-Journal, on 12 September 2023, said iClassPro was on the Inc. 5000 list with 196 percent sales growth. That badge is not a dollar total. Headcount went from 73 at the end of 2022 to 97 in September 2023, with growth from Australian swim schools. The about page says thousands of businesses and millions of class registrations a year. A vendor profile says revenue is about five million dollars a year and that it is bootstrapped. Treat that loosely. A staff of about 100 makes that guess look low, and the company has not published a total.",
+      "sources": [
+        {
+          "label": "Longview News-Journal",
+          "url": "https://news-journal.com/2023/09/12/we-are-growing-so-fast-iclasspro-to-expand-again-in-north-longview-business-park/"
+        },
+        {
+          "label": "About",
+          "url": "https://www.iclasspro.com/about"
+        },
+        {
+          "label": "Tracxn",
+          "url": "https://tracxn.com/d/companies/iclasspro/__tqWY3Fnz-_owJ5r3-BToT4u2uvhpztdtrkaT-wWrtNY"
+        }
+      ],
+      "homepage": "https://www.iclasspro.com/",
+      "indieAngle": "A gym owner wrote the tool his gym needed. Swim, martial arts, and music lessons still sit on generic booking tools.",
+      "whyItPrints": "A gym bills hundreds of families every month through it. The card on file is the product.",
+      "image": "/blog/2026-11-18/iclasspro.webp",
+      "imageAlt": "iClassPro product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "payspace",
+      "name": "PaySpace",
+      "listingNote": null,
+      "description": "Cloud payroll and HR, with a payroll engine for each country, about 45 of them, across EMEA and Latin America. Customers run from a one-person shop to bottlers for Heineken and Coca-Cola. South Africa. Deel bought it in March 2024. Deel had been a customer, running payroll in 10 countries on it.",
+      "evidenceKind": "self-reported",
+      "evidence": "TechCrunch, on 5 March 2024, said more than 14,000 customers in 44 countries, with sales growing more than 30 percent a year. The price was not disclosed there. The only outside money named is undisclosed financing from Netcash in 2023. Axios and Calcalist reported a price over $100 million, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2024/03/05/deel-acquires-payspace-500m-arr/"
+        },
+        {
+          "label": "Axios",
+          "url": "https://www.axios.com/2024/03/05/payroll-unicorn-deel-payspace"
+        },
+        {
+          "label": "Launch Base Africa",
+          "url": "https://launchbaseafrica.com/2026/04/15/the-350m-proof-inside-south-africas-rising-cult-of-the-bootstrapped-exit/"
+        }
+      ],
+      "homepage": "https://www.payspace.com/",
+      "indieAngle": "The biggest customer became the buyer. A single-country filing engine that bigger platforms rent can follow that shape.",
+      "whyItPrints": "Every country's payroll rules are the moat. They built those engines over about 15 years.",
+      "image": "/blog/2026-11-18/payspace.webp",
+      "imageAlt": "PaySpace product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "hubdoc",
+      "name": "Hubdoc",
+      "listingNote": null,
+      "description": "It pulls bills, receipts, and statements from utilities, phone companies, banks, and vendors, then publishes the data to Xero or QuickBooks with the document attached. Toronto. Founded in 2014. Xero bought it in 2018, and it is now bundled with Xero.",
+      "evidenceKind": "self-reported",
+      "evidence": "BetaKit, on 31 July 2018, said Xero bought Hubdoc for US$70 million in cash and equity, which is the sale price, not revenue. It had 100 employees. A Xero filing describes US$60 million plus a conditional US$10 million equity tranche, and that is also the sale price, not revenue. It had raised a C$6 million round in 2017, plus a smaller earlier round. Xero's offer beat a venture round that was on the table.",
+      "sources": [
+        {
+          "label": "BetaKit",
+          "url": "https://betakit.com/xero-acquires-torontos-hubdoc-for-70-million-usd/"
+        },
+        {
+          "label": "Xero ASX",
+          "url": "https://announcements.asx.com.au/asxpdf/20180801/pdf/43wzn9dc6s54rv.pdf"
+        }
+      ],
+      "homepage": "https://www.hubdoc.com/",
+      "indieAngle": "Fetch the document and attach it to the transaction. Local vendor portals in one language are still open.",
+      "whyItPrints": "Bookkeepers spend hours chasing PDFs. This fetches them.",
+      "image": "/blog/2026-11-18/hubdoc.webp",
+      "imageAlt": "Hubdoc product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "the-lead-guy",
+      "name": "The Lead Guy",
+      "listingNote": null,
+      "description": "A done-for-you lead subscription for concreters, roofers, builders, and earthworks firms in New Zealand. Michael Veail. It is a service, not software. Founded in September 2022.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last sync 20 February 2026: last 30 days $24,226. The Stripe key has expired, so this is not a current reading. The same sync showed a monthly line of $22,624 from 21 active subscriptions, and all-time $855,845.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/michael-veail"
+        }
+      ],
+      "homepage": "https://theleadguy.online/",
+      "indieAngle": "A small set of trade clients on a monthly retainer. The software version is a simple lead list for the same trades.",
+      "whyItPrints": "A roofer pays every month while the leads keep coming.",
+      "image": "/blog/2026-11-18/the-lead-guy.webp",
+      "imageAlt": "The Lead Guy product image",
+      "imageWidth": 512,
+      "imageHeight": 512
+    }
+  ],
+  "honorableMentions": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "quaderno",
+  "name": "Quaderno",
+  "listingNote": null,
+  "description": "Sales tax, VAT, and GST for online sellers. It picks the rate from the customer's location, stores the location evidence, checks VAT numbers, watches registration thresholds, and builds the filing reports. It syncs with Stripe, PayPal, GoCardless, and Xero. Gran Canaria. Launched in 2014. Bootstrapped for 10 years. Joined Visma in 2023.",
+  "homepage": "https://quaderno.io/",
+  "image": "/blog/2026-11-18/quaderno.webp",
+  "imageAlt": "Quaderno product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-18",
+      "evidenceKind": "self-reported",
+      "evidence": "GetLatka estimates about $3.6 million a year as of October 2024, with 12 employees and about 1,000 customers. Earlier readings on that page are $1.2 million in 2020 and an estimate of $2.8 million in December 2023. A SaaStock piece said 850 customers in 38 countries, and that it was profitable a year after starting. The jobs page says they work 5 hour days and are profitable. The Visma price is not on the record.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://quaderno.io/about-quaderno/"
+        },
+        {
+          "label": "Jobs",
+          "url": "https://quaderno.io/jobs/"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/quaderno"
+        },
+        {
+          "label": "SaaStock",
+          "url": "https://saastock.com/blog/bootstrapping-a-saas-business-from-gran-canaria"
+        }
+      ],
+      "indieAngle": "A small team on short days took a tax chore to a strategic buyer. One country's e-invoicing rules are the narrower version."
+    }
+  ],
+  "whyItPrints": "A shop that sells across borders has this chore. Once it is wired into billing, nobody wants to move it.",
+  "whyThisMatters": "A shop that sells into another country has to charge the right tax and keep the proof. Quaderno does the rate, the location evidence, the VAT number check, the registration threshold, and the filing report. It syncs with Stripe, PayPal, GoCardless, and Xero. Gran Canaria. Launched in 2014. Bootstrapped for 10 years, then it joined Visma in 2023. The price Visma paid is not on the record. GetLatka estimates about 3.6 million dollars a year as of October 2024, with 12 employees and about 1,000 customers. Earlier readings on that page are 1.2 million dollars in 2020 and an estimate of 2.8 million dollars in December 2023. SaaStock wrote that there were 850 customers in 38 countries, and profit within a year of the start. The jobs page is where the 5 hour days and the profit claim show up. The figure is self-reported, which means a data site estimated it. I did not open the books."
+}
