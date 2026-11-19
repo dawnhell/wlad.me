@@ -1,0 +1,275 @@
+{
+  "date": "2026-11-19",
+  "title": "Thursday's boring SaaS, 19 November 2026",
+  "dek": "Thursday, 19 November 2026. Conductor is Stripe-verified, so that listing is connected to Stripe. The other nine are self-reported. Several of those numbers are a sale price, a buyer's expectation, or an estimate, so the date in the note is the date of the number.",
+  "heroId": "yosemite",
+  "companies": [
+    {
+      "slug": "rentec-direct",
+      "name": "Rentec Direct",
+      "listingNote": null,
+      "description": "Rent collection, tenant screening, trust accounting, and owner statements for landlords and small property managers. The founder built it in 2007 for his own rentals, on a used server, while he still had a day job. Grants Pass, Oregon. Self-funded and debt-free from the start.",
+      "evidenceKind": "self-reported",
+      "evidence": "The founder wrote in Inc. that they hit the $14 million mark in 2024, after also saying annual revenue was over $10 million. A 12 August 2026 release says more than $93 million of revenue across 10 years on the Inc. 5000, and nearly $46 million of profits put back into the company. Those ten-year totals are not one year's revenue. 20 employees. The 2026 Inc. 5000 entry, number 4,520, shows 40 percent growth over three years. The about page says more than 16,000 property managers and more than 700,000 units.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://www.rentecdirect.com/about-us"
+        },
+        {
+          "label": "Inc.",
+          "url": "https://www.inc.com/nathan-miller/from-hobby-to-hustle-my-startups-first-dollar-story/91158709"
+        },
+        {
+          "label": "Inc. two decades",
+          "url": "https://www.inc.com/nathan-miller/two-decades-of-sustainable-growth-strategies/90998146"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/rentec-direct-celebrates-10-years-on-the-inc-5000-list-of-americas-fastest-growing-private-companies-302849176.html"
+        }
+      ],
+      "homepage": "https://www.rentecdirect.com/",
+      "indieAngle": "A tool for his own rentals, then paid screening on top, and he never raised.",
+      "whyItPrints": "Rent is due every month, and a screening report is paid one at a time.",
+      "image": "/blog/2026-11-19/rentec-direct.webp",
+      "imageAlt": "Rentec Direct product image",
+      "imageWidth": 700,
+      "imageHeight": 478
+    },
+    {
+      "slug": "procare",
+      "name": "Procare",
+      "listingNote": null,
+      "description": "Check-in, billing, tuition, staff ratios, and messages for daycares and early-education centres. Roper Technologies bought it in January 2024 from Warburg Pincus and TA Associates.",
+      "evidenceKind": "self-reported",
+      "evidence": "Roper expected about $260 million of revenue and about $95 million of EBITDA for the 12 months ending 31 March 2025. That is the buyer's expectation, not a published result. Roper bought it for a $1.86 billion enterprise value, about $1.75 billion net, in January 2024, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "Roper",
+          "url": "https://investors.ropertech.com/news-releases/news-release-details/roper-technologies-acquire-procare-solutions"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/markets/deals/roper-technologies-buy-software-firm-procare-175-bln-2024-01-25/"
+        },
+        {
+          "label": "Warburg Pincus",
+          "url": "https://warburgpincus.com/2024/01/25/warburg-pincus-and-ta-associates-enter-into-an-agreement-to-sell-procare-solutions-to-roper-technologies/"
+        }
+      ],
+      "homepage": "https://www.procaresoftware.com/",
+      "indieAngle": "Daycare payments are the business. A smaller add-on, a waitlist or a subsidy form, is the open slice.",
+      "whyItPrints": "A daycare runs tuition through it every week. The software and the payments sit together.",
+      "image": "/blog/2026-11-19/procare.webp",
+      "imageAlt": "Procare product image",
+      "imageWidth": 800,
+      "imageHeight": 834
+    },
+    {
+      "slug": "buildium",
+      "name": "Buildium",
+      "listingNote": null,
+      "description": "Leasing, rent, accounting, and HOA tools for smaller residential portfolios. Boston. RealPage bought it in December 2019. The photo is the homepage logo.",
+      "evidenceKind": "self-reported",
+      "evidence": "It had about $50 million of revenue in the 12 months to September 2019, and RealPage expected a run-rate of about $60 million by the end of that year. The pro-forma filing shows 2018 revenue of $40.7 million and a $4.0 million operating loss. About 17,000 customers and about 2 million units. RealPage paid $580 million in cash in December 2019, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1286225/000128622519000036/ex991pressreleaseproje.htm"
+        },
+        {
+          "label": "SEC pro forma",
+          "url": "https://www.sec.gov/Archives/edgar/data/1286225/000128622520000009/buildiumproforma.htm"
+        },
+        {
+          "label": "HousingWire",
+          "url": "https://www.housingwire.com/articles/realpage-growing-property-management-business-by-buying-buildium-for-580-million/"
+        }
+      ],
+      "homepage": "https://www.buildium.com/",
+      "indieAngle": "Same market as Rentec Direct. This one took outside money and sold. Rentec stayed independent.",
+      "whyItPrints": "The price is per unit, on the property books. Nobody wants to move the accounting mid-year.",
+      "image": "/blog/2026-11-19/buildium.webp",
+      "imageAlt": "Buildium product image",
+      "imageWidth": 658,
+      "imageHeight": 210
+    },
+    {
+      "slug": "sortly",
+      "name": "Sortly",
+      "listingNote": null,
+      "description": "A photo inventory for tools, supplies, equipment, and stock, with barcodes and QR codes. It started as a home inventory app. United States.",
+      "evidenceKind": "self-reported",
+      "evidence": "In September 2023 the CEO said on LinkedIn that Sortly crossed $10 million a year. Getting from $1 million to $10 million took 4.5 years, on $1 million of angel money, and it had been cash-flow neutral for 3 years. More than 30,000 businesses.",
+      "sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/dhanushb_sortly-milestone-activity-7113135604623671296-YzL3"
+        },
+        {
+          "label": "PitchBook",
+          "url": "https://pitchbook.com/profiles/company/234781-66"
+        }
+      ],
+      "homepage": "https://www.sortly.com/",
+      "indieAngle": "Friends mocked a home inventory app. The business showed up when it moved to small companies.",
+      "whyItPrints": "Someone asks where the drill is, or how many filters are left. Contractors, schools, and small warehouses pay so the answer is a photo.",
+      "image": "/blog/2026-11-19/sortly.webp",
+      "imageAlt": "Sortly product image",
+      "imageWidth": 1120,
+      "imageHeight": 714
+    },
+    {
+      "slug": "invoice2go",
+      "name": "Invoice2go",
+      "listingNote": null,
+      "description": "Invoices and estimates for a one-person trade or a freelancer, so they can send a bill and get paid. Sydney and Palo Alto. BILL bought it in September 2021. The photo is the logo. The old domain now points at invoice.2go.com.",
+      "evidenceKind": "self-reported",
+      "evidence": "BILL said that in the first month after the September 2021 purchase, Invoice2go added $1.3 million of revenue, about $1 million of that from subscriptions. It had about 226,000 paying subscribers and a team of about 100. One month of invoices sent was about $2.5 billion, which is customer invoice volume, not Invoice2go's revenue. BILL paid about $625 million, 75 percent in stock, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "BILL",
+          "url": "https://www.bill.com/press-release/billcom-completes-acquisition-invoice2go"
+        },
+        {
+          "label": "BILL results",
+          "url": "https://investor.bill.com/news/news-details/2021/Bill.com-Reports-First-Quarter-Fiscal-2022-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Earnings call",
+          "url": "https://www.fool.com/earnings/call-transcripts/2021/11/05/billcom-holdings-inc-bill-q3-2021-earnings-call-tr/"
+        }
+      ],
+      "homepage": "https://www.invoice2go.com/",
+      "indieAngle": "The buyer wanted the list of people already paying. The payments product came later.",
+      "whyItPrints": "The subscription is on the most basic job: send the invoice, get the money.",
+      "image": "/blog/2026-11-19/invoice2go.webp",
+      "imageAlt": "Invoice2go product image",
+      "imageWidth": 1200,
+      "imageHeight": 196
+    },
+    {
+      "slug": "joist",
+      "name": "Joist",
+      "listingNote": null,
+      "description": "Estimates, invoices, and payments for trades and remodelers. Toronto. EverCommerce bought it in 2019. The price was not disclosed. The photo is the main image on the homepage.",
+      "evidenceKind": "self-reported",
+      "evidence": "No revenue figure has been published. At the sale it had more than 115,000 contractors and more than 30,000 Joist Pro subscribers, and was processing more than $12 billion a year in invoices, which is customer invoice volume, not Joist's revenue.",
+      "sources": [
+        {
+          "label": "BetaKit",
+          "url": "https://betakit.com/following-three-year-rebuild-joist-acquired-by-colorado-based-evercommerce/"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/recent-evercommerce-acquisition-joist-announces-launch-of-saas-invoicing-estimating-and-project-management-solution-for-trades-contractors-300961307.html"
+        }
+      ],
+      "homepage": "https://www.joist.com/",
+      "indieAngle": "It went through a three-year rebuild before the sale. One trade, painters or roofers, is still a smaller version.",
+      "whyItPrints": "A contractor wants the quote out the same day. The paid tier adds a logo and card payments.",
+      "image": "/blog/2026-11-19/joist.webp",
+      "imageAlt": "Joist product image",
+      "imageWidth": 1200,
+      "imageHeight": 488
+    },
+    {
+      "slug": "keeper",
+      "name": "Keeper",
+      "listingNote": "now Double",
+      "description": "It sits on QuickBooks Online and Xero, finds transactions that were not categorised, chases the client, and runs the month-end close for a bookkeeping firm. keeper.app now redirects to Double. The photo is Double's.",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo's undated estimate is about 9.1 million dollars a year. The company has not published a figure. The pricing page lists a tax add-on at five hundred dollars a month and email at ten dollars per inbox. Those prices are the menu, not the estimate.",
+      "sources": [
+        {
+          "label": "Pricing",
+          "url": "https://www.keeper.app/pricing"
+        },
+        {
+          "label": "Growjo",
+          "url": "https://growjo.com/company/Keeper.app"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/keeper.app"
+        }
+      ],
+      "homepage": "https://doublehq.com/",
+      "indieAngle": "Accounting glue on top of the books. A narrower close for one kind of firm is the same shape.",
+      "whyItPrints": "The firm pays per connected client, every month. Add a client and the bill grows.",
+      "image": "/blog/2026-11-19/keeper.webp",
+      "imageAlt": "Keeper product image",
+      "imageWidth": 1000,
+      "imageHeight": 525
+    },
+    {
+      "slug": "churchtrac",
+      "name": "ChurchTrac",
+      "listingNote": null,
+      "description": "The member list, giving records, check-in, accounting, and messages for a small church. It started in 2002 because the founder's church needed it. Priced by how many people are on the list. It does not take a cut of the giving.",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. The site says more than 14,000 churches, profitable and debt-free from the start, privately owned, with no plan to sell to investors. A Prospeo profile guesses about 513 thousand dollars a year. Treat that cautiously. Fourteen thousand churches on paid plans would be far more, so most of them are probably on a free tier.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://www.churchtrac.com/about_us"
+        },
+        {
+          "label": "Prospeo",
+          "url": "https://prospeo.io/c/churchtrac-revenue"
+        }
+      ],
+      "homepage": "https://www.churchtrac.com/",
+      "indieAngle": "One founder, more than twenty years, and the customers hate changing tools.",
+      "whyItPrints": "A small church stays for years. The bill is the software, not a slice of the collection plate.",
+      "image": "/blog/2026-11-19/churchtrac.webp",
+      "imageAlt": "ChurchTrac product image",
+      "imageWidth": 1200,
+      "imageHeight": 442
+    },
+    {
+      "slug": "dueflo",
+      "name": "Dueflo",
+      "listingNote": null,
+      "description": "It connects to QuickBooks Online and sends a six-step email and text sequence on overdue invoices. It pauses when the client replies. The price is a flat $49 a month, with no cut of the money collected. Tashkent. One founder. Started January 2026.",
+      "evidenceKind": "self-reported",
+      "evidence": "On Indie Hackers in April 2026 the founder said about $10,000 a month. That post, on 5 April, was still asking for beta testers, so the figure is his claim and it is not checked.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/product/dueflo"
+        }
+      ],
+      "homepage": "https://www.dueflo.com/",
+      "indieAngle": "One accounting pain, one connection, a flat price. The number is the founder's, and the same post was still asking for testers.",
+      "whyItPrints": "Overdue invoices are the job. The sequence runs until someone answers.",
+      "image": "/blog/2026-11-19/dueflo.webp",
+      "imageAlt": "Dueflo product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 19 November listing is still for sale. The monthly Stripe line is higher than the 13 November note. The last 30 days are lower than that note.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $50,145 from 344 active subscriptions, updated 19 November 2026. Last 30 days $46,591. All-time $533,116. The 13 November note was MRR $49,432, last 30 days $47,522. The monthly line is higher than that note. The last 30 days are lower. Still listed for sale at $1,250,000.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The monthly Stripe line moved up, the last 30 days moved down, and it is still for sale.",
+      "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The monthly line is higher than the 13 November note, the last 30 days are lower, and the listing is still for sale.",
+      "image": "/blog/2026-11-19/conductor.webp",
+      "imageAlt": "Conductor product image",
+      "imageWidth": 1200,
+      "imageHeight": 610
+    }
+  ],
+  "honorableMentions": []
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "sortly",
+  "name": "Sortly",
+  "listingNote": null,
+  "description": "A photo inventory for tools, supplies, equipment, and stock, with barcodes and QR codes. It started as a home inventory app. United States.",
+  "homepage": "https://www.sortly.com/",
+  "image": "/blog/2026-11-19/sortly.webp",
+  "imageAlt": "Sortly product image",
+  "imageWidth": 1120,
+  "imageHeight": 714,
+  "mentions": [
+    {
+      "date": "2026-11-19",
+      "evidenceKind": "self-reported",
+      "evidence": "In September 2023 the CEO said on LinkedIn that Sortly crossed $10 million a year. Getting from $1 million to $10 million took 4.5 years, on $1 million of angel money, and it had been cash-flow neutral for 3 years. More than 30,000 businesses.",
+      "sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/dhanushb_sortly-milestone-activity-7113135604623671296-YzL3"
+        },
+        {
+          "label": "PitchBook",
+          "url": "https://pitchbook.com/profiles/company/234781-66"
+        }
+      ],
+      "indieAngle": "Friends mocked a home inventory app. The business showed up when it moved to small companies."
+    }
+  ],
+  "whyItPrints": "Someone asks where the drill is, or how many filters are left. Contractors, schools, and small warehouses pay so the answer is a photo.",
+  "whyThisMatters": "Someone needs to know where the drill is, or how many filters are left. Sortly is a photo of the thing, with a barcode or a QR code, for tools, supplies, equipment, and stock. It started as a home inventory app. United States. In September 2023 the CEO said on LinkedIn that it had crossed 10 million dollars a year. The climb from 1 million dollars to 10 million dollars took 4.5 years, on 1 million dollars of angel money, and it had been cash-flow neutral for 3 years. More than 30,000 businesses. The figure is self-reported, which means the CEO said it. I did not open the books. Barcodes and QR codes are how a warehouse finds the same item again. The home-inventory start is still the origin story. Schools and small warehouses are named alongside contractors. The angel money is one million dollars, separate from the yearly line."
+}

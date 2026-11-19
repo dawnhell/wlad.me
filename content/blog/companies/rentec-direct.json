@@ -1,0 +1,39 @@
+{
+  "slug": "rentec-direct",
+  "name": "Rentec Direct",
+  "listingNote": null,
+  "description": "Rent collection, tenant screening, trust accounting, and owner statements for landlords and small property managers. The founder built it in 2007 for his own rentals, on a used server, while he still had a day job. Grants Pass, Oregon. Self-funded and debt-free from the start.",
+  "homepage": "https://www.rentecdirect.com/",
+  "image": "/blog/2026-11-19/rentec-direct.webp",
+  "imageAlt": "Rentec Direct product image",
+  "imageWidth": 700,
+  "imageHeight": 478,
+  "mentions": [
+    {
+      "date": "2026-11-19",
+      "evidenceKind": "self-reported",
+      "evidence": "The founder wrote in Inc. that they hit the $14 million mark in 2024, after also saying annual revenue was over $10 million. A 12 August 2026 release says more than $93 million of revenue across 10 years on the Inc. 5000, and nearly $46 million of profits put back into the company. Those ten-year totals are not one year's revenue. 20 employees. The 2026 Inc. 5000 entry, number 4,520, shows 40 percent growth over three years. The about page says more than 16,000 property managers and more than 700,000 units.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://www.rentecdirect.com/about-us"
+        },
+        {
+          "label": "Inc.",
+          "url": "https://www.inc.com/nathan-miller/from-hobby-to-hustle-my-startups-first-dollar-story/91158709"
+        },
+        {
+          "label": "Inc. two decades",
+          "url": "https://www.inc.com/nathan-miller/two-decades-of-sustainable-growth-strategies/90998146"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/rentec-direct-celebrates-10-years-on-the-inc-5000-list-of-americas-fastest-growing-private-companies-302849176.html"
+        }
+      ],
+      "indieAngle": "A tool for his own rentals, then paid screening on top, and he never raised."
+    }
+  ],
+  "whyItPrints": "Rent is due every month, and a screening report is paid one at a time.",
+  "whyThisMatters": "Rent is due every month, and a screening report is a separate charge. Rentec Direct does the rent, the screening, the trust accounting, and the statement for the owner. Grants Pass, Oregon. The founder built it in 2007 for his own rentals, on a used server, while he still had a day job. It has been self-funded and debt-free from the start. He wrote in Inc. that they hit 14 million dollars in 2024, and he had also said annual revenue was over 10 million dollars. A 12 August 2026 release says more than 93 million dollars of revenue across 10 years on the Inc. 5000, and nearly 46 million dollars of profits put back into the company. I am not treating the ten-year totals as a single year. Twenty employees. The 2026 Inc. 5000 entry is number 4,520, with 40 percent growth over three years. Their own about page puts the managers above 16,000 and the units above 700,000. Buildium is the other note in this market, and that one sold. This one stayed independent. The figure is self-reported, which means the founder and the company said it. I did not open the books."
+}

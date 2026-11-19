@@ -1,0 +1,35 @@
+{
+  "slug": "invoice2go",
+  "name": "Invoice2go",
+  "listingNote": null,
+  "description": "Invoices and estimates for a one-person trade or a freelancer, so they can send a bill and get paid. Sydney and Palo Alto. BILL bought it in September 2021. The photo is the logo. The old domain now points at invoice.2go.com.",
+  "homepage": "https://www.invoice2go.com/",
+  "image": "/blog/2026-11-19/invoice2go.webp",
+  "imageAlt": "Invoice2go product image",
+  "imageWidth": 1200,
+  "imageHeight": 196,
+  "mentions": [
+    {
+      "date": "2026-11-19",
+      "evidenceKind": "self-reported",
+      "evidence": "BILL said that in the first month after the September 2021 purchase, Invoice2go added $1.3 million of revenue, about $1 million of that from subscriptions. It had about 226,000 paying subscribers and a team of about 100. One month of invoices sent was about $2.5 billion, which is customer invoice volume, not Invoice2go's revenue. BILL paid about $625 million, 75 percent in stock, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "BILL",
+          "url": "https://www.bill.com/press-release/billcom-completes-acquisition-invoice2go"
+        },
+        {
+          "label": "BILL results",
+          "url": "https://investor.bill.com/news/news-details/2021/Bill.com-Reports-First-Quarter-Fiscal-2022-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Earnings call",
+          "url": "https://www.fool.com/earnings/call-transcripts/2021/11/05/billcom-holdings-inc-bill-q3-2021-earnings-call-tr/"
+        }
+      ],
+      "indieAngle": "The buyer wanted the list of people already paying. The payments product came later."
+    }
+  ],
+  "whyItPrints": "The subscription is on the most basic job: send the invoice, get the money.",
+  "whyThisMatters": "A one-person trade needs to send a bill and get paid. Invoice2go is that app, from Sydney and Palo Alto. BILL bought it in September 2021. The photo is the logo, and the old domain now points at invoice.2go.com. BILL said the first month after the purchase added 1.3 million dollars of revenue, about 1 million dollars of that from subscriptions. About 226,000 paying subscribers and a team of about 100. One month of invoices sent was about 2.5 billion dollars. That is the customers' invoices, not Invoice2go's revenue. BILL paid about 625 million dollars, 75 percent in stock. That price is the sale. The figure is self-reported, which means it is from the buyer's results. I did not open the books. Sydney and Palo Alto are both on the record. The logo is the photo. The old address now points at invoice.2go.com."
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "keeper",
+  "name": "Keeper",
+  "listingNote": "now Double",
+  "description": "It sits on QuickBooks Online and Xero, finds transactions that were not categorised, chases the client, and runs the month-end close for a bookkeeping firm. keeper.app now redirects to Double. The photo is Double's.",
+  "homepage": "https://doublehq.com/",
+  "image": "/blog/2026-11-19/keeper.webp",
+  "imageAlt": "Keeper product image",
+  "imageWidth": 1000,
+  "imageHeight": 525,
+  "mentions": [
+    {
+      "date": "2026-11-19",
+      "evidenceKind": "self-reported",
+      "evidence": "Growjo's undated estimate is about 9.1 million dollars a year. The company has not published a figure. The pricing page lists a tax add-on at five hundred dollars a month and email at ten dollars per inbox. Those prices are the menu, not the estimate.",
+      "sources": [
+        {
+          "label": "Pricing",
+          "url": "https://www.keeper.app/pricing"
+        },
+        {
+          "label": "Growjo",
+          "url": "https://growjo.com/company/Keeper.app"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/keeper.app"
+        }
+      ],
+      "indieAngle": "Accounting glue on top of the books. A narrower close for one kind of firm is the same shape."
+    }
+  ],
+  "whyItPrints": "The firm pays per connected client, every month. Add a client and the bill grows.",
+  "whyThisMatters": "A bookkeeping firm closes the month for a pile of clients, and the uncategorised transactions are the slow part. Keeper sits on QuickBooks Online and Xero, finds those transactions, chases the client, and runs the close. keeper.app now redirects to Double, and the photo is Double's. The bill is per connected client, so it grows when the firm adds a client. The Growjo page, with no date on it, guesses about 9.1 million dollars a year. The company has not published a figure, and the estimate has no date, so I am not treating it as this week's number. The pricing page lists a tax add-on at five hundred dollars a month and email at ten dollars an inbox. Those are the menu. Same lane as Conductor, which is the QuickBooks Desktop API, not the close. The page is self-reported, which means a data site guessed it. I did not open the books."
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "procare",
+  "name": "Procare",
+  "listingNote": null,
+  "description": "Check-in, billing, tuition, staff ratios, and messages for daycares and early-education centres. Roper Technologies bought it in January 2024 from Warburg Pincus and TA Associates.",
+  "homepage": "https://www.procaresoftware.com/",
+  "image": "/blog/2026-11-19/procare.webp",
+  "imageAlt": "Procare product image",
+  "imageWidth": 800,
+  "imageHeight": 834,
+  "mentions": [
+    {
+      "date": "2026-11-19",
+      "evidenceKind": "self-reported",
+      "evidence": "Roper expected about $260 million of revenue and about $95 million of EBITDA for the 12 months ending 31 March 2025. That is the buyer's expectation, not a published result. Roper bought it for a $1.86 billion enterprise value, about $1.75 billion net, in January 2024, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "Roper",
+          "url": "https://investors.ropertech.com/news-releases/news-release-details/roper-technologies-acquire-procare-solutions"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/markets/deals/roper-technologies-buy-software-firm-procare-175-bln-2024-01-25/"
+        },
+        {
+          "label": "Warburg Pincus",
+          "url": "https://warburgpincus.com/2024/01/25/warburg-pincus-and-ta-associates-enter-into-an-agreement-to-sell-procare-solutions-to-roper-technologies/"
+        }
+      ],
+      "indieAngle": "Daycare payments are the business. A smaller add-on, a waitlist or a subsidy form, is the open slice."
+    }
+  ],
+  "whyItPrints": "A daycare runs tuition through it every week. The software and the payments sit together.",
+  "whyThisMatters": "A daycare takes tuition every week, and the software that also takes the payment is hard to leave. Procare is check-in, billing, staff ratios, and the message to the parent. Roper Technologies bought it in January 2024 from Warburg Pincus and TA Associates. Roper expected about 260 million dollars of revenue and about 95 million dollars of EBITDA for the 12 months ending 31 March 2025. That is what the buyer said it expected. It is not a result the company has published for a finished year. The price was a 1.86 billion dollar enterprise value, about 1.75 billion net. That price is the sale, not revenue. The figure on the page is self-reported, which means it comes from the buyer's press release. I did not open the books. Warburg Pincus and TA Associates were the sellers. Check-in and the staff ratio sit next to the tuition payment. Early-education centres are the customer, not a general school. The parent message sits on the same account as the bill."
+}

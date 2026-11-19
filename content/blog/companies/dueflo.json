@@ -1,0 +1,27 @@
+{
+  "slug": "dueflo",
+  "name": "Dueflo",
+  "listingNote": null,
+  "description": "It connects to QuickBooks Online and sends a six-step email and text sequence on overdue invoices. It pauses when the client replies. The price is a flat $49 a month, with no cut of the money collected. Tashkent. One founder. Started January 2026.",
+  "homepage": "https://www.dueflo.com/",
+  "image": "/blog/2026-11-19/dueflo.webp",
+  "imageAlt": "Dueflo product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-19",
+      "evidenceKind": "self-reported",
+      "evidence": "On Indie Hackers in April 2026 the founder said about $10,000 a month. That post, on 5 April, was still asking for beta testers, so the figure is his claim and it is not checked.",
+      "sources": [
+        {
+          "label": "Indie Hackers",
+          "url": "https://www.indiehackers.com/product/dueflo"
+        }
+      ],
+      "indieAngle": "One accounting pain, one connection, a flat price. The number is the founder's, and the same post was still asking for testers."
+    }
+  ],
+  "whyItPrints": "Overdue invoices are the job. The sequence runs until someone answers.",
+  "whyThisMatters": "An overdue invoice sits there until someone asks. Dueflo connects to QuickBooks Online and runs a six-step email and text sequence, then pauses when the client replies. The price is a flat 49 dollars a month. It does not take a cut of what gets collected. Tashkent. One founder. Started in January 2026. On Indie Hackers in April 2026 he said about 10,000 dollars a month. That post, on 5 April, was still asking for beta testers. So the figure is his claim. It is not checked, and I am not treating a beta-tester post as a settled total. The figure is self-reported, which means the founder said it. I did not open the books. QuickBooks Online is the only connection. The sequence stops when a person writes back. January 2026 is the start."
+}

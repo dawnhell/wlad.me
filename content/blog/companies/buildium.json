@@ -1,0 +1,35 @@
+{
+  "slug": "buildium",
+  "name": "Buildium",
+  "listingNote": null,
+  "description": "Leasing, rent, accounting, and HOA tools for smaller residential portfolios. Boston. RealPage bought it in December 2019. The photo is the homepage logo.",
+  "homepage": "https://www.buildium.com/",
+  "image": "/blog/2026-11-19/buildium.webp",
+  "imageAlt": "Buildium product image",
+  "imageWidth": 658,
+  "imageHeight": 210,
+  "mentions": [
+    {
+      "date": "2026-11-19",
+      "evidenceKind": "self-reported",
+      "evidence": "It had about $50 million of revenue in the 12 months to September 2019, and RealPage expected a run-rate of about $60 million by the end of that year. The pro-forma filing shows 2018 revenue of $40.7 million and a $4.0 million operating loss. About 17,000 customers and about 2 million units. RealPage paid $580 million in cash in December 2019, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1286225/000128622519000036/ex991pressreleaseproje.htm"
+        },
+        {
+          "label": "SEC pro forma",
+          "url": "https://www.sec.gov/Archives/edgar/data/1286225/000128622520000009/buildiumproforma.htm"
+        },
+        {
+          "label": "HousingWire",
+          "url": "https://www.housingwire.com/articles/realpage-growing-property-management-business-by-buying-buildium-for-580-million/"
+        }
+      ],
+      "indieAngle": "Same market as Rentec Direct. This one took outside money and sold. Rentec stayed independent."
+    }
+  ],
+  "whyItPrints": "The price is per unit, on the property books. Nobody wants to move the accounting mid-year.",
+  "whyThisMatters": "A property manager does not move the books in the middle of the year. Buildium is leasing, rent, accounting, and HOA tools for a smaller portfolio. Boston. RealPage bought it in December 2019. The photo on this note is the logo. Revenue was about 50 million dollars in the 12 months to September 2019, and RealPage expected a run-rate of about 60 million dollars by the end of that year. The pro-forma filing shows 2018 revenue of 40.7 million dollars and an operating loss of 4 million dollars. The filing also counts about 17,000 customers and about 2 million units. RealPage paid 580 million dollars in cash. That payment is the sale, not the revenue. Rentec Direct is the bootstrapped note in the same market. This one took outside money and sold. The figure is self-reported, which means it is from the buyer's filings. I did not open the books. The logo is the only photo on this note. Boston is where it started."
+}

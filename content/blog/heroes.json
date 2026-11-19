@@ -548,5 +548,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Icelandic_Landscape_near_Neskaupsta%C3%B0ur_July_2014.JPG",
     "license": "CC BY-SA 4.0",
     "subject": "nature"
+  },
+  {
+    "id": "yosemite",
+    "src": "/blog/heroes/yosemite.webp",
+    "alt": "Yosemite Valley from Tunnel View",
+    "width": 1440,
+    "height": 651,
+    "credit": "Nitesh Aggerwal",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Yosemite_Valley_from_Tunnel_View.jpg",
+    "license": "CC BY-SA 3.0",
+    "subject": "nature"
   }
 ]

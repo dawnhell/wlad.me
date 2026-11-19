@@ -1,0 +1,31 @@
+{
+  "slug": "joist",
+  "name": "Joist",
+  "listingNote": null,
+  "description": "Estimates, invoices, and payments for trades and remodelers. Toronto. EverCommerce bought it in 2019. The price was not disclosed. The photo is the main image on the homepage.",
+  "homepage": "https://www.joist.com/",
+  "image": "/blog/2026-11-19/joist.webp",
+  "imageAlt": "Joist product image",
+  "imageWidth": 1200,
+  "imageHeight": 488,
+  "mentions": [
+    {
+      "date": "2026-11-19",
+      "evidenceKind": "self-reported",
+      "evidence": "No revenue figure has been published. At the sale it had more than 115,000 contractors and more than 30,000 Joist Pro subscribers, and was processing more than $12 billion a year in invoices, which is customer invoice volume, not Joist's revenue.",
+      "sources": [
+        {
+          "label": "BetaKit",
+          "url": "https://betakit.com/following-three-year-rebuild-joist-acquired-by-colorado-based-evercommerce/"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/recent-evercommerce-acquisition-joist-announces-launch-of-saas-invoicing-estimating-and-project-management-solution-for-trades-contractors-300961307.html"
+        }
+      ],
+      "indieAngle": "It went through a three-year rebuild before the sale. One trade, painters or roofers, is still a smaller version."
+    }
+  ],
+  "whyItPrints": "A contractor wants the quote out the same day. The paid tier adds a logo and card payments.",
+  "whyThisMatters": "A remodeler wants the quote out the same day. Joist is the estimate, the invoice, and the payment, for trades. Toronto. EverCommerce bought it in 2019 after a three-year rebuild. The price was not disclosed, and no revenue figure has been published. At the sale it had more than 115,000 contractors and more than 30,000 people on the paid tier. It was processing more than 12 billion dollars a year of invoices. That is the customers' bills, not Joist's revenue. The paid tier is where the logo and the card payment sit. Painters, fencers, and roofers are still smaller slices of the same job. The page is self-reported, which means the sale write-up. I did not open the books. The homepage image is the photo, because the site had no separate preview image. Toronto. The paid tier is the logo and the card payment. EverCommerce is the buyer. The three-year rebuild is what the write-up says came before the sale."
+}

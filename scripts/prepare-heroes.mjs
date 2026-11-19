@@ -408,6 +408,14 @@ const picks = [
     license: 'CC BY-SA 4.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/1/1f/Icelandic_Landscape_near_Neskaupsta%C3%B0ur_July_2014.JPG',
   },
+  {
+    id: 'yosemite',
+    subject: 'nature',
+    alt: 'Yosemite Valley from Tunnel View',
+    credit: 'Nitesh Aggerwal',
+    license: 'CC BY-SA 3.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/d/d4/Yosemite_Valley_from_Tunnel_View.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

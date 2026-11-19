@@ -1,0 +1,31 @@
+{
+  "slug": "churchtrac",
+  "name": "ChurchTrac",
+  "listingNote": null,
+  "description": "The member list, giving records, check-in, accounting, and messages for a small church. It started in 2002 because the founder's church needed it. Priced by how many people are on the list. It does not take a cut of the giving.",
+  "homepage": "https://www.churchtrac.com/",
+  "image": "/blog/2026-11-19/churchtrac.webp",
+  "imageAlt": "ChurchTrac product image",
+  "imageWidth": 1200,
+  "imageHeight": 442,
+  "mentions": [
+    {
+      "date": "2026-11-19",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. The site says more than 14,000 churches, profitable and debt-free from the start, privately owned, with no plan to sell to investors. A Prospeo profile guesses about 513 thousand dollars a year. Treat that cautiously. Fourteen thousand churches on paid plans would be far more, so most of them are probably on a free tier.",
+      "sources": [
+        {
+          "label": "About",
+          "url": "https://www.churchtrac.com/about_us"
+        },
+        {
+          "label": "Prospeo",
+          "url": "https://prospeo.io/c/churchtrac-revenue"
+        }
+      ],
+      "indieAngle": "One founder, more than twenty years, and the customers hate changing tools."
+    }
+  ],
+  "whyItPrints": "A small church stays for years. The bill is the software, not a slice of the collection plate.",
+  "whyThisMatters": "A small church does not change software. ChurchTrac is the member list, the giving record, check-in, the books, and the message. It started in 2002 because the founder's own church needed it. The price follows how many people are on the list, and it does not take a cut of the collection. Their own site puts the church count above 14,000, says it has been profitable and debt-free from the start, and says they are privately owned with no plan to sell to investors. Prospeo is the profile that guesses about 513 thousand dollars a year. Treat that cautiously. Fourteen thousand churches on paid plans would be a much larger bill, so most of them are probably on a free tier. The company has not published a revenue total. The page is self-reported, which means the company said the church count and a data site guessed the money. I did not open the books."
+}
