@@ -559,5 +559,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Yosemite_Valley_from_Tunnel_View.jpg",
     "license": "CC BY-SA 3.0",
     "subject": "nature"
+  },
+  {
+    "id": "lake-bohinj",
+    "src": "/blog/heroes/lake-bohinj.webp",
+    "alt": "Lake Bohinj at night",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Matej Repinc",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Lake_Bohinj_On_A_Calm_Night_(220300239).jpeg",
+    "license": "CC BY-SA 3.0",
+    "subject": "nature"
   }
 ]

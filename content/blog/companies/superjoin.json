@@ -1,0 +1,27 @@
+{
+  "slug": "superjoin",
+  "name": "Superjoin",
+  "listingNote": null,
+  "description": "It pulls HubSpot, Salesforce, and other sources into Google Sheets and Excel on a schedule, with a two-way HubSpot sync. The listing says it is a HubSpot certified app with SOC 2 Type II. New on TrustMRR this week.",
+  "homepage": "https://www.superjoin.ai/",
+  "image": "/blog/2026-11-20/superjoin.webp",
+  "imageAlt": "Superjoin product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last 30 days were $8,780 L30, synced 20 November 2026. Last 12 months $155,910. All-time $282,666. The listing shows a monthly line of $96,787 from 3,669 subscriptions. The verified cash does not match that monthly line. The founder's pricing note says about $1,150 a year per account. The cash is the solid number.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/superjoin"
+        }
+      ],
+      "indieAngle": "One awkward source, into the sheet people already use."
+    }
+  ],
+  "whyItPrints": "Finance and sales people who live in a spreadsheet pay so the CRM shows up there.",
+  "whyThisMatters": "Someone in finance wants the CRM in the spreadsheet they already use. Superjoin pulls HubSpot, Salesforce, and other sources into Google Sheets and Excel on a schedule, and it can write HubSpot both ways. The listing says it is a HubSpot certified app with SOC 2 Type II. It showed up on the payment listing this week. Stripe-verified means the listing is connected to Stripe. I do not log in and re-check the number. The 20 November 2026 sync shows 8,780 dollars in the last 30 days, 155,910 dollars in the last 12 months, and 282,666 dollars all-time. The listing also shows a monthly line of 96,787 dollars from 3,669 subscriptions. That monthly line is much larger than the cash Stripe recorded. Twelve months of the last-30-day cash is not the last-12-month total either. The founder's pricing note says about 1,150 dollars a year per account. I am using the cash, not the monthly line, as the figure. The cash comes through Stripe. Two-way HubSpot means a cell in the sheet can write back. Salesforce is pull, on the listing. SOC 2 Type II is the security claim the listing makes. I am not treating the 3,669 subscriptions as the cash."
+}

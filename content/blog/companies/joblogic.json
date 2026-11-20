@@ -1,0 +1,35 @@
+{
+  "slug": "joblogic",
+  "name": "Joblogic",
+  "listingNote": null,
+  "description": "Scheduling, dispatch, assets, compliance certificates, quotes, and invoices for HVAC, fire, plumbing, electrical, and facilities contractors in the UK. Birmingham. The site says more than 7,000 UK service businesses. It started as an internal tool in 1998 and moved to a subscription in 2012.",
+  "homepage": "https://www.joblogic.com/",
+  "image": "/blog/2026-11-20/joblogic.webp",
+  "imageAlt": "Joblogic product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-20",
+      "evidenceKind": "self-reported",
+      "evidence": "Alantra, in September 2025, said more than €35 million a year at the Vista Equity Partners investment. Companies House, for Tracer Management Systems Ltd, shows turnover of £10.2 million in 2023 and £14.2 million in 2024, a loss of £4.0 million in 2024, and 216 staff. Vista's investment included over £100 million of new primary capital, which is funding, not revenue. Axiom put in £60 million in 2023, which is also funding, not revenue.",
+      "sources": [
+        {
+          "label": "Companies House",
+          "url": "https://www.companiesintheuk.co.uk/company/tracer-management-systems/financial"
+        },
+        {
+          "label": "Alantra",
+          "url": "https://www.alantra.com/ib-transaction/axiom-equity-sell-side-advisory-joblogic-limited-vista-equity-partners/"
+        },
+        {
+          "label": "About",
+          "url": "https://www.joblogic.com/about-us/"
+        }
+      ],
+      "indieAngle": "Twenty-eight years old, and private equity is still buying it."
+    }
+  ],
+  "whyItPrints": "The certificate and the maintenance visit have to happen. The software that stores them stays.",
+  "whyThisMatters": "A maintenance contractor has to show the certificate and hit the visit. Joblogic is the schedule, the dispatch, the asset, the quote, and the invoice, for HVAC, fire, plumbing, electrical, and facilities work. Birmingham. The site says more than 7,000 UK service businesses. It started as an internal tool in 1998 and became a subscription in 2012. Alantra, in September 2025, said more than 35 million euros a year at the Vista Equity Partners investment. Companies House, for Tracer Management Systems Ltd, shows turnover of 10.2 million pounds in 2023 and 14.2 million pounds in 2024, a loss of 4 million pounds in 2024, and 216 staff. The filing and the euro line are different years and different currencies, so both stay. Vista's investment included over 100 million pounds of new primary capital. Axiom put in 60 million pounds in 2023. Both of those are funding, not revenue. The figure is self-reported, which means a deal note and a filing. I did not open the books. The internal tool from 1998 became the subscription in 2012. Fire, plumbing, and electrical are the trades named on the site. Axiom is the earlier investor, from 2023. Vista is the 2025 investor. The company file is Tracer Management Systems Ltd."
+}

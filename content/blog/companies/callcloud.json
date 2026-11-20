@@ -1,0 +1,27 @@
+{
+  "slug": "callcloud",
+  "name": "CallCloud",
+  "listingNote": null,
+  "description": "A browser dialer that calls up to 5 prospects at once, with unlimited US and Canada calling, notes, and a sync to HubSpot, Salesforce, GoHighLevel, and Pipedrive. The price is $60 a seat for the power dialer or $125 a seat for the parallel dialer, month to month. Founded October 2022.",
+  "homepage": "https://callcloud.app/",
+  "image": "/blog/2026-11-20/callcloud.webp",
+  "imageAlt": "CallCloud product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $31,567 from 171 active subscriptions, updated 20 November 2026. Last 30 days $16,362. Last 12 months $122,483. All-time $279,521. The listing says the monthly line grew 26.5 percent in 30 days and the last 30 days grew 60.5 percent. Those percents are the listing.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/callcloud"
+        }
+      ],
+      "indieAngle": "Cheap calling, plus the CRM the team already has."
+    }
+  ],
+  "whyItPrints": "A sales floor pays per seat for the calls, every month.",
+  "whyThisMatters": "A sales floor pays every month so the reps can call. CallCloud dials up to 5 prospects at once from the browser, with unlimited calling in the US and Canada, notes, and a sync to HubSpot, Salesforce, GoHighLevel, and Pipedrive. The price is 60 dollars a seat or 125 dollars a seat, month to month. Founded in October 2022. Stripe-verified means the listing is connected to Stripe. I do not log in and re-check the number. The 20 November 2026 sync shows 31,567 dollars a month from 171 subscriptions. The last 30 days are 16,362 dollars. The last 12 months are 122,483 dollars. All-time is 279,521 dollars. The listing labels the monthly growth at 26.5 percent over 30 days, and the cash-window growth at 60.5 percent. Those percents are the listing's own labels. The monthly line and the last 30 days are not the same number, so both stay. The figure comes through Stripe. GoHighLevel and Pipedrive are on the sync list with HubSpot and Salesforce. Month to month means a team can drop a seat. The two seat prices are the menu. October 2022 is the founding date on the listing."
+}

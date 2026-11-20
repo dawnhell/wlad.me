@@ -1,0 +1,27 @@
+{
+  "slug": "pocketdpe",
+  "name": "PocketDPE",
+  "listingNote": null,
+  "description": "A voice examiner that practices the spoken part of an FAA pilot checkride. DPE means designated pilot examiner. The photo is the App Store image. Founded June 2026.",
+  "homepage": "https://apps.apple.com/us/app/pocketdpe-checkride-oral-prep/id6761171977",
+  "image": "/blog/2026-11-20/pocketdpe.webp",
+  "imageAlt": "PocketDPE product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-20",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,048 from 237 active subscriptions, updated 20 November 2026. Last 30 days $15,521. All-time $21,879. The listing says the monthly line grew 165 percent in 30 days. That percent is the listing. The last 30 days are higher than the monthly line.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/pocketdpe"
+        }
+      ],
+      "indieAngle": "One regulated exam, for people who are already paying to pass it."
+    }
+  ],
+  "whyItPrints": "A student pilot is already spending a lot on flight training. A practice exam is a small extra bill.",
+  "whyThisMatters": "A student pilot is already paying a lot for flight training. The spoken exam is one more hurdle. PocketDPE is a voice examiner for that oral test. DPE means designated pilot examiner. The photo is the App Store image. Founded in June 2026. Stripe-verified means the listing is connected to Stripe. I do not log in and re-check the number. The 20 November 2026 sync shows 6,048 dollars a month from 237 subscriptions. The last 30 days are 15,521 dollars, which is higher than the monthly line, so both stay. All-time is 21,879 dollars. The listing labels that monthly growth at 165 percent over 30 days. That percent is the listing. The figure comes through Stripe. The App Store listing is the homepage on this page, because that is where a pilot installs it. A checkride is the exam a student pilot has to pass. The oral portion is the spoken part, before or alongside the flying. June 2026 is the start, so the all-time total is only a few months of payments. The monthly line and the last 30 days disagree, which fits a new app that also sells something other than the subscription. The photo is the store listing image."
+}

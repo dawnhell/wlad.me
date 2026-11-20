@@ -1,0 +1,39 @@
+{
+  "slug": "taxjar",
+  "name": "TaxJar",
+  "listingNote": null,
+  "description": "It calculates sales tax at checkout, tracks when a seller has to register, and files the state returns for Shopify, Amazon, and other online shops. The site says more than 20,000 businesses. Mark Faggiano is the founder. Stripe bought it in 2021.",
+  "homepage": "https://www.taxjar.com/",
+  "image": "/blog/2026-11-20/taxjar.webp",
+  "imageAlt": "TaxJar product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-20",
+      "evidenceKind": "self-reported",
+      "evidence": "In 2021 the annual run rate was $30 million to $40 million, with about 200 employees. Axios reported that in October 2024. Faggiano said they were bootstrapping toward $20 million a year, from about $1,000 a month, after a $600,000 angel round in the first 8 months. Insight later led a $60 million Series A at about a $175 million valuation. Stripe paid $850 million to $900 million in 2021, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "Axios",
+          "url": "https://www.axios.com/2024/10/24/inside-stripe-taxjar-deal"
+        },
+        {
+          "label": "SaaStr",
+          "url": "https://www.saastr.com/author/sponsor-taxjar/"
+        },
+        {
+          "label": "Mark MacLeod",
+          "url": "https://markmacleod.me/taxjars-journey-from-bootstrapping-to-stripe-acquisition-with-mark-faggiano/"
+        },
+        {
+          "label": "Stripe",
+          "url": "https://stripe.com/newsroom/news/taxjar"
+        }
+      ],
+      "indieAngle": "One government chore, wired into the shop the seller already uses."
+    }
+  ],
+  "whyItPrints": "US sales tax is a pile of paperwork. Once the filings run through it, people stay. The founder said customers paid after 30 days and were not canceling.",
+  "whyThisMatters": "US sales tax is a pile of different rules, and a shop that sells into another state has to file. TaxJar calculates the tax at checkout, watches when the seller has to register, and files the return. Shopify and Amazon are the shops it names. Mark Faggiano is the founder. Stripe bought it in 2021. The site says more than 20,000 businesses. In 2021 the annual run rate was 30 million to 40 million dollars, with about 200 employees. Axios reported that in October 2024. Faggiano said they were bootstrapping toward 20 million dollars a year, from about 1,000 dollars a month, after a 600,000 dollar angel round in the first 8 months. He said they were never doing that funding again. Insight later led a 60 million dollar Series A at about a 175 million dollar valuation. Stripe paid 850 million to 900 million dollars. That price is the sale, not the revenue. The figure is self-reported, which means the founder and a later news report said it. I did not open the books. The homepage count is more than 20,000 businesses. He said people paid after the trial and did not cancel."
+}

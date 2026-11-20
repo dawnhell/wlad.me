@@ -416,6 +416,14 @@ const picks = [
     license: 'CC BY-SA 3.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/d/d4/Yosemite_Valley_from_Tunnel_View.jpg',
   },
+  {
+    id: 'lake-bohinj',
+    subject: 'nature',
+    alt: 'Lake Bohinj at night',
+    credit: 'Matej Repinc',
+    license: 'CC BY-SA 3.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/8/8a/Lake_Bohinj_On_A_Calm_Night_%28220300239%29.jpeg',
+  },
 ]
 
 function filePage(imageUrl) {

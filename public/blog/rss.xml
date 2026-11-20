@@ -5,7 +5,14 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:46:39 GMT</lastBuildDate>
+    <item>
+      <title>Friday's boring SaaS, 20 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-20</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Friday, 20 November 2026. Superjoin, CallCloud, and PocketDPE are Stripe-verified, so those listings are connected to Stripe. The other six are self-reported. Superjoin's cash and its monthly line do not match, so the last 30 days are the number. Several of the self-reported numbers are from an older year or an estimate.</description>
+    </item>
     <item>
       <title>Thursday's boring SaaS, 19 November 2026</title>
       <link>https://www.wlad.me/blog/2026-11-19</link>

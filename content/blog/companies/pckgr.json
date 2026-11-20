@@ -2,9 +2,9 @@
   "slug": "pckgr",
   "name": "Pckgr",
   "listingNote": "Packager",
-  "description": "Browser-based tool that packages, deploys and auto-updates apps into Microsoft Intune with one click, for IT admins and MSPs (company-stated). Founder Thomas (ex-MSP/Intune consultant). Started at $25/mo; current tiers $49/mo (≤100 devices), $99/mo (MSP multi-tenant), $149/mo (larger fleets + custom apps) (company-stated). Built on Bubble + GitHub Actions + Azure (founder-stated).",
+  "description": "Browser-based tool that packages, deploys and auto-updates apps into Microsoft Intune with one click, for IT admins and MSPs (company-stated). Founder Thomas (ex-MSP/Intune consultant). Started at $25/mo; current tiers $49/mo (≤100 devices), $99/mo (MSP multi-tenant), $149/mo (larger fleets + custom apps) (company-stated). Built on Bubble + GitHub Actions + Azure (founder-stated). A 14 July 2026 interview puts the monthly line higher than the 17 October note.",
   "homepage": "https://www.intunepckgr.com/",
-  "image": "/blog/2026-10-17/pckgr.webp",
+  "image": "/blog/2026-11-20/pckgr.webp",
   "imageAlt": "Pckgr product image",
   "imageWidth": 1024,
   "imageHeight": 1024,
@@ -32,8 +32,28 @@
         }
       ],
       "indieAngle": "Find the \"one tedious admin step\" in another legacy admin console (Google Workspace, Jamf, Entra ID, Polish e-invoicing KSeF) and sell the one-click version to MSPs at $49–$149/mo."
+    },
+    {
+      "date": "2026-11-20",
+      "evidenceKind": "self-reported",
+      "evidence": "In a 14 July 2026 Indie Hackers interview, Thomas Mahony said $83,000 a month, with more than 1,000 paying customers, still bootstrapped. The 17 October note was about $60,000 a month and left an $83,000 line unused because it was unconfirmed then. Starter Story showed annual revenue from $447,000 to $910,000 year over year. The plan prices are the menu, not the monthly line.",
+      "sources": [
+        {
+          "label": "Profitable Founder",
+          "url": "https://www.profitablefounder.xyz/blog/boring-saas"
+        },
+        {
+          "label": "MRRTrace",
+          "url": "https://mrrtrace.com/projects/pckgr"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/tom"
+        }
+      ],
+      "indieAngle": "The buyer cares that the wrap takes a click. A second product for remote monitoring is in beta."
     }
   ],
-  "whyItPrints": "Packaging one Windows app for Intune can take an hour by hand (founder-stated). This is legacy-enterprise glue for IT admins — the Conductor pattern exactly: small, deep, compliance-minded buyers with very low churn.",
+  "whyItPrints": "Packaging one Windows app for Intune can take an hour by hand. This does the wrap in the browser. The plans step up with the number of devices.",
   "whyThisMatters": "Browser-based tool that packages, deploys and auto-updates apps into Microsoft Intune with one click, for IT admins and MSPs. Founder Thomas (ex-MSP/Intune consultant). Started at 25 dollars a month; current tiers 49 dollars a month (≤100 devices), 99 dollars a month (MSP multi-tenant), 149 dollars a month (larger fleets + custom apps). Built on Bubble + GitHub Actions + Azure.\n\nPackaging one Windows app for Intune can take an hour by hand. This is legacy-enterprise glue for IT admins — the Conductor pattern exactly: small, deep, compliance-minded buyers with very low churn.\n\nAn IT admin has to wrap a Windows app so Intune will install it and keep it updated. By hand, that can take an hour. This does the wrap in the browser. The plans step up with the number of devices, and there is one for a shop that manages many clients. The founder used to do this work as a consultant. The monthly number is his, from a 2026 interview, not a Stripe connection."
 }

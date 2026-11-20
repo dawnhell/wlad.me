@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-20",
+  "title": "Friday's boring SaaS, 20 November 2026",
+  "dek": "Friday, 20 November 2026. Superjoin, CallCloud, and PocketDPE are Stripe-verified, so those listings are connected to Stripe. The other six are self-reported. Superjoin's cash and its monthly line do not match, so the last 30 days are the number. Several of the self-reported numbers are from an older year or an estimate.",
+  "heroId": "lake-bohinj",
+  "companies": [
+    {
+      "slug": "taxjar",
+      "name": "TaxJar",
+      "listingNote": null,
+      "description": "It calculates sales tax at checkout, tracks when a seller has to register, and files the state returns for Shopify, Amazon, and other online shops. The site says more than 20,000 businesses. Mark Faggiano is the founder. Stripe bought it in 2021.",
+      "evidenceKind": "self-reported",
+      "evidence": "In 2021 the annual run rate was $30 million to $40 million, with about 200 employees. Axios reported that in October 2024. Faggiano said they were bootstrapping toward $20 million a year, from about $1,000 a month, after a $600,000 angel round in the first 8 months. Insight later led a $60 million Series A at about a $175 million valuation. Stripe paid $850 million to $900 million in 2021, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "Axios",
+          "url": "https://www.axios.com/2024/10/24/inside-stripe-taxjar-deal"
+        },
+        {
+          "label": "SaaStr",
+          "url": "https://www.saastr.com/author/sponsor-taxjar/"
+        },
+        {
+          "label": "Mark MacLeod",
+          "url": "https://markmacleod.me/taxjars-journey-from-bootstrapping-to-stripe-acquisition-with-mark-faggiano/"
+        },
+        {
+          "label": "Stripe",
+          "url": "https://stripe.com/newsroom/news/taxjar"
+        }
+      ],
+      "homepage": "https://www.taxjar.com/",
+      "indieAngle": "One government chore, wired into the shop the seller already uses.",
+      "whyItPrints": "US sales tax is a pile of paperwork. Once the filings run through it, people stay. The founder said customers paid after 30 days and were not canceling.",
+      "image": "/blog/2026-11-20/taxjar.webp",
+      "imageAlt": "TaxJar product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "bigchange",
+      "name": "BigChange",
+      "listingNote": null,
+      "description": "The customer list, the schedule, vehicle tracking, a phone app, and invoices for plumbing, facilities, plant hire, and similar firms with vans. Leeds. It says more than 2,200 organisations. Simpro bought it in October 2024. Great Hill had owned it since 2021. The price was not disclosed.",
+      "evidenceKind": "self-reported",
+      "evidence": "UK accounts filed 17 November 2026 show 2025 turnover of £40.5 million. Earlier turnover was £21.9 million in 2023 and £30.9 million in 2024. The operating result went from a loss of £7.0 million in 2024 to a profit of £12.7 million in 2025. 2025 net profit was £17.1 million. Average staff fell from 226 to 124 after back-office work moved to Simpro. In December 2023 the company said recurring revenue was more than £30 million a year, and the order book was more than £100 million of contracted revenue. Great Hill said revenue grew 2.5 times while it owned the company.",
+      "sources": [
+        {
+          "label": "Accounts",
+          "url": "https://theaccounts.uk/company/08189817/bigchange-limited/"
+        },
+        {
+          "label": "Blog",
+          "url": "https://www.bigchange.com/blog/bigchange-breakthrough-surpassing-30m-in-annual-software-revenue-with-a-staggering-140-growth-in-three-years"
+        },
+        {
+          "label": "Simpro",
+          "url": "https://www.simprogroup.com/company/press/simpro-group-acquires-bigchange"
+        },
+        {
+          "label": "Great Hill",
+          "url": "https://www.greathillpartners.com/media/great-hill-partners-announces-sale-of-bigchange-to-simpro-group"
+        }
+      ],
+      "homepage": "https://www.bigchange.com/",
+      "indieAngle": "Trades with vans and a schedule. The 2025 accounts show a profit after the years of spending.",
+      "whyItPrints": "It runs the engineer's day, and the tracker is in the van. Ripping that out is a long job.",
+      "image": "/blog/2026-11-20/bigchange.webp",
+      "imageAlt": "BigChange product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "joblogic",
+      "name": "Joblogic",
+      "listingNote": null,
+      "description": "Scheduling, dispatch, assets, compliance certificates, quotes, and invoices for HVAC, fire, plumbing, electrical, and facilities contractors in the UK. Birmingham. The site says more than 7,000 UK service businesses. It started as an internal tool in 1998 and moved to a subscription in 2012.",
+      "evidenceKind": "self-reported",
+      "evidence": "Alantra, in September 2025, said more than €35 million a year at the Vista Equity Partners investment. Companies House, for Tracer Management Systems Ltd, shows turnover of £10.2 million in 2023 and £14.2 million in 2024, a loss of £4.0 million in 2024, and 216 staff. Vista's investment included over £100 million of new primary capital, which is funding, not revenue. Axiom put in £60 million in 2023, which is also funding, not revenue.",
+      "sources": [
+        {
+          "label": "Companies House",
+          "url": "https://www.companiesintheuk.co.uk/company/tracer-management-systems/financial"
+        },
+        {
+          "label": "Alantra",
+          "url": "https://www.alantra.com/ib-transaction/axiom-equity-sell-side-advisory-joblogic-limited-vista-equity-partners/"
+        },
+        {
+          "label": "About",
+          "url": "https://www.joblogic.com/about-us/"
+        }
+      ],
+      "homepage": "https://www.joblogic.com/",
+      "indieAngle": "Twenty-eight years old, and private equity is still buying it.",
+      "whyItPrints": "The certificate and the maintenance visit have to happen. The software that stores them stays.",
+      "image": "/blog/2026-11-20/joblogic.webp",
+      "imageAlt": "Joblogic product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "wodify",
+      "name": "Wodify",
+      "listingNote": null,
+      "description": "Class check-in, memberships, billing, and workout tracking for CrossFit and functional-fitness gyms. About 5,000 gyms. Philadelphia. Self-funded since 2012. Ameet Shah is the CEO. No photo. The site blocked an automated fetch.",
+      "evidenceKind": "self-reported",
+      "evidence": "Technical.ly, in February 2020, said yearly revenue was north of $10 million, and that the company was bootstrapped. Shah said he did not want venture money. The 2019 Inc. 5000 profile called it entirely bootstrapped and profitable, and it had been on that list three years running. Those are 2019 and 2020 readings, not a current total.",
+      "sources": [
+        {
+          "label": "Technical.ly",
+          "url": "https://technical.ly/startups/wodify-center-city-tech-hiring-office-growth/"
+        },
+        {
+          "label": "Inc.",
+          "url": "https://www.inc.com/profile/wodify-technologies"
+        }
+      ],
+      "homepage": "https://www.wodify.com/",
+      "indieAngle": "One corner of fitness was enough. The numbers are from 2019 and 2020. I did not find a newer revenue figure.",
+      "whyItPrints": "The gym's billing and the member check-in run through it.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "superjoin",
+      "name": "Superjoin",
+      "listingNote": null,
+      "description": "It pulls HubSpot, Salesforce, and other sources into Google Sheets and Excel on a schedule, with a two-way HubSpot sync. The listing says it is a HubSpot certified app with SOC 2 Type II. New on TrustMRR this week.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "Last 30 days were $8,780 L30, synced 20 November 2026. Last 12 months $155,910. All-time $282,666. The listing shows a monthly line of $96,787 from 3,669 subscriptions. The verified cash does not match that monthly line. The founder's pricing note says about $1,150 a year per account. The cash is the solid number.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/superjoin"
+        }
+      ],
+      "homepage": "https://www.superjoin.ai/",
+      "indieAngle": "One awkward source, into the sheet people already use.",
+      "whyItPrints": "Finance and sales people who live in a spreadsheet pay so the CRM shows up there.",
+      "image": "/blog/2026-11-20/superjoin.webp",
+      "imageAlt": "Superjoin product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "callcloud",
+      "name": "CallCloud",
+      "listingNote": null,
+      "description": "A browser dialer that calls up to 5 prospects at once, with unlimited US and Canada calling, notes, and a sync to HubSpot, Salesforce, GoHighLevel, and Pipedrive. The price is $60 a seat for the power dialer or $125 a seat for the parallel dialer, month to month. Founded October 2022.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $31,567 from 171 active subscriptions, updated 20 November 2026. Last 30 days $16,362. Last 12 months $122,483. All-time $279,521. The listing says the monthly line grew 26.5 percent in 30 days and the last 30 days grew 60.5 percent. Those percents are the listing.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/callcloud"
+        }
+      ],
+      "homepage": "https://callcloud.app/",
+      "indieAngle": "Cheap calling, plus the CRM the team already has.",
+      "whyItPrints": "A sales floor pays per seat for the calls, every month.",
+      "image": "/blog/2026-11-20/callcloud.webp",
+      "imageAlt": "CallCloud product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "pocketdpe",
+      "name": "PocketDPE",
+      "listingNote": null,
+      "description": "A voice examiner that practices the spoken part of an FAA pilot checkride. DPE means designated pilot examiner. The photo is the App Store image. Founded June 2026.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $6,048 from 237 active subscriptions, updated 20 November 2026. Last 30 days $15,521. All-time $21,879. The listing says the monthly line grew 165 percent in 30 days. That percent is the listing. The last 30 days are higher than the monthly line.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/pocketdpe"
+        }
+      ],
+      "homepage": "https://apps.apple.com/us/app/pocketdpe-checkride-oral-prep/id6761171977",
+      "indieAngle": "One regulated exam, for people who are already paying to pass it.",
+      "whyItPrints": "A student pilot is already spending a lot on flight training. A practice exam is a small extra bill.",
+      "image": "/blog/2026-11-20/pocketdpe.webp",
+      "imageAlt": "PocketDPE product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "pckgr",
+      "name": "Pckgr",
+      "listingNote": "Packager",
+      "description": "Browser-based tool that packages, deploys and auto-updates apps into Microsoft Intune with one click, for IT admins and MSPs (company-stated). Founder Thomas (ex-MSP/Intune consultant). Started at $25/mo; current tiers $49/mo (≤100 devices), $99/mo (MSP multi-tenant), $149/mo (larger fleets + custom apps) (company-stated). Built on Bubble + GitHub Actions + Azure (founder-stated). A 14 July 2026 interview puts the monthly line higher than the 17 October note.",
+      "evidenceKind": "self-reported",
+      "evidence": "In a 14 July 2026 Indie Hackers interview, Thomas Mahony said $83,000 a month, with more than 1,000 paying customers, still bootstrapped. The 17 October note was about $60,000 a month and left an $83,000 line unused because it was unconfirmed then. Starter Story showed annual revenue from $447,000 to $910,000 year over year. The plan prices are the menu, not the monthly line.",
+      "sources": [
+        {
+          "label": "Profitable Founder",
+          "url": "https://www.profitablefounder.xyz/blog/boring-saas"
+        },
+        {
+          "label": "MRRTrace",
+          "url": "https://mrrtrace.com/projects/pckgr"
+        },
+        {
+          "label": "Starter Story",
+          "url": "https://www.starterstory.com/tom"
+        }
+      ],
+      "homepage": "https://www.intunepckgr.com/",
+      "indieAngle": "The buyer cares that the wrap takes a click. A second product for remote monitoring is in beta.",
+      "whyItPrints": "Packaging one Windows app for Intune can take an hour by hand. This does the wrap in the browser. The plans step up with the number of devices.",
+      "image": "/blog/2026-11-20/pckgr.webp",
+      "imageAlt": "Pckgr product image",
+      "imageWidth": 1024,
+      "imageHeight": 1024
+    },
+    {
+      "slug": "moneythumb",
+      "name": "MoneyThumb",
+      "listingNote": null,
+      "description": "It turns PDF bank statements into rows for QuickBooks and into scorecards for lenders. A second tool flags a PDF that was edited. Encinitas. Founded 2012. The photo is a promo image. Iron Creek led a majority recapitalization in August 2024.",
+      "evidenceKind": "self-reported",
+      "evidence": "A LinkedIn-sourced estimate puts revenue at about $5.2 million a year. RocketReach says about $6 million. Those guesses do not agree, and the company has not published a figure. Main Street invested $11.2 million of debt and equity in August 2024, and that money is funding, not revenue.",
+      "sources": [
+        {
+          "label": "Main Street",
+          "url": "https://www.mainstcapital.com/investors/news-events/press-releases/detail/2694/main-street-announces-new-portfolio-investment"
+        },
+        {
+          "label": "MoneyThumb",
+          "url": "https://www.moneythumb.com/blog/leading-fintech-moneythumb-acquired-by-iron-creek/"
+        },
+        {
+          "label": "American Banker",
+          "url": "https://www.americanbanker.com/news/document-analysis-and-conversion-company-moneythumb-acquired"
+        },
+        {
+          "label": "RocketReach",
+          "url": "https://rocketreach.co/moneythumb-profile_b45ca358fc6d7cb6"
+        }
+      ],
+      "homepage": "https://www.moneythumb.com/",
+      "indieAngle": "Convert an ugly file. Lenders pay more than a bookkeeper does. Same job as the earlier bank-statement tools.",
+      "whyItPrints": "Bookkeepers and small-business lenders process stacks of statements. The conversion is the product.",
+      "image": "/blog/2026-11-20/moneythumb.webp",
+      "imageAlt": "MoneyThumb product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    }
+  ],
+  "honorableMentions": []
+}

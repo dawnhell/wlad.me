@@ -1,0 +1,39 @@
+{
+  "slug": "bigchange",
+  "name": "BigChange",
+  "listingNote": null,
+  "description": "The customer list, the schedule, vehicle tracking, a phone app, and invoices for plumbing, facilities, plant hire, and similar firms with vans. Leeds. It says more than 2,200 organisations. Simpro bought it in October 2024. Great Hill had owned it since 2021. The price was not disclosed.",
+  "homepage": "https://www.bigchange.com/",
+  "image": "/blog/2026-11-20/bigchange.webp",
+  "imageAlt": "BigChange product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-20",
+      "evidenceKind": "self-reported",
+      "evidence": "UK accounts filed 17 November 2026 show 2025 turnover of £40.5 million. Earlier turnover was £21.9 million in 2023 and £30.9 million in 2024. The operating result went from a loss of £7.0 million in 2024 to a profit of £12.7 million in 2025. 2025 net profit was £17.1 million. Average staff fell from 226 to 124 after back-office work moved to Simpro. In December 2023 the company said recurring revenue was more than £30 million a year, and the order book was more than £100 million of contracted revenue. Great Hill said revenue grew 2.5 times while it owned the company.",
+      "sources": [
+        {
+          "label": "Accounts",
+          "url": "https://theaccounts.uk/company/08189817/bigchange-limited/"
+        },
+        {
+          "label": "Blog",
+          "url": "https://www.bigchange.com/blog/bigchange-breakthrough-surpassing-30m-in-annual-software-revenue-with-a-staggering-140-growth-in-three-years"
+        },
+        {
+          "label": "Simpro",
+          "url": "https://www.simprogroup.com/company/press/simpro-group-acquires-bigchange"
+        },
+        {
+          "label": "Great Hill",
+          "url": "https://www.greathillpartners.com/media/great-hill-partners-announces-sale-of-bigchange-to-simpro-group"
+        }
+      ],
+      "indieAngle": "Trades with vans and a schedule. The 2025 accounts show a profit after the years of spending."
+    }
+  ],
+  "whyItPrints": "It runs the engineer's day, and the tracker is in the van. Ripping that out is a long job.",
+  "whyThisMatters": "An engineer in a van needs the job, the location, and the invoice in one place. BigChange is the customer list, the schedule, the tracker, the phone app, and the bill, for plumbing, facilities, and plant hire. Leeds. It says more than 2,200 organisations. Simpro bought it in October 2024. Great Hill had owned it since 2021 and said revenue grew 2.5 times while it owned the company. The price was not disclosed. UK accounts filed 17 November 2026 show 2025 turnover of 40.5 million pounds. Earlier turnover was 21.9 million pounds in 2023 and 30.9 million pounds in 2024. The operating result went from a loss of 7 million pounds in 2024 to a profit of 12.7 million pounds in 2025. Net profit in 2025 was 17.1 million pounds. Staff on the filing dropped from 226 to 124 once back-office work moved over to Simpro. In December 2023 the company said recurring revenue was more than 30 million pounds a year, and the order book was more than 100 million pounds of contracted revenue. The figure is a public filing, marked self-reported because it is not a payment sync. I did not open a bank account."
+}

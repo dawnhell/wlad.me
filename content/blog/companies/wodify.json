@@ -1,0 +1,31 @@
+{
+  "slug": "wodify",
+  "name": "Wodify",
+  "listingNote": null,
+  "description": "Class check-in, memberships, billing, and workout tracking for CrossFit and functional-fitness gyms. About 5,000 gyms. Philadelphia. Self-funded since 2012. Ameet Shah is the CEO. No photo. The site blocked an automated fetch.",
+  "homepage": "https://www.wodify.com/",
+  "image": null,
+  "imageAlt": null,
+  "imageWidth": null,
+  "imageHeight": null,
+  "mentions": [
+    {
+      "date": "2026-11-20",
+      "evidenceKind": "self-reported",
+      "evidence": "Technical.ly, in February 2020, said yearly revenue was north of $10 million, and that the company was bootstrapped. Shah said he did not want venture money. The 2019 Inc. 5000 profile called it entirely bootstrapped and profitable, and it had been on that list three years running. Those are 2019 and 2020 readings, not a current total.",
+      "sources": [
+        {
+          "label": "Technical.ly",
+          "url": "https://technical.ly/startups/wodify-center-city-tech-hiring-office-growth/"
+        },
+        {
+          "label": "Inc.",
+          "url": "https://www.inc.com/profile/wodify-technologies"
+        }
+      ],
+      "indieAngle": "One corner of fitness was enough. The numbers are from 2019 and 2020. I did not find a newer revenue figure."
+    }
+  ],
+  "whyItPrints": "The gym's billing and the member check-in run through it.",
+  "whyThisMatters": "A gym bills members every month and checks them in at the door. Wodify is that, plus the workout log, for CrossFit and functional-fitness boxes. Philadelphia. About 5,000 gyms. Self-funded since 2012. Ameet Shah is the CEO. Technical.ly, in February 2020, said yearly revenue was north of 10 million dollars, and that the company was bootstrapped. Shah has said he does not want venture money. A 2019 Inc. 5000 write-up called the company entirely bootstrapped and profitable, and said it had made that list three years in a row. Those are 2019 and 2020 readings. I did not find a newer revenue figure, so this is not a current total. No photo. The site blocked an automated fetch, and the homepage is still wodify.com. The figure is self-reported, which means a 2020 article. I did not open the books. Class check-in and the workout log sit next to the membership bill. I did not find a figure after 2020. Memberships and class check-in are the gym software. The workout log is the member side. Center City is where the 2020 hiring story was set. Nothing after February 2020 turned up as a revenue reading, so the note stops there. Philadelphia is the city on the record. No screenshot made it through."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "moneythumb",
+  "name": "MoneyThumb",
+  "listingNote": null,
+  "description": "It turns PDF bank statements into rows for QuickBooks and into scorecards for lenders. A second tool flags a PDF that was edited. Encinitas. Founded 2012. The photo is a promo image. Iron Creek led a majority recapitalization in August 2024.",
+  "homepage": "https://www.moneythumb.com/",
+  "image": "/blog/2026-11-20/moneythumb.webp",
+  "imageAlt": "MoneyThumb product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-11-20",
+      "evidenceKind": "self-reported",
+      "evidence": "A LinkedIn-sourced estimate puts revenue at about $5.2 million a year. RocketReach says about $6 million. Those guesses do not agree, and the company has not published a figure. Main Street invested $11.2 million of debt and equity in August 2024, and that money is funding, not revenue.",
+      "sources": [
+        {
+          "label": "Main Street",
+          "url": "https://www.mainstcapital.com/investors/news-events/press-releases/detail/2694/main-street-announces-new-portfolio-investment"
+        },
+        {
+          "label": "MoneyThumb",
+          "url": "https://www.moneythumb.com/blog/leading-fintech-moneythumb-acquired-by-iron-creek/"
+        },
+        {
+          "label": "American Banker",
+          "url": "https://www.americanbanker.com/news/document-analysis-and-conversion-company-moneythumb-acquired"
+        },
+        {
+          "label": "RocketReach",
+          "url": "https://rocketreach.co/moneythumb-profile_b45ca358fc6d7cb6"
+        }
+      ],
+      "indieAngle": "Convert an ugly file. Lenders pay more than a bookkeeper does. Same job as the earlier bank-statement tools."
+    }
+  ],
+  "whyItPrints": "Bookkeepers and small-business lenders process stacks of statements. The conversion is the product.",
+  "whyThisMatters": "A bookkeeper or a small-business lender has a stack of PDF bank statements. MoneyThumb turns them into rows for QuickBooks and into a scorecard. A second tool flags a PDF that was edited. Encinitas. Founded in 2012. Iron Creek led a majority recapitalization in August 2024. A LinkedIn-sourced estimate puts revenue at about 5.2 million dollars a year. RocketReach says about 6 million dollars. Those guesses do not agree, and the company has not published a figure, so neither one is the number. Main Street invested 11.2 million dollars of debt and equity. That money is funding, not revenue. The photo is a promo image. Same job as the earlier bank-statement tools, with lenders as the buyer who pays more. The page is self-reported, which means data sites guessed it. I did not open the books. ThumbPrint is the name of the tool that flags an edited PDF. PDF Insights is the conversion. Merchant-cash-advance shops and other small-business lenders are the richer buyer, because they read thousands of statements. American Banker covered the Iron Creek deal. The two revenue guesses stay side by side. Encinitas is the town. 2012 is the start."
+}
