@@ -1,0 +1,35 @@
+{
+  "slug": "cdata",
+  "name": "CData",
+  "listingNote": null,
+  "description": "Drivers and connectors so Excel, Tableau, Power BI, and other apps can query more than 270 sources, including QuickBooks, Salesforce, and NetSuite, as if each one were a database. Google, Salesforce, and Informatica embed the connectors. Chapel Hill, North Carolina. Amit Sharma is the CEO. The photo is the logo.",
+  "homepage": "https://www.cdata.com/",
+  "image": "/blog/2026-11-21/cdata.webp",
+  "imageAlt": "CData product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-21",
+      "evidenceKind": "self-reported",
+      "evidence": "Reuters, on 26 June 2024, said the company expected about $100 million a year by the end of 2024, and that it was growing more than 40 percent a year. That figure is an expectation, not a finished year. A source put the valuation above $800 million, and a valuation is not revenue. It raised about $350 million led by Warburg Pincus and Accel, after $160 million from Updata, and that money is funding, not revenue. The company says it has been profitable since it was founded, with more than 7,000 customers.",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/technology/data-connectivity-company-cdata-software-raises-350-mln-warburg-pincus-led-2024-06-26/"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2024/06/26/cdata-which-helps-orgs-use-data-across-apps-and-to-build-ai-models-snaps-up-350m/"
+        },
+        {
+          "label": "CData",
+          "url": "https://www.cdata.com/company/press/cdata-software-secures-350-million-in-strategic-growth-funding/"
+        }
+      ],
+      "indieAngle": "One awkward source, done properly, then sold to the vendors as well."
+    }
+  ],
+  "whyItPrints": "APIs change, and every reporting tool needs to read every system. CData sells to IT teams and to the software vendors who hide the connector inside their own product.",
+  "whyThisMatters": "Every reporting tool needs to read every other system, and those systems do not share one format. CData sells the drivers so Excel, Tableau, and Power BI can query QuickBooks, Salesforce, NetSuite, and more than 270 other sources as if they were a database. Google, Salesforce, and Informatica embed the connectors. Chapel Hill, North Carolina. Amit Sharma is the CEO. The photo is the logo. Reuters, on 26 June 2024, said the company expected about 100 million dollars a year by the end of 2024, and that it was growing more than 40 percent a year. That is an expectation, not a finished year. A source put the valuation above 800 million dollars. A valuation is not revenue. The round was about 350 million dollars, led by Warburg Pincus and Accel, after 160 million dollars from Updata. That money is funding. The company says it has been profitable since it was founded, with more than 7,000 customers, including Office Depot, Holiday Inn, and FedEx. Conductor is one QuickBooks Desktop pipe. This is the same idea across hundreds of sources. The figure is self-reported, which means a news report of what the company expected. I did not open the books."
+}

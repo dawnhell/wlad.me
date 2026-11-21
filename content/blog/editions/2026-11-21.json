@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-21",
+  "title": "Saturday's boring SaaS, 21 November 2026",
+  "dek": "Saturday, 21 November 2026. Postal Form and Conductor are Stripe-verified, so those listings are connected to Stripe. The other eight are self-reported. Several of those numbers are an expectation, a filing, or from an older year, so the date in the note is the date of the number.",
+  "heroId": "doubtful-sound",
+  "companies": [
+    {
+      "slug": "cdata",
+      "name": "CData",
+      "listingNote": null,
+      "description": "Drivers and connectors so Excel, Tableau, Power BI, and other apps can query more than 270 sources, including QuickBooks, Salesforce, and NetSuite, as if each one were a database. Google, Salesforce, and Informatica embed the connectors. Chapel Hill, North Carolina. Amit Sharma is the CEO. The photo is the logo.",
+      "evidenceKind": "self-reported",
+      "evidence": "Reuters, on 26 June 2024, said the company expected about $100 million a year by the end of 2024, and that it was growing more than 40 percent a year. That figure is an expectation, not a finished year. A source put the valuation above $800 million, and a valuation is not revenue. It raised about $350 million led by Warburg Pincus and Accel, after $160 million from Updata, and that money is funding, not revenue. The company says it has been profitable since it was founded, with more than 7,000 customers.",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/technology/data-connectivity-company-cdata-software-raises-350-mln-warburg-pincus-led-2024-06-26/"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2024/06/26/cdata-which-helps-orgs-use-data-across-apps-and-to-build-ai-models-snaps-up-350m/"
+        },
+        {
+          "label": "CData",
+          "url": "https://www.cdata.com/company/press/cdata-software-secures-350-million-in-strategic-growth-funding/"
+        }
+      ],
+      "homepage": "https://www.cdata.com/",
+      "indieAngle": "One awkward source, done properly, then sold to the vendors as well.",
+      "whyItPrints": "APIs change, and every reporting tool needs to read every system. CData sells to IT teams and to the software vendors who hide the connector inside their own product.",
+      "image": "/blog/2026-11-21/cdata.webp",
+      "imageAlt": "CData product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "aatrix",
+      "name": "Aatrix",
+      "listingNote": null,
+      "description": "Payroll tax forms and electronic filing, including W-2, 1099, ACA 1095, and state quarterly returns, filled from the payroll system the customer already uses. More than 300 forms. It has been around since 1986. The site says it sits inside more than 60 payroll and HR programs. Grand Forks, North Dakota. Sovos bought it in January 2024. The price was not disclosed.",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. Sovos said in January 2024 that Aatrix serves more than 300,000 businesses. A data-site guess puts revenue at about 12.7 million dollars a year, with about 56 employees. Treat that guess loosely. It has no date.",
+      "sources": [
+        {
+          "label": "Sovos",
+          "url": "https://sovos.com/press-releases/sovos-acquires-aatrix-software-expanding-solution-and-service-capabilities-for-smbs/"
+        },
+        {
+          "label": "About",
+          "url": "https://www.aatrix.com/about/"
+        },
+        {
+          "label": "Usearch",
+          "url": "https://www.usearch.com/company/aatrix-software/overview"
+        }
+      ],
+      "homepage": "https://www.aatrix.com/",
+      "indieAngle": "Do not build the payroll system. Build the form every payroll system has to file.",
+      "whyItPrints": "Every US employer has to file these forms, and the forms change every year. Aatrix rides inside other people's payroll software.",
+      "image": "/blog/2026-11-21/aatrix.webp",
+      "imageAlt": "Aatrix product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "sps-commerce",
+      "name": "SPS Commerce",
+      "listingNote": null,
+      "description": "The network that moves purchase orders, ship notices, and invoices between big retailers and their suppliers. Minneapolis. It is public. In March 2026 it marked 100 quarters of growth in a row. The photo is a homepage screenshot.",
+      "evidenceKind": "self-reported",
+      "evidence": "On 29 October 2026, third-quarter revenue was $197.6 million, up 4 percent from the year before. Recurring revenue was $189.0 million, 96 percent of the total. Net income was $30.7 million. Adjusted EBITDA was $70.9 million. About 46,700 recurring customers, and about $16,200 of revenue per customer. The customer count fell after they sold a recovery unit. Full-year 2026 guidance is $786.9 million to $788.9 million. That guidance is not a result. They bought back $48.8 million of shares in the quarter, and that buyback is not revenue.",
+      "sources": [
+        {
+          "label": "Results",
+          "url": "https://investors.spscommerce.com/news-releases/news-release-details/sps-commerce-reports-strong-third-quarter-2026-financial-results"
+        },
+        {
+          "label": "10-Q",
+          "url": "https://investors.spscommerce.com/static-files/80b6ac25-7ec3-4fdf-b2a6-ee0c6a197047"
+        },
+        {
+          "label": "100 quarters",
+          "url": "https://www.spscommerce.com/press/100-consecutive-quarters-of-growth-for-sps-commerce/"
+        }
+      ],
+      "homepage": "https://www.spscommerce.com/",
+      "indieAngle": "The public proof that retailer paperwork is a large business. The small supplier who just won one retail order is the thinner version.",
+      "whyItPrints": "You cannot sell to a big retailer without this paperwork. Most of the revenue repeats.",
+      "image": "/blog/2026-11-21/sps-commerce.webp",
+      "imageAlt": "SPS Commerce product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "orderful",
+      "name": "Orderful",
+      "listingNote": null,
+      "description": "One API that speaks each retailer's document format, plus a browser form so a small brand can send Walmart or Kohl's the required notices without an EDI specialist. San Francisco.",
+      "evidenceKind": "self-reported",
+      "evidence": "A design case study says annual revenue reached more than $10 million a year by 2025, up from under $1 million in 2021. That is a third party's claim, not the company's figure. On 23 June 2026 they raised a $35 million Series C, bringing the total raised to $85 million, and that money is funding, not revenue. They say they have processed more than 6 billion documents in 9 years. That count is volume, not revenue.",
+      "sources": [
+        {
+          "label": "Series C",
+          "url": "https://www.orderful.com/press-releases/orderful-raises-series-c-to-grow-ai-native-edi"
+        },
+        {
+          "label": "Case study",
+          "url": "https://dollarhide.design/orderful-case-study"
+        }
+      ],
+      "homepage": "https://www.orderful.com/",
+      "indieAngle": "The form for the supplier who has days to comply is the piece to copy.",
+      "whyItPrints": "Same retailer rule as SPS Commerce, sold to developers and to the small vendor who just got the order.",
+      "image": "/blog/2026-11-21/orderful.webp",
+      "imageAlt": "Orderful product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "lob",
+      "name": "Lob",
+      "listingNote": null,
+      "description": "An API that prints and mails letters, postcards, and checks. It checks the address and hands the piece to the US mail. San Francisco.",
+      "evidenceKind": "self-reported",
+      "evidence": "On 11 April 2023 the company said it had reached $100 million of revenue, growing 40 percent from the year before, with more than 12,000 customers and more than 1 billion mail pieces sent. The CEO talked about a path to $250 million. That path is not a result.",
+      "sources": [
+        {
+          "label": "Lob",
+          "url": "https://www.lob.com/news/direct-mail-automation-start-up-hits-100-million-in-revenue-milestone"
+        }
+      ],
+      "homepage": "https://www.lob.com/",
+      "indieAngle": "The large version of a one-person print-and-mail site. Both can live in the same niche.",
+      "whyItPrints": "Statements, notices, and checks still have to be on paper. Lob gets paid per piece.",
+      "image": "/blog/2026-11-21/lob.webp",
+      "imageAlt": "Lob product image",
+      "imageWidth": 1200,
+      "imageHeight": 628
+    },
+    {
+      "slug": "postal-form",
+      "name": "Postal Form",
+      "listingNote": null,
+      "description": "Upload a PDF and it is printed and mailed by USPS, starting at $3.40. United States. Founded October 2024. Pay per letter. There is no subscription. The 7 October note was an honorable mention, not its own page.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$11,838 L30, synced 21 November 2026. All-time $36,190. There is no subscription line, because the money is per letter. The 7 October note was about $6,647 in the last 30 days and about $19,571 all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/postal-form"
+        }
+      ],
+      "homepage": "https://postalform.com/",
+      "indieAngle": "A deadline, a PDF, and the mail. Nothing to cancel.",
+      "whyItPrints": "Someone has a letter that has to be on paper today. They pay once and leave.",
+      "image": "/blog/2026-11-21/postal-form.webp",
+      "imageAlt": "Postal Form product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "kashflow",
+      "name": "KashFlow",
+      "listingNote": null,
+      "description": "Simple bookkeeping and invoicing for UK small businesses. Founded in 2006 by Duane Jackson. IRIS bought it in 2013. It is still sold as IRIS KashFlow. London. The photo is a homepage screenshot.",
+      "evidenceKind": "self-reported",
+      "evidence": "Business Matters, in October 2013, said revenue was around £2 million when IRIS bought it. That write-up did not give a price. Business Insider, citing The Guardian, said the 2013 sale was around £20 million, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "Business Matters",
+          "url": "https://bmmagazine.co.uk/get-funded/iris-acquires-accounti-cloud-desktop-software-smes-kashflow/"
+        },
+        {
+          "label": "Business Insider",
+          "url": "https://www.businessinsider.com/duane-jackson-kashflow-interview-2016-5"
+        }
+      ],
+      "homepage": "https://www.kashflow.com/",
+      "indieAngle": "He could not get hired, so he built the books. The sale was about ten times the revenue they had then.",
+      "whyItPrints": "VAT, invoices, and payroll for a one-person firm. The books stay put.",
+      "image": "/blog/2026-11-21/kashflow.webp",
+      "imageAlt": "KashFlow product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "liveplan",
+      "name": "LivePlan",
+      "listingNote": null,
+      "description": "A business plan, a forecast, and a dashboard for a small business, at $20 a month. It followed the desktop product Business Plan Pro. Palo Alto Software, in Eugene, Oregon. A family business since 1987. No outside money.",
+      "evidenceKind": "self-reported",
+      "evidence": "In February 2020 a podcast introduction said revenue was still around $14 million, with more than 100,000 customers, a team of 80, and cash-flow positive. It also said about $100 to acquire a $20 account. Those are the menu and the acquisition cost, not a second revenue total. In July 2012 the CEO said they were planning $14 million of revenue that year. LivePlan was close to 60 percent of revenue then, with more than 40,000 paying accounts, adding about 1,000 a week. Business Plan Pro had sold to more than 1 million buyers since 1995. The 2012 and 2020 lines are two dates, both around the same yearly figure.",
+      "sources": [
+        {
+          "label": "Sramana Mitra",
+          "url": "https://www.sramanamitra.com/2012/07/23/a-14m-bootstrapped-family-business-in-eugene-oregon-palo-alto-software-founder-tim-berry-and-ceo-sabrina-parsons-part-5/"
+        },
+        {
+          "label": "Latka podcast",
+          "url": "https://www.tapesearch.com/episode/1661-how-palo-alto-software-broke-14m-in-arr-serving-smb-s/jXnuBvDMefvQrtjbwwYkEy"
+        }
+      ],
+      "homepage": "https://www.liveplan.com/",
+      "indieAngle": "Free templates bring people in. The cheap plan is what they pay for.",
+      "whyItPrints": "A bank or a lender asks for a plan. The subscription is the plan, updated.",
+      "image": "/blog/2026-11-21/liveplan.webp",
+      "imageAlt": "LivePlan product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "hnry",
+      "name": "Hnry",
+      "listingNote": null,
+      "description": "Sole traders get paid into a Hnry account. Hnry works out income tax, GST, and the rest, pays them, and files the return. The price is 1 percent of that income, plus tax on the fee, capped at 1,500 New Zealand dollars plus tax a year. Wellington. It also works in Australia and the UK.",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue total. A Dealroom band puts the latest year between 10 million and 50 million dollars. That is a guess with no date. In December 2025 they raised 30 million New Zealand dollars, bringing the total raised to nearly 100 million dollars, and that money is funding, not revenue. The about page says nearly 2 billion dollars of payments a year. That is money passing through, not Hnry's revenue. AVCJ, in February 2023, said revenue had tripled in the prior year. The split then was Australia 44 percent, the UK 26.5 percent, New Zealand 13.6 percent, and North America 6.6 percent.",
+      "sources": [
+        {
+          "label": "Series C",
+          "url": "https://hnry.co.nz/resources/news/hnry-raises-30-mil-to-accelerate-growth/"
+        },
+        {
+          "label": "About",
+          "url": "https://hnry.co.nz/about/"
+        },
+        {
+          "label": "AVCJ",
+          "url": "https://www.avcj.com/avcj/official-record/3028640/deal-focus-serving-the-sole-trader"
+        },
+        {
+          "label": "Dealroom",
+          "url": "https://dealroom.co/companies/hnry/"
+        }
+      ],
+      "homepage": "https://hnry.co.nz/",
+      "indieAngle": "A small percent of the income, with a cap, so it grows with the customer and still feels cheap.",
+      "whyItPrints": "The tax comes out of money that is already passing through the account. The freelancer does not do the return.",
+      "image": "/blog/2026-11-21/hnry.webp",
+      "imageAlt": "Hnry product image",
+      "imageWidth": 1200,
+      "imageHeight": 800
+    },
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 21 November listing is still for sale. The monthly Stripe line and the last 30 days are both higher than the 19 November note.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $50,538 from 351 active subscriptions, updated 21 November 2026. Last 30 days $48,453. All-time $536,399. The 19 November note was MRR $50,145 from 344 subscriptions, last 30 days $46,591, and all-time $533,116. A 20 November check, not written up, was MRR $50,429 from 349 subscriptions. The founder still says about $350,000 a year and about 7 percent a month, with virtually no churn. That yearly line is the founder, not the Stripe sync. Still listed for sale at $1,250,000.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe number moved up again, and it is still for sale.",
+      "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The monthly line and the last 30 days are both higher than the 19 November note, and the listing is still for sale.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "honorableMentions": []
+}

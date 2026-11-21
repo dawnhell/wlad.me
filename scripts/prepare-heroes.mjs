@@ -424,6 +424,14 @@ const picks = [
     license: 'CC BY-SA 3.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/8/8a/Lake_Bohinj_On_A_Calm_Night_%28220300239%29.jpeg',
   },
+  {
+    id: 'doubtful-sound',
+    subject: 'nature',
+    alt: 'Doubtful Sound in Fiordland, New Zealand',
+    credit: 'Marian Predescu',
+    license: 'CC0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Doubtful_Sound_Fiordland_New_Zealand_2018_%28263481029%29.jpeg',
+  },
 ]
 
 function filePage(imageUrl) {

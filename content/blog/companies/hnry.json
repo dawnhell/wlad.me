@@ -1,0 +1,39 @@
+{
+  "slug": "hnry",
+  "name": "Hnry",
+  "listingNote": null,
+  "description": "Sole traders get paid into a Hnry account. Hnry works out income tax, GST, and the rest, pays them, and files the return. The price is 1 percent of that income, plus tax on the fee, capped at 1,500 New Zealand dollars plus tax a year. Wellington. It also works in Australia and the UK.",
+  "homepage": "https://hnry.co.nz/",
+  "image": "/blog/2026-11-21/hnry.webp",
+  "imageAlt": "Hnry product image",
+  "imageWidth": 1200,
+  "imageHeight": 800,
+  "mentions": [
+    {
+      "date": "2026-11-21",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue total. A Dealroom band puts the latest year between 10 million and 50 million dollars. That is a guess with no date. In December 2025 they raised 30 million New Zealand dollars, bringing the total raised to nearly 100 million dollars, and that money is funding, not revenue. The about page says nearly 2 billion dollars of payments a year. That is money passing through, not Hnry's revenue. AVCJ, in February 2023, said revenue had tripled in the prior year. The split then was Australia 44 percent, the UK 26.5 percent, New Zealand 13.6 percent, and North America 6.6 percent.",
+      "sources": [
+        {
+          "label": "Series C",
+          "url": "https://hnry.co.nz/resources/news/hnry-raises-30-mil-to-accelerate-growth/"
+        },
+        {
+          "label": "About",
+          "url": "https://hnry.co.nz/about/"
+        },
+        {
+          "label": "AVCJ",
+          "url": "https://www.avcj.com/avcj/official-record/3028640/deal-focus-serving-the-sole-trader"
+        },
+        {
+          "label": "Dealroom",
+          "url": "https://dealroom.co/companies/hnry/"
+        }
+      ],
+      "indieAngle": "A small percent of the income, with a cap, so it grows with the customer and still feels cheap."
+    }
+  ],
+  "whyItPrints": "The tax comes out of money that is already passing through the account. The freelancer does not do the return.",
+  "whyThisMatters": "A freelancer does not want to do the tax return. Hnry takes the payment into its account, works out income tax, GST, and the rest, pays them, and files the return. The price is 1 percent of that income, plus tax on the fee, capped at 1,500 New Zealand dollars plus tax a year. Wellington. It also works in Australia and the UK. There is no company revenue total. Dealroom's band for the latest year runs from 10 million to 50 million dollars. That is a guess with no date, so I am not treating it as this week's number. In December 2025 they raised 30 million New Zealand dollars, bringing the total raised to nearly 100 million dollars. That money is funding, not revenue. Their own story page talks about nearly 2 billion dollars of payments a year. Those payments belong to the freelancers. They are not Hnry's sales. AVCJ wrote in February 2023 that revenue had tripled over the previous twelve months. At that time Australia was 44 percent of revenue, the UK 26.5 percent, New Zealand 13.6 percent, and North America 6.6 percent. The page is self-reported, which means the company and the press. I did not open the books."
+}

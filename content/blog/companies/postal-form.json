@@ -1,0 +1,27 @@
+{
+  "slug": "postal-form",
+  "name": "Postal Form",
+  "listingNote": null,
+  "description": "Upload a PDF and it is printed and mailed by USPS, starting at $3.40. United States. Founded October 2024. Pay per letter. There is no subscription. The 7 October note was an honorable mention, not its own page.",
+  "homepage": "https://postalform.com/",
+  "image": "/blog/2026-11-21/postal-form.webp",
+  "imageAlt": "Postal Form product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-21",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$11,838 L30, synced 21 November 2026. All-time $36,190. There is no subscription line, because the money is per letter. The 7 October note was about $6,647 in the last 30 days and about $19,571 all-time.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/postal-form"
+        }
+      ],
+      "indieAngle": "A deadline, a PDF, and the mail. Nothing to cancel."
+    }
+  ],
+  "whyItPrints": "Someone has a letter that has to be on paper today. They pay once and leave.",
+  "whyThisMatters": "Someone has a letter that has to be on paper today. Postal Form takes the PDF, prints it, and sends it by USPS. The price starts at 3 dollars and 40 cents. United States. Founded in October 2024. There is no subscription, because each payment is for a letter. Stripe-verified means the listing is connected to Stripe. I do not log in and re-check the number. The 21 November 2026 sync shows 11,838 dollars in the last 30 days and 36,190 dollars all-time. The 7 October note, which was only a mention and not its own page, was about 6,647 dollars in the last 30 days and about 19,571 dollars all-time. All-time has nearly doubled since that mention. The figure comes through Stripe. USPS is the carrier. A legal notice or a tax letter is the usual job. The October mention did not have its own company page."
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "aatrix",
+  "name": "Aatrix",
+  "listingNote": null,
+  "description": "Payroll tax forms and electronic filing, including W-2, 1099, ACA 1095, and state quarterly returns, filled from the payroll system the customer already uses. More than 300 forms. It has been around since 1986. The site says it sits inside more than 60 payroll and HR programs. Grand Forks, North Dakota. Sovos bought it in January 2024. The price was not disclosed.",
+  "homepage": "https://www.aatrix.com/",
+  "image": "/blog/2026-11-21/aatrix.webp",
+  "imageAlt": "Aatrix product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-21",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. Sovos said in January 2024 that Aatrix serves more than 300,000 businesses. A data-site guess puts revenue at about 12.7 million dollars a year, with about 56 employees. Treat that guess loosely. It has no date.",
+      "sources": [
+        {
+          "label": "Sovos",
+          "url": "https://sovos.com/press-releases/sovos-acquires-aatrix-software-expanding-solution-and-service-capabilities-for-smbs/"
+        },
+        {
+          "label": "About",
+          "url": "https://www.aatrix.com/about/"
+        },
+        {
+          "label": "Usearch",
+          "url": "https://www.usearch.com/company/aatrix-software/overview"
+        }
+      ],
+      "indieAngle": "Do not build the payroll system. Build the form every payroll system has to file."
+    }
+  ],
+  "whyItPrints": "Every US employer has to file these forms, and the forms change every year. Aatrix rides inside other people's payroll software.",
+  "whyThisMatters": "Every US employer has to file payroll forms, and the forms change every year. Aatrix is the form pack and the electronic filing, including W-2, 1099, ACA 1095, and the state quarterly return, filled from the payroll system the customer already uses. More than 300 forms. Grand Forks, North Dakota. It has been around since 1986. The site says it sits inside more than 60 payroll and HR programs. Sovos bought it in January 2024 and called it sticky. The price was not disclosed. Sovos said Aatrix serves more than 300,000 businesses. There is no company revenue figure. One data site guesses about 12.7 million dollars a year and about 56 employees. That guess has no date, so I am not treating it as this week's number. The page is self-reported, which means the buyer said the customer count and a data site guessed the money. I did not open the books."
+}

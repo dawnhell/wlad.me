@@ -1,0 +1,31 @@
+{
+  "slug": "kashflow",
+  "name": "KashFlow",
+  "listingNote": null,
+  "description": "Simple bookkeeping and invoicing for UK small businesses. Founded in 2006 by Duane Jackson. IRIS bought it in 2013. It is still sold as IRIS KashFlow. London. The photo is a homepage screenshot.",
+  "homepage": "https://www.kashflow.com/",
+  "image": "/blog/2026-11-21/kashflow.webp",
+  "imageAlt": "KashFlow product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-21",
+      "evidenceKind": "self-reported",
+      "evidence": "Business Matters, in October 2013, said revenue was around £2 million when IRIS bought it. That write-up did not give a price. Business Insider, citing The Guardian, said the 2013 sale was around £20 million, and that price is the sale, not revenue.",
+      "sources": [
+        {
+          "label": "Business Matters",
+          "url": "https://bmmagazine.co.uk/get-funded/iris-acquires-accounti-cloud-desktop-software-smes-kashflow/"
+        },
+        {
+          "label": "Business Insider",
+          "url": "https://www.businessinsider.com/duane-jackson-kashflow-interview-2016-5"
+        }
+      ],
+      "indieAngle": "He could not get hired, so he built the books. The sale was about ten times the revenue they had then."
+    }
+  ],
+  "whyItPrints": "VAT, invoices, and payroll for a one-person firm. The books stay put.",
+  "whyThisMatters": "A one-person firm in the UK needs the invoice, the VAT return, and the books. KashFlow was that, founded in 2006 by Duane Jackson. IRIS bought it in 2013. It is still sold as IRIS KashFlow. London. The photo is a homepage screenshot. Business Matters, in October 2013, said revenue was around 2 million pounds at the sale. That write-up did not give a price. Business Insider, citing The Guardian, said the sale was around 20 million pounds. That price is the sale, not the revenue. The 2 million pound line is from 2013, not from this week. The figure is self-reported, which means the sale write-ups. I did not open the books. Duane Jackson is the founder. The product name on the site today is IRIS KashFlow. The photo is a shot of the homepage. VAT and payroll sat next to the invoices. The 2013 revenue line is the one from the sale write-up."
+}

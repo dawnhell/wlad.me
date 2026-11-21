@@ -1,0 +1,35 @@
+{
+  "slug": "sps-commerce",
+  "name": "SPS Commerce",
+  "listingNote": null,
+  "description": "The network that moves purchase orders, ship notices, and invoices between big retailers and their suppliers. Minneapolis. It is public. In March 2026 it marked 100 quarters of growth in a row. The photo is a homepage screenshot.",
+  "homepage": "https://www.spscommerce.com/",
+  "image": "/blog/2026-11-21/sps-commerce.webp",
+  "imageAlt": "SPS Commerce product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-21",
+      "evidenceKind": "self-reported",
+      "evidence": "On 29 October 2026, third-quarter revenue was $197.6 million, up 4 percent from the year before. Recurring revenue was $189.0 million, 96 percent of the total. Net income was $30.7 million. Adjusted EBITDA was $70.9 million. About 46,700 recurring customers, and about $16,200 of revenue per customer. The customer count fell after they sold a recovery unit. Full-year 2026 guidance is $786.9 million to $788.9 million. That guidance is not a result. They bought back $48.8 million of shares in the quarter, and that buyback is not revenue.",
+      "sources": [
+        {
+          "label": "Results",
+          "url": "https://investors.spscommerce.com/news-releases/news-release-details/sps-commerce-reports-strong-third-quarter-2026-financial-results"
+        },
+        {
+          "label": "10-Q",
+          "url": "https://investors.spscommerce.com/static-files/80b6ac25-7ec3-4fdf-b2a6-ee0c6a197047"
+        },
+        {
+          "label": "100 quarters",
+          "url": "https://www.spscommerce.com/press/100-consecutive-quarters-of-growth-for-sps-commerce/"
+        }
+      ],
+      "indieAngle": "The public proof that retailer paperwork is a large business. The small supplier who just won one retail order is the thinner version."
+    }
+  ],
+  "whyItPrints": "You cannot sell to a big retailer without this paperwork. Most of the revenue repeats.",
+  "whyThisMatters": "A supplier cannot sell to a big retailer unless the purchase order, the ship notice, and the invoice arrive in the retailer's format. SPS Commerce runs that exchange. Minneapolis. It is public. In March 2026 it marked 100 quarters of growth in a row. On 29 October 2026, third-quarter revenue was 197.6 million dollars, up 4 percent from the year before. Recurring revenue was 189 million dollars, 96 percent of the total. Net income was 30.7 million dollars. Adjusted EBITDA was 70.9 million dollars. About 46,700 recurring customers, and about 16,200 dollars of revenue per customer. Customer count dropped once they sold off a recovery unit. Full-year guidance is 786.9 million to 788.9 million dollars. That guidance is not a result. They bought back 48.8 million dollars of shares in the quarter. That buyback is not revenue. The figure is from the company's own quarterly report. I did not reopen the filing beyond what the release states."
+}

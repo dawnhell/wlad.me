@@ -1,0 +1,31 @@
+{
+  "slug": "liveplan",
+  "name": "LivePlan",
+  "listingNote": null,
+  "description": "A business plan, a forecast, and a dashboard for a small business, at $20 a month. It followed the desktop product Business Plan Pro. Palo Alto Software, in Eugene, Oregon. A family business since 1987. No outside money.",
+  "homepage": "https://www.liveplan.com/",
+  "image": "/blog/2026-11-21/liveplan.webp",
+  "imageAlt": "LivePlan product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-21",
+      "evidenceKind": "self-reported",
+      "evidence": "In February 2020 a podcast introduction said revenue was still around $14 million, with more than 100,000 customers, a team of 80, and cash-flow positive. It also said about $100 to acquire a $20 account. Those are the menu and the acquisition cost, not a second revenue total. In July 2012 the CEO said they were planning $14 million of revenue that year. LivePlan was close to 60 percent of revenue then, with more than 40,000 paying accounts, adding about 1,000 a week. Business Plan Pro had sold to more than 1 million buyers since 1995. The 2012 and 2020 lines are two dates, both around the same yearly figure.",
+      "sources": [
+        {
+          "label": "Sramana Mitra",
+          "url": "https://www.sramanamitra.com/2012/07/23/a-14m-bootstrapped-family-business-in-eugene-oregon-palo-alto-software-founder-tim-berry-and-ceo-sabrina-parsons-part-5/"
+        },
+        {
+          "label": "Latka podcast",
+          "url": "https://www.tapesearch.com/episode/1661-how-palo-alto-software-broke-14m-in-arr-serving-smb-s/jXnuBvDMefvQrtjbwwYkEy"
+        }
+      ],
+      "indieAngle": "Free templates bring people in. The cheap plan is what they pay for."
+    }
+  ],
+  "whyItPrints": "A bank or a lender asks for a plan. The subscription is the plan, updated.",
+  "whyThisMatters": "A bank or a lender asks for a business plan. LivePlan is the plan, the forecast, and the dashboard, at 20 dollars a month. It followed the desktop product Business Plan Pro. Palo Alto Software, in Eugene, Oregon. A family business since 1987. No outside money. In February 2020 a podcast introduction said revenue was still around 14 million dollars, with more than 100,000 customers, a team of 80, and cash-flow positive. The same intro mentioned about 100 dollars to acquire a 20 dollar account. Those are the menu and the cost to get a customer, not a second revenue total. In July 2012 the CEO said they were planning 14 million dollars of revenue that year. Back then LivePlan was close to 60 percent of the company, with more than 40,000 paying accounts and about 1,000 new ones a week. The older desktop product had more than a million buyers from 1995 on. The 2012 plan and the 2020 interview land on the same yearly size, years apart. The figure is self-reported, which means interviews. I did not open the books."
+}

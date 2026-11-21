@@ -1,0 +1,31 @@
+{
+  "slug": "orderful",
+  "name": "Orderful",
+  "listingNote": null,
+  "description": "One API that speaks each retailer's document format, plus a browser form so a small brand can send Walmart or Kohl's the required notices without an EDI specialist. San Francisco.",
+  "homepage": "https://www.orderful.com/",
+  "image": "/blog/2026-11-21/orderful.webp",
+  "imageAlt": "Orderful product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-21",
+      "evidenceKind": "self-reported",
+      "evidence": "A design case study says annual revenue reached more than $10 million a year by 2025, up from under $1 million in 2021. That is a third party's claim, not the company's figure. On 23 June 2026 they raised a $35 million Series C, bringing the total raised to $85 million, and that money is funding, not revenue. They say they have processed more than 6 billion documents in 9 years. That count is volume, not revenue.",
+      "sources": [
+        {
+          "label": "Series C",
+          "url": "https://www.orderful.com/press-releases/orderful-raises-series-c-to-grow-ai-native-edi"
+        },
+        {
+          "label": "Case study",
+          "url": "https://dollarhide.design/orderful-case-study"
+        }
+      ],
+      "indieAngle": "The form for the supplier who has days to comply is the piece to copy."
+    }
+  ],
+  "whyItPrints": "Same retailer rule as SPS Commerce, sold to developers and to the small vendor who just got the order.",
+  "whyThisMatters": "Same retailer rule as SPS Commerce, sold as an API and as a browser form. Orderful lets a small brand send Walmart or Kohl's the required notices without an EDI specialist. San Francisco. A design case study says annual revenue reached more than 10 million dollars a year by 2025, up from under 1 million dollars in 2021. That is a former employee's case study, not a company figure, so it stays labeled as a claim. On 23 June 2026 they raised a 35 million dollar Series C, bringing the total raised to 85 million dollars. That money is funding, not revenue. Their own count is more than 6 billion documents across 9 years. That count is volume, not sales. The figure is self-reported, which means a third party wrote the yearly line. I did not open the books."
+}

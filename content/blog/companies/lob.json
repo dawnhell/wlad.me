@@ -1,0 +1,27 @@
+{
+  "slug": "lob",
+  "name": "Lob",
+  "listingNote": null,
+  "description": "An API that prints and mails letters, postcards, and checks. It checks the address and hands the piece to the US mail. San Francisco.",
+  "homepage": "https://www.lob.com/",
+  "image": "/blog/2026-11-21/lob.webp",
+  "imageAlt": "Lob product image",
+  "imageWidth": 1200,
+  "imageHeight": 628,
+  "mentions": [
+    {
+      "date": "2026-11-21",
+      "evidenceKind": "self-reported",
+      "evidence": "On 11 April 2023 the company said it had reached $100 million of revenue, growing 40 percent from the year before, with more than 12,000 customers and more than 1 billion mail pieces sent. The CEO talked about a path to $250 million. That path is not a result.",
+      "sources": [
+        {
+          "label": "Lob",
+          "url": "https://www.lob.com/news/direct-mail-automation-start-up-hits-100-million-in-revenue-milestone"
+        }
+      ],
+      "indieAngle": "The large version of a one-person print-and-mail site. Both can live in the same niche."
+    }
+  ],
+  "whyItPrints": "Statements, notices, and checks still have to be on paper. Lob gets paid per piece.",
+  "whyThisMatters": "Statements, notices, and checks still have to be on paper. Lob is the API that prints them, checks the address, and hands them to the US mail. San Francisco. On 11 April 2023 the company said it had reached 100 million dollars of revenue, growing 40 percent from the year before, with more than 12,000 customers and more than 1 billion mail pieces sent. The CEO said the company was growing and profitable, and talked about a path to 250 million dollars. That path is not a result. The 100 million dollar line is from 2023, not from this week. Postal Form is the one-person version of the same job. The figure is self-reported, which means the company said it. I did not open the books. Postcards and checks are on the same API as letters. Address checking is part of the send. The 100 million dollar line is from April 2023. San Francisco. Direct mail and transactional mail share the same print step."
+}

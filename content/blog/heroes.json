@@ -570,5 +570,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Lake_Bohinj_On_A_Calm_Night_(220300239).jpeg",
     "license": "CC BY-SA 3.0",
     "subject": "nature"
+  },
+  {
+    "id": "doubtful-sound",
+    "src": "/blog/heroes/doubtful-sound.webp",
+    "alt": "Doubtful Sound in Fiordland, New Zealand",
+    "width": 1120,
+    "height": 747,
+    "credit": "Marian Predescu",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Doubtful_Sound_Fiordland_New_Zealand_2018_(263481029).jpeg",
+    "license": "CC0",
+    "subject": "nature"
   }
 ]
