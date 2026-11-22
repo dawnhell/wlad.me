@@ -581,5 +581,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Doubtful_Sound_Fiordland_New_Zealand_2018_(263481029).jpeg",
     "license": "CC0",
     "subject": "nature"
+  },
+  {
+    "id": "gros-morne",
+    "src": "/blog/heroes/gros-morne.webp",
+    "alt": "Wigwam Pond in Gros Morne National Park",
+    "width": 1440,
+    "height": 960,
+    "credit": "Michel Rathwell",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Wigwam_Pond_and_surrounding_landscape_in_Gros_Morne_National_Park.jpg",
+    "license": "CC BY 2.0",
+    "subject": "nature"
   }
 ]

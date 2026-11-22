@@ -1,0 +1,35 @@
+{
+  "slug": "inspect-point",
+  "name": "Inspect Point",
+  "listingNote": null,
+  "description": "Fire-alarm, sprinkler, and extinguisher contractors run the inspection on site, turn a problem into a quote, then invoice. Troy, New York. Founded 2014. It bought FormLink in 2023 and FireCAD in April 2025.",
+  "homepage": "https://www.inspectpoint.com/",
+  "image": "/blog/2026-11-22/inspect-point.webp",
+  "imageAlt": "Inspect Point product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. An August 2024 post said it made the Inc. 5000 list, which ranks growth from 2020 to 2023, not a dollar total. It serves more than 900 fire-protection businesses and more than 15,000 professionals, and has completed more than 4.5 million inspections. More than $100 million in invoices have been paid through the platform, which is customer invoices, not Inspect Point's revenue. Mainsail invested $28 million in late 2021, which is funding, not revenue.",
+      "sources": [
+        {
+          "label": "Inc. 5000",
+          "url": "https://www.inspectpoint.com/resources/articles/inspect-point-makes-2024-inc-5000-list"
+        },
+        {
+          "label": "Mainsail",
+          "url": "https://mainsailpartners.com/case-study/inspect-point-elevating-fire-protection-from-digital-to-intelligent/"
+        },
+        {
+          "label": "FireCAD",
+          "url": "https://www.einpresswire.com/article/803463389/inspect-point-acquires-firecad-to-expand-fire-protection-technology-ecosystem"
+        }
+      ],
+      "indieAngle": "One required inspection, the certificate, and the reminder that brings the job back."
+    }
+  ],
+  "whyItPrints": "The code requires the inspection again next year. The report becomes a quote, then a bill.",
+  "whyThisMatters": "Fire-alarm, sprinkler, and extinguisher contractors have to inspect on a schedule the code sets. The report is not the end of the job. A failed item becomes a quote, then an invoice, then next year's visit.\n\nInspect Point puts that form on the phone. Troy, New York. It started in 2014. It later bought FormLink, and in April 2025 it bought a design tool called FireCAD. An investor put money in late 2021. That money is funding. Two acquisitions came after it. A growth-list badge covering 2020 through 2023 is a rank. I am not treating it as a revenue total.\n\nMore than 900 fire businesses and more than 15,000 professionals are on it. More than 4.5 million inspections are on the record. Invoices that moved through the platform are the contractors' bills. They are not this company's revenue. An assistant that drafts the report showed up in October 2025. The investor says it saves a quarter of an hour or so on each write-up. I still have no revenue number to put next to that."
+}

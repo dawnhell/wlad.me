@@ -1,0 +1,35 @@
+{
+  "slug": "campminder",
+  "name": "CampMinder",
+  "listingNote": null,
+  "description": "Registration, health forms, cabin and bus lists, staff hiring, and a parent app for overnight and day camps. The price is custom, by the number of campers. Boulder, Colorado. The founder built the first version for a camp he had worked at. The photo is a camp group.",
+  "homepage": "https://campminder.com/",
+  "image": "/blog/2026-11-22/campminder.webp",
+  "imageAlt": "CampMinder product image",
+  "imageWidth": 1200,
+  "imageHeight": 800,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue total with a date. In an interview published 2 May 2024, founder Dan Konigsberg said CampMinder works with almost 1,000 camps and about 80 full-time people, and that it has run about 21 years with no disclosed outside funding. In 2020 revenue went down 30 percent. Growjo guesses about 12.6 million dollars a year, with 87 employees. That guess has no date, so it is not this week's number.",
+      "sources": [
+        {
+          "label": "Interview",
+          "url": "https://www.linkedin.com/pulse/career-interview-dan-konigsberg-founder-ceo-campminder-camp-takajo-wzjmc"
+        },
+        {
+          "label": "Suites",
+          "url": "https://campminder.com/suites/"
+        },
+        {
+          "label": "Growjo",
+          "url": "https://growjo.com/company/CampMinder"
+        }
+      ],
+      "indieAngle": "Forms, allergy lists, and parent photos. The same paperwork shows up at any camp."
+    }
+  ],
+  "whyItPrints": "The medical form and the camper history make leaving painful. The camp is busy in summer and the bill can still run all year.",
+  "whyThisMatters": "Overnight camps and day camps run on forms. Health records, medication logs, cabin lists, bus lists, staff hiring, and a parent app. The price is custom, by the number of campers. Boulder, Colorado.\n\nDan Konigsberg built the first version for a camp he had worked at. In an interview published 2 May 2024 he said almost 1,000 camps and about 80 full-time people. About 21 years, and no disclosed outside funding. In 2020 revenue fell by 30 percent. He did not give a dollar total. A data site guesses a yearly figure and a headcount, with no date on it. That guess is not this week's number.\n\nA camp is busy in summer. If the bill is yearly, it still arrives in winter. Years of camper history, allergies, and permission slips make leaving painful. Classic, Deluxe, and Professional are the tier names. The camp still gets a price based on how many campers it has."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "servemanager",
+  "name": "ServeManager",
+  "listingNote": null,
+  "description": "Process servers take jobs from law firms, log attempts with GPS, write the affidavit, route the day, and get paid. Denver. Lawgical also runs ServeNow, a directory that feeds the tool. InfoTrack bought it in January 2021 after more than 15 years of bootstrapping. The photo is a homepage screenshot.",
+  "homepage": "https://www.servemanager.com/",
+  "image": "/blog/2026-11-22/servemanager.webp",
+  "imageAlt": "ServeManager product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. The pricing page lists $59 a month for 75 jobs, $119 a month for 150, and $219 a month for 300, and those prices are the menu, not revenue. An August 2023 release says it supports more than 4,000 legal professionals and more than 250,000 serving jobs a month. A data-site snippet puts annual revenue at about 2 million dollars, or a band of 1 million to 10 million dollars. Treat that as a rough guess with no date.",
+      "sources": [
+        {
+          "label": "Lawgical",
+          "url": "https://www.lawgical.com/blog/lawgical-acquired"
+        },
+        {
+          "label": "LawNext",
+          "url": "https://www.lawnext.com/2021/01/infotrack-acquires-lawgical-parent-to-process-serving-sites-and-legal-talk-network-podcast-collection.html"
+        },
+        {
+          "label": "SOC 2",
+          "url": "https://www.prweb.com/releases/servemanager-achieves-soc-2-compliance-enhancing-data-security-for-legal-professionals-301908839.html"
+        },
+        {
+          "label": "Pricing",
+          "url": "https://www.servemanager.com/pricing"
+        }
+      ],
+      "indieAngle": "A free directory feeds the paid tool. That shape works in any trade that has a public list of people."
+    }
+  ],
+  "whyItPrints": "Every lawsuit has to be served, and every serve needs a signed affidavit. The price steps up with how many jobs go out.",
+  "whyThisMatters": "Process servers take jobs from law firms, log each attempt with a location, write the affidavit, plan the day, and get paid. Denver. Lawgical also runs ServeNow, a directory of servers, and that directory feeds the paid tool.\n\nEvery lawsuit has to be served. Every serve needs a signed affidavit. The price steps up with how many jobs go out. Those steps are a menu, not a result. InfoTrack bought the company in January 2021 after more than 15 years of bootstrapping. The price of that deal was not disclosed. An August 2023 note says more than 4,000 legal professionals and more than 250,000 jobs a month. Jobs a month are volume. A data site guesses a yearly band, with no date. Treat that as a guess. Law firms can order a serve and watch it from their side. The server still has to sign the affidavit."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "levelset",
+  "name": "Levelset",
+  "listingNote": null,
+  "description": "Notices, lien waivers, and \"get paid\" letters for US construction jobs. The rules differ by state, and a missed deadline means you lose the right to file a lien. New Orleans. Procore bought it in September 2021.",
+  "homepage": "https://www.levelset.com/",
+  "image": "/blog/2026-11-22/levelset.webp",
+  "imageAlt": "Levelset product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "Listeners on the 22 September 2021 call took the CFO's low eight figures as $10 million to $20 million. Procore paid about $500 million, about $425 million in cash and about $75 million in stock, and that price is the sale, not revenue. The company said more than 3,300 customers on lien rights, more than 250,000 people, more than 6.5 million projects, and about 300 employees.",
+      "sources": [
+        {
+          "label": "Procore",
+          "url": "https://www.procore.com/press/procore-to-acquire-levelset-to-simplify-lien-management-workflows-for-construction"
+        },
+        {
+          "label": "Call",
+          "url": "https://stockanalysis.com/stocks/pcor/transcripts/5748-m-a-announcement/"
+        }
+      ],
+      "indieAngle": "Any deadline that makes you lose a right can be a product. State rules are the moat."
+    }
+  ],
+  "whyItPrints": "The deadline is the product. Procore said most of the money is a subscription, and compared it to tax compliance.",
+  "whyThisMatters": "On a US construction job, a subcontractor has to send a notice by a date that changes with the state. Miss the date and the right to file a lien is gone. Owners and general contractors collect a lien waiver every time they pay.\n\nLevelset sends the notices, the letters that say pay up, the liens, and the waivers. Procore bought it in September 2021. On the call, the CFO said most of the money comes from the lien product, and that it is mostly a subscription. He compared the job to tax compliance. Listeners turned a \"low eight figures\" line into a range. That range is what they heard, and it looked light next to about 300 employees. The purchase price is the sale.\n\nNew Orleans. More than 3,300 customers on lien rights, more than 250,000 people, and more than 6.5 million projects. The rules are different in every state, which is why a missed deadline is the whole product."
+}

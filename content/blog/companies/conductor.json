@@ -2,7 +2,7 @@
   "slug": "conductor",
   "name": "Conductor",
   "listingNote": null,
-  "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 21 November listing is still for sale. The monthly Stripe line and the last 30 days are both higher than the 19 November note.",
+  "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 22 November listing is still for sale. The monthly Stripe line is a little lower than the 21 November note. The last 30 days and the all-time total are higher.",
   "homepage": "https://conductor.is/",
   "image": "/blog/2026-11-19/conductor.webp",
   "imageAlt": "Conductor product image",
@@ -144,8 +144,20 @@
         }
       ],
       "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe number moved up again, and it is still for sale."
+    },
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $50,401 from 352 active subscriptions, updated 22 November 2026. Last 30 days $49,468. All-time $549,447. The 21 November note was MRR $50,538 from 351 subscriptions, last 30 days $48,453, and all-time $536,399. The monthly line is lower than that note. The last 30 days and the all-time total are higher. The founder still says about $350,000 a year and about 7 percent a month, with virtually no churn. That yearly line is the founder, not the Stripe sync. The listing still shows a 95 percent profit margin. Still listed for sale at $1,250,000.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The monthly line moved down a little, the last 30 days moved up, and it is still for sale."
     }
   ],
-  "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The monthly line and the last 30 days are both higher than the 19 November note, and the listing is still for sale.",
+  "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The monthly line dipped, the last 30 days rose, and the listing is still for sale.",
   "whyThisMatters": "Developers use Conductor to read and write QuickBooks Desktop and Enterprise from their own app. You get Python, Node or TypeScript, and a REST API. They count 256 typed endpoints. Create an invoice, fetch a customer, update a line. QuickBooks itself still wants the Web Connector, qbXML, and SOAP. Conductor hides that.\n\nYour user connects their own company file. Guides cover the usual Windows and QuickBooks errors. A cryptic failure comes back as one error, with a plain fix. A dashboard is where you add connections and debug them. The end user does the hookup, so you aren't on that ticket. Testing is free for one connection. Production is a monthly price per company file. A lot of files moves you to enterprise pricing.\n\nConductor Labs is in San Francisco. They say it's syncing more than 1,600 businesses. Ramp shows up in a customer quote. Others mention leaving DBSync or Commercient, or retiring an XML bridge they had built themselves. You pay so the accounting file behaves like a normal API."
 }

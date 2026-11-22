@@ -5,7 +5,14 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:43:26 GMT</lastBuildDate>
+    <item>
+      <title>Sunday's boring SaaS, 22 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-22</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Sunday, 22 November 2026. Conductor is Stripe-verified, so that listing is connected to Stripe. The other ten are self-reported. Several of those numbers are a sale price, a customer's money, an old year, or an estimate, so the date in the note is the date of the number.</description>
+    </item>
     <item>
       <title>Saturday's boring SaaS, 21 November 2026</title>
       <link>https://www.wlad.me/blog/2026-11-21</link>

@@ -1,0 +1,39 @@
+{
+  "slug": "tsheets",
+  "name": "TSheets",
+  "listingNote": "now QuickBooks Time",
+  "description": "Workers clock in from a phone, a kiosk, or a text, with GPS and job codes. The hours flow into payroll, invoices, and job cost in QuickBooks. In 2017 the price was a $16 base fee plus $4 a month per employee, unchanged since 2010. Eagle, Idaho. Matt Rissell is the founder. tsheets.com now points at QuickBooks Time. The photo is that page.",
+  "homepage": "https://quickbooks.intuit.com/time-tracking/",
+  "image": "/blog/2026-11-22/tsheets.webp",
+  "imageAlt": "TSheets product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "Revenue was likely more than $40 million on 5 December 2017, Forbes wrote, after estimating nearly $20 million in January 2016 at 20,000 customers. There were 260 employees then. Intuit paid about $340 million in December 2017, and that price is the sale, not revenue. The company said more than 35,000 customers, more than 500,000 workers, and more than 12,000 customers already using QuickBooks beside it. Summit put in $15 million in October 2015, which is funding, not revenue. They said the tool would track $8 billion of payroll in the next 12 months, which is customer payroll, not TSheets revenue. The first payroll run saved the founder's own shops $2,400, and that saving is his, not company revenue.",
+      "sources": [
+        {
+          "label": "Intuit",
+          "url": "https://www.intuit.com/company/press-room/press-releases/2017/intuit-to-acquire-tsheets-it-s-about-time/"
+        },
+        {
+          "label": "Forbes",
+          "url": "https://www.forbes.com/sites/susanadams/2017/12/05/matt-rissell-sells-tsheets-a-time-sheet-tracker-for-small-businesses-to-intuit-for-340-million/"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2017/12/05/intuit-acquires-time-tracking-service-tsheets-for-340m/"
+        },
+        {
+          "label": "Summit",
+          "url": "https://www.prweb.com/releases/tsheets_accelerates_growth_with_investment_from_summit_partners/prweb13002705.htm"
+        }
+      ],
+      "indieAngle": "A file into the accounting tool, free seats for accountants, and the platform buys you."
+    }
+  ],
+  "whyItPrints": "Labour is the big cost, and a paper timesheet leaks. Once payroll depends on the clock, they stop shopping.",
+  "whyThisMatters": "Workers clock in from a phone, a kiosk, or a text. GPS and a job code ride along. Those hours then land in payroll, invoices, and job cost inside QuickBooks.\n\nA paper timesheet leaks. Someone adds a few minutes and it shows up on payday. Once the payroll run depends on this clock, leaving means rebuilding the payroll file.\n\nMatt Rissell ran printer-cartridge shops in Eagle, Idaho. He had a friend build a clock for his own stores. The first hookup to QuickBooks was a flat file. Accountants got free seats, and they sent clients over. A Forbes write-up put that free group at fifteen thousand accountants.\n\nThe 2017 price was a base fee plus a monthly fee per employee, and it had not moved since 2010. He told Forbes that sales had doubled every year, and that he would not give a revenue number past that. Intuit bought the company that December. The old domain now points at QuickBooks Time.\n\nSummit put money in during 2015, after a small angel round in 2008. He said they were already profitable and did not need it. The payroll volume they said the tool would track is the customers' payroll. The first payroll run saved his own shops a small amount. That saving is his."
+}

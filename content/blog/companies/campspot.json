@@ -1,0 +1,35 @@
+{
+  "slug": "campspot",
+  "name": "Campspot",
+  "listingNote": null,
+  "description": "Reservations, a site map, a till, guest messages, and accounting for private campgrounds, plus a marketplace at campspot.com. Grand Rapids, Michigan.",
+  "homepage": "https://software.campspot.com/",
+  "image": "/blog/2026-11-22/campspot.webp",
+  "imageAlt": "Campspot product image",
+  "imageWidth": 1200,
+  "imageHeight": 627,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. A 13 August 2024 release said it made the Inc. 5000 for the third year and ranked it 794. The press-release address itself says 793. Either way that list ranks growth, not a dollar total. It powers more than 2,300 private campgrounds and more than 250,000 campsites. A 7 February 2025 release called 2024 a record year with 47 million camper nights, then a strategic investment from Vertica. The amount was not disclosed. A 2025 wrap-up says pricing features earned parks $89.6 million, $43.6 million from add-ons, $22.9 million from lock-site fees, $14 million from the grid, and $9.1 million from moving prices, and that money is park revenue, not Campspot's revenue. The platform handled 3.7 million reservations and 54 million site nights.",
+      "sources": [
+        {
+          "label": "2025 wrap",
+          "url": "https://software.campspot.com/about-campspot/year-in-review/"
+        },
+        {
+          "label": "Inc. 5000",
+          "url": "https://www.prweb.com/releases/campspot-ranks-no-793-on-the-2024-inc-5000-no-26-in-travel-in-hospitality-302219665.html"
+        },
+        {
+          "label": "Vertica",
+          "url": "https://www.prweb.com/releases/campspot-announces-strategic-growth-investment-from-vertica-capital-partners-to-advance-tech-driven-solutions-in-outdoor-hospitality-industry-302369976.html"
+        }
+      ],
+      "indieAngle": "Sell the money the season made, not a feature list."
+    }
+  ],
+  "whyItPrints": "The owner used to take the booking by phone. The paid extras, a locked site, firewood, a price that moves, are what the software claims it earned them.",
+  "whyThisMatters": "Private campgrounds take the booking, sell one specific site, and ring up firewood. Campspot is the reservation book, the site map, the till, the guest messages, and a marketplace at campspot.com. Grand Rapids, Michigan.\n\nThe owner used to take the booking by phone. The pitch is the extras you can measure. A fee to lock a site, an add-on, a price that moves. A 2025 wrap adds up what parks took in from those extras. That total is park money. It is not this company's revenue. More than 2,300 private campgrounds and more than 250,000 campsites are on it. A 7 February 2025 release called 2024 a record year for camper nights, then said Vertica had invested. The amount was not disclosed.\n\nA release on 13 August 2024 said the company made a growth list for the third year and gave one rank. The web address of that same release prints a different rank. Either way the list ranks growth. It is not a revenue total. The marketplace campers use and the screen the park logs into are different sites. The 2025 wrap also counts millions of reservations and site nights. Those are bookings, not the company's take."
+}

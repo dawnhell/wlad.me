@@ -1,0 +1,43 @@
+{
+  "slug": "pirate-ship",
+  "name": "Pirate Ship",
+  "listingNote": null,
+  "description": "Discounted USPS and UPS labels for a small online seller, with no subscription and no tiers. The company says it makes its money from the carrier partnerships, not from a monthly fee. Jackson, Wyoming. Bootstrapped. The founder had shipped tens of thousands of subscription-box packages at an earlier startup.",
+  "homepage": "https://www.pirateship.com/",
+  "image": "/blog/2026-11-22/pirate-ship.webp",
+  "imageAlt": "Pirate Ship product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "A ZoomInfo guess is about $6.5 million a year and a Prospeo guess is about $16.2 million a year. Those guesses do not agree, and the company has not published a figure. A 30 December 2019 article said hundreds of thousands of shippers after five years. A profile with no year on it says about 200 employees. Competitors charged $17.99 a month, which is their price, not Pirate Ship's revenue.",
+      "sources": [
+        {
+          "label": "Support",
+          "url": "https://support.pirateship.com/en/articles/1860717-how-does-pirate-ship-make-money"
+        },
+        {
+          "label": "Wyoming Business Report",
+          "url": "https://www.wyomingnews.com/wyomingbusinessreport/current_edition/startup-adds-pirate-y-fun-to-usps-shipping/article_c606d625-c611-5f34-b337-52edd7395471.html"
+        },
+        {
+          "label": "Silicon Couloir",
+          "url": "https://www.siliconcouloir.com/news/blog-post-title-two-a8aaz"
+        },
+        {
+          "label": "ZoomInfo via checkthat",
+          "url": "https://checkthat.ai/brands/pirate-ship"
+        },
+        {
+          "label": "Prospeo",
+          "url": "https://prospeo.io/c/pirate-ship-revenue"
+        }
+      ],
+      "indieAngle": "The tool is free. The supplier pays. Postage is the version of that."
+    }
+  ],
+  "whyItPrints": "Every order needs a label. The carrier pays Pirate Ship. The seller does not.",
+  "whyThisMatters": "Small online sellers buy discounted USPS and UPS labels. No subscription and no tiers. A support article from 7 June 2026 says the company makes its money from the carrier partnerships, and that it can run on that income alone. Jackson, Wyoming. Bootstrapped. No funding rounds show up. The founder had shipped tens of thousands of subscription-box packages at an earlier startup.\n\nA Wyoming paper on 30 December 2019 said the shipper count was in the hundreds of thousands, five years in. Rivals at the time billed a monthly fee on top of postage. That fee is theirs. A profile that does not show the year puts the staff near 200, mostly remote. Two data sites each guess a yearly figure, and the two guesses disagree. Pirate Ship has not published a figure of its own. That undated profile also says customers can save a large share against standard postage rates. A discount is not revenue."
+}

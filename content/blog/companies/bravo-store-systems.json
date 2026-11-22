@@ -1,0 +1,35 @@
+{
+  "slug": "bravo-store-systems",
+  "name": "Bravo Store Systems",
+  "listingNote": null,
+  "description": "The till for pawn shops, gun stores, and buy-sell-trade shops. Pawn loans, a buy priced from a photo, the shop site, card payments, and the federal gun paperwork, including the bound book. Las Vegas. Family owned since 2011. The photo is a homepage screenshot.",
+  "homepage": "https://www.bravostoresystems.com/",
+  "image": "/blog/2026-11-22/bravo-store-systems.webp",
+  "imageAlt": "Bravo Store Systems product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue total with a date. The homepage, read 22 November 2026, says more than 3,300 stores. A 30 January 2024 release says Bravo bought the PawnMaster products from Data Age, and that Bravo itself had more than 1,600 customers before the deal. Hyde Park Capital said Data Age was founded in 1988, ran debt-free, and served more than 3,500 customers across pawn, check cashing, title loans, and liquor stores. A ZoomInfo snippet guesses about 15.5 million dollars a year. That guess has no date, so it is not this week's number.",
+      "sources": [
+        {
+          "label": "PawnMaster",
+          "url": "https://www.bravostoresystems.com/company-news/bravo-store-systems-acquires-pawnmaster"
+        },
+        {
+          "label": "Hyde Park",
+          "url": "https://www.hydeparkcapital.com/insights/press-releases/hyde-park-capital-facilitates-strategic-fintech-acquisition-data-age-business-systems-joins-forces-with-bravo-store-systems/"
+        },
+        {
+          "label": "ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bravo-store-systems/395966351"
+        }
+      ],
+      "indieAngle": "A shop that answers to several authorities at once. The old incumbent eventually sells its customer list."
+    }
+  ],
+  "whyItPrints": "The shop is under lending rules, secondhand-goods rules, and firearms rules at once. The software that records every loan and every serial number is hard to leave.",
+  "whyThisMatters": "The till for pawn shops, gun stores, and buy-sell-trade shops. Pawn loans, a buy priced from a photo, the shop website, card payments, and the federal gun paperwork, including the bound book. Las Vegas. Family owned since 2011.\n\nA pawn shop answers to lending rules, secondhand-goods rules, and firearms rules at the same time. Software that records every loan and every serial number is hard to leave. I read the homepage on 22 November 2026. The store count there is past 3,300. The bound book is the log a gun shop keeps for every firearm that comes in and goes out. On 30 January 2024 Bravo bought the PawnMaster products from Data Age. Before that deal Bravo itself had more than 1,600 customers. Data Age started in 1988, ran debt-free, and served more than 3,500 customers across pawn, check cashing, title loans, and liquor. A data site guesses yearly revenue and puts no date on the guess. That guess is not this week's number."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "storable",
+  "name": "Storable",
+  "listingNote": null,
+  "description": "A roll-up of storage-facility software, websites, card payments, tenant insurance, and a marketplace, including SiteLink, storEDGE, and SpareFoot. Austin. The photo is a report mockup, because a homepage capture timed out.",
+  "homepage": "https://www.storable.com/",
+  "image": "/blog/2026-11-22/storable.webp",
+  "imageAlt": "Storable product image",
+  "imageWidth": 1200,
+  "imageHeight": 900,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue total with a date. A press release on 22 October 2025 says it covers more than 33,000 facilities, and it calls self-storage a 24 billion dollar market. That market size is not Storable's revenue. EQT took a majority stake on 16 December 2020, when the company had about 440 employees. A later report said EQT valued it at around 2 billion dollars. A valuation is not revenue. An undated search-firm note says it had more than 300 million dollars a year and was on a path to 1 billion dollars a year. That note has no date, so it is not this week's number.",
+      "sources": [
+        {
+          "label": "Press",
+          "url": "https://www.prnewswire.com/news-releases/storable-launches-business-intelligence-the-first-reporting-solution-built-for-self-storage-302591714.html"
+        },
+        {
+          "label": "EQT",
+          "url": "https://eqtgroup.com/news/eqt-private-equity-makes-a-majority-investment-in-storable-the-leading-software-and-technology-provider-to-the-self-storage-industry-2020-12-16"
+        },
+        {
+          "label": "PEI",
+          "url": "https://www.privateequityinternational.com/eqt-values-storable-at-around-2-billion/"
+        },
+        {
+          "label": "Parker Remick",
+          "url": "https://parkerremick.com/case-studies/storable-cpo-search/"
+        }
+      ],
+      "indieAngle": "In a scattered kind of property, the money sits on the payment and the insurance, not only the login."
+    }
+  ],
+  "whyItPrints": "The unit sits there. The software takes the rent, the late fee, and the gate code. The extra money is the card, the insurance, and the lead.",
+  "whyThisMatters": "This is a roll-up of storage-facility software, websites, card payments, tenant insurance, and a marketplace. SiteLink, storEDGE, Easy Storage Solutions, and SpareFoot sit inside it.\n\nThe unit sits there. The software takes the rent, the late fee, and the gate code. The extra money is the card, the insurance, and the lead. Austin. EQT took a majority stake in December 2020, and Cove Hill kept a minority. About 440 people worked there then. A later report put a valuation on the deal. A valuation is not revenue.\n\nA search firm, with no date on the page, talks about a yearly run rate and a path to a bigger one. No date means it is not this week's number. A release on 22 October 2025 says more than 33,000 facilities. The size of the self-storage market is not this company's revenue. Select Merchant Solutions, Storsmart, and Bader Insurance sit in the same bundle. Card payments and tenant insurance are the extras on top of the login."
+}

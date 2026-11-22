@@ -432,6 +432,14 @@ const picks = [
     license: 'CC0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Doubtful_Sound_Fiordland_New_Zealand_2018_%28263481029%29.jpeg',
   },
+  {
+    id: 'gros-morne',
+    subject: 'nature',
+    alt: 'Wigwam Pond in Gros Morne National Park',
+    credit: 'Michel Rathwell',
+    license: 'CC BY 2.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/2/25/Wigwam_Pond_and_surrounding_landscape_in_Gros_Morne_National_Park.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

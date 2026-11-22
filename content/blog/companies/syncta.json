@@ -1,0 +1,35 @@
+{
+  "slug": "syncta",
+  "name": "Syncta",
+  "listingNote": null,
+  "description": "Certified testers enter the yearly backflow test on a phone. Syncta writes the report, bills the customer, and sends the test to the water utility. A technician built it for his father's testing company. North Andover, Massachusetts. Watts Water bought it in 2018. The photo is a homepage screenshot.",
+  "homepage": "https://www.syncta.com/",
+  "image": "/blog/2026-11-22/syncta.webp",
+  "imageAlt": "Syncta product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-22",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. On 8 February 2019 the Watts CEO called it a very small startup and said the platform had registered more than 325,000 devices. A Tahoe City utility contract was $4,500 a year for 3 years plus $1 per test, up to $6,173 in year one for 1,673 devices, plus $2,500 to set up, and that contract is one customer's bill, not Syncta's revenue. Staff there guessed about $16,000 a year of their own time on manual entry, and that time is the utility's cost, not Syncta's revenue.",
+      "sources": [
+        {
+          "label": "Story",
+          "url": "https://www.syncta.com/our-story"
+        },
+        {
+          "label": "Watts",
+          "url": "https://www.fool.com/investing/2019/02/08/watts-water-technologies-inc-wts-q4-2018-earnings.aspx"
+        },
+        {
+          "label": "Tahoe City",
+          "url": "https://tahoecitypud.granicus.com/MetaViewer.php?clip_id=985&meta_id=69865&view_id=2"
+        }
+      ],
+      "indieAngle": "The company that makes the valve bought the software that tracks the test. Any device with a required yearly test can follow that shape."
+    }
+  ],
+  "whyItPrints": "The utility requires the test every year. Syncta charges the tester who files it and the utility that receives it.",
+  "whyThisMatters": "A backflow preventer keeps dirty water from flowing back into the drinking supply. The utility wants a test on every device, every year. A certified tester used to type that result in by hand.\n\nSyncta takes the test from the phone, writes the report, bills the customer, and sends it to the utility. It charges the tester who files and the utility that receives. A technician built it for his father's testing company. Watts, which makes the valves, bought it in 2018. On an 8 February 2019 call the CEO called it a very small startup and said more than 325,000 devices were registered.\n\nOne utility's contract is a flat yearly fee plus a small amount per test. That contract is that utility's bill. Staff there also guessed what their own time on the old manual entry was worth. That guess is the utility's cost. North Andover, Massachusetts. The note has no company revenue total."
+}
