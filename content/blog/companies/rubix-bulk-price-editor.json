@@ -1,0 +1,27 @@
+{
+  "slug": "rubix-bulk-price-editor",
+  "name": "Rubix Bulk Price Editor",
+  "listingNote": null,
+  "description": "A Shopify app that edits prices, compare-at prices, and costs in bulk, schedules a sale that reverts, and edits prices by market. Rubix House, Jakarta. The photo is the first picture on the app listing. The listing has no other website.",
+  "homepage": "https://apps.shopify.com/rubix-bulk-price-editor-1",
+  "image": "/blog/2026-11-24/rubix-bulk-price-editor.webp",
+  "imageAlt": "Rubix Bulk Price Editor product image",
+  "imageWidth": 1200,
+  "imageHeight": 675,
+  "mentions": [
+    {
+      "date": "2026-11-24",
+      "evidenceKind": "shopify-verified",
+      "evidence": "MRR $3,928 from 599 active subscriptions, updated 24 November 2026. Last 30 days $3,697. All-time $29,617. The listing says it is growing 4 percent month over month. Dividing the monthly line by the subscriptions gives about $6.56 each. The Shopify listing shows plans at $7.95 a month and $9.95 a month, and those prices are the menu, not revenue. Launched 27 July 2020. Rated 4.9 from 161 reviews.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/rubix-bulk-price-editor"
+        }
+      ],
+      "indieAngle": "Hundreds of shops paying a few dollars for one job. The build is small."
+    }
+  ],
+  "whyItPrints": "A shop changes prices all the time, and doing it one product at a time is slow. The plans are $7.95 and $9.95 a month, plus a free tier.",
+  "whyThisMatters": "A Shopify shop wants to change a lot of prices at once, or run a sale that puts the old prices back when it ends. Rubix Bulk Price Editor does that. It also edits compare-at prices, costs, and prices that differ by country. Rubix House in Jakarta built it. It has been on the app store since July 2020.\n\nShopify is connected for the figure, so the monthly line is the store's number. Hundreds of shops pay. The average is only a few dollars, which fits a cheap plan plus a free tier. The plan prices are the menu. Reviews on the listing are high, from a bit over a hundred of them. The listing names no other website. The photo is the first picture on the app store page. A sale can be set to end on its own, which matters on a weekend when nobody is at the laptop."
+}

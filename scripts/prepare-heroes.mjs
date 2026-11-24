@@ -440,6 +440,14 @@ const picks = [
     license: 'CC BY 2.0',
     url: 'https://upload.wikimedia.org/wikipedia/commons/2/25/Wigwam_Pond_and_surrounding_landscape_in_Gros_Morne_National_Park.jpg',
   },
+  {
+    id: 'dove-lake',
+    subject: 'nature',
+    alt: 'Cradle Mountain across Dove Lake in Tasmania',
+    credit: 'Stevage',
+    license: 'CC BY-SA 3.0',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/7/70/Cradle_Mountain_Dove_Lake_HDR_Stevage.jpg',
+  },
 ]
 
 function filePage(imageUrl) {

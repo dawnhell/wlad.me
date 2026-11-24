@@ -1,0 +1,43 @@
+{
+  "slug": "approvalmax",
+  "name": "ApprovalMax",
+  "listingNote": null,
+  "description": "Bills, purchase orders, and sales invoices sit in an approval chain before they reach Xero, QuickBooks Online, or NetSuite. Capture reads the bill, and Pay sends the money. London. The photo is a product poster, because a cookie box covered the page.",
+  "homepage": "https://approvalmax.com/",
+  "image": "/blog/2026-11-24/approvalmax.webp",
+  "imageAlt": "ApprovalMax product image",
+  "imageWidth": 1200,
+  "imageHeight": 818,
+  "mentions": [
+    {
+      "date": "2026-11-24",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. A September 2026 post says more than 18,000 organisations on Xero in more than 100 countries, and more than 20 million bills, purchase orders, and invoices in the 12 months to July 2026, with more than 37 million approval decisions. A PDF guide adds more than 1,700 QuickBooks Online organisations. The About page says more than 20,000 businesses. On 11 November 2024 it raised £10 million from Yttrium, which a lawyer called 10 million dollars, and that money is funding, not revenue. Mountside said it had reached 16,000 customers while profitable. On 21 August 2026 it won a Xero small-business app award.",
+      "sources": [
+        {
+          "label": "Blog",
+          "url": "https://blog.approvalmax.com/what-37-million-approval-decisions-reveal-about-how-xero-businesses-control-spend-in-approvalmax"
+        },
+        {
+          "label": "Raise",
+          "url": "https://approvalmax.com/news/approvalmax-raises-10m-growth-investment"
+        },
+        {
+          "label": "Mountside",
+          "url": "https://medium.com/mountside-ventures/approvalmax-raises-10m-growth-funding-to-scale-their-automated-cfo-suite-f6ce6ebfb522"
+        },
+        {
+          "label": "About",
+          "url": "https://approvalmax.com/about"
+        },
+        {
+          "label": "Xero award",
+          "url": "https://approvalmax.com/approvalmax-wins-in-the-xero-global-app-awards-2026"
+        }
+      ],
+      "indieAngle": "The same gap sits on smaller ledgers, where approvals are still an email. iFirma is one of those ledgers."
+    }
+  ],
+  "whyItPrints": "Xero does not do a proper approval chain. An auditor wants one person to request and another to approve. Once a firm has wired a client's rules in, it stays.",
+  "whyThisMatters": "A bill arrives. Someone has to approve it before it hits the ledger. ApprovalMax puts that chain on Xero, QuickBooks Online, and NetSuite. One part reads the bill. Another sends the payment. London.\n\nXero does not give a firm a proper chain of sign-off. An auditor wants the person who asks and the person who approves to be different people. Once the rules for a client are in the tool, pulling them out means teaching the firm a new path.\n\nA September 2026 post counts organisations on Xero, and the bills and decisions that went through in the year to July. A guide adds QuickBooks Online organisations. The About page gives a larger business count. Those counts are not a revenue total. In November 2024 Yttrium put money in. The company said it had run without outside money until then. A lawyer wrote that round in dollars, and the company wrote it in pounds. Mountside said it was already profitable, with 16,000 customers. In August 2026 it won a Xero app award. The photo is a poster, because a cookie box covered the page."
+}

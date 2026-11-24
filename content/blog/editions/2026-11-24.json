@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-24",
+  "title": "Tuesday's boring SaaS, 24 November 2026",
+  "dek": "Tuesday, 24 November 2026. Conductor, BankConv, and Private Enterprise are Stripe-verified, so those listings are connected to Stripe. Rubix Bulk Price Editor is Shopify-verified, so that listing is connected to Shopify. The other five are self-reported. Several of those numbers are a filing, a sale price, or from an older quarter, so the date in the note is the date of the number.",
+  "heroId": "dove-lake",
+  "companies": [
+    {
+      "slug": "conductor",
+      "name": "Conductor",
+      "listingNote": null,
+      "description": "The QuickBooks Desktop and Enterprise API. $49 per company file per month to read and write the file over REST, Python, or Node, instead of the Web Connector and qbXML (founder-stated). Founder Danny Nemer, US, founded July 2022. The 24 November listing is still for sale. The monthly Stripe line, the last 30 days, and the all-time total are all higher than the 22 November note. The listing's 17 percent is the listing's phrase.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $51,078 from 358 active subscriptions, updated 24 November 2026. Last 30 days $50,742. All-time $552,387. The 22 November note was MRR $50,401 from 352 subscriptions, last 30 days $49,468, and all-time $549,447. The monthly line, the last 30 days, and the all-time total are all higher than that note. A 23 November check, not written up, was MRR $50,891 from 356 subscriptions, last 30 days $49,223, and all-time $550,378. The listing says it is growing 17 percent month over month. That 17 percent is the listing's phrase. The founder still says about $350,000 a year and aims for $500,000 by the end of 2026. That yearly line is the founder, not the Stripe sync. The listing still shows a 95 percent profit margin. Still listed for sale at $1,250,000.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/conductor"
+        }
+      ],
+      "homepage": "https://conductor.is/",
+      "indieAngle": "Same QuickBooks Desktop API as the earlier notes. The Stripe number moved up again, and it is still for sale.",
+      "whyItPrints": "Developers still pay so QuickBooks Desktop behaves like a normal API. The monthly line, the last 30 days, and the all-time total are all higher than the 22 November note, and the listing is still for sale.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "taxcalc",
+      "name": "TaxCalc",
+      "listingNote": null,
+      "description": "Desktop and cloud software for UK self assessment, partnership, trust, and company tax returns, plus the practice tools an accountant uses. The legal entity is Acorah Software Products Ltd, company 03948264, in Wokingham. A husband and wife founded it. They left the board on 29 October 2024, and STG Partners now owns it.",
+      "evidenceKind": "self-reported",
+      "evidence": "Turnover was £15,163,936 for the year to 31 March 2025, filed at Companies House on 18 August 2025. The year before was £13,031,306, so turnover rose 16 percent. Operating profit was £3,982,336, up from £1.85 million. Profit after tax was £3,008,063. Year-end cash was £5.315 million. The filing lists 118 employees. The same report calls retention 97 percent, the same as the year before, and names STG Partners as the new owner. A new interest charge of £1.03 million is interest, not revenue. Accounts for the year to 31 March 2026 are not due until 31 December 2026. Latka prints the same filing as about 19.4 million dollars.",
+      "sources": [
+        {
+          "label": "Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/03948264/filing-history"
+        },
+        {
+          "label": "FY2025 accounts",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/03948264/filing-history/MzQ3NzQxMzk3NGFkaXF6a2N4/document?format=pdf&download=0"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/taxcalc.com"
+        }
+      ],
+      "homepage": "https://www.taxcalc.com/",
+      "indieAngle": "A small tool that collects the client's bank, rent, and dividend figures and drops them into TaxCalc is a narrow seasonal wedge. The tax engine itself is a 118-person product.",
+      "whyItPrints": "Every year the same accountants file the same returns for the same clients. Nobody switches in the middle of the season. The company says the growth came from new customers and from selling more products to the ones it already had.",
+      "image": "/blog/2026-11-24/taxcalc.webp",
+      "imageAlt": "TaxCalc product image",
+      "imageWidth": 1200,
+      "imageHeight": 627
+    },
+    {
+      "slug": "ifirma",
+      "name": "iFirma",
+      "listingNote": null,
+      "description": "IFIRMA SA, listed in Warsaw and formerly Power Media, runs ifirma.pl from Wrocław. Sole traders get online bookkeeping, an accounting office that does the books for them, or invoicing. A small IT recruitment arm sits beside it.",
+      "evidenceKind": "self-reported",
+      "evidence": "Q3 2026 revenue was PLN 15.21 million, in the report published 6 November 2026, against PLN 14.72 million in Q3 2025. Q3 net profit was PLN 2.63 million, against PLN 2.99 million a year earlier. Nine-month revenue was PLN 48.93 million, against PLN 48.28 million. Nine-month operating profit was PLN 9.58 million, and nine-month net profit was PLN 8.07 million, against PLN 10.56 million. The ifirma.pl service was 98 percent of revenue. Profit fell because selling costs rose by PLN 2.4 million after the company spent more on marketing. Dividend advances for the first two quarters of 2026 were 68 groszy a share. Fakturownia's 2025 filing was 40.9 million zloty of revenue and 17.4 million zloty of net profit. iFirma books more and keeps less, because it also runs a staffed accounting office.",
+      "sources": [
+        {
+          "label": "Q3 2026 report",
+          "url": "https://www.ifirma.pl/wp-content/uploads/2026/11/Raport-kwartalny-6-11-2026_SAQ32026.pdf"
+        },
+        {
+          "label": "BiznesRadar",
+          "url": "https://www.biznesradar.pl/a/166890,ifirma-sa-raport-okresowy-kwartalny-3-2026-sa-q"
+        }
+      ],
+      "homepage": "https://www.ifirma.pl/",
+      "indieAngle": "The same market has dull incumbents that already make money. A narrow add-on, an e-invoice check or a ZUS reminder, can sell to their users.",
+      "whyItPrints": "A Polish sole trader has to keep books and file VAT and ZUS every month. iFirma sells the tool or does the books. It has been paying a dividend every quarter.",
+      "image": "/blog/2026-11-24/ifirma.webp",
+      "imageAlt": "iFirma product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "approvalmax",
+      "name": "ApprovalMax",
+      "listingNote": null,
+      "description": "Bills, purchase orders, and sales invoices sit in an approval chain before they reach Xero, QuickBooks Online, or NetSuite. Capture reads the bill, and Pay sends the money. London. The photo is a product poster, because a cookie box covered the page.",
+      "evidenceKind": "self-reported",
+      "evidence": "No company revenue figure. A September 2026 post says more than 18,000 organisations on Xero in more than 100 countries, and more than 20 million bills, purchase orders, and invoices in the 12 months to July 2026, with more than 37 million approval decisions. A PDF guide adds more than 1,700 QuickBooks Online organisations. The About page says more than 20,000 businesses. On 11 November 2024 it raised £10 million from Yttrium, which a lawyer called 10 million dollars, and that money is funding, not revenue. Mountside said it had reached 16,000 customers while profitable. On 21 August 2026 it won a Xero small-business app award.",
+      "sources": [
+        {
+          "label": "Blog",
+          "url": "https://blog.approvalmax.com/what-37-million-approval-decisions-reveal-about-how-xero-businesses-control-spend-in-approvalmax"
+        },
+        {
+          "label": "Raise",
+          "url": "https://approvalmax.com/news/approvalmax-raises-10m-growth-investment"
+        },
+        {
+          "label": "Mountside",
+          "url": "https://medium.com/mountside-ventures/approvalmax-raises-10m-growth-funding-to-scale-their-automated-cfo-suite-f6ce6ebfb522"
+        },
+        {
+          "label": "About",
+          "url": "https://approvalmax.com/about"
+        },
+        {
+          "label": "Xero award",
+          "url": "https://approvalmax.com/approvalmax-wins-in-the-xero-global-app-awards-2026"
+        }
+      ],
+      "homepage": "https://approvalmax.com/",
+      "indieAngle": "The same gap sits on smaller ledgers, where approvals are still an email. iFirma is one of those ledgers.",
+      "whyItPrints": "Xero does not do a proper approval chain. An auditor wants one person to request and another to approve. Once a firm has wired a client's rules in, it stays.",
+      "image": "/blog/2026-11-24/approvalmax.webp",
+      "imageAlt": "ApprovalMax product image",
+      "imageWidth": 1200,
+      "imageHeight": 818
+    },
+    {
+      "slug": "bankconv",
+      "name": "BankConv",
+      "listingNote": null,
+      "description": "Upload a PDF bank or credit card statement and get the transactions as Excel, CSV, OFX, QFX, QBO, or Google Sheets, checked against the balances on the statement. It also has an API, a Sheets add-on, and a remote connector. The price is $2.99 a statement, or $29, $49, and $79 a month. One person. Founded September 2024. The photo is the site's own share image.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $855 from 25 active subscriptions, updated 24 November 2026. Last 30 days $1,033. All-time $12,806. The founder says it is profitable, with about 1,288 people, and 48,900 pages converted across 9,300 statements. Still listed for sale at $25,000. The 17 October note on Bank Statement Converter has the founder at about $40,000 a month.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/bankconv"
+        }
+      ],
+      "homepage": "https://bankconv.com/",
+      "indieAngle": "Same job as Bank Statement Converter, at a much smaller scale, and this one is for sale. A direct push into the ledger would replace the file download.",
+      "whyItPrints": "Banks hand out PDFs. Bookkeepers need a file the ledger will take. Once the import works, they keep paying for the next statement.",
+      "image": "/blog/2026-11-24/bankconv.webp",
+      "imageAlt": "BankConv product image",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "slug": "private-enterprise",
+      "name": "Private Enterprise",
+      "listingNote": "anonymous",
+      "description": "Performance marketers buy US virtual phone numbers in bulk, then route, record, and attribute the calls, with texts on top. Billing is a prepaid wallet. The menu is 30 cents a number each month and 2 cents a minute. One person. The listing does not show a domain, so there is no homepage here.",
+      "evidenceKind": "stripe-verified",
+      "evidence": "$14,224 L30, updated 24 November 2026. All-time $96,333. The monthly line shows nothing, because customers pay from a prepaid wallet. The listing says it is growing 6 percent month over month, and it states a 75 percent margin. The founder says about $88,700 in the last 12 months, that October 2026 was 7.5 times October 2025, about 26 paying businesses, and about 2 hours a month to run. Launched June 2025. Still listed for sale at $325,000.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/private-enterprise-81"
+        }
+      ],
+      "homepage": null,
+      "indieAngle": "One person resells numbers and minutes and puts a dashboard on top. The listing says about 26 businesses are enough for the current cash.",
+      "whyItPrints": "Lead-gen agencies need a number on the ad and a record of who called. They top up a wallet, and the work is light.",
+      "image": null,
+      "imageAlt": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "slug": "rubix-bulk-price-editor",
+      "name": "Rubix Bulk Price Editor",
+      "listingNote": null,
+      "description": "A Shopify app that edits prices, compare-at prices, and costs in bulk, schedules a sale that reverts, and edits prices by market. Rubix House, Jakarta. The photo is the first picture on the app listing. The listing has no other website.",
+      "evidenceKind": "shopify-verified",
+      "evidence": "MRR $3,928 from 599 active subscriptions, updated 24 November 2026. Last 30 days $3,697. All-time $29,617. The listing says it is growing 4 percent month over month. Dividing the monthly line by the subscriptions gives about $6.56 each. The Shopify listing shows plans at $7.95 a month and $9.95 a month, and those prices are the menu, not revenue. Launched 27 July 2020. Rated 4.9 from 161 reviews.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/rubix-bulk-price-editor"
+        }
+      ],
+      "homepage": "https://apps.shopify.com/rubix-bulk-price-editor-1",
+      "indieAngle": "Hundreds of shops paying a few dollars for one job. The build is small.",
+      "whyItPrints": "A shop changes prices all the time, and doing it one product at a time is slow. The plans are $7.95 and $9.95 a month, plus a free tier.",
+      "image": "/blog/2026-11-24/rubix-bulk-price-editor.webp",
+      "imageAlt": "Rubix Bulk Price Editor product image",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "slug": "repositrak",
+      "name": "ReposiTrak",
+      "listingNote": null,
+      "description": "Grocers and wholesalers tell their suppliers to load food-safety documents, traceability data, and supply-chain data into ReposiTrak. The suppliers pay the subscription. Utah. The shares trade as TRAK. The photo is a homepage screenshot.",
+      "evidenceKind": "self-reported",
+      "evidence": "Revenue was $23,287,319 for the year ended 30 June 2026, up from $22,606,066 the year before. The filing lists 67 employees, 22 of them overseas. On the 28 September 2026 call the CFO said recurring revenue was up 4 percent, operating expenses were down 6 percent, the operating margin was about 33.7 percent, income from operations was $7.8 million, and GAAP net income was $7.6 million. The company said it had no bank debt.",
+      "sources": [
+        {
+          "label": "10-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926031392/trak20260630_10k.htm"
+        },
+        {
+          "label": "Earnings call",
+          "url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926031604/ex_1020955.htm"
+        }
+      ],
+      "homepage": "https://repositrak.com/",
+      "indieAngle": "One big buyer forces many small vendors onto a tool. You sell once to the hub and bill the spokes.",
+      "whyItPrints": "The retailer does the selling. The supplier cannot refuse if it wants to keep the account. The FDA traceability date moved to 20 July 2028, and the company says retailers are asking for the data anyway.",
+      "image": "/blog/2026-11-24/repositrak.webp",
+      "imageAlt": "ReposiTrak product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    },
+    {
+      "slug": "mind-cti",
+      "name": "MIND CTI",
+      "listingNote": null,
+      "description": "Billing and customer care for small phone and cable carriers, plus call analytics and a messaging business in Germany. About 30 years old. Israel. The shares trade as MNDO. The photo is a homepage screenshot, and a cookie bar sits at the bottom.",
+      "evidenceKind": "self-reported",
+      "evidence": "On 10 November 2026 the company reported Q3 revenue of $4.4 million. Q3 2025 was $4.8 million. Nine-month revenue was $14.1 million, down from $14.6 million. Operating cash flow over those nine months was $1.4 million. Cash was $13.7 million at 30 September 2026. The quarter showed a net loss of $2.9 million after a $3.8 million goodwill write-down that is not cash. Enghouse will pay US$1.30 a share in cash, about US$25.4 million, roughly $11.7 million above the cash, for about $19 million a year of mostly maintenance revenue, and that price is the sale, not revenue. Closing is expected in the first quarter of 2027, and the company can look for a better offer until 10 December 2026.",
+      "sources": [
+        {
+          "label": "Press release",
+          "url": "https://mindcti.com/2026/11/10/press-release-november-10-2026/"
+        },
+        {
+          "label": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/enghouse-to-acquire-mind-cti-for-254-million-in-cash-deal-93CH-5016105"
+        }
+      ],
+      "homepage": "https://mindcti.com/",
+      "indieAngle": "Shrinking software with a sticky install base still gets bought. Maintenance contracts are the floor.",
+      "whyItPrints": "Carriers do not rip out the billing system. About 95 percent of the quarter was maintenance and services. The cash still comes in, and revenue is slowly falling.",
+      "image": "/blog/2026-11-24/mind-cti.webp",
+      "imageAlt": "MIND CTI product image",
+      "imageWidth": 1200,
+      "imageHeight": 750
+    }
+  ],
+  "honorableMentions": []
+}

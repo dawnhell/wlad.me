@@ -1,0 +1,31 @@
+{
+  "slug": "repositrak",
+  "name": "ReposiTrak",
+  "listingNote": null,
+  "description": "Grocers and wholesalers tell their suppliers to load food-safety documents, traceability data, and supply-chain data into ReposiTrak. The suppliers pay the subscription. Utah. The shares trade as TRAK. The photo is a homepage screenshot.",
+  "homepage": "https://repositrak.com/",
+  "image": "/blog/2026-11-24/repositrak.webp",
+  "imageAlt": "ReposiTrak product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-24",
+      "evidenceKind": "self-reported",
+      "evidence": "Revenue was $23,287,319 for the year ended 30 June 2026, up from $22,606,066 the year before. The filing lists 67 employees, 22 of them overseas. On the 28 September 2026 call the CFO said recurring revenue was up 4 percent, operating expenses were down 6 percent, the operating margin was about 33.7 percent, income from operations was $7.8 million, and GAAP net income was $7.6 million. The company said it had no bank debt.",
+      "sources": [
+        {
+          "label": "10-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926031392/trak20260630_10k.htm"
+        },
+        {
+          "label": "Earnings call",
+          "url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926031604/ex_1020955.htm"
+        }
+      ],
+      "indieAngle": "One big buyer forces many small vendors onto a tool. You sell once to the hub and bill the spokes."
+    }
+  ],
+  "whyItPrints": "The retailer does the selling. The supplier cannot refuse if it wants to keep the account. The FDA traceability date moved to 20 July 2028, and the company says retailers are asking for the data anyway.",
+  "whyThisMatters": "A grocer tells a food supplier to upload safety documents and traceability data. ReposiTrak is where that file goes, and the supplier pays. The retailer is the hub. The suppliers are the spokes. Utah. The shares trade as TRAK.\n\nThe latest annual report is the year ended 30 June 2026. Revenue was a little higher than the year before. On the September call the finance chief said the recurring part grew, costs fell, and the operating margin got wider. Profit was up. The company said it had no bank debt. The report lists 67 employees, with some of them overseas.\n\nThe FDA moved the traceability deadline out to July 2028. The company says retailers want the data before that date anyway. A supplier still cannot skip the portal if the grocer requires it. The network also takes supply-chain data, not only the safety certificate. The supplier pays the subscription either way."
+}

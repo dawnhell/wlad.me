@@ -5,7 +5,14 @@
     <link>https://www.wlad.me/blog</link>
     <description>Dated revenue notes on software products, written by Wlad.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 10:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:43:11 GMT</lastBuildDate>
+    <item>
+      <title>Tuesday's boring SaaS, 24 November 2026</title>
+      <link>https://www.wlad.me/blog/2026-11-24</link>
+      <guid isPermaLink="true">https://www.wlad.me/blog/2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Tuesday, 24 November 2026. Conductor, BankConv, and Private Enterprise are Stripe-verified, so those listings are connected to Stripe. Rubix Bulk Price Editor is Shopify-verified, so that listing is connected to Shopify. The other five are self-reported. Several of those numbers are a filing, a sale price, or from an older quarter, so the date in the note is the date of the number.</description>
+    </item>
     <item>
       <title>Sunday's boring SaaS, 22 November 2026</title>
       <link>https://www.wlad.me/blog/2026-11-22</link>

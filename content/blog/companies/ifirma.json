@@ -1,0 +1,31 @@
+{
+  "slug": "ifirma",
+  "name": "iFirma",
+  "listingNote": null,
+  "description": "IFIRMA SA, listed in Warsaw and formerly Power Media, runs ifirma.pl from Wrocław. Sole traders get online bookkeeping, an accounting office that does the books for them, or invoicing. A small IT recruitment arm sits beside it.",
+  "homepage": "https://www.ifirma.pl/",
+  "image": "/blog/2026-11-24/ifirma.webp",
+  "imageAlt": "iFirma product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-24",
+      "evidenceKind": "self-reported",
+      "evidence": "Q3 2026 revenue was PLN 15.21 million, in the report published 6 November 2026, against PLN 14.72 million in Q3 2025. Q3 net profit was PLN 2.63 million, against PLN 2.99 million a year earlier. Nine-month revenue was PLN 48.93 million, against PLN 48.28 million. Nine-month operating profit was PLN 9.58 million, and nine-month net profit was PLN 8.07 million, against PLN 10.56 million. The ifirma.pl service was 98 percent of revenue. Profit fell because selling costs rose by PLN 2.4 million after the company spent more on marketing. Dividend advances for the first two quarters of 2026 were 68 groszy a share. Fakturownia's 2025 filing was 40.9 million zloty of revenue and 17.4 million zloty of net profit. iFirma books more and keeps less, because it also runs a staffed accounting office.",
+      "sources": [
+        {
+          "label": "Q3 2026 report",
+          "url": "https://www.ifirma.pl/wp-content/uploads/2026/11/Raport-kwartalny-6-11-2026_SAQ32026.pdf"
+        },
+        {
+          "label": "BiznesRadar",
+          "url": "https://www.biznesradar.pl/a/166890,ifirma-sa-raport-okresowy-kwartalny-3-2026-sa-q"
+        }
+      ],
+      "indieAngle": "The same market has dull incumbents that already make money. A narrow add-on, an e-invoice check or a ZUS reminder, can sell to their users."
+    }
+  ],
+  "whyItPrints": "A Polish sole trader has to keep books and file VAT and ZUS every month. iFirma sells the tool or does the books. It has been paying a dividend every quarter.",
+  "whyThisMatters": "A Polish sole trader has to keep books and file VAT and social insurance every month. iFirma, from Wrocław, sells the software or does the books. Invoicing is a third product. The listed company is IFIRMA SA, once called Power Media. A small recruitment arm sits beside the accounting.\n\nThe quarterly report published 6 November 2026 covers the third quarter. Revenue was a little higher than the same quarter a year earlier. Profit was lower, because selling costs jumped after a fresh push on ads. Almost all of the revenue is the ifirma.pl service. It paid a dividend advance for each of the first two quarters, a few dozen groszy a share.\n\nFakturownia's filing for 2025 booked less revenue and kept more of the profit. iFirma keeps less because people on the payroll do the books. That is a staffed office, not only a login. The shares trade in Warsaw."
+}

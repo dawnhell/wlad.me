@@ -1,0 +1,31 @@
+{
+  "slug": "mind-cti",
+  "name": "MIND CTI",
+  "listingNote": null,
+  "description": "Billing and customer care for small phone and cable carriers, plus call analytics and a messaging business in Germany. About 30 years old. Israel. The shares trade as MNDO. The photo is a homepage screenshot, and a cookie bar sits at the bottom.",
+  "homepage": "https://mindcti.com/",
+  "image": "/blog/2026-11-24/mind-cti.webp",
+  "imageAlt": "MIND CTI product image",
+  "imageWidth": 1200,
+  "imageHeight": 750,
+  "mentions": [
+    {
+      "date": "2026-11-24",
+      "evidenceKind": "self-reported",
+      "evidence": "On 10 November 2026 the company reported Q3 revenue of $4.4 million. Q3 2025 was $4.8 million. Nine-month revenue was $14.1 million, down from $14.6 million. Operating cash flow over those nine months was $1.4 million. Cash was $13.7 million at 30 September 2026. The quarter showed a net loss of $2.9 million after a $3.8 million goodwill write-down that is not cash. Enghouse will pay US$1.30 a share in cash, about US$25.4 million, roughly $11.7 million above the cash, for about $19 million a year of mostly maintenance revenue, and that price is the sale, not revenue. Closing is expected in the first quarter of 2027, and the company can look for a better offer until 10 December 2026.",
+      "sources": [
+        {
+          "label": "Press release",
+          "url": "https://mindcti.com/2026/11/10/press-release-november-10-2026/"
+        },
+        {
+          "label": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/enghouse-to-acquire-mind-cti-for-254-million-in-cash-deal-93CH-5016105"
+        }
+      ],
+      "indieAngle": "Shrinking software with a sticky install base still gets bought. Maintenance contracts are the floor."
+    }
+  ],
+  "whyItPrints": "Carriers do not rip out the billing system. About 95 percent of the quarter was maintenance and services. The cash still comes in, and revenue is slowly falling.",
+  "whyThisMatters": "MIND CTI sells billing and customer care to small phone and cable carriers. It also sells call analytics, and it runs a messaging business in Germany. The company is about 30 years old. Israel. The shares trade as MNDO.\n\nCarriers do not swap the system that sends the bill. Almost all of the latest quarter was maintenance and services. Revenue is down a little from the year before, for the quarter and for the nine months. Cash still came in from operations. The loss in the quarter is mostly a goodwill write-down, which does not take cash out of the bank. At the end of September the company was holding a large cash balance.\n\nEnghouse has agreed to buy the shares for cash. That offer is the sale, not a year of revenue. Closing is expected early in 2027. Until 10 December 2026 the company can look for a better offer. The photo has a cookie bar along the bottom."
+}

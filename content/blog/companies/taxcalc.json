@@ -1,0 +1,35 @@
+{
+  "slug": "taxcalc",
+  "name": "TaxCalc",
+  "listingNote": null,
+  "description": "Desktop and cloud software for UK self assessment, partnership, trust, and company tax returns, plus the practice tools an accountant uses. The legal entity is Acorah Software Products Ltd, company 03948264, in Wokingham. A husband and wife founded it. They left the board on 29 October 2024, and STG Partners now owns it.",
+  "homepage": "https://www.taxcalc.com/",
+  "image": "/blog/2026-11-24/taxcalc.webp",
+  "imageAlt": "TaxCalc product image",
+  "imageWidth": 1200,
+  "imageHeight": 627,
+  "mentions": [
+    {
+      "date": "2026-11-24",
+      "evidenceKind": "self-reported",
+      "evidence": "Turnover was £15,163,936 for the year to 31 March 2025, filed at Companies House on 18 August 2025. The year before was £13,031,306, so turnover rose 16 percent. Operating profit was £3,982,336, up from £1.85 million. Profit after tax was £3,008,063. Year-end cash was £5.315 million. The filing lists 118 employees. The same report calls retention 97 percent, the same as the year before, and names STG Partners as the new owner. A new interest charge of £1.03 million is interest, not revenue. Accounts for the year to 31 March 2026 are not due until 31 December 2026. Latka prints the same filing as about 19.4 million dollars.",
+      "sources": [
+        {
+          "label": "Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/03948264/filing-history"
+        },
+        {
+          "label": "FY2025 accounts",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/03948264/filing-history/MzQ3NzQxMzk3NGFkaXF6a2N4/document?format=pdf&download=0"
+        },
+        {
+          "label": "Latka",
+          "url": "https://getlatka.com/companies/taxcalc.com"
+        }
+      ],
+      "indieAngle": "A small tool that collects the client's bank, rent, and dividend figures and drops them into TaxCalc is a narrow seasonal wedge. The tax engine itself is a 118-person product."
+    }
+  ],
+  "whyItPrints": "Every year the same accountants file the same returns for the same clients. Nobody switches in the middle of the season. The company says the growth came from new customers and from selling more products to the ones it already had.",
+  "whyThisMatters": "Accountants in the UK file the same self assessment, partnership, trust, and company returns every year. TaxCalc is the package on the desk, and the practice tools around it. The company behind it is Acorah Software Products Ltd, in Wokingham.\n\nA season is a bad time to switch. The clients are already in last year's file. The company says the extra money came from new customers and from selling more products to the ones it already had. It calls retention 97 percent, the same as the year before.\n\nA husband and wife founded it. They left the board on 29 October 2024. STG Partners owns it now. The latest accounts run to 31 March 2025, and they were filed in August 2025. The next set is not due until the end of 2026. A new interest line showed up after the ownership change. That line is interest. Latka reprints the same filing in dollars. The accounts list 118 employees and the cash sitting there at year end."
+}

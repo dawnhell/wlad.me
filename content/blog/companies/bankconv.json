@@ -1,0 +1,27 @@
+{
+  "slug": "bankconv",
+  "name": "BankConv",
+  "listingNote": null,
+  "description": "Upload a PDF bank or credit card statement and get the transactions as Excel, CSV, OFX, QFX, QBO, or Google Sheets, checked against the balances on the statement. It also has an API, a Sheets add-on, and a remote connector. The price is $2.99 a statement, or $29, $49, and $79 a month. One person. Founded September 2024. The photo is the site's own share image.",
+  "homepage": "https://bankconv.com/",
+  "image": "/blog/2026-11-24/bankconv.webp",
+  "imageAlt": "BankConv product image",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "mentions": [
+    {
+      "date": "2026-11-24",
+      "evidenceKind": "stripe-verified",
+      "evidence": "MRR $855 from 25 active subscriptions, updated 24 November 2026. Last 30 days $1,033. All-time $12,806. The founder says it is profitable, with about 1,288 people, and 48,900 pages converted across 9,300 statements. Still listed for sale at $25,000. The 17 October note on Bank Statement Converter has the founder at about $40,000 a month.",
+      "sources": [
+        {
+          "label": "TrustMRR",
+          "url": "https://trustmrr.com/startup/bankconv"
+        }
+      ],
+      "indieAngle": "Same job as Bank Statement Converter, at a much smaller scale, and this one is for sale. A direct push into the ledger would replace the file download."
+    }
+  ],
+  "whyItPrints": "Banks hand out PDFs. Bookkeepers need a file the ledger will take. Once the import works, they keep paying for the next statement.",
+  "whyThisMatters": "A bookkeeper has a PDF bank statement. The ledger wants rows. BankConv reads the PDF, checks the transactions against the balances printed on it, and hands back Excel, CSV, or a QuickBooks file. There is an API, a spreadsheet add-on, and a remote connector. One person has run it since September 2024.\n\nYou can pay per statement, or take a monthly plan. Stripe is connected, so the cash on the listing is the processor's number. The last 30 days sit a bit above the monthly line. The founder says the margin is high and the running costs are tiny. He also counts pages and statements converted since launch. The business is listed for sale.\n\nBank Statement Converter does the same job and is much further along. That earlier note is the founder's own claim about the bigger product. This one is the small copy, with a price on the business itself."
+}

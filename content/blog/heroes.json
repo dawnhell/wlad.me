@@ -592,5 +592,16 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Wigwam_Pond_and_surrounding_landscape_in_Gros_Morne_National_Park.jpg",
     "license": "CC BY 2.0",
     "subject": "nature"
+  },
+  {
+    "id": "dove-lake",
+    "src": "/blog/heroes/dove-lake.webp",
+    "alt": "Cradle Mountain across Dove Lake in Tasmania",
+    "width": 1440,
+    "height": 955,
+    "credit": "Stevage",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Cradle_Mountain_Dove_Lake_HDR_Stevage.jpg",
+    "license": "CC BY-SA 3.0",
+    "subject": "nature"
   }
 ]
